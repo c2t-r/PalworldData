@@ -3,256 +3,256 @@
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Alpaca_TextData",
-            "SourceString": "\u30e1\u30eb\u30d1\u30ab",
-            "LocalizedString": "\u30e1\u30eb\u30d1\u30ab"
+            "SourceString": "メルパカ",
+            "LocalizedString": "メルパカ"
         }
     },
     "PAL_NAME_AmaterasuWolf": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_AmaterasuWolf_TextData",
-            "SourceString": "\u30b7\u30e9\u30cc\u30a4",
-            "LocalizedString": "\u30b7\u30e9\u30cc\u30a4"
+            "SourceString": "シラヌイ",
+            "LocalizedString": "シラヌイ"
         }
     },
     "PAL_NAME_Anubis": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Anubis_TextData",
-            "SourceString": "\u30a2\u30cc\u30d3\u30b9",
-            "LocalizedString": "\u30a2\u30cc\u30d3\u30b9"
+            "SourceString": "アヌビス",
+            "LocalizedString": "アヌビス"
         }
     },
     "PAL_NAME_BadCatgirl": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BadCatgirl_TextData",
-            "SourceString": "\u30c0\u30e1\u30c0\u30cd\u30b3",
-            "LocalizedString": "\u30c0\u30e1\u30c0\u30cd\u30b3"
+            "SourceString": "ダメダネコ",
+            "LocalizedString": "ダメダネコ"
         }
     },
     "PAL_NAME_Baphomet": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Baphomet_TextData",
-            "SourceString": "\u30d8\u30eb\u30b4\u30fc\u30c8",
-            "LocalizedString": "\u30d8\u30eb\u30b4\u30fc\u30c8"
+            "SourceString": "ヘルゴート",
+            "LocalizedString": "ヘルゴート"
         }
     },
     "PAL_NAME_Baphomet_Dark": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Baphomet_Dark_TextData",
-            "SourceString": "\u30a2\u30d3\u30b9\u30b4\u30fc\u30c8",
-            "LocalizedString": "\u30a2\u30d3\u30b9\u30b4\u30fc\u30c8"
+            "SourceString": "アビスゴート",
+            "LocalizedString": "アビスゴート"
         }
     },
     "PAL_NAME_Bastet": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Bastet_TextData",
-            "SourceString": "\u30cb\u30e3\u30aa\u30c6\u30c8",
-            "LocalizedString": "\u30cb\u30e3\u30aa\u30c6\u30c8"
+            "SourceString": "ニャオテト",
+            "LocalizedString": "ニャオテト"
         }
     },
     "PAL_NAME_Bastet_Ice": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Bastet_Ice_TextData",
-            "SourceString": "\u30c1\u30eb\u30c6\u30c8",
-            "LocalizedString": "\u30c1\u30eb\u30c6\u30c8"
+            "SourceString": "チルテト",
+            "LocalizedString": "チルテト"
         }
     },
     "PAL_NAME_BeardedDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BeardedDragon_TextData",
-            "SourceString": "\u30a8\u30f3\u30b7\u30e5\u30ed\u30f3",
-            "LocalizedString": "\u30a8\u30f3\u30b7\u30e5\u30ed\u30f3"
+            "SourceString": "エンシュロン",
+            "LocalizedString": "エンシュロン"
         }
     },
     "PAL_NAME_BerryGoat": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BerryGoat_TextData",
-            "SourceString": "\u30d9\u30ea\u30b4\u30fc\u30c8",
-            "LocalizedString": "\u30d9\u30ea\u30b4\u30fc\u30c8"
+            "SourceString": "ベリゴート",
+            "LocalizedString": "ベリゴート"
         }
     },
     "PAL_NAME_BirdDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BirdDragon_TextData",
-            "SourceString": "\u30ab\u30d0\u30cd\u30c9\u30ea",
-            "LocalizedString": "\u30ab\u30d0\u30cd\u30c9\u30ea"
+            "SourceString": "カバネドリ",
+            "LocalizedString": "カバネドリ"
         }
     },
     "PAL_NAME_BirdDragon_Ice": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BirdDragon_Ice_TextData",
-            "SourceString": "\u30b7\u30ed\u30ab\u30d0\u30cd",
-            "LocalizedString": "\u30b7\u30ed\u30ab\u30d0\u30cd"
+            "SourceString": "シロカバネ",
+            "LocalizedString": "シロカバネ"
         }
     },
     "PAL_NAME_BlackCentaur": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BlackCentaur_TextData",
-            "SourceString": "\u30d9\u30a4\u30f3\u30c8\u30fc\u30eb",
-            "LocalizedString": "\u30d9\u30a4\u30f3\u30c8\u30fc\u30eb"
+            "SourceString": "ベイントール",
+            "LocalizedString": "ベイントール"
         }
     },
     "PAL_NAME_BlackFurDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BlackFurDragon_TextData",
-            "SourceString": "\u30b7\u30e3\u30c9\u30fc\u30e9",
-            "LocalizedString": "\u30b7\u30e3\u30c9\u30fc\u30e9"
+            "SourceString": "シャドーラ",
+            "LocalizedString": "シャドーラ"
         }
     },
     "PAL_NAME_BlackGriffon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BlackGriffon_TextData",
-            "SourceString": "\u30bc\u30ce\u30b0\u30ea\u30d5",
-            "LocalizedString": "\u30bc\u30ce\u30b0\u30ea\u30d5"
+            "SourceString": "ゼノグリフ",
+            "LocalizedString": "ゼノグリフ"
         }
     },
     "PAL_NAME_BlackMetalDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BlackMetalDragon_TextData",
-            "SourceString": "\u30b8\u30aa\u30e9\u30fc\u30f4\u30a1",
-            "LocalizedString": "\u30b8\u30aa\u30e9\u30fc\u30f4\u30a1"
+            "SourceString": "ジオラーヴァ",
+            "LocalizedString": "ジオラーヴァ"
         }
     },
     "PAL_NAME_BlueberryFairy": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BlueberryFairy_TextData",
-            "SourceString": "\u30d7\u30e9\u30e0\u30eb\u30ea\u30e0",
-            "LocalizedString": "\u30d7\u30e9\u30e0\u30eb\u30ea\u30e0"
+            "SourceString": "プラムルリム",
+            "LocalizedString": "プラムルリム"
         }
     },
     "PAL_NAME_BlueDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BlueDragon_TextData",
-            "SourceString": "\u30a2\u30ba\u30ec\u30fc\u30f3",
-            "LocalizedString": "\u30a2\u30ba\u30ec\u30fc\u30f3"
+            "SourceString": "アズレーン",
+            "LocalizedString": "アズレーン"
         }
     },
     "PAL_NAME_BluePlatypus": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BluePlatypus_TextData",
-            "SourceString": "\u30ab\u30e2\u30ce\u30b9\u30b1",
-            "LocalizedString": "\u30ab\u30e2\u30ce\u30b9\u30b1"
+            "SourceString": "カモノスケ",
+            "LocalizedString": "カモノスケ"
         }
     },
     "PAL_NAME_Boar": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Boar_TextData",
-            "SourceString": "\u30a4\u30ce\u30dc\u30a6",
-            "LocalizedString": "\u30a4\u30ce\u30dc\u30a6"
+            "SourceString": "イノボウ",
+            "LocalizedString": "イノボウ"
         }
     },
     "PAL_NAME_BrownRabbit": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_BrownRabbit_TextData",
-            "SourceString": "\u30d5\u30e9\u30d3\u30c3\u30c8",
-            "LocalizedString": "\u30d5\u30e9\u30d3\u30c3\u30c8"
+            "SourceString": "フラビット",
+            "LocalizedString": "フラビット"
         }
     },
     "PAL_NAME_CaptainPenguin": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_CaptainPenguin_TextData",
-            "SourceString": "\u30ad\u30e3\u30d7\u30da\u30f3",
-            "LocalizedString": "\u30ad\u30e3\u30d7\u30da\u30f3"
+            "SourceString": "キャプペン",
+            "LocalizedString": "キャプペン"
         }
     },
     "PAL_NAME_Carbunclo": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Carbunclo_TextData",
-            "SourceString": "\u30af\u30eb\u30ea\u30b9",
-            "LocalizedString": "\u30af\u30eb\u30ea\u30b9"
+            "SourceString": "クルリス",
+            "LocalizedString": "クルリス"
         }
     },
     "PAL_NAME_CatBat": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_CatBat_TextData",
-            "SourceString": "\u30cb\u30e3\u30f3\u30d0\u30c3\u30c8",
-            "LocalizedString": "\u30cb\u30e3\u30f3\u30d0\u30c3\u30c8"
+            "SourceString": "ニャンバット",
+            "LocalizedString": "ニャンバット"
         }
     },
     "PAL_NAME_CatMage": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_CatMage_TextData",
-            "SourceString": "\u30af\u30ec\u30e1\u30fc\u30aa",
-            "LocalizedString": "\u30af\u30ec\u30e1\u30fc\u30aa"
+            "SourceString": "クレメーオ",
+            "LocalizedString": "クレメーオ"
         }
     },
     "PAL_NAME_CatVampire": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_CatVampire_TextData",
-            "SourceString": "\u30e4\u30df\u30c8\u30d0\u30ea",
-            "LocalizedString": "\u30e4\u30df\u30c8\u30d0\u30ea"
+            "SourceString": "ヤミトバリ",
+            "LocalizedString": "ヤミトバリ"
         }
     },
     "PAL_NAME_ChickenPal": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_ChickenPal_TextData",
-            "SourceString": "\u30bf\u30de\u30b3\u30c3\u30b3",
-            "LocalizedString": "\u30bf\u30de\u30b3\u30c3\u30b3"
+            "SourceString": "タマコッコ",
+            "LocalizedString": "タマコッコ"
         }
     },
     "PAL_NAME_ColorfulBird": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_ColorfulBird_TextData",
-            "SourceString": "\u30af\u30eb\u30c3\u30c8\u30ea",
-            "LocalizedString": "\u30af\u30eb\u30c3\u30c8\u30ea"
+            "SourceString": "クルットリ",
+            "LocalizedString": "クルットリ"
         }
     },
     "PAL_NAME_CowPal": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_CowPal_TextData",
-            "SourceString": "\u30df\u30eb\u30ab\u30eb\u30d3",
-            "LocalizedString": "\u30df\u30eb\u30ab\u30eb\u30d3"
+            "SourceString": "ミルカルビ",
+            "LocalizedString": "ミルカルビ"
         }
     },
     "PAL_NAME_CuteButterfly": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_CuteButterfly_TextData",
-            "SourceString": "\u30d1\u30d4\u30c6\u30d5",
-            "LocalizedString": "\u30d1\u30d4\u30c6\u30d5"
+            "SourceString": "パピテフ",
+            "LocalizedString": "パピテフ"
         }
     },
     "PAL_NAME_CuteFox": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_CuteFox_TextData",
-            "SourceString": "\u30bf\u30de\u30e2",
-            "LocalizedString": "\u30bf\u30de\u30e2"
+            "SourceString": "タマモ",
+            "LocalizedString": "タマモ"
         }
     },
     "PAL_NAME_CuteMole": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_CuteMole_TextData",
-            "SourceString": "\u30e2\u30b0\u30eb\u30f3",
-            "LocalizedString": "\u30e2\u30b0\u30eb\u30f3"
+            "SourceString": "モグルン",
+            "LocalizedString": "モグルン"
         }
     },
     "PAL_NAME_DarkAlien": {
@@ -267,8 +267,8 @@
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_DarkCrow_TextData",
-            "SourceString": "\u30de\u30b9\u30af\u30ed\u30a6",
-            "LocalizedString": "\u30de\u30b9\u30af\u30ed\u30a6"
+            "SourceString": "マスクロウ",
+            "LocalizedString": "マスクロウ"
         }
     },
     "PAL_NAME_DarkMechaDragon": {
@@ -283,592 +283,592 @@
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_DarkMutant_TextData",
-            "SourceString": "\u30c0\u30af\u30cd\u30b7\u30b9",
-            "LocalizedString": "\u30c0\u30af\u30cd\u30b7\u30b9"
+            "SourceString": "ダクネシス",
+            "LocalizedString": "ダクネシス"
         }
     },
     "PAL_NAME_DarkScorpion": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_DarkScorpion_TextData",
-            "SourceString": "\u30c7\u30b9\u30c6\u30a3\u30f3\u30b0",
-            "LocalizedString": "\u30c7\u30b9\u30c6\u30a3\u30f3\u30b0"
+            "SourceString": "デスティング",
+            "LocalizedString": "デスティング"
         }
     },
     "PAL_NAME_Deer": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Deer_TextData",
-            "SourceString": "\u30c4\u30ce\u30ac\u30df",
-            "LocalizedString": "\u30c4\u30ce\u30ac\u30df"
+            "SourceString": "ツノガミ",
+            "LocalizedString": "ツノガミ"
         }
     },
     "PAL_NAME_Deer_Ground": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Deer_Ground_TextData",
-            "SourceString": "\u30e4\u30de\u30ac\u30df",
-            "LocalizedString": "\u30e4\u30de\u30ac\u30df"
+            "SourceString": "ヤマガミ",
+            "LocalizedString": "ヤマガミ"
         }
     },
     "PAL_NAME_DreamDemon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_DreamDemon_TextData",
-            "SourceString": "\u30cd\u30e0\u30e9\u30e0",
-            "LocalizedString": "\u30cd\u30e0\u30e9\u30e0"
+            "SourceString": "ネムラム",
+            "LocalizedString": "ネムラム"
         }
     },
     "PAL_NAME_DrillGame": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_DrillGame_TextData",
-            "SourceString": "\u30c9\u30ea\u30bf\u30b9",
-            "LocalizedString": "\u30c9\u30ea\u30bf\u30b9"
+            "SourceString": "ドリタス",
+            "LocalizedString": "ドリタス"
         }
     },
     "PAL_NAME_Eagle": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Eagle_TextData",
-            "SourceString": "\u30a8\u30a2\u30e0\u30eb\u30b0",
-            "LocalizedString": "\u30a8\u30a2\u30e0\u30eb\u30b0"
+            "SourceString": "エアムルグ",
+            "LocalizedString": "エアムルグ"
         }
     },
     "PAL_NAME_ElecCat": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_ElecCat_TextData",
-            "SourceString": "\u30dc\u30eb\u30c8\u30e9",
-            "LocalizedString": "\u30dc\u30eb\u30c8\u30e9"
+            "SourceString": "ボルトラ",
+            "LocalizedString": "ボルトラ"
         }
     },
     "PAL_NAME_ElecLion": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_ElecLion_TextData",
-            "SourceString": "\u30ea\u30aa\u30b5\u30fc\u30b8",
-            "LocalizedString": "\u30ea\u30aa\u30b5\u30fc\u30b8"
+            "SourceString": "リオサージ",
+            "LocalizedString": "リオサージ"
         }
     },
     "PAL_NAME_ElecPanda": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_ElecPanda_TextData",
-            "SourceString": "\u30a8\u30ec\u30d1\u30f3\u30c0",
-            "LocalizedString": "\u30a8\u30ec\u30d1\u30f3\u30c0"
+            "SourceString": "エレパンダ",
+            "LocalizedString": "エレパンダ"
         }
     },
     "PAL_NAME_FairyDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FairyDragon_TextData",
-            "SourceString": "\u30b7\u30eb\u30d5\u30a3\u30a2",
-            "LocalizedString": "\u30b7\u30eb\u30d5\u30a3\u30a2"
+            "SourceString": "シルフィア",
+            "LocalizedString": "シルフィア"
         }
     },
     "PAL_NAME_FairyDragon_Water": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FairyDragon_Water_TextData",
-            "SourceString": "\u30b7\u30eb\u30c6\u30a3\u30a2",
-            "LocalizedString": "\u30b7\u30eb\u30c6\u30a3\u30a2"
+            "SourceString": "シルティア",
+            "LocalizedString": "シルティア"
         }
     },
     "PAL_NAME_FeatherOstrich": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FeatherOstrich_TextData",
-            "SourceString": "\u30be\u30af\u30c1\u30e7\u30a6",
-            "LocalizedString": "\u30be\u30af\u30c1\u30e7\u30a6"
+            "SourceString": "ゾクチョウ",
+            "LocalizedString": "ゾクチョウ"
         }
     },
     "PAL_NAME_FengyunDeeper": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FengyunDeeper_TextData",
-            "SourceString": "\u30e0\u30e9\u30af\u30e2",
-            "LocalizedString": "\u30e0\u30e9\u30af\u30e2"
+            "SourceString": "ムラクモ",
+            "LocalizedString": "ムラクモ"
         }
     },
     "PAL_NAME_FireKirin": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FireKirin_TextData",
-            "SourceString": "\u30b5\u30e9\u30d6\u30ec\u30a4\u30ba",
-            "LocalizedString": "\u30b5\u30e9\u30d6\u30ec\u30a4\u30ba"
+            "SourceString": "サラブレイズ",
+            "LocalizedString": "サラブレイズ"
         }
     },
     "PAL_NAME_FireKirin_Dark": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FireKirin_Dark_TextData",
-            "SourceString": "\u30b5\u30e9\u30d6\u30e9\u30c3\u30af",
-            "LocalizedString": "\u30b5\u30e9\u30d6\u30e9\u30c3\u30af"
+            "SourceString": "サラブラック",
+            "LocalizedString": "サラブラック"
         }
     },
     "PAL_NAME_FlameBambi": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FlameBambi_TextData",
-            "SourceString": "\u30d2\u30ce\u30b3\u30b8\u30ab",
-            "LocalizedString": "\u30d2\u30ce\u30b3\u30b8\u30ab"
+            "SourceString": "ヒノコジカ",
+            "LocalizedString": "ヒノコジカ"
         }
     },
     "PAL_NAME_FlameBuffalo": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FlameBuffalo_TextData",
-            "SourceString": "\u30d6\u30eb\u30d5\u30a7\u30eb\u30ce",
-            "LocalizedString": "\u30d6\u30eb\u30d5\u30a7\u30eb\u30ce"
+            "SourceString": "ブルフェルノ",
+            "LocalizedString": "ブルフェルノ"
         }
     },
     "PAL_NAME_FlowerDinosaur": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FlowerDinosaur_TextData",
-            "SourceString": "\u30a2\u30ed\u30a2\u30ea\u30e5\u30fc",
-            "LocalizedString": "\u30a2\u30ed\u30a2\u30ea\u30e5\u30fc"
+            "SourceString": "アロアリュー",
+            "LocalizedString": "アロアリュー"
         }
     },
     "PAL_NAME_FlowerDinosaur_Electric": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FlowerDinosaur_Electric_TextData",
-            "SourceString": "\u30d3\u30ea\u30d3\u30ea\u30e5\u30fc",
-            "LocalizedString": "\u30d3\u30ea\u30d3\u30ea\u30e5\u30fc"
+            "SourceString": "ビリビリュー",
+            "LocalizedString": "ビリビリュー"
         }
     },
     "PAL_NAME_FlowerDoll": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FlowerDoll_TextData",
-            "SourceString": "\u30d5\u30e9\u30ea\u30fc\u30ca",
-            "LocalizedString": "\u30d5\u30e9\u30ea\u30fc\u30ca"
+            "SourceString": "フラリーナ",
+            "LocalizedString": "フラリーナ"
         }
     },
     "PAL_NAME_FlowerRabbit": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FlowerRabbit_TextData",
-            "SourceString": "\u30dd\u30d7\u30ea\u30fc\u30ca",
-            "LocalizedString": "\u30dd\u30d7\u30ea\u30fc\u30ca"
+            "SourceString": "ポプリーナ",
+            "LocalizedString": "ポプリーナ"
         }
     },
     "PAL_NAME_FlyingManta": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FlyingManta_TextData",
-            "SourceString": "\u30eb\u30df\u30ab\u30a4\u30c8",
-            "LocalizedString": "\u30eb\u30df\u30ab\u30a4\u30c8"
+            "SourceString": "ルミカイト",
+            "LocalizedString": "ルミカイト"
         }
     },
     "PAL_NAME_FoxMage": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_FoxMage_TextData",
-            "SourceString": "\u30d5\u30a9\u30ec\u30fc\u30ca",
-            "LocalizedString": "\u30d5\u30a9\u30ec\u30fc\u30ca"
+            "SourceString": "フォレーナ",
+            "LocalizedString": "フォレーナ"
         }
     },
     "PAL_NAME_Ganesha": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Ganesha_TextData",
-            "SourceString": "\u30c1\u30e7\u30ed\u30be\u30a6",
-            "LocalizedString": "\u30c1\u30e7\u30ed\u30be\u30a6"
+            "SourceString": "チョロゾウ",
+            "LocalizedString": "チョロゾウ"
         }
     },
     "PAL_NAME_Garm": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Garm_TextData",
-            "SourceString": "\u30ac\u30a6\u30eb\u30d5",
-            "LocalizedString": "\u30ac\u30a6\u30eb\u30d5"
+            "SourceString": "ガウルフ",
+            "LocalizedString": "ガウルフ"
         }
     },
     "PAL_NAME_GhostBeast": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GhostBeast_TextData",
-            "SourceString": "\u30bd\u30eb\u30ec\u30a4\u30b9",
-            "LocalizedString": "\u30bd\u30eb\u30ec\u30a4\u30b9"
+            "SourceString": "ソルレイス",
+            "LocalizedString": "ソルレイス"
         }
     },
     "PAL_NAME_GhostRabbit": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GhostRabbit_TextData",
-            "SourceString": "\u30e9\u30d3\u30e2\u30a2\u30fc\u30eb",
-            "LocalizedString": "\u30e9\u30d3\u30e2\u30a2\u30fc\u30eb"
+            "SourceString": "ラビモアール",
+            "LocalizedString": "ラビモアール"
         }
     },
     "PAL_NAME_GoldenHorse": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GoldenHorse_TextData",
-            "SourceString": "\u30b3\u30a6\u30aa\u30a6",
-            "LocalizedString": "\u30b3\u30a6\u30aa\u30a6"
+            "SourceString": "コウオウ",
+            "LocalizedString": "コウオウ"
         }
     },
     "PAL_NAME_Gorilla": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Gorilla_TextData",
-            "SourceString": "\u30b4\u30ea\u30ec\u30a4\u30b8",
-            "LocalizedString": "\u30b4\u30ea\u30ec\u30a4\u30b8"
+            "SourceString": "ゴリレイジ",
+            "LocalizedString": "ゴリレイジ"
         }
     },
     "PAL_NAME_GrassDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GrassDragon_TextData",
-            "SourceString": "\u30b8\u30e3\u30f3\u30b0\u30ed\u30f3",
-            "LocalizedString": "\u30b8\u30e3\u30f3\u30b0\u30ed\u30f3"
+            "SourceString": "ジャングロン",
+            "LocalizedString": "ジャングロン"
         }
     },
     "PAL_NAME_GrassMammoth": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GrassMammoth_TextData",
-            "SourceString": "\u30b0\u30e9\u30f3\u30e2\u30b9",
-            "LocalizedString": "\u30b0\u30e9\u30f3\u30e2\u30b9"
+            "SourceString": "グランモス",
+            "LocalizedString": "グランモス"
         }
     },
     "PAL_NAME_GrassMammoth_Ice": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GrassMammoth_Ice_TextData",
-            "SourceString": "\u30d6\u30ea\u30b6\u30e2\u30b9",
-            "LocalizedString": "\u30d6\u30ea\u30b6\u30e2\u30b9"
+            "SourceString": "ブリザモス",
+            "LocalizedString": "ブリザモス"
         }
     },
     "PAL_NAME_GrassPanda": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GrassPanda_TextData",
-            "SourceString": "\u30b5\u30b5\u30be\u30fc",
-            "LocalizedString": "\u30b5\u30b5\u30be\u30fc"
+            "SourceString": "ササゾー",
+            "LocalizedString": "ササゾー"
         }
     },
     "PAL_NAME_GrassPanda_Electric": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GrassPanda_Electric_TextData",
-            "SourceString": "\u30e9\u30a4\u30be\u30fc",
-            "LocalizedString": "\u30e9\u30a4\u30be\u30fc"
+            "SourceString": "ライゾー",
+            "LocalizedString": "ライゾー"
         }
     },
     "PAL_NAME_GrassRabbitMan": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GrassRabbitMan_TextData",
-            "SourceString": "\u30e9\u30d9\u30ed\u30c3\u30c8",
-            "LocalizedString": "\u30e9\u30d9\u30ed\u30c3\u30c8"
+            "SourceString": "ラベロット",
+            "LocalizedString": "ラベロット"
         }
     },
     "PAL_NAME_GuardianDog": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GuardianDog_TextData",
-            "SourceString": "\u30e4\u30af\u30e2\u30b4\u30de",
-            "LocalizedString": "\u30e4\u30af\u30e2\u30b4\u30de"
+            "SourceString": "ヤクモゴマ",
+            "LocalizedString": "ヤクモゴマ"
         }
     },
     "PAL_NAME_HadesBird": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_HadesBird_TextData",
-            "SourceString": "\u30d8\u30eb\u30ac\u30eb\u30c0",
-            "LocalizedString": "\u30d8\u30eb\u30ac\u30eb\u30c0"
+            "SourceString": "ヘルガルダ",
+            "LocalizedString": "ヘルガルダ"
         }
     },
     "PAL_NAME_HawkBird": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_HawkBird_TextData",
-            "SourceString": "\u30db\u30fc\u30af\u30a6\u30a3\u30f3",
-            "LocalizedString": "\u30db\u30fc\u30af\u30a6\u30a3\u30f3"
+            "SourceString": "ホークウィン",
+            "LocalizedString": "ホークウィン"
         }
     },
     "PAL_NAME_Hedgehog": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Hedgehog_TextData",
-            "SourceString": "\u30d1\u30c1\u30b0\u30ea",
-            "LocalizedString": "\u30d1\u30c1\u30b0\u30ea"
+            "SourceString": "パチグリ",
+            "LocalizedString": "パチグリ"
         }
     },
     "PAL_NAME_Hedgehog_Ice": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Hedgehog_Ice_TextData",
-            "SourceString": "\u30b3\u30c1\u30b0\u30ea",
-            "LocalizedString": "\u30b3\u30c1\u30b0\u30ea"
+            "SourceString": "コチグリ",
+            "LocalizedString": "コチグリ"
         }
     },
     "PAL_NAME_HerculesBeetle": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_HerculesBeetle_TextData",
-            "SourceString": "\u30b0\u30e9\u30af\u30ec\u30b9",
-            "LocalizedString": "\u30b0\u30e9\u30af\u30ec\u30b9"
+            "SourceString": "グラクレス",
+            "LocalizedString": "グラクレス"
         }
     },
     "PAL_NAME_Horus": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Horus_TextData",
-            "SourceString": "\u30db\u30eb\u30b9",
-            "LocalizedString": "\u30db\u30eb\u30b9"
+            "SourceString": "ホルス",
+            "LocalizedString": "ホルス"
         }
     },
     "PAL_NAME_IceDeer": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_IceDeer_TextData",
-            "SourceString": "\u30c4\u30e9\u30e9\u30b8\u30ab",
-            "LocalizedString": "\u30c4\u30e9\u30e9\u30b8\u30ab"
+            "SourceString": "ツララジカ",
+            "LocalizedString": "ツララジカ"
         }
     },
     "PAL_NAME_IceFox": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_IceFox_TextData",
-            "SourceString": "\u30d5\u30d6\u30ad\u30c4\u30cd",
-            "LocalizedString": "\u30d5\u30d6\u30ad\u30c4\u30cd"
+            "SourceString": "フブキツネ",
+            "LocalizedString": "フブキツネ"
         }
     },
     "PAL_NAME_IceHorse": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_IceHorse_TextData",
-            "SourceString": "\u30b0\u30ec\u30a4\u30b7\u30e3\u30eb",
-            "LocalizedString": "\u30b0\u30ec\u30a4\u30b7\u30e3\u30eb"
+            "SourceString": "グレイシャル",
+            "LocalizedString": "グレイシャル"
         }
     },
     "PAL_NAME_IceHorse_Dark": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_IceHorse_Dark_TextData",
-            "SourceString": "\u30b0\u30ec\u30a4\u30b7\u30e3\u30c9\u30a6",
-            "LocalizedString": "\u30b0\u30ec\u30a4\u30b7\u30e3\u30c9\u30a6"
+            "SourceString": "グレイシャドウ",
+            "LocalizedString": "グレイシャドウ"
         }
     },
     "PAL_NAME_JetDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_JetDragon_TextData",
-            "SourceString": "\u30b8\u30a7\u30c3\u30c9\u30e9\u30f3",
-            "LocalizedString": "\u30b8\u30a7\u30c3\u30c9\u30e9\u30f3"
+            "SourceString": "ジェッドラン",
+            "LocalizedString": "ジェッドラン"
         }
     },
     "PAL_NAME_Kelpie": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Kelpie_TextData",
-            "SourceString": "\u30b1\u30eb\u30d4\u30b9",
-            "LocalizedString": "\u30b1\u30eb\u30d4\u30b9"
+            "SourceString": "ケルピス",
+            "LocalizedString": "ケルピス"
         }
     },
     "PAL_NAME_Kelpie_Fire": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Kelpie_Fire_TextData",
-            "SourceString": "\u30de\u30b0\u30d4\u30b9",
-            "LocalizedString": "\u30de\u30b0\u30d4\u30b9"
+            "SourceString": "マグピス",
+            "LocalizedString": "マグピス"
         }
     },
     "PAL_NAME_KingAlpaca": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_KingAlpaca_TextData",
-            "SourceString": "\u30a2\u30eb\u30d1\u30aa\u30fc",
-            "LocalizedString": "\u30a2\u30eb\u30d1\u30aa\u30fc"
+            "SourceString": "アルパオー",
+            "LocalizedString": "アルパオー"
         }
     },
     "PAL_NAME_KingAlpaca_Ice": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_KingAlpaca_Ice_TextData",
-            "SourceString": "\u30a2\u30aa\u30d1\u30aa\u30fc",
-            "LocalizedString": "\u30a2\u30aa\u30d1\u30aa\u30fc"
+            "SourceString": "アオパオー",
+            "LocalizedString": "アオパオー"
         }
     },
     "PAL_NAME_KingBahamut": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_KingBahamut_TextData",
-            "SourceString": "\u30dc\u30eb\u30ab\u30a4\u30b6\u30fc",
-            "LocalizedString": "\u30dc\u30eb\u30ab\u30a4\u30b6\u30fc"
+            "SourceString": "ボルカイザー",
+            "LocalizedString": "ボルカイザー"
         }
     },
     "PAL_NAME_Kirin": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Kirin_TextData",
-            "SourceString": "\u30e9\u30a4\u30b3\u30fc\u30f3",
-            "LocalizedString": "\u30e9\u30a4\u30b3\u30fc\u30f3"
+            "SourceString": "ライコーン",
+            "LocalizedString": "ライコーン"
         }
     },
     "PAL_NAME_Kitsunebi": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Kitsunebi_TextData",
-            "SourceString": "\u30ad\u30c4\u30cd\u30d3",
-            "LocalizedString": "\u30ad\u30c4\u30cd\u30d3"
+            "SourceString": "キツネビ",
+            "LocalizedString": "キツネビ"
         }
     },
     "PAL_NAME_LavaGirl": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_LavaGirl_TextData",
-            "SourceString": "\u30e9\u30f4\u30a3",
-            "LocalizedString": "\u30e9\u30f4\u30a3"
+            "SourceString": "ラヴィ",
+            "LocalizedString": "ラヴィ"
         }
     },
     "PAL_NAME_LazyCatfish": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_LazyCatfish_TextData",
-            "SourceString": "\u30c8\u30c9\u30c9\u30c9\u30f3",
-            "LocalizedString": "\u30c8\u30c9\u30c9\u30c9\u30f3"
+            "SourceString": "トドドドン",
+            "LocalizedString": "トドドドン"
         }
     },
     "PAL_NAME_LazyDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_LazyDragon_TextData",
-            "SourceString": "\u30da\u30b3\u30c9\u30f3",
-            "LocalizedString": "\u30da\u30b3\u30c9\u30f3"
+            "SourceString": "ペコドン",
+            "LocalizedString": "ペコドン"
         }
     },
     "PAL_NAME_LazyDragon_Electric": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_LazyDragon_Electric_TextData",
-            "SourceString": "\u30d1\u30ea\u30d4\u30c9\u30f3",
-            "LocalizedString": "\u30d1\u30ea\u30d4\u30c9\u30f3"
+            "SourceString": "パリピドン",
+            "LocalizedString": "パリピドン"
         }
     },
     "PAL_NAME_LeafPrincess": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_LeafPrincess_TextData",
-            "SourceString": "\u30cf\u30ca\u30b6\u30ab\u30ea",
-            "LocalizedString": "\u30cf\u30ca\u30b6\u30ab\u30ea"
+            "SourceString": "ハナザカリ",
+            "LocalizedString": "ハナザカリ"
         }
     },
     "PAL_NAME_LilyQueen": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_LilyQueen_TextData",
-            "SourceString": "\u30ea\u30ea\u30af\u30a4\u30f3",
-            "LocalizedString": "\u30ea\u30ea\u30af\u30a4\u30f3"
+            "SourceString": "リリクイン",
+            "LocalizedString": "リリクイン"
         }
     },
     "PAL_NAME_LilyQueen_Dark": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_LilyQueen_Dark_TextData",
-            "SourceString": "\u30eb\u30ca\u30af\u30a4\u30f3",
-            "LocalizedString": "\u30eb\u30ca\u30af\u30a4\u30f3"
+            "SourceString": "ルナクイン",
+            "LocalizedString": "ルナクイン"
         }
     },
     "PAL_NAME_LittleBriarRose": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_LittleBriarRose_TextData",
-            "SourceString": "\u30a4\u30d0\u30e9\u30d2\u30e1",
-            "LocalizedString": "\u30a4\u30d0\u30e9\u30d2\u30e1"
+            "SourceString": "イバラヒメ",
+            "LocalizedString": "イバラヒメ"
         }
     },
     "PAL_NAME_LizardMan": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_LizardMan_TextData",
-            "SourceString": "\u30c0\u30ea\u30b6\u30fc\u30c9",
-            "LocalizedString": "\u30c0\u30ea\u30b6\u30fc\u30c9"
+            "SourceString": "ダリザード",
+            "LocalizedString": "ダリザード"
         }
     },
     "PAL_NAME_LizardMan_Fire": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_LizardMan_Fire_TextData",
-            "SourceString": "\u30c1\u30ea\u30b6\u30fc\u30c9",
-            "LocalizedString": "\u30c1\u30ea\u30b6\u30fc\u30c9"
+            "SourceString": "チリザード",
+            "LocalizedString": "チリザード"
         }
     },
     "PAL_NAME_Manticore": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Manticore_TextData",
-            "SourceString": "\u30b4\u30af\u30a8\u30f3\u30aa",
-            "LocalizedString": "\u30b4\u30af\u30a8\u30f3\u30aa"
+            "SourceString": "ゴクエンオ",
+            "LocalizedString": "ゴクエンオ"
         }
     },
     "PAL_NAME_Manticore_Dark": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Manticore_Dark_TextData",
-            "SourceString": "\u30b7\u30f3\u30a8\u30f3\u30aa",
-            "LocalizedString": "\u30b7\u30f3\u30a8\u30f3\u30aa"
+            "SourceString": "シンエンオ",
+            "LocalizedString": "シンエンオ"
         }
     },
     "PAL_NAME_Monkey": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Monkey_TextData",
-            "SourceString": "\u30a8\u30c6\u30c3\u30d1",
-            "LocalizedString": "\u30a8\u30c6\u30c3\u30d1"
+            "SourceString": "エテッパ",
+            "LocalizedString": "エテッパ"
         }
     },
     "PAL_NAME_MopBaby": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_MopBaby_TextData",
-            "SourceString": "\u30b3\u30e2\u30c3\u30d7",
-            "LocalizedString": "\u30b3\u30e2\u30c3\u30d7"
+            "SourceString": "コモップ",
+            "LocalizedString": "コモップ"
         }
     },
     "PAL_NAME_MopKing": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_MopKing_TextData",
-            "SourceString": "\u30c9\u30f3\u30e2\u30c3\u30d7",
-            "LocalizedString": "\u30c9\u30f3\u30e2\u30c3\u30d7"
+            "SourceString": "ドンモップ",
+            "LocalizedString": "ドンモップ"
         }
     },
     "PAL_NAME_Mutant": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Mutant_TextData",
-            "SourceString": "\u30df\u30b9\u30c6\u30ea\u30a2",
-            "LocalizedString": "\u30df\u30b9\u30c6\u30ea\u30a2"
+            "SourceString": "ミステリア",
+            "LocalizedString": "ミステリア"
         }
     },
     "PAL_NAME_NaughtyCat": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_NaughtyCat_TextData",
-            "SourceString": "\u30cb\u30e3\u30f3\u30ae\u30de\u30ea",
-            "LocalizedString": "\u30cb\u30e3\u30f3\u30ae\u30de\u30ea"
+            "SourceString": "ニャンギマリ",
+            "LocalizedString": "ニャンギマリ"
         }
     },
     "PAL_NAME_NegativeKoala": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_NegativeKoala_TextData",
-            "SourceString": "\u30f3\u30c0\u30b3\u30a2\u30e9",
-            "LocalizedString": "\u30f3\u30c0\u30b3\u30a2\u30e9"
+            "SourceString": "ンダコアラ",
+            "LocalizedString": "ンダコアラ"
         }
     },
     "PAL_NAME_NegativeOctopus": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_NegativeOctopus_TextData",
-            "SourceString": "\u30e4\u30df\u30a4\u30ab",
-            "LocalizedString": "\u30e4\u30df\u30a4\u30ab"
+            "SourceString": "ヤミイカ",
+            "LocalizedString": "ヤミイカ"
         }
     },
     "PAL_NAME_NightBlueHorse": {
@@ -883,448 +883,448 @@
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_NightFox_TextData",
-            "SourceString": "\u30eb\u30ca\u30c6\u30a3",
-            "LocalizedString": "\u30eb\u30ca\u30c6\u30a3"
+            "SourceString": "ルナティ",
+            "LocalizedString": "ルナティ"
         }
     },
     "PAL_NAME_NightLady": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_NightLady_TextData",
-            "SourceString": "\u30c6\u30ea\u30d5\u30a1\u30fc\u30ca",
-            "LocalizedString": "\u30c6\u30ea\u30d5\u30a1\u30fc\u30ca"
+            "SourceString": "テリファーナ",
+            "LocalizedString": "テリファーナ"
         }
     },
     "PAL_NAME_Penguin": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Penguin_TextData",
-            "SourceString": "\u30da\u30f3\u30bf\u30de",
-            "LocalizedString": "\u30da\u30f3\u30bf\u30de"
+            "SourceString": "ペンタマ",
+            "LocalizedString": "ペンタマ"
         }
     },
     "PAL_NAME_PinkCat": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_PinkCat_TextData",
-            "SourceString": "\u30c4\u30c3\u30d1\u30cb\u30e3\u30f3",
-            "LocalizedString": "\u30c4\u30c3\u30d1\u30cb\u30e3\u30f3"
+            "SourceString": "ツッパニャン",
+            "LocalizedString": "ツッパニャン"
         }
     },
     "PAL_NAME_PinkKangaroo": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_PinkKangaroo_TextData",
-            "SourceString": "\u30c8\u30a5\u30a4\u30f3\u30ac\u30eb",
-            "LocalizedString": "\u30c8\u30a5\u30a4\u30f3\u30ac\u30eb"
+            "SourceString": "トゥインガル",
+            "LocalizedString": "トゥインガル"
         }
     },
     "PAL_NAME_PinkLizard": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_PinkLizard_TextData",
-            "SourceString": "\u30e9\u30d6\u30de\u30f3\u30c0\u30fc",
-            "LocalizedString": "\u30e9\u30d6\u30de\u30f3\u30c0\u30fc"
+            "SourceString": "ラブマンダー",
+            "LocalizedString": "ラブマンダー"
         }
     },
     "PAL_NAME_PinkRabbit": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_PinkRabbit_TextData",
-            "SourceString": "\u30d2\u30e1\u30a6\u30b5",
-            "LocalizedString": "\u30d2\u30e1\u30a6\u30b5"
+            "SourceString": "ヒメウサ",
+            "LocalizedString": "ヒメウサ"
         }
     },
     "PAL_NAME_PlantSlime": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_PlantSlime_TextData",
-            "SourceString": "\u30ca\u30a8\u30e2\u30c1",
-            "LocalizedString": "\u30ca\u30a8\u30e2\u30c1"
+            "SourceString": "ナエモチ",
+            "LocalizedString": "ナエモチ"
         }
     },
     "PAL_NAME_QueenBee": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_QueenBee_TextData",
-            "SourceString": "\u30af\u30a4\u30f3\u30d3\u30fc\u30ca",
-            "LocalizedString": "\u30af\u30a4\u30f3\u30d3\u30fc\u30ca"
+            "SourceString": "クインビーナ",
+            "LocalizedString": "クインビーナ"
         }
     },
     "PAL_NAME_RaijinDaughter": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_RaijinDaughter_TextData",
-            "SourceString": "\u30ab\u30df\u30ca\u30e9\u30b7",
-            "LocalizedString": "\u30ab\u30df\u30ca\u30e9\u30b7"
+            "SourceString": "カミナラシ",
+            "LocalizedString": "カミナラシ"
         }
     },
     "PAL_NAME_RedArmorBird": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_RedArmorBird_TextData",
-            "SourceString": "\u30a4\u30b0\u30cb\u30af\u30b9",
-            "LocalizedString": "\u30a4\u30b0\u30cb\u30af\u30b9"
+            "SourceString": "イグニクス",
+            "LocalizedString": "イグニクス"
         }
     },
     "PAL_NAME_RobinHood": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_RobinHood_TextData",
-            "SourceString": "\u30d5\u30a7\u30b6\u30fc\u30ed",
-            "LocalizedString": "\u30d5\u30a7\u30b6\u30fc\u30ed"
+            "SourceString": "フェザーロ",
+            "LocalizedString": "フェザーロ"
         }
     },
     "PAL_NAME_RobinHood_Ground": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_RobinHood_Ground_TextData",
-            "SourceString": "\u30b5\u30f3\u30c9\u30ed",
-            "LocalizedString": "\u30b5\u30f3\u30c9\u30ed"
+            "SourceString": "サンドロ",
+            "LocalizedString": "サンドロ"
         }
     },
     "PAL_NAME_Ronin": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Ronin_TextData",
-            "SourceString": "\u30c4\u30b8\u30ae\u30ea",
-            "LocalizedString": "\u30c4\u30b8\u30ae\u30ea"
+            "SourceString": "ツジギリ",
+            "LocalizedString": "ツジギリ"
         }
     },
     "PAL_NAME_SaintCentaur": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SaintCentaur_TextData",
-            "SourceString": "\u30bb\u30a4\u30f3\u30c8\u30fc\u30eb",
-            "LocalizedString": "\u30bb\u30a4\u30f3\u30c8\u30fc\u30eb"
+            "SourceString": "セイントール",
+            "LocalizedString": "セイントール"
         }
     },
     "PAL_NAME_SakuraSaurus": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SakuraSaurus_TextData",
-            "SourceString": "\u30e9\u30d6\u30e9\u30c9\u30f3",
-            "LocalizedString": "\u30e9\u30d6\u30e9\u30c9\u30f3"
+            "SourceString": "ラブラドン",
+            "LocalizedString": "ラブラドン"
         }
     },
     "PAL_NAME_SakuraSaurus_Water": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SakuraSaurus_Water_TextData",
-            "SourceString": "\u30b9\u30d7\u30e9\u30c9\u30f3",
-            "LocalizedString": "\u30b9\u30d7\u30e9\u30c9\u30f3"
+            "SourceString": "スプラドン",
+            "LocalizedString": "スプラドン"
         }
     },
     "PAL_NAME_ScorpionMan": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_ScorpionMan_TextData",
-            "SourceString": "\u30c9\u30d6\u30b9\u30bf\u30fc",
-            "LocalizedString": "\u30c9\u30d6\u30b9\u30bf\u30fc"
+            "SourceString": "ドブスター",
+            "LocalizedString": "ドブスター"
         }
     },
     "PAL_NAME_Serpent": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Serpent_TextData",
-            "SourceString": "\u30b7\u30fc\u30da\u30f3\u30c8",
-            "LocalizedString": "\u30b7\u30fc\u30da\u30f3\u30c8"
+            "SourceString": "シーペント",
+            "LocalizedString": "シーペント"
         }
     },
     "PAL_NAME_Serpent_Ground": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Serpent_Ground_TextData",
-            "SourceString": "\u30b9\u30ca\u30da\u30f3\u30c8",
-            "LocalizedString": "\u30b9\u30ca\u30da\u30f3\u30c8"
+            "SourceString": "スナペント",
+            "LocalizedString": "スナペント"
         }
     },
     "PAL_NAME_SharkKid": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SharkKid_TextData",
-            "SourceString": "\u30b7\u30e3\u30fc\u30ad\u30c3\u30c9",
-            "LocalizedString": "\u30b7\u30e3\u30fc\u30ad\u30c3\u30c9"
+            "SourceString": "シャーキッド",
+            "LocalizedString": "シャーキッド"
         }
     },
     "PAL_NAME_SharkKid_Fire": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SharkKid_Fire_TextData",
-            "SourceString": "\u30b7\u30e3\u30fc\u30de\u30f3\u30c0\u30fc",
-            "LocalizedString": "\u30b7\u30e3\u30fc\u30de\u30f3\u30c0\u30fc"
+            "SourceString": "シャーマンダー",
+            "LocalizedString": "シャーマンダー"
         }
     },
     "PAL_NAME_SheepBall": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SheepBall_TextData",
-            "SourceString": "\u30e2\u30b3\u30ed\u30f3",
-            "LocalizedString": "\u30e2\u30b3\u30ed\u30f3"
+            "SourceString": "モコロン",
+            "LocalizedString": "モコロン"
         }
     },
     "PAL_NAME_SifuDog": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SifuDog_TextData",
-            "SourceString": "\u30b7\u30cf\u30f3\u30d5\u30fc",
-            "LocalizedString": "\u30b7\u30cf\u30f3\u30d5\u30fc"
+            "SourceString": "シハンフー",
+            "LocalizedString": "シハンフー"
         }
     },
     "PAL_NAME_SkyDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SkyDragon_TextData",
-            "SourceString": "\u30d5\u30a7\u30b9\u30ad\u30fc",
-            "LocalizedString": "\u30d5\u30a7\u30b9\u30ad\u30fc"
+            "SourceString": "フェスキー",
+            "LocalizedString": "フェスキー"
         }
     },
     "PAL_NAME_SoldierBee": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SoldierBee_TextData",
-            "SourceString": "\u30d3\u30fc\u30ca\u30a4\u30c8",
-            "LocalizedString": "\u30d3\u30fc\u30ca\u30a4\u30c8"
+            "SourceString": "ビーナイト",
+            "LocalizedString": "ビーナイト"
         }
     },
     "PAL_NAME_Suzaku": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Suzaku_TextData",
-            "SourceString": "\u30b9\u30b6\u30af",
-            "LocalizedString": "\u30b9\u30b6\u30af"
+            "SourceString": "スザク",
+            "LocalizedString": "スザク"
         }
     },
     "PAL_NAME_Suzaku_Water": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Suzaku_Water_TextData",
-            "SourceString": "\u30b7\u30f4\u30a1",
-            "LocalizedString": "\u30b7\u30f4\u30a1"
+            "SourceString": "シヴァ",
+            "LocalizedString": "シヴァ"
         }
     },
     "PAL_NAME_SweetsSheep": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SweetsSheep_TextData",
-            "SourceString": "\u30e1\u30ea\u30dd\u30c3\u30d7",
-            "LocalizedString": "\u30e1\u30ea\u30dd\u30c3\u30d7"
+            "SourceString": "メリポップ",
+            "LocalizedString": "メリポップ"
         }
     },
     "PAL_NAME_TentacleTurtle": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_TentacleTurtle_TextData",
-            "SourceString": "\u30bf\u30fc\u30c6\u30af\u30eb",
-            "LocalizedString": "\u30bf\u30fc\u30c6\u30af\u30eb"
+            "SourceString": "ターテクル",
+            "LocalizedString": "ターテクル"
         }
     },
     "PAL_NAME_ThunderBird": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_ThunderBird_TextData",
-            "SourceString": "\u30e9\u30a4\u30d0\u30fc\u30c9",
-            "LocalizedString": "\u30e9\u30a4\u30d0\u30fc\u30c9"
+            "SourceString": "ライバード",
+            "LocalizedString": "ライバード"
         }
     },
     "PAL_NAME_ThunderDog": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_ThunderDog_TextData",
-            "SourceString": "\u30a4\u30cc\u30ba\u30de",
-            "LocalizedString": "\u30a4\u30cc\u30ba\u30de"
+            "SourceString": "イヌズマ",
+            "LocalizedString": "イヌズマ"
         }
     },
     "PAL_NAME_ThunderDragonMan": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_ThunderDragonMan_TextData",
-            "SourceString": "\u30dc\u30eb\u30bc\u30af\u30b9",
-            "LocalizedString": "\u30dc\u30eb\u30bc\u30af\u30b9"
+            "SourceString": "ボルゼクス",
+            "LocalizedString": "ボルゼクス"
         }
     },
     "PAL_NAME_Umihebi": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Umihebi_TextData",
-            "SourceString": "\u30ec\u30f4\u30a3\u30c9\u30e9",
-            "LocalizedString": "\u30ec\u30f4\u30a3\u30c9\u30e9"
+            "SourceString": "レヴィドラ",
+            "LocalizedString": "レヴィドラ"
         }
     },
     "PAL_NAME_Umihebi_Fire": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Umihebi_Fire_TextData",
-            "SourceString": "\u30a2\u30b0\u30cb\u30c9\u30e9",
-            "LocalizedString": "\u30a2\u30b0\u30cb\u30c9\u30e9"
+            "SourceString": "アグニドラ",
+            "LocalizedString": "アグニドラ"
         }
     },
     "PAL_NAME_VioletFairy": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_VioletFairy_TextData",
-            "SourceString": "\u30f4\u30a3\u30aa\u30ec\u30c3\u30bf",
-            "LocalizedString": "\u30f4\u30a3\u30aa\u30ec\u30c3\u30bf"
+            "SourceString": "ヴィオレッタ",
+            "LocalizedString": "ヴィオレッタ"
         }
     },
     "PAL_NAME_VolcanicMonster": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_VolcanicMonster_TextData",
-            "SourceString": "\u30dc\u30eb\u30ab\u30ce\u30f3",
-            "LocalizedString": "\u30dc\u30eb\u30ab\u30ce\u30f3"
+            "SourceString": "ボルカノン",
+            "LocalizedString": "ボルカノン"
         }
     },
     "PAL_NAME_VolcanicMonster_Ice": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_VolcanicMonster_Ice_TextData",
-            "SourceString": "\u30d5\u30ed\u30b9\u30ab\u30ce\u30f3",
-            "LocalizedString": "\u30d5\u30ed\u30b9\u30ab\u30ce\u30f3"
+            "SourceString": "フロスカノン",
+            "LocalizedString": "フロスカノン"
         }
     },
     "PAL_NAME_VolcanoDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_VolcanoDragon_TextData",
-            "SourceString": "\u30e9\u30f4\u30a7\u30a2\u30fc\u30b9",
-            "LocalizedString": "\u30e9\u30f4\u30a7\u30a2\u30fc\u30b9"
+            "SourceString": "ラヴェアース",
+            "LocalizedString": "ラヴェアース"
         }
     },
     "PAL_NAME_WaterLizard": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_WaterLizard_TextData",
-            "SourceString": "\u30aa\u30ad\u30b7\u30ea\u30e5\u30fc",
-            "LocalizedString": "\u30aa\u30ad\u30b7\u30ea\u30e5\u30fc"
+            "SourceString": "オキシリュー",
+            "LocalizedString": "オキシリュー"
         }
     },
     "PAL_NAME_WeaselDragon": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_WeaselDragon_TextData",
-            "SourceString": "\u30aa\u30b3\u30c1\u30e7",
-            "LocalizedString": "\u30aa\u30b3\u30c1\u30e7"
+            "SourceString": "オコチョ",
+            "LocalizedString": "オコチョ"
         }
     },
     "PAL_NAME_Werewolf": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Werewolf_TextData",
-            "SourceString": "\u30c4\u30ad\u30ab\u30b2",
-            "LocalizedString": "\u30c4\u30ad\u30ab\u30b2"
+            "SourceString": "ツキカゲ",
+            "LocalizedString": "ツキカゲ"
         }
     },
     "PAL_NAME_WhiteMoth": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_WhiteMoth_TextData",
-            "SourceString": "\u30b7\u30eb\u30ad\u30fc\u30cc",
-            "LocalizedString": "\u30b7\u30eb\u30ad\u30fc\u30cc"
+            "SourceString": "シルキーヌ",
+            "LocalizedString": "シルキーヌ"
         }
     },
     "PAL_NAME_WhiteTiger": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_WhiteTiger_TextData",
-            "SourceString": "\u30c4\u30f3\u30c9\u30e9\u30fc",
-            "LocalizedString": "\u30c4\u30f3\u30c9\u30e9\u30fc"
+            "SourceString": "ツンドラー",
+            "LocalizedString": "ツンドラー"
         }
     },
     "PAL_NAME_Windchimes": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Windchimes_TextData",
-            "SourceString": "\u30b7\u30e1\u30ca\u30ef",
-            "LocalizedString": "\u30b7\u30e1\u30ca\u30ef"
+            "SourceString": "シメナワ",
+            "LocalizedString": "シメナワ"
         }
     },
     "PAL_NAME_Windchimes_Ice": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Windchimes_Ice_TextData",
-            "SourceString": "\u30aa\u30d0\u30b1\u30ca\u30ef",
-            "LocalizedString": "\u30aa\u30d0\u30b1\u30ca\u30ef"
+            "SourceString": "オバケナワ",
+            "LocalizedString": "オバケナワ"
         }
     },
     "PAL_NAME_WingGolem": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_WingGolem_TextData",
-            "SourceString": "\u30b4\u30a6\u30b8\u30f3\u30aa\u30fc",
-            "LocalizedString": "\u30b4\u30a6\u30b8\u30f3\u30aa\u30fc"
+            "SourceString": "ゴウジンオー",
+            "LocalizedString": "ゴウジンオー"
         }
     },
     "PAL_NAME_WizardOwl": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_WizardOwl_TextData",
-            "SourceString": "\u30db\u30a6\u30ed\u30c3\u30af",
-            "LocalizedString": "\u30db\u30a6\u30ed\u30c3\u30af"
+            "SourceString": "ホウロック",
+            "LocalizedString": "ホウロック"
         }
     },
     "PAL_NAME_WoolFox": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_WoolFox_TextData",
-            "SourceString": "\u30df\u30eb\u30d5\u30a3\u30fc",
-            "LocalizedString": "\u30df\u30eb\u30d5\u30a3\u30fc"
+            "SourceString": "ミルフィー",
+            "LocalizedString": "ミルフィー"
         }
     },
     "PAL_NAME_Yeti": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Yeti_TextData",
-            "SourceString": "\u30d2\u30a8\u30c6\u30a3",
-            "LocalizedString": "\u30d2\u30a8\u30c6\u30a3"
+            "SourceString": "ヒエティ",
+            "LocalizedString": "ヒエティ"
         }
     },
     "PAL_NAME_Yeti_Grass": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_Yeti_Grass_TextData",
-            "SourceString": "\u30c8\u30ed\u30d4\u30c6\u30a3",
-            "LocalizedString": "\u30c8\u30ed\u30d4\u30c6\u30a3"
+            "SourceString": "トロピティ",
+            "LocalizedString": "トロピティ"
         }
     },
     "PAL_NAME_GrassBoss": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_GrassBoss_TextData",
-            "SourceString": "\u30be\u30fc\u30a4\uff06\u30a8\u30ec\u30d1\u30f3\u30c0",
-            "LocalizedString": "\u30be\u30fc\u30a4\uff06\u30a8\u30ec\u30d1\u30f3\u30c0"
+            "SourceString": "ゾーイ＆エレパンダ",
+            "LocalizedString": "ゾーイ＆エレパンダ"
         }
     },
     "PAL_NAME_ForestBoss": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_ForestBoss_TextData",
-            "SourceString": "\u30ea\u30ea\u30a3\uff06\u30ea\u30ea\u30af\u30a4\u30f3",
-            "LocalizedString": "\u30ea\u30ea\u30a3\uff06\u30ea\u30ea\u30af\u30a4\u30f3"
+            "SourceString": "リリィ＆リリクイン",
+            "LocalizedString": "リリィ＆リリクイン"
         }
     },
     "PAL_NAME_DessertBoss": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_DessertBoss_TextData",
-            "SourceString": "\u30de\u30fc\u30ab\u30b9\uff06\u30db\u30eb\u30b9",
-            "LocalizedString": "\u30de\u30fc\u30ab\u30b9\uff06\u30db\u30eb\u30b9"
+            "SourceString": "マーカス＆ホルス",
+            "LocalizedString": "マーカス＆ホルス"
         }
     },
     "PAL_NAME_VolcanoBoss": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_VolcanoBoss_TextData",
-            "SourceString": "\u30a2\u30af\u30bb\u30eb\uff06\u30dc\u30eb\u30bc\u30af\u30b9",
-            "LocalizedString": "\u30a2\u30af\u30bb\u30eb\uff06\u30dc\u30eb\u30bc\u30af\u30b9"
+            "SourceString": "アクセル＆ボルゼクス",
+            "LocalizedString": "アクセル＆ボルゼクス"
         }
     },
     "PAL_NAME_SnowBoss": {
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_SnowBoss_TextData",
-            "SourceString": "\u30f4\u30a3\u30af\u30bf\u30fc\uff06\u30bc\u30ce\u30b0\u30ea\u30d5",
-            "LocalizedString": "\u30f4\u30a3\u30af\u30bf\u30fc\uff06\u30bc\u30ce\u30b0\u30ea\u30d5"
+            "SourceString": "ヴィクター＆ゼノグリフ",
+            "LocalizedString": "ヴィクター＆ゼノグリフ"
         }
     }
 }

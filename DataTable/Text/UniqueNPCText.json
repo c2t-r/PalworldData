@@ -3,24 +3,24 @@
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "NAME_JOHNSON_TextData",
-            "SourceString": "\u30b8\u30e7\u30f3\u30bd\u30f3",
-            "LocalizedString": "\u30b8\u30e7\u30f3\u30bd\u30f3"
+            "SourceString": "ジョンソン",
+            "LocalizedString": "ジョンソン"
         }
     },
     "NAME_BOBBY": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "NAME_BOBBY_TextData",
-            "SourceString": "\u30dc\u30d3\u30fc",
-            "LocalizedString": "\u30dc\u30d3\u30fc"
+            "SourceString": "ボビー",
+            "LocalizedString": "ボビー"
         }
     },
     "NAME_UNIQUE002": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "NAME_UNIQUE002_TextData",
-            "SourceString": "\u30e6\u30cb\u30fc\u30afNPC\u30c6\u30b9\u30c8",
-            "LocalizedString": "\u30e6\u30cb\u30fc\u30afNPC\u30c6\u30b9\u30c8"
+            "SourceString": "ユニークNPCテスト",
+            "LocalizedString": "ユニークNPCテスト"
         }
     },
     "NAME_C": {
@@ -75,104 +75,104 @@
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "NAME_VILLAGELEADER01_TextData",
-            "SourceString": "\u6751\u9577",
-            "LocalizedString": "\u6751\u9577"
+            "SourceString": "村長",
+            "LocalizedString": "村長"
         }
     },
     "NAME_NOVICEPALTIMER": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "NAME_NOVICEPALTIMER_TextData",
-            "SourceString": "\u63a2\u691c\u968a\u306e\u751f\u304d\u6b8b\u308a",
-            "LocalizedString": "\u63a2\u691c\u968a\u306e\u751f\u304d\u6b8b\u308a"
+            "SourceString": "探検隊の生き残り",
+            "LocalizedString": "探検隊の生き残り"
         }
     },
     "Vigilante_lackey": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "Vigilante_lackey_TextData",
-            "SourceString": "\u81ea\u8b66\u56e3\u306e\u3057\u305f\u3063\u3071",
-            "LocalizedString": "\u81ea\u8b66\u56e3\u306e\u3057\u305f\u3063\u3071"
+            "SourceString": "自警団のしたっぱ",
+            "LocalizedString": "自警団のしたっぱ"
         }
     },
     "Head_of_Village": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "Head_of_Village_TextData",
-            "SourceString": "\u96c6\u843d\u306e\u9577",
-            "LocalizedString": "\u96c6\u843d\u306e\u9577"
+            "SourceString": "集落の長",
+            "LocalizedString": "集落の長"
         }
     },
     "Police_dependable": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "Police_dependable_TextData",
-            "SourceString": "\u983c\u308a\u306b\u306a\u308a\u305d\u3046\u306a\u81ea\u8b66\u56e3",
-            "LocalizedString": "\u983c\u308a\u306b\u306a\u308a\u305d\u3046\u306a\u81ea\u8b66\u56e3"
+            "SourceString": "頼りになりそうな自警団",
+            "LocalizedString": "頼りになりそうな自警団"
         }
     },
     "InnkeeperA": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "InnkeeperA_TextData",
-            "SourceString": "\u5bbf\u5c4b\u306e\u4e3b\u4eba",
-            "LocalizedString": "\u5bbf\u5c4b\u306e\u4e3b\u4eba"
+            "SourceString": "宿屋の主人",
+            "LocalizedString": "宿屋の主人"
         }
     },
     "Rumor-loving_villagers": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "Rumor-loving_villagers_TextData",
-            "SourceString": "\u3046\u308f\u3055\u597d\u304d\u306e\u6751\u4eba",
-            "LocalizedString": "\u3046\u308f\u3055\u597d\u304d\u306e\u6751\u4eba"
+            "SourceString": "うわさ好きの村人",
+            "LocalizedString": "うわさ好きの村人"
         }
     },
     "Research-oriented_scholar": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "Research-oriented_scholar_TextData",
-            "SourceString": "\u7814\u7a76\u71b1\u5fc3\u306a\u6751\u4eba",
-            "LocalizedString": "\u7814\u7a76\u71b1\u5fc3\u306a\u6751\u4eba"
+            "SourceString": "研究熱心な村人",
+            "LocalizedString": "研究熱心な村人"
         }
     },
     "People_cant_leave": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "People_cant_leave_TextData",
-            "SourceString": "\u5e30\u5b85\u96e3\u6c11",
-            "LocalizedString": "\u5e30\u5b85\u96e3\u6c11"
+            "SourceString": "帰宅難民",
+            "LocalizedString": "帰宅難民"
         }
     },
     "Sweaty_paltimer": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "Sweaty_paltimer_TextData",
-            "SourceString": "\u6c57\u3060\u304f\u306e\u30d1\u30eb\u30c6\u30a4\u30de\u30fc",
-            "LocalizedString": "\u6c57\u3060\u304f\u306e\u30d1\u30eb\u30c6\u30a4\u30de\u30fc"
+            "SourceString": "汗だくのパルテイマー",
+            "LocalizedString": "汗だくのパルテイマー"
         }
     },
     "Shabby_looking_merchant": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "Shabby_looking_merchant_TextData",
-            "SourceString": "\u65c5\u306e\u5546\u4eba",
-            "LocalizedString": "\u65c5\u306e\u5546\u4eba"
+            "SourceString": "旅の商人",
+            "LocalizedString": "旅の商人"
         }
     },
     "SKILLED_PALTAMIER": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "SKILLED_PALTAMIER_TextData",
-            "SourceString": "\u624b\u7df4\u308c\u306e\u5cf6\u6c11",
-            "LocalizedString": "\u624b\u7df4\u308c\u306e\u5cf6\u6c11"
+            "SourceString": "手練れの島民",
+            "LocalizedString": "手練れの島民"
         }
     },
     "NAME_DarkTrader": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "NAME_DarkTrader_TextData",
-            "SourceString": "\u95c7\u5546\u4eba",
-            "LocalizedString": "\u95c7\u5546\u4eba"
+            "SourceString": "闇商人",
+            "LocalizedString": "闇商人"
         }
     },
     "BOSSNAME_DEMO_PLAIN_LEADER": {
@@ -259,168 +259,168 @@
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "DesertVillage001_TextData",
-            "SourceString": "\u5bd2\u304c\u308a\u306e\u7802\u6f20\u306e\u6c11",
-            "LocalizedString": "\u5bd2\u304c\u308a\u306e\u7802\u6f20\u306e\u6c11"
+            "SourceString": "寒がりの砂漠の民",
+            "LocalizedString": "寒がりの砂漠の民"
         }
     },
     "DesertVillage002": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "DesertVillage002_TextData",
-            "SourceString": "\u512a\u3057\u3044\u7802\u6f20\u306e\u6c11",
-            "LocalizedString": "\u512a\u3057\u3044\u7802\u6f20\u306e\u6c11"
+            "SourceString": "優しい砂漠の民",
+            "LocalizedString": "優しい砂漠の民"
         }
     },
     "DesertVillage003": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "DesertVillage003_TextData",
-            "SourceString": "\u6016\u304c\u308a\u306e\u7802\u6f20\u306e\u6c11",
-            "LocalizedString": "\u6016\u304c\u308a\u306e\u7802\u6f20\u306e\u6c11"
+            "SourceString": "怖がりの砂漠の民",
+            "LocalizedString": "怖がりの砂漠の民"
         }
     },
     "DesertPolice001": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "DesertPolice001_TextData",
-            "SourceString": "\u81ea\u8b66\u56e3\u306e\u3057\u305f\u3063\u3071",
-            "LocalizedString": "\u81ea\u8b66\u56e3\u306e\u3057\u305f\u3063\u3071"
+            "SourceString": "自警団のしたっぱ",
+            "LocalizedString": "自警団のしたっぱ"
         }
     },
     "DesertPolice002": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "DesertPolice002_TextData",
-            "SourceString": "\u5f93\u9806\u306a\u81ea\u8b66\u56e3",
-            "LocalizedString": "\u5f93\u9806\u306a\u81ea\u8b66\u56e3"
+            "SourceString": "従順な自警団",
+            "LocalizedString": "従順な自警団"
         }
     },
     "DesertPolice003": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "DesertPolice003_TextData",
-            "SourceString": "\u711a\u706b\u597d\u304d\u306e\u81ea\u8b66\u56e3",
-            "LocalizedString": "\u711a\u706b\u597d\u304d\u306e\u81ea\u8b66\u56e3"
+            "SourceString": "焚火好きの自警団",
+            "LocalizedString": "焚火好きの自警団"
         }
     },
     "Police001": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "Police001_TextData",
-            "SourceString": "\u8ee2\u751f\u3057\u305f\u304a\u3058\u3055\u3093",
-            "LocalizedString": "\u8ee2\u751f\u3057\u305f\u304a\u3058\u3055\u3093"
+            "SourceString": "転生したおじさん",
+            "LocalizedString": "転生したおじさん"
         }
     },
     "VolcanoVillage001": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "VolcanoVillage001_TextData",
-            "SourceString": "\u91e3\u308a\u597d\u304d\u306e\u6751\u4eba",
-            "LocalizedString": "\u91e3\u308a\u597d\u304d\u306e\u6751\u4eba"
+            "SourceString": "釣り好きの村人",
+            "LocalizedString": "釣り好きの村人"
         }
     },
     "VolcanoVillage002": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "VolcanoVillage002_TextData",
-            "SourceString": "\u4e16\u8a71\u713c\u304d\u306a\u6751\u4eba",
-            "LocalizedString": "\u4e16\u8a71\u713c\u304d\u306a\u6751\u4eba"
+            "SourceString": "世話焼きな村人",
+            "LocalizedString": "世話焼きな村人"
         }
     },
     "VolcanoVillage003": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "VolcanoVillage003_TextData",
-            "SourceString": "\u661f\u597d\u304d\u306a\u6751\u4eba",
-            "LocalizedString": "\u661f\u597d\u304d\u306a\u6751\u4eba"
+            "SourceString": "星好きな村人",
+            "LocalizedString": "星好きな村人"
         }
     },
     "VolcanoVillage004": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "VolcanoVillage004_TextData",
-            "SourceString": "\u706b\u3092\u4fe1\u5949\u3059\u308b\u6751\u4eba",
-            "LocalizedString": "\u706b\u3092\u4fe1\u5949\u3059\u308b\u6751\u4eba"
+            "SourceString": "火を信奉する村人",
+            "LocalizedString": "火を信奉する村人"
         }
     },
     "VolcanoPolice001": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "VolcanoPolice001_TextData",
-            "SourceString": "\u4e0d\u771f\u9762\u76ee\u306a\u81ea\u8b66\u56e3",
-            "LocalizedString": "\u4e0d\u771f\u9762\u76ee\u306a\u81ea\u8b66\u56e3"
+            "SourceString": "不真面目な自警団",
+            "LocalizedString": "不真面目な自警団"
         }
     },
     "VolcanoPolice002": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "VolcanoPolice002_TextData",
-            "SourceString": "\u9f3b\u306e\u5229\u304f\u81ea\u8b66\u56e3",
-            "LocalizedString": "\u9f3b\u306e\u5229\u304f\u81ea\u8b66\u56e3"
+            "SourceString": "鼻の利く自警団",
+            "LocalizedString": "鼻の利く自警団"
         }
     },
     "RandomBattle_PalTamer": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "RandomBattle_PalTamer_TextData",
-            "SourceString": "\u5c48\u5f37\u306a\u50ad\u5175",
-            "LocalizedString": "\u5c48\u5f37\u306a\u50ad\u5175"
+            "SourceString": "屈強な傭兵",
+            "LocalizedString": "屈強な傭兵"
         }
     },
     "RandomBattle_Police": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "RandomBattle_Police_TextData",
-            "SourceString": "\u5c48\u5f37\u306a\u81ea\u8b66\u56e3",
-            "LocalizedString": "\u5c48\u5f37\u306a\u81ea\u8b66\u56e3"
+            "SourceString": "屈強な自警団",
+            "LocalizedString": "屈強な自警団"
         }
     },
     "PvPVillage001": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "PvPVillage001_TextData",
-            "SourceString": "\u7802\u6f20\u304b\u3089\u306e\u9003\u4ea1\u8005",
-            "LocalizedString": "\u7802\u6f20\u304b\u3089\u306e\u9003\u4ea1\u8005"
+            "SourceString": "砂漠からの逃亡者",
+            "LocalizedString": "砂漠からの逃亡者"
         }
     },
     "PvPVillage002": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "PvPVillage002_TextData",
-            "SourceString": "\u6d41\u6d6a\u306e\u6311\u6226\u8005",
-            "LocalizedString": "\u6d41\u6d6a\u306e\u6311\u6226\u8005"
+            "SourceString": "流浪の挑戦者",
+            "LocalizedString": "流浪の挑戦者"
         }
     },
     "PvPVillage003": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "PvPVillage003_TextData",
-            "SourceString": "\u819d\u3092\u602a\u6211\u3057\u305f\u5143\u50ad\u5175",
-            "LocalizedString": "\u819d\u3092\u602a\u6211\u3057\u305f\u5143\u50ad\u5175"
+            "SourceString": "膝を怪我した元傭兵",
+            "LocalizedString": "膝を怪我した元傭兵"
         }
     },
     "PvPVillage004": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "PvPVillage004_TextData",
-            "SourceString": "\u6016\u304c\u308a\u306e\u906d\u96e3\u8005",
-            "LocalizedString": "\u6016\u304c\u308a\u306e\u906d\u96e3\u8005"
+            "SourceString": "怖がりの遭難者",
+            "LocalizedString": "怖がりの遭難者"
         }
     },
     "PvPVillage005": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "PvPVillage005_TextData",
-            "SourceString": "\u81c6\u75c5\u306a\u5cf6\u6c11",
-            "LocalizedString": "\u81c6\u75c5\u306a\u5cf6\u6c11"
+            "SourceString": "臆病な島民",
+            "LocalizedString": "臆病な島民"
         }
     },
     "PvPVillage006": {
         "TextData": {
             "Namespace": "DT_UniqueNPCText",
             "Key": "PvPVillage006_TextData",
-            "SourceString": "\u8ae6\u89b3\u3057\u305f\u5cf6\u6c11",
-            "LocalizedString": "\u8ae6\u89b3\u3057\u305f\u5cf6\u6c11"
+            "SourceString": "諦観した島民",
+            "LocalizedString": "諦観した島民"
         }
     }
 }

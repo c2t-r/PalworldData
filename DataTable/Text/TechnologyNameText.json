@@ -3,8 +3,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_COPPER_TextData",
-            "SourceString": "\u9285\u306e\u7cbe\u932c",
-            "LocalizedString": "\u9285\u306e\u7cbe\u932c"
+            "SourceString": "銅の精錬",
+            "LocalizedString": "銅の精錬"
         }
     },
     "NAME_RECIPE_ASSAULT_01": {
@@ -19,40 +19,40 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_ASSAULT_02_TextData",
-            "SourceString": "\u81ea\u52d5\u5c0f\u9283\u306e\u6539\u826f",
-            "LocalizedString": "\u81ea\u52d5\u5c0f\u9283\u306e\u6539\u826f"
+            "SourceString": "自動小銃の改良",
+            "LocalizedString": "自動小銃の改良"
         }
     },
     "NAME_RECIPE_ASSAULT_03": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_ASSAULT_03_TextData",
-            "SourceString": "\u81ea\u52d5\u5c0f\u9283\u306e\u6539\u826f\u2161",
-            "LocalizedString": "\u81ea\u52d5\u5c0f\u9283\u306e\u6539\u826f\u2161"
+            "SourceString": "自動小銃の改良Ⅱ",
+            "LocalizedString": "自動小銃の改良Ⅱ"
         }
     },
     "NAME_RECIPE_PENGUIN_LAUNCHER": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_PENGUIN_LAUNCHER_TextData",
-            "SourceString": "<itemName id=|PenguinLauncher|/>\u306e\u958b\u767a",
-            "LocalizedString": "<itemName id=|PenguinLauncher|/>\u306e\u958b\u767a"
+            "SourceString": "<itemName id=|PenguinLauncher|/>の開発",
+            "LocalizedString": "<itemName id=|PenguinLauncher|/>の開発"
         }
     },
     "NAME_RECIPE_IRON": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_IRON_TextData",
-            "SourceString": "\u9244\u306e\u7cbe\u932c",
-            "LocalizedString": "\u9244\u306e\u7cbe\u932c"
+            "SourceString": "鉄の精錬",
+            "LocalizedString": "鉄の精錬"
         }
     },
     "NAME_RECIPE_SCALE": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_SCALE_TextData",
-            "SourceString": "\u9c57\u9632\u5177\u306e\u767a\u660e",
-            "LocalizedString": "\u9c57\u9632\u5177\u306e\u767a\u660e"
+            "SourceString": "鱗防具の発明",
+            "LocalizedString": "鱗防具の発明"
         }
     },
     "NAME_RECIPE_WORKBENCH": {
@@ -467,8 +467,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FARM_TextData",
-            "SourceString": "\u8fb2\u5712",
-            "LocalizedString": "\u8fb2\u5712"
+            "SourceString": "農園",
+            "LocalizedString": "農園"
         }
     },
     "NAME_RECIPE_WELL": {
@@ -491,8 +491,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_HUMANBED_TextData",
-            "SourceString": "\u308f\u3089\u306e\u30d9\u30c3\u30c9",
-            "LocalizedString": "\u308f\u3089\u306e\u30d9\u30c3\u30c9"
+            "SourceString": "わらのベッド",
+            "LocalizedString": "わらのベッド"
         }
     },
     "NAME_RECIPE_PALBED": {
@@ -507,8 +507,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_LOGHOUSE_TextData",
-            "SourceString": "\u5bb6\u306e\u5efa\u7bc9\u6280\u8853",
-            "LocalizedString": "\u5bb6\u306e\u5efa\u7bc9\u6280\u8853"
+            "SourceString": "家の建築技術",
+            "LocalizedString": "家の建築技術"
         }
     },
     "NAME_RECIPE_PALLABO": {
@@ -627,8 +627,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_SNIPER_RIFLE_TextData",
-            "SourceString": "\u30b9\u30ca\u30a4\u30d1\u30fc\u30e9\u30a4\u30d5\u30eb",
-            "LocalizedString": "\u30b9\u30ca\u30a4\u30d1\u30fc\u30e9\u30a4\u30d5\u30eb"
+            "SourceString": "スナイパーライフル",
+            "LocalizedString": "スナイパーライフル"
         }
     },
     "NAME_RECIPE_Launcher_Meat": {
@@ -787,24 +787,24 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_SPHERE_FACTORY_WHITE_01_TextData",
-            "SourceString": "\u30db\u30ef\u30a4\u30c8\u306a\u30b9\u30d5\u30a3\u30a2\u88fd\u9020\u2160",
-            "LocalizedString": "\u30db\u30ef\u30a4\u30c8\u306a\u30b9\u30d5\u30a3\u30a2\u88fd\u9020\u2160"
+            "SourceString": "ホワイトなスフィア製造Ⅰ",
+            "LocalizedString": "ホワイトなスフィア製造Ⅰ"
         }
     },
     "NAME_RECIPE_SPHERE_FACTORY_WHITE_02": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_SPHERE_FACTORY_WHITE_02_TextData",
-            "SourceString": "\u30db\u30ef\u30a4\u30c8\u306a\u30b9\u30d5\u30a3\u30a2\u88fd\u9020\u2161",
-            "LocalizedString": "\u30db\u30ef\u30a4\u30c8\u306a\u30b9\u30d5\u30a3\u30a2\u88fd\u9020\u2161"
+            "SourceString": "ホワイトなスフィア製造Ⅱ",
+            "LocalizedString": "ホワイトなスフィア製造Ⅱ"
         }
     },
     "NAME_RECIPE_SPHERE_FACTORY_WHITE_03": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_SPHERE_FACTORY_WHITE_03_TextData",
-            "SourceString": "\u30db\u30ef\u30a4\u30c8\u306a\u30b9\u30d5\u30a3\u30a2\u88fd\u9020\u2162",
-            "LocalizedString": "\u30db\u30ef\u30a4\u30c8\u306a\u30b9\u30d5\u30a3\u30a2\u88fd\u9020\u2162"
+            "SourceString": "ホワイトなスフィア製造Ⅲ",
+            "LocalizedString": "ホワイトなスフィア製造Ⅲ"
         }
     },
     "NAME_RECIPE_SPHERE_FACTORY_BLACK_02": {
@@ -851,8 +851,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_STONEHOUSE_TextData",
-            "SourceString": "\u77f3\u306e\u5efa\u7bc9\u6280\u8853",
-            "LocalizedString": "\u77f3\u306e\u5efa\u7bc9\u6280\u8853"
+            "SourceString": "石の建築技術",
+            "LocalizedString": "石の建築技術"
         }
     },
     "NAME_RECIPE_DEFENCE_GATLING_GUN": {
@@ -883,8 +883,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_BLAST_FURNACE_4_TextData",
-            "SourceString": "\u5931\u308f\u308c\u3057\u88fd\u932c\u6280\u8853",
-            "LocalizedString": "\u5931\u308f\u308c\u3057\u88fd\u932c\u6280\u8853"
+            "SourceString": "失われし製錬技術",
+            "LocalizedString": "失われし製錬技術"
         }
     },
     "NAME_RECIPE_MEDICINE_FACILITY_01": {
@@ -907,8 +907,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_MEDICINE_FACILITY_03_TextData",
-            "SourceString": "\u5931\u308f\u308c\u3057\u88fd\u85ac\u6280\u8853",
-            "LocalizedString": "\u5931\u308f\u308c\u3057\u88fd\u85ac\u6280\u8853"
+            "SourceString": "失われし製薬技術",
+            "LocalizedString": "失われし製薬技術"
         }
     },
     "NAME_RECIPE_WEAPON_FACTORY_DIRTY_02": {
@@ -1043,40 +1043,40 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_ELECTRIX_GENERATOR_2_TextData",
-            "SourceString": "\u767a\u96fb\u6280\u8853\u2161",
-            "LocalizedString": "\u767a\u96fb\u6280\u8853\u2161"
+            "SourceString": "発電技術Ⅱ",
+            "LocalizedString": "発電技術Ⅱ"
         }
     },
     "NAME_RECIPE_ELECTRIX_GENERATOR_3": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_ELECTRIX_GENERATOR_3_TextData",
-            "SourceString": "\u767a\u96fb\u6280\u8853\u2162",
-            "LocalizedString": "\u767a\u96fb\u6280\u8853\u2162"
+            "SourceString": "発電技術Ⅲ",
+            "LocalizedString": "発電技術Ⅲ"
         }
     },
     "NAME_RECIPE_Potato_plantation": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_Potato_plantation_TextData",
-            "SourceString": "<mapObjectName id=|PickupItem_Potato|/>\u8fb2\u5712",
-            "LocalizedString": "<mapObjectName id=|PickupItem_Potato|/>\u8fb2\u5712"
+            "SourceString": "<mapObjectName id=|PickupItem_Potato|/>農園",
+            "LocalizedString": "<mapObjectName id=|PickupItem_Potato|/>農園"
         }
     },
     "NAME_RECIPE_Corn_plantation": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_Corn_plantation_TextData",
-            "SourceString": "\u30c8\u30a6\u30e2\u30ed\u30b3\u30b7\u8fb2\u5712",
-            "LocalizedString": "\u30c8\u30a6\u30e2\u30ed\u30b3\u30b7\u8fb2\u5712"
+            "SourceString": "トウモロコシ農園",
+            "LocalizedString": "トウモロコシ農園"
         }
     },
     "NAME_RECIPE_Pumpkin_plantation": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_Pumpkin_plantation_TextData",
-            "SourceString": "\u30ab\u30dc\u30c1\u30e3\u8fb2\u5712",
-            "LocalizedString": "\u30ab\u30dc\u30c1\u30e3\u8fb2\u5712"
+            "SourceString": "カボチャ農園",
+            "LocalizedString": "カボチャ農園"
         }
     },
     "NAME_RECIPE_RecoverOtomo": {
@@ -1123,8 +1123,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_BOSS_DEFEAT_001_TextData",
-            "SourceString": "\u8349\u539f\u30dc\u30b9\u8a0e\u4f10\u5831\u916c",
-            "LocalizedString": "\u8349\u539f\u30dc\u30b9\u8a0e\u4f10\u5831\u916c"
+            "SourceString": "草原ボス討伐報酬",
+            "LocalizedString": "草原ボス討伐報酬"
         }
     },
     "NAME_RECIPE_PalFoodBox": {
@@ -1555,48 +1555,48 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_Wooden_Houseset_TextData",
-            "SourceString": "\u6728\u306e\u5efa\u7bc9\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u6728\u306e\u5efa\u7bc9\u30bb\u30c3\u30c8"
+            "SourceString": "木の建築セット",
+            "LocalizedString": "木の建築セット"
         }
     },
     "NAME_RECIPE_Stone_Houseset": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_Stone_Houseset_TextData",
-            "SourceString": "\u77f3\u306e\u5efa\u7bc9\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u77f3\u306e\u5efa\u7bc9\u30bb\u30c3\u30c8"
+            "SourceString": "石の建築セット",
+            "LocalizedString": "石の建築セット"
         }
     },
     "NAME_RECIPE_Metal_Houseset": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_Metal_Houseset_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u5efa\u7bc9\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u5efa\u7bc9\u30bb\u30c3\u30c8"
+            "SourceString": "金属の建築セット",
+            "LocalizedString": "金属の建築セット"
         }
     },
     "NAME_RECIPE_Torch_set": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_Torch_set_TextData",
-            "SourceString": "\u8a2d\u7f6e\u305f\u3044\u307e\u3064\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u8a2d\u7f6e\u305f\u3044\u307e\u3064\u30bb\u30c3\u30c8"
+            "SourceString": "設置たいまつセット",
+            "LocalizedString": "設置たいまつセット"
         }
     },
     "NAME_RECIPE_Lamp_set": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_Lamp_set_TextData",
-            "SourceString": "\u7167\u660e\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u7167\u660e\u30bb\u30c3\u30c8"
+            "SourceString": "照明セット",
+            "LocalizedString": "照明セット"
         }
     },
     "NAME_RECIPE_LargeLamp_set": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_LargeLamp_set_TextData",
-            "SourceString": "\u5927\u304d\u3044\u7167\u660e\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u5927\u304d\u3044\u7167\u660e\u30bb\u30c3\u30c8"
+            "SourceString": "大きい照明セット",
+            "LocalizedString": "大きい照明セット"
         }
     },
     "NAME_RECIPE_DisplayCharacter": {
@@ -3803,264 +3803,264 @@
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_1_TextData",
-            "SourceString": "\u6728\u306e\u30ea\u30d3\u30f3\u30b0\u5bb6\u5177\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u6728\u306e\u30ea\u30d3\u30f3\u30b0\u5bb6\u5177\u30bb\u30c3\u30c8"
+            "SourceString": "木のリビング家具セット",
+            "LocalizedString": "木のリビング家具セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_2": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_2_TextData",
-            "SourceString": "\u6728\u306e\u9152\u5834\u53ce\u7d0d\u5bb6\u5177\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u6728\u306e\u9152\u5834\u53ce\u7d0d\u5bb6\u5177\u30bb\u30c3\u30c8"
+            "SourceString": "木の酒場収納家具セット",
+            "LocalizedString": "木の酒場収納家具セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_3": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_3_TextData",
-            "SourceString": "\u6728\u306e\u9152\u5834\u5bb6\u5177\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u6728\u306e\u9152\u5834\u5bb6\u5177\u30bb\u30c3\u30c8"
+            "SourceString": "木の酒場家具セット",
+            "LocalizedString": "木の酒場家具セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_4": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_4_TextData",
-            "SourceString": "\u58c1\u639b\u3051\u89b3\u8449\u690d\u7269\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u58c1\u639b\u3051\u89b3\u8449\u690d\u7269\u30bb\u30c3\u30c8"
+            "SourceString": "壁掛け観葉植物セット",
+            "LocalizedString": "壁掛け観葉植物セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_5": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_5_TextData",
-            "SourceString": "\u30c9\u30e9\u30e0\u7f36\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30c9\u30e9\u30e0\u7f36\u30bb\u30c3\u30c8"
+            "SourceString": "ドラム缶セット",
+            "LocalizedString": "ドラム缶セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_6": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_6_TextData",
-            "SourceString": "\u53ce\u7d0d\u30b3\u30f3\u30c6\u30ca\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u53ce\u7d0d\u30b3\u30f3\u30c6\u30ca\u30bb\u30c3\u30c8"
+            "SourceString": "収納コンテナセット",
+            "LocalizedString": "収納コンテナセット"
         }
     },
     "NAME_RECIPE_FurnitureSet_7": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_7_TextData",
-            "SourceString": "\u76ae\u5f35\u308a\u306e\u6905\u5b50\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u76ae\u5f35\u308a\u306e\u6905\u5b50\u30bb\u30c3\u30c8"
+            "SourceString": "皮張りの椅子セット",
+            "LocalizedString": "皮張りの椅子セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_8": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_8_TextData",
-            "SourceString": "\u975e\u5e38\u53e3\u30b5\u30a4\u30f3\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u975e\u5e38\u53e3\u30b5\u30a4\u30f3\u30bb\u30c3\u30c8"
+            "SourceString": "非常口サインセット",
+            "LocalizedString": "非常口サインセット"
         }
     },
     "NAME_RECIPE_FurnitureSet_9": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_9_TextData",
-            "SourceString": "\u89b3\u8449\u690d\u7269\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u89b3\u8449\u690d\u7269\u30bb\u30c3\u30c8"
+            "SourceString": "観葉植物セット",
+            "LocalizedString": "観葉植物セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_10": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_10_TextData",
-            "SourceString": "\u30d0\u30ea\u30b1\u30fc\u30c9\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30d0\u30ea\u30b1\u30fc\u30c9\u30bb\u30c3\u30c8"
+            "SourceString": "バリケードセット",
+            "LocalizedString": "バリケードセット"
         }
     },
     "NAME_RECIPE_FurnitureSet_11": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_11_TextData",
-            "SourceString": "\u4ea4\u901a\u6574\u7406\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u4ea4\u901a\u6574\u7406\u30bb\u30c3\u30c8"
+            "SourceString": "交通整理セット",
+            "LocalizedString": "交通整理セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_12": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_12_TextData",
-            "SourceString": "\u9053\u8def\u6a19\u8b58\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u9053\u8def\u6a19\u8b58\u30bb\u30c3\u30c8"
+            "SourceString": "道路標識セット",
+            "LocalizedString": "道路標識セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_13": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_13_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u6905\u5b50\u3068\u673a\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u6905\u5b50\u3068\u673a\u30bb\u30c3\u30c8"
+            "SourceString": "金属の椅子と机セット",
+            "LocalizedString": "金属の椅子と机セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_14": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_14_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u30a6\u30c3\u30c9\u306e\u30c6\u30fc\u30d6\u30eb\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u30a6\u30c3\u30c9\u306e\u30c6\u30fc\u30d6\u30eb\u30bb\u30c3\u30c8"
+            "SourceString": "アイアンウッドのテーブルセット",
+            "LocalizedString": "アイアンウッドのテーブルセット"
         }
     },
     "NAME_RECIPE_FurnitureSet_15": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_15_TextData",
-            "SourceString": "\u30d4\u30a2\u30ce\u5bb6\u5177\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30d4\u30a2\u30ce\u5bb6\u5177\u30bb\u30c3\u30c8"
+            "SourceString": "ピアノ家具セット",
+            "LocalizedString": "ピアノ家具セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_16": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_16_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u93e1\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u93e1\u30bb\u30c3\u30c8"
+            "SourceString": "アンティークな鏡セット",
+            "LocalizedString": "アンティークな鏡セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_17": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_17_TextData",
-            "SourceString": "\u30ab\u30fc\u30da\u30c3\u30c8\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30ab\u30fc\u30da\u30c3\u30c8\u30bb\u30c3\u30c8"
+            "SourceString": "カーペットセット",
+            "LocalizedString": "カーペットセット"
         }
     },
     "NAME_RECIPE_FurnitureSet_18": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_18_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30bd\u30d5\u30a1\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30bd\u30d5\u30a1\u30bb\u30c3\u30c8"
+            "SourceString": "アンティークなソファセット",
+            "LocalizedString": "アンティークなソファセット"
         }
     },
     "NAME_RECIPE_FurnitureSet_19": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_19_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6905\u5b50\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6905\u5b50\u30bb\u30c3\u30c8"
+            "SourceString": "アンティークな椅子セット",
+            "LocalizedString": "アンティークな椅子セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_20": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_20_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u304a\u98a8\u5442\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u304a\u98a8\u5442\u30bb\u30c3\u30c8"
+            "SourceString": "アンティークなお風呂セット",
+            "LocalizedString": "アンティークなお風呂セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_21": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_21_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u53ce\u7d0d\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u53ce\u7d0d\u30bb\u30c3\u30c8"
+            "SourceString": "アンティークな収納セット",
+            "LocalizedString": "アンティークな収納セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_22": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_22_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u53ce\u7d0d\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u53ce\u7d0d\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8\u30bb\u30c3\u30c8"
+            "SourceString": "アンティークな収納キャビネットセット",
+            "LocalizedString": "アンティークな収納キャビネットセット"
         }
     },
     "NAME_RECIPE_FurnitureSet_23": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_23_TextData",
-            "SourceString": "\u6642\u8a08\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u6642\u8a08\u30bb\u30c3\u30c8"
+            "SourceString": "時計セット",
+            "LocalizedString": "時計セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_24": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_24_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u673a\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u673a\u30bb\u30c3\u30c8"
+            "SourceString": "アンティークな机セット",
+            "LocalizedString": "アンティークな机セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_25": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_25_TextData",
-            "SourceString": "\u30c8\u30a4\u30ec\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30c8\u30a4\u30ec\u30bb\u30c3\u30c8"
+            "SourceString": "トイレセット",
+            "LocalizedString": "トイレセット"
         }
     },
     "NAME_RECIPE_FurnitureSet_26": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_26_TextData",
-            "SourceString": "\u5a2f\u697d\u5bb6\u5177\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u5a2f\u697d\u5bb6\u5177\u30bb\u30c3\u30c8"
+            "SourceString": "娯楽家具セット",
+            "LocalizedString": "娯楽家具セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_27": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_27_TextData",
-            "SourceString": "\u8857\u706f\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u8857\u706f\u30bb\u30c3\u30c8"
+            "SourceString": "街灯セット",
+            "LocalizedString": "街灯セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_28": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_28_TextData",
-            "SourceString": "\u6696\u7089\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u6696\u7089\u30bb\u30c3\u30c8"
+            "SourceString": "暖炉セット",
+            "LocalizedString": "暖炉セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_29": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_29_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30e9\u30f3\u30d7\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30e9\u30f3\u30d7\u30bb\u30c3\u30c8"
+            "SourceString": "アンティークなランプセット",
+            "LocalizedString": "アンティークなランプセット"
         }
     },
     "NAME_RECIPE_FurnitureSet_30": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_30_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u68da\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u68da\u30bb\u30c3\u30c8"
+            "SourceString": "金属の棚セット",
+            "LocalizedString": "金属の棚セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_31": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_31_TextData",
-            "SourceString": "\u5c4b\u5916\u5bb6\u5177\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u5c4b\u5916\u5bb6\u5177\u30bb\u30c3\u30c8"
+            "SourceString": "屋外家具セット",
+            "LocalizedString": "屋外家具セット"
         }
     },
     "NAME_RECIPE_FurnitureSet_32": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_FurnitureSet_32_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u9ad8\u7d1a\u5bb6\u5177\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u9ad8\u7d1a\u5bb6\u5177\u30bb\u30c3\u30c8"
+            "SourceString": "アンティークな高級家具セット",
+            "LocalizedString": "アンティークな高級家具セット"
         }
     },
     "NAME_RECIPE_DecalGunSet": {
         "TextData": {
             "Namespace": "DT_TechnologyNameText",
             "Key": "NAME_RECIPE_DecalGunSet_TextData",
-            "SourceString": "\u30c7\u30ab\u30fc\u30eb\u9283\u30bb\u30c3\u30c8",
-            "LocalizedString": "\u30c7\u30ab\u30fc\u30eb\u9283\u30bb\u30c3\u30c8"
+            "SourceString": "デカール銃セット",
+            "LocalizedString": "デカール銃セット"
         }
     },
     "NAME_RECIPE_BuildObject_Chair01_Pal": {

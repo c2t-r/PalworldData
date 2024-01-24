@@ -3,736 +3,736 @@
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DummyFoliage_TextData",
-            "SourceString": "\u6728",
-            "LocalizedString": "\u6728"
+            "SourceString": "木",
+            "LocalizedString": "木"
         }
     },
     "MAPOBJECT_NAME_BlastFurnace": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_BlastFurnace_TextData",
-            "SourceString": "\u539f\u59cb\u7684\u306a\u7089",
-            "LocalizedString": "\u539f\u59cb\u7684\u306a\u7089"
+            "SourceString": "原始的な炉",
+            "LocalizedString": "原始的な炉"
         }
     },
     "MAPOBJECT_NAME_BlastFurnace2": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_BlastFurnace2_TextData",
-            "SourceString": "\u6539\u5584\u3055\u308c\u305f\u7089",
-            "LocalizedString": "\u6539\u5584\u3055\u308c\u305f\u7089"
+            "SourceString": "改善された炉",
+            "LocalizedString": "改善された炉"
         }
     },
     "MAPOBJECT_NAME_BlastFurnace3": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_BlastFurnace3_TextData",
-            "SourceString": "\u96fb\u6c17\u7089",
-            "LocalizedString": "\u96fb\u6c17\u7089"
+            "SourceString": "電気炉",
+            "LocalizedString": "電気炉"
         }
     },
     "MAPOBJECT_NAME_BlastFurnace4": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_BlastFurnace4_TextData",
-            "SourceString": "\u672a\u6765\u306e\u88fd\u932c\u7089",
-            "LocalizedString": "\u672a\u6765\u306e\u88fd\u932c\u7089"
+            "SourceString": "未来の製錬炉",
+            "LocalizedString": "未来の製錬炉"
         }
     },
     "MAPOBJECT_NAME_BlastFurnace5": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_BlastFurnace5_TextData",
-            "SourceString": "\u9ad8\u6027\u80fd\u88fd\u932c\u7089\u2161",
-            "LocalizedString": "\u9ad8\u6027\u80fd\u88fd\u932c\u7089\u2161"
+            "SourceString": "高性能製錬炉Ⅱ",
+            "LocalizedString": "高性能製錬炉Ⅱ"
         }
     },
     "MAPOBJECT_NAME_CampFire": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_CampFire_TextData",
-            "SourceString": "\u30ad\u30e3\u30f3\u30d7\u30d5\u30a1\u30a4\u30a2",
-            "LocalizedString": "\u30ad\u30e3\u30f3\u30d7\u30d5\u30a1\u30a4\u30a2"
+            "SourceString": "キャンプファイア",
+            "LocalizedString": "キャンプファイア"
         }
     },
     "MAPOBJECT_NAME_CharacterRankUp": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_CharacterRankUp_TextData",
-            "SourceString": "\u30d1\u30eb\u6fc3\u7e2e\u30dd\u30c3\u30c9",
-            "LocalizedString": "\u30d1\u30eb\u6fc3\u7e2e\u30dd\u30c3\u30c9"
+            "SourceString": "パル濃縮ポッド",
+            "LocalizedString": "パル濃縮ポッド"
         }
     },
     "MAPOBJECT_NAME_CookingStove": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_CookingStove_TextData",
-            "SourceString": "\u8abf\u7406\u934b",
-            "LocalizedString": "\u8abf\u7406\u934b"
+            "SourceString": "調理鍋",
+            "LocalizedString": "調理鍋"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0001": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0001_TextData",
-            "SourceString": "\u77f3",
-            "LocalizedString": "\u77f3"
+            "SourceString": "石",
+            "LocalizedString": "石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0002": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0002_TextData",
-            "SourceString": "\u91d1\u5c5e\u9271\u77f3",
-            "LocalizedString": "\u91d1\u5c5e\u9271\u77f3"
+            "SourceString": "金属鉱石",
+            "LocalizedString": "金属鉱石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0003": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0003_TextData",
-            "SourceString": "\u30d4\u30e5\u30a2\u30af\u30a9\u30fc\u30c4",
-            "LocalizedString": "\u30d4\u30e5\u30a2\u30af\u30a9\u30fc\u30c4"
+            "SourceString": "ピュアクォーツ",
+            "LocalizedString": "ピュアクォーツ"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0004": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0004_TextData",
-            "SourceString": "\u77f3\u70ad",
-            "LocalizedString": "\u77f3\u70ad"
+            "SourceString": "石炭",
+            "LocalizedString": "石炭"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0005": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0005_TextData",
-            "SourceString": "\u30d1\u30eb\u30b8\u30a6\u30e0\u9271\u77f3",
-            "LocalizedString": "\u30d1\u30eb\u30b8\u30a6\u30e0\u9271\u77f3"
+            "SourceString": "パルジウム鉱石",
+            "LocalizedString": "パルジウム鉱石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0006": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0006_TextData",
-            "SourceString": "\u786b\u9ec4",
-            "LocalizedString": "\u786b\u9ec4"
+            "SourceString": "硫黄",
+            "LocalizedString": "硫黄"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0007": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0007_TextData",
-            "SourceString": "\u77f3",
-            "LocalizedString": "\u77f3"
+            "SourceString": "石",
+            "LocalizedString": "石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0008": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0008_TextData",
-            "SourceString": "\u77f3",
-            "LocalizedString": "\u77f3"
+            "SourceString": "石",
+            "LocalizedString": "石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0009": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0009_TextData",
-            "SourceString": "\u77f3",
-            "LocalizedString": "\u77f3"
+            "SourceString": "石",
+            "LocalizedString": "石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0010": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0010_TextData",
-            "SourceString": "\u77f3",
-            "LocalizedString": "\u77f3"
+            "SourceString": "石",
+            "LocalizedString": "石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0011": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0011_TextData",
-            "SourceString": "\u77f3",
-            "LocalizedString": "\u77f3"
+            "SourceString": "石",
+            "LocalizedString": "石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0012": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0012_TextData",
-            "SourceString": "\u77f3",
-            "LocalizedString": "\u77f3"
+            "SourceString": "石",
+            "LocalizedString": "石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0013": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0013_TextData",
-            "SourceString": "\u7802\u5ca9",
-            "LocalizedString": "\u7802\u5ca9"
+            "SourceString": "砂岩",
+            "LocalizedString": "砂岩"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0014": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0014_TextData",
-            "SourceString": "\u77f3",
-            "LocalizedString": "\u77f3"
+            "SourceString": "石",
+            "LocalizedString": "石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0015": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0015_TextData",
-            "SourceString": "\u77f3",
-            "LocalizedString": "\u77f3"
+            "SourceString": "石",
+            "LocalizedString": "石"
         }
     },
     "MAPOBJECT_NAME_DamagableRock0016": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagableRock0016_TextData",
-            "SourceString": "\u77f3",
-            "LocalizedString": "\u77f3"
+            "SourceString": "石",
+            "LocalizedString": "石"
         }
     },
     "MAPOBJECT_NAME_DeathPenaltyChest": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DeathPenaltyChest_TextData",
-            "SourceString": "\u6b7b\u4ea1\u6642\u30c1\u30a7\u30b9\u30c8",
-            "LocalizedString": "\u6b7b\u4ea1\u6642\u30c1\u30a7\u30b9\u30c8"
+            "SourceString": "死亡時チェスト",
+            "LocalizedString": "死亡時チェスト"
         }
     },
     "MAPOBJECT_NAME_DefenseGatlingGun": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DefenseGatlingGun_TextData",
-            "SourceString": "\u8a2d\u7f6e\u578b\u30ac\u30c8\u30ea\u30f3\u30b0\u30ac\u30f3",
-            "LocalizedString": "\u8a2d\u7f6e\u578b\u30ac\u30c8\u30ea\u30f3\u30b0\u30ac\u30f3"
+            "SourceString": "設置型ガトリングガン",
+            "LocalizedString": "設置型ガトリングガン"
         }
     },
     "MAPOBJECT_NAME_DefenseMachinegun": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DefenseMachinegun_TextData",
-            "SourceString": "\u8a2d\u7f6e\u578b\u30de\u30b7\u30f3\u30ac\u30f3",
-            "LocalizedString": "\u8a2d\u7f6e\u578b\u30de\u30b7\u30f3\u30ac\u30f3"
+            "SourceString": "設置型マシンガン",
+            "LocalizedString": "設置型マシンガン"
         }
     },
     "MAPOBJECT_NAME_DefenseMinigun": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DefenseMinigun_TextData",
-            "SourceString": "\u8a2d\u7f6e\u578b\u30df\u30cb\u30ac\u30f3",
-            "LocalizedString": "\u8a2d\u7f6e\u578b\u30df\u30cb\u30ac\u30f3"
+            "SourceString": "設置型ミニガン",
+            "LocalizedString": "設置型ミニガン"
         }
     },
     "MAPOBJECT_NAME_DefenseMissile": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DefenseMissile_TextData",
-            "SourceString": "\u8a2d\u7f6e\u578b\u30df\u30b5\u30a4\u30eb\u30e9\u30f3\u30c1\u30e3\u30fc",
-            "LocalizedString": "\u8a2d\u7f6e\u578b\u30df\u30b5\u30a4\u30eb\u30e9\u30f3\u30c1\u30e3\u30fc"
+            "SourceString": "設置型ミサイルランチャー",
+            "LocalizedString": "設置型ミサイルランチャー"
         }
     },
     "MAPOBJECT_NAME_DefenseBowGun": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DefenseBowGun_TextData",
-            "SourceString": "\u8a2d\u7f6e\u578b\u30af\u30ed\u30b9\u30dc\u30a6",
-            "LocalizedString": "\u8a2d\u7f6e\u578b\u30af\u30ed\u30b9\u30dc\u30a6"
+            "SourceString": "設置型クロスボウ",
+            "LocalizedString": "設置型クロスボウ"
         }
     },
     "MAPOBJECT_NAME_DefenseWait": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DefenseWait_TextData",
-            "SourceString": "\u571f\u56a2",
-            "LocalizedString": "\u571f\u56a2"
+            "SourceString": "土嚢",
+            "LocalizedString": "土嚢"
         }
     },
     "MAPOBJECT_NAME_DUMMY": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DUMMY_TextData",
-            "SourceString": "\u30c0\u30df\u30fc",
-            "LocalizedString": "\u30c0\u30df\u30fc"
+            "SourceString": "ダミー",
+            "LocalizedString": "ダミー"
         }
     },
     "MAPOBJECT_NAME_ElectricGenerator": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ElectricGenerator_TextData",
-            "SourceString": "\u767a\u96fb\u6a5f",
-            "LocalizedString": "\u767a\u96fb\u6a5f"
+            "SourceString": "発電機",
+            "LocalizedString": "発電機"
         }
     },
     "MAPOBJECT_NAME_ElectricGenerator_Slave": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ElectricGenerator_Slave_TextData",
-            "SourceString": "\u5974\u96b7\u8eca",
-            "LocalizedString": "\u5974\u96b7\u8eca"
+            "SourceString": "奴隷車",
+            "LocalizedString": "奴隷車"
         }
     },
     "MAPOBJECT_NAME_ElectricGenerator2": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ElectricGenerator2_TextData",
-            "SourceString": "\u96f7\u306e\u767a\u96fb\u6a5f\u2161",
-            "LocalizedString": "\u96f7\u306e\u767a\u96fb\u6a5f\u2161"
+            "SourceString": "雷の発電機Ⅱ",
+            "LocalizedString": "雷の発電機Ⅱ"
         }
     },
     "MAPOBJECT_NAME_ElectricGenerator3": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ElectricGenerator3_TextData",
-            "SourceString": "\u96f7\u306e\u767a\u96fb\u6a5f\u2162",
-            "LocalizedString": "\u96f7\u306e\u767a\u96fb\u6a5f\u2162"
+            "SourceString": "雷の発電機Ⅲ",
+            "LocalizedString": "雷の発電機Ⅲ"
         }
     },
     "MAPOBJECT_NAME_ElectricKitchen": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ElectricKitchen_TextData",
-            "SourceString": "\u96fb\u6c17\u30ad\u30c3\u30c1\u30f3",
-            "LocalizedString": "\u96fb\u6c17\u30ad\u30c3\u30c1\u30f3"
+            "SourceString": "電気キッチン",
+            "LocalizedString": "電気キッチン"
         }
     },
     "MAPOBJECT_NAME_Factory_Comfortable_01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Factory_Comfortable_01_TextData",
-            "SourceString": "\u5feb\u9069\u306a\u5de5\u5834\u2160",
-            "LocalizedString": "\u5feb\u9069\u306a\u5de5\u5834\u2160"
+            "SourceString": "快適な工場Ⅰ",
+            "LocalizedString": "快適な工場Ⅰ"
         }
     },
     "MAPOBJECT_NAME_Factory_Comfortable_02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Factory_Comfortable_02_TextData",
-            "SourceString": "\u5feb\u9069\u306a\u5de5\u5834\u2161",
-            "LocalizedString": "\u5feb\u9069\u306a\u5de5\u5834\u2161"
+            "SourceString": "快適な工場Ⅱ",
+            "LocalizedString": "快適な工場Ⅱ"
         }
     },
     "MAPOBJECT_NAME_Factory_Hard_01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Factory_Hard_01_TextData",
-            "SourceString": "\u4e0a\u8cea\u306a\u4f5c\u696d\u53f0",
-            "LocalizedString": "\u4e0a\u8cea\u306a\u4f5c\u696d\u53f0"
+            "SourceString": "上質な作業台",
+            "LocalizedString": "上質な作業台"
         }
     },
     "MAPOBJECT_NAME_Factory_Hard_02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Factory_Hard_02_TextData",
-            "SourceString": "\u4f5c\u696d\u30e9\u30a4\u30f3\u5de5\u5834",
-            "LocalizedString": "\u4f5c\u696d\u30e9\u30a4\u30f3\u5de5\u5834"
+            "SourceString": "作業ライン工場",
+            "LocalizedString": "作業ライン工場"
         }
     },
     "MAPOBJECT_NAME_Factory_Hard_03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Factory_Hard_03_TextData",
-            "SourceString": "\u4f5c\u696d\u30e9\u30a4\u30f3\u5de5\u5834\u2161",
-            "LocalizedString": "\u4f5c\u696d\u30e9\u30a4\u30f3\u5de5\u5834\u2161"
+            "SourceString": "作業ライン工場Ⅱ",
+            "LocalizedString": "作業ライン工場Ⅱ"
         }
     },
     "MAPOBJECT_NAME_FarmBlock": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FarmBlock_TextData",
-            "SourceString": "\u8fb2\u5712",
-            "LocalizedString": "\u8fb2\u5712"
+            "SourceString": "農園",
+            "LocalizedString": "農園"
         }
     },
     "MAPOBJECT_NAME_FarmBlockV2_Grade01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FarmBlockV2_Grade01_TextData",
-            "SourceString": "\u3058\u3083\u304c\u3044\u3082\u8fb2\u5712",
-            "LocalizedString": "\u3058\u3083\u304c\u3044\u3082\u8fb2\u5712"
+            "SourceString": "じゃがいも農園",
+            "LocalizedString": "じゃがいも農園"
         }
     },
     "MAPOBJECT_NAME_FarmBlockV2_Grade02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FarmBlockV2_Grade02_TextData",
-            "SourceString": "\u3068\u3046\u3082\u308d\u3053\u3057\u8fb2\u5712",
-            "LocalizedString": "\u3068\u3046\u3082\u308d\u3053\u3057\u8fb2\u5712"
+            "SourceString": "とうもろこし農園",
+            "LocalizedString": "とうもろこし農園"
         }
     },
     "MAPOBJECT_NAME_FarmBlockV2_Grade03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FarmBlockV2_Grade03_TextData",
-            "SourceString": "\u304b\u307c\u3061\u3083\u8fb2\u5712",
-            "LocalizedString": "\u304b\u307c\u3061\u3083\u8fb2\u5712"
+            "SourceString": "かぼちゃ農園",
+            "LocalizedString": "かぼちゃ農園"
         }
     },
     "MAPOBJECT_NAME_FarmBlockV2_wheet": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FarmBlockV2_wheet_TextData",
-            "SourceString": "\u5c0f\u9ea6\u8fb2\u5712",
-            "LocalizedString": "\u5c0f\u9ea6\u8fb2\u5712"
+            "SourceString": "小麦農園",
+            "LocalizedString": "小麦農園"
         }
     },
     "MAPOBJECT_NAME_FarmBlockV2_tomato": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FarmBlockV2_tomato_TextData",
-            "SourceString": "\u30c8\u30de\u30c8\u8fb2\u5712",
-            "LocalizedString": "\u30c8\u30de\u30c8\u8fb2\u5712"
+            "SourceString": "トマト農園",
+            "LocalizedString": "トマト農園"
         }
     },
     "MAPOBJECT_NAME_FarmBlockV2_Lettuce": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FarmBlockV2_Lettuce_TextData",
-            "SourceString": "\u30ec\u30bf\u30b9\u8fb2\u5712",
-            "LocalizedString": "\u30ec\u30bf\u30b9\u8fb2\u5712"
+            "SourceString": "レタス農園",
+            "LocalizedString": "レタス農園"
         }
     },
     "MAPOBJECT_NAME_FarmBlockV2_Berries": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FarmBlockV2_Berries_TextData",
-            "SourceString": "\u30d9\u30ea\u30fc\u8fb2\u5712",
-            "LocalizedString": "\u30d9\u30ea\u30fc\u8fb2\u5712"
+            "SourceString": "ベリー農園",
+            "LocalizedString": "ベリー農園"
         }
     },
     "MAPOBJECT_NAME_FastTravelPoint": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FastTravelPoint_TextData",
-            "SourceString": "\u5927\u9df2\u306e\u50cf",
-            "LocalizedString": "\u5927\u9df2\u306e\u50cf"
+            "SourceString": "大鷲の像",
+            "LocalizedString": "大鷲の像"
         }
     },
     "MAPOBJECT_NAME_Floor": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Floor_TextData",
-            "SourceString": "\u5e8a",
-            "LocalizedString": "\u5e8a"
+            "SourceString": "床",
+            "LocalizedString": "床"
         }
     },
     "MAPOBJECT_NAME_Floor_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Floor_Stone_TextData",
-            "SourceString": "\u77f3\u306e\u5e8a",
-            "LocalizedString": "\u77f3\u306e\u5e8a"
+            "SourceString": "石の床",
+            "LocalizedString": "石の床"
         }
     },
     "MAPOBJECT_NAME_Floor_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Floor_Wood_TextData",
-            "SourceString": "\u6728\u306e\u5e8a",
-            "LocalizedString": "\u6728\u306e\u5e8a"
+            "SourceString": "木の床",
+            "LocalizedString": "木の床"
         }
     },
     "MAPOBJECT_NAME_FoliageLogTest": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FoliageLogTest_TextData",
-            "SourceString": "\u4e38\u592a",
-            "LocalizedString": "\u4e38\u592a"
+            "SourceString": "丸太",
+            "LocalizedString": "丸太"
         }
     },
     "MAPOBJECT_NAME_HighTechKitchen": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_HighTechKitchen_TextData",
-            "SourceString": "\u30cf\u30a4\u30c6\u30af\u30ad\u30c3\u30c1\u30f3",
-            "LocalizedString": "\u30cf\u30a4\u30c6\u30af\u30ad\u30c3\u30c1\u30f3"
+            "SourceString": "ハイテクキッチン",
+            "LocalizedString": "ハイテクキッチン"
         }
     },
     "MAPOBJECT_NAME_ItemChest": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ItemChest_TextData",
-            "SourceString": "\u6728\u306e\u30c1\u30a7\u30b9\u30c8",
-            "LocalizedString": "\u6728\u306e\u30c1\u30a7\u30b9\u30c8"
+            "SourceString": "木のチェスト",
+            "LocalizedString": "木のチェスト"
         }
     },
     "MAPOBJECT_NAME_ItemChest_02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ItemChest_02_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u30c1\u30a7\u30b9\u30c8",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u30c1\u30a7\u30b9\u30c8"
+            "SourceString": "金属のチェスト",
+            "LocalizedString": "金属のチェスト"
         }
     },
     "MAPOBJECT_NAME_ItemChest_03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ItemChest_03_TextData",
-            "SourceString": "\u7cbe\u932c\u91d1\u5c5e\u306e\u30c1\u30a7\u30b9\u30c8",
-            "LocalizedString": "\u7cbe\u932c\u91d1\u5c5e\u306e\u30c1\u30a7\u30b9\u30c8"
+            "SourceString": "精錬金属のチェスト",
+            "LocalizedString": "精錬金属のチェスト"
         }
     },
     "MAPOBJECT_NAME_MedicalPalBed_02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MedicalPalBed_02_TextData",
-            "SourceString": "\u308f\u3089\u306e\u30d1\u30eb\u30d9\u30c3\u30c9",
-            "LocalizedString": "\u308f\u3089\u306e\u30d1\u30eb\u30d9\u30c3\u30c9"
+            "SourceString": "わらのパルベッド",
+            "LocalizedString": "わらのパルベッド"
         }
     },
     "MAPOBJECT_NAME_MedicalPalBed_03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MedicalPalBed_03_TextData",
-            "SourceString": "\u3075\u304b\u3075\u304b\u30d1\u30eb\u30d9\u30c3\u30c9",
-            "LocalizedString": "\u3075\u304b\u3075\u304b\u30d1\u30eb\u30d9\u30c3\u30c9"
+            "SourceString": "ふかふかパルベッド",
+            "LocalizedString": "ふかふかパルベッド"
         }
     },
     "MAPOBJECT_NAME_MedicalPalBed_04": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MedicalPalBed_04_TextData",
-            "SourceString": "\u5927\u304d\u306a\u30d1\u30eb\u30d9\u30c3\u30c9",
-            "LocalizedString": "\u5927\u304d\u306a\u30d1\u30eb\u30d9\u30c3\u30c9"
+            "SourceString": "大きなパルベッド",
+            "LocalizedString": "大きなパルベッド"
         }
     },
     "MAPOBJECT_NAME_MedicalPalBed": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MedicalPalBed_TextData",
-            "SourceString": "\u672a\u6765\u306e\u30d1\u30eb\u30d9\u30c3\u30c9",
-            "LocalizedString": "\u672a\u6765\u306e\u30d1\u30eb\u30d9\u30c3\u30c9"
+            "SourceString": "未来のパルベッド",
+            "LocalizedString": "未来のパルベッド"
         }
     },
     "MAPOBJECT_NAME_MedicineFacility_01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MedicineFacility_01_TextData",
-            "SourceString": "\u4e2d\u4e16\u306e\u88fd\u85ac\u53f0",
-            "LocalizedString": "\u4e2d\u4e16\u306e\u88fd\u85ac\u53f0"
+            "SourceString": "中世の製薬台",
+            "LocalizedString": "中世の製薬台"
         }
     },
     "MAPOBJECT_NAME_MedicineFacility_02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MedicineFacility_02_TextData",
-            "SourceString": "\u96fb\u6c17\u88fd\u85ac\u53f0",
-            "LocalizedString": "\u96fb\u6c17\u88fd\u85ac\u53f0"
+            "SourceString": "電気製薬台",
+            "LocalizedString": "電気製薬台"
         }
     },
     "MAPOBJECT_NAME_MedicineFacility_03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MedicineFacility_03_TextData",
-            "SourceString": "\u672a\u6765\u306e\u88fd\u85ac\u53f0",
-            "LocalizedString": "\u672a\u6765\u306e\u88fd\u85ac\u53f0"
+            "SourceString": "未来の製薬台",
+            "LocalizedString": "未来の製薬台"
         }
     },
     "MAPOBJECT_NAME_PalFoodBox": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalFoodBox_TextData",
-            "SourceString": "\u30a8\u30b5\u7bb1",
-            "LocalizedString": "\u30a8\u30b5\u7bb1"
+            "SourceString": "エサ箱",
+            "LocalizedString": "エサ箱"
         }
     },
     "MAPOBJECT_NAME_PalStorage": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalStorage_TextData",
-            "SourceString": "\u30d1\u30eb\u30dc\u30c3\u30af\u30b9",
-            "LocalizedString": "\u30d1\u30eb\u30dc\u30c3\u30af\u30b9"
+            "SourceString": "パルボックス",
+            "LocalizedString": "パルボックス"
         }
     },
     "MAPOBJECT_NAME_PalBoxV2": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalBoxV2_TextData",
-            "SourceString": "\u30d1\u30eb\u30dc\u30c3\u30af\u30b9",
-            "LocalizedString": "\u30d1\u30eb\u30dc\u30c3\u30af\u30b9"
+            "SourceString": "パルボックス",
+            "LocalizedString": "パルボックス"
         }
     },
     "MAPOBJECT_NAME_DisplayCharacter": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DisplayCharacter_TextData",
-            "SourceString": "\u9451\u8cde\u7528\u30b1\u30fc\u30b8",
-            "LocalizedString": "\u9451\u8cde\u7528\u30b1\u30fc\u30b8"
+            "SourceString": "鑑賞用ケージ",
+            "LocalizedString": "鑑賞用ケージ"
         }
     },
     "MAPOBJECT_NAME_PickupItem_Flint": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PickupItem_Flint_TextData",
-            "SourceString": "\u706b\u6253\u77f3",
-            "LocalizedString": "\u706b\u6253\u77f3"
+            "SourceString": "火打石",
+            "LocalizedString": "火打石"
         }
     },
     "MAPOBJECT_NAME_PickupItem_Log": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PickupItem_Log_TextData",
-            "SourceString": "\u6728\u6750",
-            "LocalizedString": "\u6728\u6750"
+            "SourceString": "木材",
+            "LocalizedString": "木材"
         }
     },
     "MAPOBJECT_NAME_PickupItem_RedBerry": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PickupItem_RedBerry_TextData",
-            "SourceString": "\u8d64\u3044\u30d9\u30ea\u30fc",
-            "LocalizedString": "\u8d64\u3044\u30d9\u30ea\u30fc"
+            "SourceString": "赤いベリー",
+            "LocalizedString": "赤いベリー"
         }
     },
     "MAPOBJECT_NAME_PickupItem_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PickupItem_Stone_TextData",
-            "SourceString": "\u5c0f\u77f3",
-            "LocalizedString": "\u5c0f\u77f3"
+            "SourceString": "小石",
+            "LocalizedString": "小石"
         }
     },
     "MAPOBJECT_NAME_PickupItem_Potato": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PickupItem_Potato_TextData",
-            "SourceString": "\u30b8\u30e3\u30ac\u30a4\u30e2",
-            "LocalizedString": "\u30b8\u30e3\u30ac\u30a4\u30e2"
+            "SourceString": "ジャガイモ",
+            "LocalizedString": "ジャガイモ"
         }
     },
     "MAPOBJECT_NAME_PlayerBed_02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PlayerBed_02_TextData",
-            "SourceString": "\u4f4e\u8cea\u306a\u30d9\u30c3\u30c9",
-            "LocalizedString": "\u4f4e\u8cea\u306a\u30d9\u30c3\u30c9"
+            "SourceString": "低質なベッド",
+            "LocalizedString": "低質なベッド"
         }
     },
     "MAPOBJECT_NAME_PlayerBed_03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PlayerBed_03_TextData",
-            "SourceString": "\u4e0a\u8cea\u306a\u30d9\u30c3\u30c9",
-            "LocalizedString": "\u4e0a\u8cea\u306a\u30d9\u30c3\u30c9"
+            "SourceString": "上質なベッド",
+            "LocalizedString": "上質なベッド"
         }
     },
     "MAPOBJECT_NAME_PlayerBed": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PlayerBed_TextData",
-            "SourceString": "\u672a\u6765\u306e\u30d9\u30c3\u30c9",
-            "LocalizedString": "\u672a\u6765\u306e\u30d9\u30c3\u30c9"
+            "SourceString": "未来のベッド",
+            "LocalizedString": "未来のベッド"
         }
     },
     "MAPOBJECT_NAME_ShippingItemBox": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ShippingItemBox_TextData",
-            "SourceString": "\u51fa\u8377\u7bb1",
-            "LocalizedString": "\u51fa\u8377\u7bb1"
+            "SourceString": "出荷箱",
+            "LocalizedString": "出荷箱"
         }
     },
     "MAPOBJECT_NAME_SphereFactory_Black_01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_SphereFactory_Black_01_TextData",
-            "SourceString": "\u30b9\u30d5\u30a3\u30a2\u88fd\u4f5c\u53f0",
-            "LocalizedString": "\u30b9\u30d5\u30a3\u30a2\u88fd\u4f5c\u53f0"
+            "SourceString": "スフィア製作台",
+            "LocalizedString": "スフィア製作台"
         }
     },
     "MAPOBJECT_NAME_SphereFactory_Black_02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_SphereFactory_Black_02_TextData",
-            "SourceString": "\u30b9\u30d5\u30a3\u30a2\u30e9\u30a4\u30f3\u5de5\u5834",
-            "LocalizedString": "\u30b9\u30d5\u30a3\u30a2\u30e9\u30a4\u30f3\u5de5\u5834"
+            "SourceString": "スフィアライン工場",
+            "LocalizedString": "スフィアライン工場"
         }
     },
     "MAPOBJECT_NAME_SphereFactory_Black_03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_SphereFactory_Black_03_TextData",
-            "SourceString": "\u30b9\u30d5\u30a3\u30a2\u30e9\u30a4\u30f3\u5de5\u5834\u2161",
-            "LocalizedString": "\u30b9\u30d5\u30a3\u30a2\u30e9\u30a4\u30f3\u5de5\u5834\u2161"
+            "SourceString": "スフィアライン工場Ⅱ",
+            "LocalizedString": "スフィアライン工場Ⅱ"
         }
     },
     "MAPOBJECT_NAME_SphereFactory_White_01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_SphereFactory_White_01_TextData",
-            "SourceString": "\u30db\u30ef\u30a4\u30c8\u306a\r\n\u30b9\u30d5\u30a3\u30a2\u5de5\u5834\u2160",
-            "LocalizedString": "\u30db\u30ef\u30a4\u30c8\u306a\r\n\u30b9\u30d5\u30a3\u30a2\u5de5\u5834\u2160"
+            "SourceString": "ホワイトな\r\nスフィア工場Ⅰ",
+            "LocalizedString": "ホワイトな\r\nスフィア工場Ⅰ"
         }
     },
     "MAPOBJECT_NAME_SphereFactory_White_02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_SphereFactory_White_02_TextData",
-            "SourceString": "\u30db\u30ef\u30a4\u30c8\u306a\r\n\u30b9\u30d5\u30a3\u30a2\u5de5\u5834\u2161",
-            "LocalizedString": "\u30db\u30ef\u30a4\u30c8\u306a\r\n\u30b9\u30d5\u30a3\u30a2\u5de5\u5834\u2161"
+            "SourceString": "ホワイトな\r\nスフィア工場Ⅱ",
+            "LocalizedString": "ホワイトな\r\nスフィア工場Ⅱ"
         }
     },
     "MAPOBJECT_NAME_SphereFactory_White_03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_SphereFactory_White_03_TextData",
-            "SourceString": "\u30db\u30ef\u30a4\u30c8\u306a\r\n\u30b9\u30d5\u30a3\u30a2\u5de5\u5834\u2162",
-            "LocalizedString": "\u30db\u30ef\u30a4\u30c8\u306a\r\n\u30b9\u30d5\u30a3\u30a2\u5de5\u5834\u2162"
+            "SourceString": "ホワイトな\r\nスフィア工場Ⅲ",
+            "LocalizedString": "ホワイトな\r\nスフィア工場Ⅲ"
         }
     },
     "MAPOBJECT_NAME_StationDeforest": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_StationDeforest_TextData",
-            "SourceString": "\u4f10\u63a1\u5834",
-            "LocalizedString": "\u4f10\u63a1\u5834"
+            "SourceString": "伐採場",
+            "LocalizedString": "伐採場"
         }
     },
     "MAPOBJECT_NAME_Stonehouse1": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stonehouse1_TextData",
-            "SourceString": "\u77f3\u306e\u5bb6",
-            "LocalizedString": "\u77f3\u306e\u5bb6"
+            "SourceString": "石の家",
+            "LocalizedString": "石の家"
         }
     },
     "MAPOBJECT_NAME_StonePit": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_StonePit_TextData",
-            "SourceString": "\u63a1\u77f3\u5834",
-            "LocalizedString": "\u63a1\u77f3\u5834"
+            "SourceString": "採石場",
+            "LocalizedString": "採石場"
         }
     },
     "MAPOBJECT_NAME_CopperMine": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_CopperMine_TextData",
-            "SourceString": "\u91d1\u5c5e\u63a1\u6398\u5834",
-            "LocalizedString": "\u91d1\u5c5e\u63a1\u6398\u5834"
+            "SourceString": "金属採掘場",
+            "LocalizedString": "金属採掘場"
         }
     },
     "MAPOBJECT_NAME_SteelMine": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_SteelMine_TextData",
-            "SourceString": "\u63a1\u9244\u5834",
-            "LocalizedString": "\u63a1\u9244\u5834"
+            "SourceString": "採鉄場",
+            "LocalizedString": "採鉄場"
         }
     },
     "MAPOBJECT_NAME_Strawhouse1": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Strawhouse1_TextData",
-            "SourceString": "\u308f\u3089\u306e\u5bb6",
-            "LocalizedString": "\u308f\u3089\u306e\u5bb6"
+            "SourceString": "わらの家",
+            "LocalizedString": "わらの家"
         }
     },
     "MAPOBJECT_NAME_TEST_TestGlobalContainer": {
@@ -747,1784 +747,1784 @@
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wall_TextData",
-            "SourceString": "\u58c1",
-            "LocalizedString": "\u58c1"
+            "SourceString": "壁",
+            "LocalizedString": "壁"
         }
     },
     "MAPOBJECT_NAME_Wall_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wall_Stone_TextData",
-            "SourceString": "\u77f3\u306e\u58c1",
-            "LocalizedString": "\u77f3\u306e\u58c1"
+            "SourceString": "石の壁",
+            "LocalizedString": "石の壁"
         }
     },
     "MAPOBJECT_NAME_Wall_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wall_Wood_TextData",
-            "SourceString": "\u6728\u306e\u58c1",
-            "LocalizedString": "\u6728\u306e\u58c1"
+            "SourceString": "木の壁",
+            "LocalizedString": "木の壁"
         }
     },
     "MAPOBJECT_NAME_WeaponChest": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WeaponChest_TextData",
-            "SourceString": "\u6b66\u5668\u30c1\u30a7\u30b9\u30c8",
-            "LocalizedString": "\u6b66\u5668\u30c1\u30a7\u30b9\u30c8"
+            "SourceString": "武器チェスト",
+            "LocalizedString": "武器チェスト"
         }
     },
     "MAPOBJECT_NAME_WeaponFactory_Base": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WeaponFactory_Base_TextData",
-            "SourceString": "\u30c0\u30df\u30fc_\u6b66\u5668\u5de5\u5834",
-            "LocalizedString": "\u30c0\u30df\u30fc_\u6b66\u5668\u5de5\u5834"
+            "SourceString": "ダミー_武器工場",
+            "LocalizedString": "ダミー_武器工場"
         }
     },
     "MAPOBJECT_NAME_WeaponFactory_Clean_01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WeaponFactory_Clean_01_TextData",
-            "SourceString": "\u304d\u308c\u3044\u306a\u6b66\u5668\u5de5\u5834\u2160",
-            "LocalizedString": "\u304d\u308c\u3044\u306a\u6b66\u5668\u5de5\u5834\u2160"
+            "SourceString": "きれいな武器工場Ⅰ",
+            "LocalizedString": "きれいな武器工場Ⅰ"
         }
     },
     "MAPOBJECT_NAME_WeaponFactory_Clean_02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WeaponFactory_Clean_02_TextData",
-            "SourceString": "\u304d\u308c\u3044\u306a\u6b66\u5668\u5de5\u5834\u2161",
-            "LocalizedString": "\u304d\u308c\u3044\u306a\u6b66\u5668\u5de5\u5834\u2161"
+            "SourceString": "きれいな武器工場Ⅱ",
+            "LocalizedString": "きれいな武器工場Ⅱ"
         }
     },
     "MAPOBJECT_NAME_WeaponFactory_Clean_03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WeaponFactory_Clean_03_TextData",
-            "SourceString": "\u304d\u308c\u3044\u306a\u6b66\u5668\u5de5\u5834\u2162",
-            "LocalizedString": "\u304d\u308c\u3044\u306a\u6b66\u5668\u5de5\u5834\u2162"
+            "SourceString": "きれいな武器工場Ⅲ",
+            "LocalizedString": "きれいな武器工場Ⅲ"
         }
     },
     "MAPOBJECT_NAME_WeaponFactory_Dirty_01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WeaponFactory_Dirty_01_TextData",
-            "SourceString": "\u6b66\u5668\u88fd\u4f5c\u53f0",
-            "LocalizedString": "\u6b66\u5668\u88fd\u4f5c\u53f0"
+            "SourceString": "武器製作台",
+            "LocalizedString": "武器製作台"
         }
     },
     "MAPOBJECT_NAME_WeaponFactory_Dirty_02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WeaponFactory_Dirty_02_TextData",
-            "SourceString": "\u6b66\u5668\u30e9\u30a4\u30f3\u5de5\u5834",
-            "LocalizedString": "\u6b66\u5668\u30e9\u30a4\u30f3\u5de5\u5834"
+            "SourceString": "武器ライン工場",
+            "LocalizedString": "武器ライン工場"
         }
     },
     "MAPOBJECT_NAME_WeaponFactory_Dirty_03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WeaponFactory_Dirty_03_TextData",
-            "SourceString": "\u6b66\u5668\u30e9\u30a4\u30f3\u5de5\u5834\u2161",
-            "LocalizedString": "\u6b66\u5668\u30e9\u30a4\u30f3\u5de5\u5834\u2161"
+            "SourceString": "武器ライン工場Ⅱ",
+            "LocalizedString": "武器ライン工場Ⅱ"
         }
     },
     "MAPOBJECT_NAME_WeaponFactry": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WeaponFactry_TextData",
-            "SourceString": "\u6b66\u5668\u5de5\u5834",
-            "LocalizedString": "\u6b66\u5668\u5de5\u5834"
+            "SourceString": "武器工場",
+            "LocalizedString": "武器工場"
         }
     },
     "MAPOBJECT_NAME_Well": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Well_TextData",
-            "SourceString": "\u4e95\u6238",
-            "LocalizedString": "\u4e95\u6238"
+            "SourceString": "井戸",
+            "LocalizedString": "井戸"
         }
     },
     "MAPOBJECT_NAME_WoodHouse1": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WoodHouse1_TextData",
-            "SourceString": "\u6728\u306e\u5bb6",
-            "LocalizedString": "\u6728\u306e\u5bb6"
+            "SourceString": "木の家",
+            "LocalizedString": "木の家"
         }
     },
     "MAPOBJECT_NAME_WorkBench": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WorkBench_TextData",
-            "SourceString": "\u539f\u59cb\u7684\u306a\u4f5c\u696d\u53f0",
-            "LocalizedString": "\u539f\u59cb\u7684\u306a\u4f5c\u696d\u53f0"
+            "SourceString": "原始的な作業台",
+            "LocalizedString": "原始的な作業台"
         }
     },
     "MAPOBJECT_NAME_RecoverOtomo": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_RecoverOtomo_TextData",
-            "SourceString": "\u30d1\u30eb\u56de\u5fa9\u53f0",
-            "LocalizedString": "\u30d1\u30eb\u56de\u5fa9\u53f0"
+            "SourceString": "パル回復台",
+            "LocalizedString": "パル回復台"
         }
     },
     "MAPOBJECT_NAME_PalEgg": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalEgg_TextData",
-            "SourceString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4",
-            "LocalizedString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4"
+            "SourceString": "パルのタマゴ",
+            "LocalizedString": "パルのタマゴ"
         }
     },
     "MAPOBJECT_NAME_PalEgg_Fire": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalEgg_Fire_TextData",
-            "SourceString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4",
-            "LocalizedString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4"
+            "SourceString": "パルのタマゴ",
+            "LocalizedString": "パルのタマゴ"
         }
     },
     "MAPOBJECT_NAME_PalEgg_Water": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalEgg_Water_TextData",
-            "SourceString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4",
-            "LocalizedString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4"
+            "SourceString": "パルのタマゴ",
+            "LocalizedString": "パルのタマゴ"
         }
     },
     "MAPOBJECT_NAME_PalEgg_Leaf": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalEgg_Leaf_TextData",
-            "SourceString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4",
-            "LocalizedString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4"
+            "SourceString": "パルのタマゴ",
+            "LocalizedString": "パルのタマゴ"
         }
     },
     "MAPOBJECT_NAME_PalEgg_Electricity": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalEgg_Electricity_TextData",
-            "SourceString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4",
-            "LocalizedString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4"
+            "SourceString": "パルのタマゴ",
+            "LocalizedString": "パルのタマゴ"
         }
     },
     "MAPOBJECT_NAME_PalEgg_Ice": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalEgg_Ice_TextData",
-            "SourceString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4",
-            "LocalizedString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4"
+            "SourceString": "パルのタマゴ",
+            "LocalizedString": "パルのタマゴ"
         }
     },
     "MAPOBJECT_NAME_PalEgg_Earth": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalEgg_Earth_TextData",
-            "SourceString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4",
-            "LocalizedString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4"
+            "SourceString": "パルのタマゴ",
+            "LocalizedString": "パルのタマゴ"
         }
     },
     "MAPOBJECT_NAME_PalEgg_Dark": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalEgg_Dark_TextData",
-            "SourceString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4",
-            "LocalizedString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4"
+            "SourceString": "パルのタマゴ",
+            "LocalizedString": "パルのタマゴ"
         }
     },
     "MAPOBJECT_NAME_PalEgg_Dragon": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PalEgg_Dragon_TextData",
-            "SourceString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4",
-            "LocalizedString": "\u30d1\u30eb\u306e\u30bf\u30de\u30b4"
+            "SourceString": "パルのタマゴ",
+            "LocalizedString": "パルのタマゴ"
         }
     },
     "MAPOBJECT_NAME_HatchingPalEgg": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_HatchingPalEgg_TextData",
-            "SourceString": "\u30bf\u30de\u30b4\u5b75\u5316\u5668",
-            "LocalizedString": "\u30bf\u30de\u30b4\u5b75\u5316\u5668"
+            "SourceString": "タマゴ孵化器",
+            "LocalizedString": "タマゴ孵化器"
         }
     },
     "MAPOBJECT_NAME_TowerFastTravelPoint": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TowerFastTravelPoint_TextData",
-            "SourceString": "\u5927\u9df2\u306e\u50cf",
-            "LocalizedString": "\u5927\u9df2\u306e\u50cf"
+            "SourceString": "大鷲の像",
+            "LocalizedString": "大鷲の像"
         }
     },
     "MAPOBJECT_NAME_StationDeforest2": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_StationDeforest2_TextData",
-            "SourceString": "\u4f10\u63a1\u5834",
-            "LocalizedString": "\u4f10\u63a1\u5834"
+            "SourceString": "伐採場",
+            "LocalizedString": "伐採場"
         }
     },
     "MAPOBJECT_NAME_WorkBench_SkillUnlock": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WorkBench_SkillUnlock_TextData",
-            "SourceString": "\u30d1\u30eb\u30ae\u30a2\u88fd\u4f5c\u53f0",
-            "LocalizedString": "\u30d1\u30eb\u30ae\u30a2\u88fd\u4f5c\u53f0"
+            "SourceString": "パルギア製作台",
+            "LocalizedString": "パルギア製作台"
         }
     },
     "MAPOBJECT_NAME_WorkBench_SkillCard": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WorkBench_SkillCard_TextData",
-            "SourceString": "\u79d8\u4f1d\u306e\u66f8\u88fd\u4f5c\u53f0",
-            "LocalizedString": "\u79d8\u4f1d\u306e\u66f8\u88fd\u4f5c\u53f0"
+            "SourceString": "秘伝の書製作台",
+            "LocalizedString": "秘伝の書製作台"
         }
     },
     "MAPOBJECT_NAME_Foundation": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Foundation_TextData",
-            "SourceString": "\u571f\u53f0",
-            "LocalizedString": "\u571f\u53f0"
+            "SourceString": "土台",
+            "LocalizedString": "土台"
         }
     },
     "MAPOBJECT_NAME_Roof": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Roof_TextData",
-            "SourceString": "\u5c4b\u6839",
-            "LocalizedString": "\u5c4b\u6839"
+            "SourceString": "屋根",
+            "LocalizedString": "屋根"
         }
     },
     "MAPOBJECT_NAME_Stairs": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stairs_TextData",
-            "SourceString": "\u968e\u6bb5",
-            "LocalizedString": "\u968e\u6bb5"
+            "SourceString": "階段",
+            "LocalizedString": "階段"
         }
     },
     "MAPOBJECT_NAME_Wooden_foundation": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wooden_foundation_TextData",
-            "SourceString": "\u6728\u306e\u571f\u53f0",
-            "LocalizedString": "\u6728\u306e\u571f\u53f0"
+            "SourceString": "木の土台",
+            "LocalizedString": "木の土台"
         }
     },
     "MAPOBJECT_NAME_Wooden_wall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wooden_wall_TextData",
-            "SourceString": "\u6728\u306e\u58c1",
-            "LocalizedString": "\u6728\u306e\u58c1"
+            "SourceString": "木の壁",
+            "LocalizedString": "木の壁"
         }
     },
     "MAPOBJECT_NAME_Wooden_roof": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wooden_roof_TextData",
-            "SourceString": "\u6728\u306e\u5c4b\u6839",
-            "LocalizedString": "\u6728\u306e\u5c4b\u6839"
+            "SourceString": "木の屋根",
+            "LocalizedString": "木の屋根"
         }
     },
     "MAPOBJECT_NAME_Wooden_stair": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wooden_stair_TextData",
-            "SourceString": "\u6728\u306e\u968e\u6bb5",
-            "LocalizedString": "\u6728\u306e\u968e\u6bb5"
+            "SourceString": "木の階段",
+            "LocalizedString": "木の階段"
         }
     },
     "MAPOBJECT_NAME_Wooden_DoorWall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wooden_DoorWall_TextData",
-            "SourceString": "\u6728\u306e\u30c9\u30a2",
-            "LocalizedString": "\u6728\u306e\u30c9\u30a2"
+            "SourceString": "木のドア",
+            "LocalizedString": "木のドア"
         }
     },
     "MAPOBJECT_NAME_Stone_foundation": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stone_foundation_TextData",
-            "SourceString": "\u77f3\u306e\u571f\u53f0",
-            "LocalizedString": "\u77f3\u306e\u571f\u53f0"
+            "SourceString": "石の土台",
+            "LocalizedString": "石の土台"
         }
     },
     "MAPOBJECT_NAME_Stone_wall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stone_wall_TextData",
-            "SourceString": "\u77f3\u306e\u58c1",
-            "LocalizedString": "\u77f3\u306e\u58c1"
+            "SourceString": "石の壁",
+            "LocalizedString": "石の壁"
         }
     },
     "MAPOBJECT_NAME_Stone_roof": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stone_roof_TextData",
-            "SourceString": "\u77f3\u306e\u5c4b\u6839",
-            "LocalizedString": "\u77f3\u306e\u5c4b\u6839"
+            "SourceString": "石の屋根",
+            "LocalizedString": "石の屋根"
         }
     },
     "MAPOBJECT_NAME_Stone_stair": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stone_stair_TextData",
-            "SourceString": "\u77f3\u306e\u968e\u6bb5",
-            "LocalizedString": "\u77f3\u306e\u968e\u6bb5"
+            "SourceString": "石の階段",
+            "LocalizedString": "石の階段"
         }
     },
     "MAPOBJECT_NAME_Metal_foundation": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Metal_foundation_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u571f\u53f0",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u571f\u53f0"
+            "SourceString": "金属の土台",
+            "LocalizedString": "金属の土台"
         }
     },
     "MAPOBJECT_NAME_Metal_wall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Metal_wall_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u58c1",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u58c1"
+            "SourceString": "金属の壁",
+            "LocalizedString": "金属の壁"
         }
     },
     "MAPOBJECT_NAME_Metal_roof": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Metal_roof_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u5c4b\u6839",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u5c4b\u6839"
+            "SourceString": "金属の屋根",
+            "LocalizedString": "金属の屋根"
         }
     },
     "MAPOBJECT_NAME_Metal_stair": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Metal_stair_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u968e\u6bb5",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u968e\u6bb5"
+            "SourceString": "金属の階段",
+            "LocalizedString": "金属の階段"
         }
     },
     "MAPOBJECT_NAME_Heater": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Heater_TextData",
-            "SourceString": "\u708e\u306e\u30d2\u30fc\u30bf\u30fc",
-            "LocalizedString": "\u708e\u306e\u30d2\u30fc\u30bf\u30fc"
+            "SourceString": "炎のヒーター",
+            "LocalizedString": "炎のヒーター"
         }
     },
     "MAPOBJECT_NAME_ElectricHeater": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ElectricHeater_TextData",
-            "SourceString": "\u96fb\u6c17\u30d2\u30fc\u30bf\u30fc",
-            "LocalizedString": "\u96fb\u6c17\u30d2\u30fc\u30bf\u30fc"
+            "SourceString": "電気ヒーター",
+            "LocalizedString": "電気ヒーター"
         }
     },
     "MAPOBJECT_NAME_Cooler": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Cooler_TextData",
-            "SourceString": "\u6c37\u306e\u30af\u30fc\u30e9\u30fc",
-            "LocalizedString": "\u6c37\u306e\u30af\u30fc\u30e9\u30fc"
+            "SourceString": "氷のクーラー",
+            "LocalizedString": "氷のクーラー"
         }
     },
     "MAPOBJECT_NAME_ElectricCooler": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ElectricCooler_TextData",
-            "SourceString": "\u96fb\u6c17\u30af\u30fc\u30e9\u30fc",
-            "LocalizedString": "\u96fb\u6c17\u30af\u30fc\u30e9\u30fc"
+            "SourceString": "電気クーラー",
+            "LocalizedString": "電気クーラー"
         }
     },
     "MAPOBJECT_NAME_Torch": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Torch_TextData",
-            "SourceString": "\u8a2d\u7f6e\u305f\u3044\u307e\u3064",
-            "LocalizedString": "\u8a2d\u7f6e\u305f\u3044\u307e\u3064"
+            "SourceString": "設置たいまつ",
+            "LocalizedString": "設置たいまつ"
         }
     },
     "MAPOBJECT_NAME_WallTorch": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WallTorch_TextData",
-            "SourceString": "\u58c1\u639b\u3051\u305f\u3044\u307e\u3064",
-            "LocalizedString": "\u58c1\u639b\u3051\u305f\u3044\u307e\u3064"
+            "SourceString": "壁掛けたいまつ",
+            "LocalizedString": "壁掛けたいまつ"
         }
     },
     "MAPOBJECT_NAME_Lamp": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Lamp_TextData",
-            "SourceString": "\u8a2d\u7f6e\u30e9\u30f3\u30d7",
-            "LocalizedString": "\u8a2d\u7f6e\u30e9\u30f3\u30d7"
+            "SourceString": "設置ランプ",
+            "LocalizedString": "設置ランプ"
         }
     },
     "MAPOBJECT_NAME_CeilingLamp": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_CeilingLamp_TextData",
-            "SourceString": "\u5929\u4e95\u30e9\u30f3\u30d7",
-            "LocalizedString": "\u5929\u4e95\u30e9\u30f3\u30d7"
+            "SourceString": "天井ランプ",
+            "LocalizedString": "天井ランプ"
         }
     },
     "MAPOBJECT_NAME_LargeLamp": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_LargeLamp_TextData",
-            "SourceString": "\u8a2d\u7f6e\u5927\u578b\u30e9\u30f3\u30d7",
-            "LocalizedString": "\u8a2d\u7f6e\u5927\u578b\u30e9\u30f3\u30d7"
+            "SourceString": "設置大型ランプ",
+            "LocalizedString": "設置大型ランプ"
         }
     },
     "MAPOBJECT_NAME_LargeCeilingLamp": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_LargeCeilingLamp_TextData",
-            "SourceString": "\u5927\u578b\u5929\u4e95\u30e9\u30f3\u30d7",
-            "LocalizedString": "\u5927\u578b\u5929\u4e95\u30e9\u30f3\u30d7"
+            "SourceString": "大型天井ランプ",
+            "LocalizedString": "大型天井ランプ"
         }
     },
     "MAPOBJECT_NAME_BuildableGoddessStatue": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_BuildableGoddessStatue_TextData",
-            "SourceString": "\u529b\u306e\u77f3\u50cf",
-            "LocalizedString": "\u529b\u306e\u77f3\u50cf"
+            "SourceString": "力の石像",
+            "LocalizedString": "力の石像"
         }
     },
     "MAPOBJECT_NAME_Spa": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Spa_TextData",
-            "SourceString": "\u6e29\u6cc9",
-            "LocalizedString": "\u6e29\u6cc9"
+            "SourceString": "温泉",
+            "LocalizedString": "温泉"
         }
     },
     "MAPOBJECT_NAME_Spa2": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Spa2_TextData",
-            "SourceString": "\u4e0a\u8cea\u306a\u6e29\u6cc9",
-            "LocalizedString": "\u4e0a\u8cea\u306a\u6e29\u6cc9"
+            "SourceString": "上質な温泉",
+            "LocalizedString": "上質な温泉"
         }
     },
     "MAPOBJECT_NAME_PickupItem_Mushroom": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PickupItem_Mushroom_TextData",
-            "SourceString": "\u30ad\u30ce\u30b3",
-            "LocalizedString": "\u30ad\u30ce\u30b3"
+            "SourceString": "キノコ",
+            "LocalizedString": "キノコ"
         }
     },
     "MAPOBJECT_NAME_PickupItem_Poppy": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PickupItem_Poppy_TextData",
-            "SourceString": "\u304d\u308c\u3044\u306a\u82b1",
-            "LocalizedString": "\u304d\u308c\u3044\u306a\u82b1"
+            "SourceString": "きれいな花",
+            "LocalizedString": "きれいな花"
         }
     },
     "MAPOBJECT_NAME_DefenseWall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DefenseWall_TextData",
-            "SourceString": "\u9632\u58c1",
-            "LocalizedString": "\u9632\u58c1"
+            "SourceString": "防壁",
+            "LocalizedString": "防壁"
         }
     },
     "MAPOBJECT_NAME_Crusher": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Crusher_TextData",
-            "SourceString": "\u7834\u7815\u6a5f",
-            "LocalizedString": "\u7834\u7815\u6a5f"
+            "SourceString": "破砕機",
+            "LocalizedString": "破砕機"
         }
     },
     "MAPOBJECT_NAME_WoodCrusher": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_WoodCrusher_TextData",
-            "SourceString": "\u6728\u6750\u89e3\u4f53\u53f0",
-            "LocalizedString": "\u6728\u6750\u89e3\u4f53\u53f0"
+            "SourceString": "木材解体台",
+            "LocalizedString": "木材解体台"
         }
     },
     "MAPOBJECT_NAME_FlourMill": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FlourMill_TextData",
-            "SourceString": "\u88fd\u7c89\u6a5f",
-            "LocalizedString": "\u88fd\u7c89\u6a5f"
+            "SourceString": "製粉機",
+            "LocalizedString": "製粉機"
         }
     },
     "MAPOBJECT_NAME_Trap_LegHold": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Trap_LegHold_TextData",
-            "SourceString": "\u3068\u3089\u3070\u3055\u307f(\u5c0f)",
-            "LocalizedString": "\u3068\u3089\u3070\u3055\u307f(\u5c0f)"
+            "SourceString": "とらばさみ(小)",
+            "LocalizedString": "とらばさみ(小)"
         }
     },
     "MAPOBJECT_NAME_Trap_LegHold_Big": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Trap_LegHold_Big_TextData",
-            "SourceString": "\u3068\u3089\u3070\u3055\u307f(\u5927)",
-            "LocalizedString": "\u3068\u3089\u3070\u3055\u307f(\u5927)"
+            "SourceString": "とらばさみ(大)",
+            "LocalizedString": "とらばさみ(大)"
         }
     },
     "MAPOBJECT_NAME_Trap_Noose": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Trap_Noose_TextData",
-            "SourceString": "\u5b99\u540a\u308a\u7f60",
-            "LocalizedString": "\u5b99\u540a\u308a\u7f60"
+            "SourceString": "宙吊り罠",
+            "LocalizedString": "宙吊り罠"
         }
     },
     "MAPOBJECT_NAME_Trap_MovingPanel": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Trap_MovingPanel_TextData",
-            "SourceString": "\u79fb\u52d5\u30d1\u30cd\u30eb",
-            "LocalizedString": "\u79fb\u52d5\u30d1\u30cd\u30eb"
+            "SourceString": "移動パネル",
+            "LocalizedString": "移動パネル"
         }
     },
     "MAPOBJECT_NAME_Trap_MineElecShock": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Trap_MineElecShock_TextData",
-            "SourceString": "\u611f\u96fb\u5730\u96f7",
-            "LocalizedString": "\u611f\u96fb\u5730\u96f7"
+            "SourceString": "感電地雷",
+            "LocalizedString": "感電地雷"
         }
     },
     "MAPOBJECT_NAME_Trap_MineFreeze": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Trap_MineFreeze_TextData",
-            "SourceString": "\u6c37\u7d50\u5730\u96f7",
-            "LocalizedString": "\u6c37\u7d50\u5730\u96f7"
+            "SourceString": "氷結地雷",
+            "LocalizedString": "氷結地雷"
         }
     },
     "MAPOBJECT_NAME_Trap_MineAttack": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Trap_MineAttack_TextData",
-            "SourceString": "\u5730\u96f7",
-            "LocalizedString": "\u5730\u96f7"
+            "SourceString": "地雷",
+            "LocalizedString": "地雷"
         }
     },
     "MAPOBJECT_NAME_BreedFarm": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_BreedFarm_TextData",
-            "SourceString": "\u914d\u5408\u7267\u5834",
-            "LocalizedString": "\u914d\u5408\u7267\u5834"
+            "SourceString": "配合牧場",
+            "LocalizedString": "配合牧場"
         }
     },
     "MAPOBJECT_NAME_ToolBoxV2": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ToolBoxV2_TextData",
-            "SourceString": "\u5de5\u5177\u7bb1V2",
-            "LocalizedString": "\u5de5\u5177\u7bb1V2"
+            "SourceString": "工具箱V2",
+            "LocalizedString": "工具箱V2"
         }
     },
     "MAPOBJECT_NAME_ToolBoxV1": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ToolBoxV1_TextData",
-            "SourceString": "\u5927\u304d\u306a\u5de5\u5177\u7bb1",
-            "LocalizedString": "\u5927\u304d\u306a\u5de5\u5177\u7bb1"
+            "SourceString": "大きな工具箱",
+            "LocalizedString": "大きな工具箱"
         }
     },
     "MAPOBJECT_NAME_OlympicCauldron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_OlympicCauldron_TextData",
-            "SourceString": "\u8056\u706b\u53f0",
-            "LocalizedString": "\u8056\u706b\u53f0"
+            "SourceString": "聖火台",
+            "LocalizedString": "聖火台"
         }
     },
     "MAPOBJECT_NAME_Fountain": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Fountain_TextData",
-            "SourceString": "\u5674\u6c34",
-            "LocalizedString": "\u5674\u6c34"
+            "SourceString": "噴水",
+            "LocalizedString": "噴水"
         }
     },
     "MAPOBJECT_NAME_Silo": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Silo_TextData",
-            "SourceString": "\u30b5\u30a4\u30ed",
-            "LocalizedString": "\u30b5\u30a4\u30ed"
+            "SourceString": "サイロ",
+            "LocalizedString": "サイロ"
         }
     },
     "MAPOBJECT_NAME_TransmissionTower": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TransmissionTower_TextData",
-            "SourceString": "\u9001\u96fb\u5854",
-            "LocalizedString": "\u9001\u96fb\u5854"
+            "SourceString": "送電塔",
+            "LocalizedString": "送電塔"
         }
     },
     "MAPOBJECT_NAME_FlowerBed": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_FlowerBed_TextData",
-            "SourceString": "\u82b1\u58c7",
-            "LocalizedString": "\u82b1\u58c7"
+            "SourceString": "花壇",
+            "LocalizedString": "花壇"
         }
     },
     "MAPOBJECT_NAME_Stump": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stump_TextData",
-            "SourceString": "\u5207\u308a\u682a\u3068\u65a7",
-            "LocalizedString": "\u5207\u308a\u682a\u3068\u65a7"
+            "SourceString": "切り株と斧",
+            "LocalizedString": "切り株と斧"
         }
     },
     "MAPOBJECT_NAME_MiningTool": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MiningTool_TextData",
-            "SourceString": "\u3064\u308b\u306f\u3057\u3068\u30d8\u30eb\u30e1\u30c3\u30c8",
-            "LocalizedString": "\u3064\u308b\u306f\u3057\u3068\u30d8\u30eb\u30e1\u30c3\u30c8"
+            "SourceString": "つるはしとヘルメット",
+            "LocalizedString": "つるはしとヘルメット"
         }
     },
     "MAPOBJECT_NAME_Cauldron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Cauldron_TextData",
-            "SourceString": "\u9b54\u5973\u306e\u934b",
-            "LocalizedString": "\u9b54\u5973\u306e\u934b"
+            "SourceString": "魔女の鍋",
+            "LocalizedString": "魔女の鍋"
         }
     },
     "MAPOBJECT_NAME_Snowman": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Snowman_TextData",
-            "SourceString": "\u96ea\u3060\u308b\u307e",
-            "LocalizedString": "\u96ea\u3060\u308b\u307e"
+            "SourceString": "雪だるま",
+            "LocalizedString": "雪だるま"
         }
     },
     "MAPOBJECT_NAME_Stone_DoorWall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stone_DoorWall_TextData",
-            "SourceString": "\u77f3\u306e\u30c9\u30a2",
-            "LocalizedString": "\u77f3\u306e\u30c9\u30a2"
+            "SourceString": "石のドア",
+            "LocalizedString": "石のドア"
         }
     },
     "MAPOBJECT_NAME_Metal_DoorWall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Metal_DoorWall_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u30c9\u30a2",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u30c9\u30a2"
+            "SourceString": "金属のドア",
+            "LocalizedString": "金属のドア"
         }
     },
     "MAPOBJECT_NAME_CoolerBox": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_CoolerBox_TextData",
-            "SourceString": "\u30af\u30fc\u30e9\u30fc\u30dc\u30c3\u30af\u30b9",
-            "LocalizedString": "\u30af\u30fc\u30e9\u30fc\u30dc\u30c3\u30af\u30b9"
+            "SourceString": "クーラーボックス",
+            "LocalizedString": "クーラーボックス"
         }
     },
     "MAPOBJECT_NAME_Refrigerator": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Refrigerator_TextData",
-            "SourceString": "\u51b7\u8535\u5eab",
-            "LocalizedString": "\u51b7\u8535\u5eab"
+            "SourceString": "冷蔵庫",
+            "LocalizedString": "冷蔵庫"
         }
     },
     "MAPOBJECT_NAME_Decal_PalSticker_PinkCat": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Decal_PalSticker_PinkCat_TextData",
-            "SourceString": "\u30c4\u30c3\u30d1\u30cb\u30e3\u30f3\u306e\u30b7\u30fc\u30eb",
-            "LocalizedString": "\u30c4\u30c3\u30d1\u30cb\u30e3\u30f3\u306e\u30b7\u30fc\u30eb"
+            "SourceString": "ツッパニャンのシール",
+            "LocalizedString": "ツッパニャンのシール"
         }
     },
     "MAPOBJECT_NAME_MonsterFarm": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MonsterFarm_TextData",
-            "SourceString": "\u5bb6\u755c\u7267\u5834",
-            "LocalizedString": "\u5bb6\u755c\u7267\u5834"
+            "SourceString": "家畜牧場",
+            "LocalizedString": "家畜牧場"
         }
     },
     "MAPOBJECT_NAME_Wood_Gate": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wood_Gate_TextData",
-            "SourceString": "\u6728\u306e\u9580",
-            "LocalizedString": "\u6728\u306e\u9580"
+            "SourceString": "木の門",
+            "LocalizedString": "木の門"
         }
     },
     "MAPOBJECT_NAME_Stone_Gate": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stone_Gate_TextData",
-            "SourceString": "\u77f3\u306e\u9580",
-            "LocalizedString": "\u77f3\u306e\u9580"
+            "SourceString": "石の門",
+            "LocalizedString": "石の門"
         }
     },
     "MAPOBJECT_NAME_Metal_Gate": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Metal_Gate_TextData",
-            "SourceString": "\u9244\u306e\u9580",
-            "LocalizedString": "\u9244\u306e\u9580"
+            "SourceString": "鉄の門",
+            "LocalizedString": "鉄の門"
         }
     },
     "MAPOBJECT_NAME_RepairBench": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_RepairBench_TextData",
-            "SourceString": "\u4fee\u7406\u53f0",
-            "LocalizedString": "\u4fee\u7406\u53f0"
+            "SourceString": "修理台",
+            "LocalizedString": "修理台"
         }
     },
     "MAPOBJECT_NAME_BaseCampWorkHard": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_BaseCampWorkHard_TextData",
-            "SourceString": "\u76e3\u8996\u53f0",
-            "LocalizedString": "\u76e3\u8996\u53f0"
+            "SourceString": "監視台",
+            "LocalizedString": "監視台"
         }
     },
     "MAPOBJECT_NAME_Signboard": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Signboard_TextData",
-            "SourceString": "\u770b\u677f",
-            "LocalizedString": "\u770b\u677f"
+            "SourceString": "看板",
+            "LocalizedString": "看板"
         }
     },
     "MAPOBJECT_NAME_BaseCampBattleDirector": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_BaseCampBattleDirector_TextData",
-            "SourceString": "\u8b66\u9418",
-            "LocalizedString": "\u8b66\u9418"
+            "SourceString": "警鐘",
+            "LocalizedString": "警鐘"
         }
     },
     "MAPOBJECT_NAME_TableSquare_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TableSquare_Wood_TextData",
-            "SourceString": "\u56db\u89d2\u3044\u30c6\u30fc\u30d6\u30eb",
-            "LocalizedString": "\u56db\u89d2\u3044\u30c6\u30fc\u30d6\u30eb"
+            "SourceString": "四角いテーブル",
+            "LocalizedString": "四角いテーブル"
         }
     },
     "MAPOBJECT_NAME_TableCircular_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TableCircular_Wood_TextData",
-            "SourceString": "\u4e38\u3044\u30c6\u30fc\u30d6\u30eb",
-            "LocalizedString": "\u4e38\u3044\u30c6\u30fc\u30d6\u30eb"
+            "SourceString": "丸いテーブル",
+            "LocalizedString": "丸いテーブル"
         }
     },
     "MAPOBJECT_NAME_Bench_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Bench_Wood_TextData",
-            "SourceString": "\u6728\u306e\u30d9\u30f3\u30c1",
-            "LocalizedString": "\u6728\u306e\u30d9\u30f3\u30c1"
+            "SourceString": "木のベンチ",
+            "LocalizedString": "木のベンチ"
         }
     },
     "MAPOBJECT_NAME_Stool_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stool_Wood_TextData",
-            "SourceString": "\u6728\u306e\u30b9\u30c4\u30fc\u30eb",
-            "LocalizedString": "\u6728\u306e\u30b9\u30c4\u30fc\u30eb"
+            "SourceString": "木のスツール",
+            "LocalizedString": "木のスツール"
         }
     },
     "MAPOBJECT_NAME_Stool_High_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stool_High_Wood_TextData",
-            "SourceString": "\u6728\u306e\u30cf\u30a4\u30b9\u30c4\u30fc\u30eb",
-            "LocalizedString": "\u6728\u306e\u30cf\u30a4\u30b9\u30c4\u30fc\u30eb"
+            "SourceString": "木のハイスツール",
+            "LocalizedString": "木のハイスツール"
         }
     },
     "MAPOBJECT_NAME_Barrel_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Barrel_Wood_TextData",
-            "SourceString": "\u6728\u306e\u6a3d",
-            "LocalizedString": "\u6728\u306e\u6a3d"
+            "SourceString": "木の樽",
+            "LocalizedString": "木の樽"
         }
     },
     "MAPOBJECT_NAME_Box_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Box_Wood_TextData",
-            "SourceString": "\u6728\u306e\u7bb1",
-            "LocalizedString": "\u6728\u306e\u7bb1"
+            "SourceString": "木の箱",
+            "LocalizedString": "木の箱"
         }
     },
     "MAPOBJECT_NAME_Shelf_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf_Wood_TextData",
-            "SourceString": "\u6728\u306e\u68da",
-            "LocalizedString": "\u6728\u306e\u68da"
+            "SourceString": "木の棚",
+            "LocalizedString": "木の棚"
         }
     },
     "MAPOBJECT_NAME_Shelf_Cask_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf_Cask_Wood_TextData",
-            "SourceString": "\u6728\u306e\u6a3d\u68da",
-            "LocalizedString": "\u6728\u306e\u6a3d\u68da"
+            "SourceString": "木の樽棚",
+            "LocalizedString": "木の樽棚"
         }
     },
     "MAPOBJECT_NAME_Shelf_Hang01_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf_Hang01_Wood_TextData",
-            "SourceString": "\u6728\u306e\u58c1\u4ed8\u3051\u68da",
-            "LocalizedString": "\u6728\u306e\u58c1\u4ed8\u3051\u68da"
+            "SourceString": "木の壁付け棚",
+            "LocalizedString": "木の壁付け棚"
         }
     },
     "MAPOBJECT_NAME_Shelf_Hang02_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf_Hang02_Wood_TextData",
-            "SourceString": "\u6728\u306e\u58c1\u4ed8\u3051\u88c5\u98fe\u68da",
-            "LocalizedString": "\u6728\u306e\u58c1\u4ed8\u3051\u88c5\u98fe\u68da"
+            "SourceString": "木の壁付け装飾棚",
+            "LocalizedString": "木の壁付け装飾棚"
         }
     },
     "MAPOBJECT_NAME_Counter_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Counter_Wood_TextData",
-            "SourceString": "\u6728\u306e\u30ab\u30a6\u30f3\u30bf\u30fc",
-            "LocalizedString": "\u6728\u306e\u30ab\u30a6\u30f3\u30bf\u30fc"
+            "SourceString": "木のカウンター",
+            "LocalizedString": "木のカウンター"
         }
     },
     "MAPOBJECT_NAME_Rug_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Rug_Wood_TextData",
-            "SourceString": "\u6bdb\u76ae\u30e9\u30b0",
-            "LocalizedString": "\u6bdb\u76ae\u30e9\u30b0"
+            "SourceString": "毛皮ラグ",
+            "LocalizedString": "毛皮ラグ"
         }
     },
     "MAPOBJECT_NAME_Ivy01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Ivy01_TextData",
-            "SourceString": "\u58c1\u639b\u3051\u306e\u5927\u304d\u306a\u30c4\u30bf",
-            "LocalizedString": "\u58c1\u639b\u3051\u306e\u5927\u304d\u306a\u30c4\u30bf"
+            "SourceString": "壁掛けの大きなツタ",
+            "LocalizedString": "壁掛けの大きなツタ"
         }
     },
     "MAPOBJECT_NAME_Ivy02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Ivy02_TextData",
-            "SourceString": "\u58c1\u639b\u3051\u306e\u5c0f\u3055\u306a\u30c4\u30bf",
-            "LocalizedString": "\u58c1\u639b\u3051\u306e\u5c0f\u3055\u306a\u30c4\u30bf"
+            "SourceString": "壁掛けの小さなツタ",
+            "LocalizedString": "壁掛けの小さなツタ"
         }
     },
     "MAPOBJECT_NAME_Ivy03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Ivy03_TextData",
-            "SourceString": "\u58c1\u639b\u3051\u6a2a\u9577\u306e\u30c4\u30bf",
-            "LocalizedString": "\u58c1\u639b\u3051\u6a2a\u9577\u306e\u30c4\u30bf"
+            "SourceString": "壁掛け横長のツタ",
+            "LocalizedString": "壁掛け横長のツタ"
         }
     },
     "MAPOBJECT_NAME_DamagedScarecrow": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DamagedScarecrow_TextData",
-            "SourceString": "\u30c0\u30e1\u30fc\u30b8\u304b\u304b\u3057",
-            "LocalizedString": "\u30c0\u30e1\u30fc\u30b8\u304b\u304b\u3057"
+            "SourceString": "ダメージかかし",
+            "LocalizedString": "ダメージかかし"
         }
     },
     "MAPOBJECT_NAME_Chair01_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Chair01_Wood_TextData",
-            "SourceString": "\u6728\u306e\u6905\u5b50",
-            "LocalizedString": "\u6728\u306e\u6905\u5b50"
+            "SourceString": "木の椅子",
+            "LocalizedString": "木の椅子"
         }
     },
     "MAPOBJECT_NAME_Barrel01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Barrel01_Iron_TextData",
-            "SourceString": "\u8d64\u8272\u306e\u30c9\u30e9\u30e0\u7f36",
-            "LocalizedString": "\u8d64\u8272\u306e\u30c9\u30e9\u30e0\u7f36"
+            "SourceString": "赤色のドラム缶",
+            "LocalizedString": "赤色のドラム缶"
         }
     },
     "MAPOBJECT_NAME_Barrel02_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Barrel02_Iron_TextData",
-            "SourceString": "\u9752\u8272\u306e\u30c9\u30e9\u30e0\u7f36",
-            "LocalizedString": "\u9752\u8272\u306e\u30c9\u30e9\u30e0\u7f36"
+            "SourceString": "青色のドラム缶",
+            "LocalizedString": "青色のドラム缶"
         }
     },
     "MAPOBJECT_NAME_Barrel03_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Barrel03_Iron_TextData",
-            "SourceString": "\u7dd1\u8272\u306e\u30c9\u30e9\u30e0\u7f36",
-            "LocalizedString": "\u7dd1\u8272\u306e\u30c9\u30e9\u30e0\u7f36"
+            "SourceString": "緑色のドラム缶",
+            "LocalizedString": "緑色のドラム缶"
         }
     },
     "MAPOBJECT_NAME_Box01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Box01_Iron_TextData",
-            "SourceString": "\u5c0f\u3055\u306a\u30b3\u30f3\u30c6\u30ca",
-            "LocalizedString": "\u5c0f\u3055\u306a\u30b3\u30f3\u30c6\u30ca"
+            "SourceString": "小さなコンテナ",
+            "LocalizedString": "小さなコンテナ"
         }
     },
     "MAPOBJECT_NAME_Box02_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Box02_Iron_TextData",
-            "SourceString": "\u5e03\u4ed8\u304d\u30b3\u30f3\u30c6\u30ca",
-            "LocalizedString": "\u5e03\u4ed8\u304d\u30b3\u30f3\u30c6\u30ca"
+            "SourceString": "布付きコンテナ",
+            "LocalizedString": "布付きコンテナ"
         }
     },
     "MAPOBJECT_NAME_CableCoil01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_CableCoil01_Iron_TextData",
-            "SourceString": "\u30b1\u30fc\u30d6\u30eb\u30c9\u30e9\u30e0",
-            "LocalizedString": "\u30b1\u30fc\u30d6\u30eb\u30c9\u30e9\u30e0"
+            "SourceString": "ケーブルドラム",
+            "LocalizedString": "ケーブルドラム"
         }
     },
     "MAPOBJECT_NAME_Chair01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Chair01_Iron_TextData",
-            "SourceString": "\u76ae\u5f35\u308a\u306e\u6905\u5b50",
-            "LocalizedString": "\u76ae\u5f35\u308a\u306e\u6905\u5b50"
+            "SourceString": "皮張りの椅子",
+            "LocalizedString": "皮張りの椅子"
         }
     },
     "MAPOBJECT_NAME_Chair02_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Chair02_Iron_TextData",
-            "SourceString": "\u9244\u88fd\u306e\u6905\u5b50",
-            "LocalizedString": "\u9244\u88fd\u306e\u6905\u5b50"
+            "SourceString": "鉄製の椅子",
+            "LocalizedString": "鉄製の椅子"
         }
     },
     "MAPOBJECT_NAME_Clock01_Wall_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Clock01_Wall_Iron_TextData",
-            "SourceString": "\u58c1\u639b\u3051\u6642\u8a08",
-            "LocalizedString": "\u58c1\u639b\u3051\u6642\u8a08"
+            "SourceString": "壁掛け時計",
+            "LocalizedString": "壁掛け時計"
         }
     },
     "MAPOBJECT_NAME_Container01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Container01_Iron_TextData",
-            "SourceString": "\u5927\u578b\u30b3\u30f3\u30c6\u30ca",
-            "LocalizedString": "\u5927\u578b\u30b3\u30f3\u30c6\u30ca"
+            "SourceString": "大型コンテナ",
+            "LocalizedString": "大型コンテナ"
         }
     },
     "MAPOBJECT_NAME_GarbageBag_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_GarbageBag_Iron_TextData",
-            "SourceString": "\u30b4\u30df\u3076\u304f\u308d",
-            "LocalizedString": "\u30b4\u30df\u3076\u304f\u308d"
+            "SourceString": "ゴミぶくろ",
+            "LocalizedString": "ゴミぶくろ"
         }
     },
     "MAPOBJECT_NAME_GoalSoccer_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_GoalSoccer_Iron_TextData",
-            "SourceString": "\u30b5\u30c3\u30ab\u30fc\u30b4\u30fc\u30eb",
-            "LocalizedString": "\u30b5\u30c3\u30ab\u30fc\u30b4\u30fc\u30eb"
+            "SourceString": "サッカーゴール",
+            "LocalizedString": "サッカーゴール"
         }
     },
     "MAPOBJECT_NAME_MachineGame01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MachineGame01_Iron_TextData",
-            "SourceString": "\u30af\u30ec\u30fc\u30f3\u30b2\u30fc\u30e0",
-            "LocalizedString": "\u30af\u30ec\u30fc\u30f3\u30b2\u30fc\u30e0"
+            "SourceString": "クレーンゲーム",
+            "LocalizedString": "クレーンゲーム"
         }
     },
     "MAPOBJECT_NAME_MachineVending01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_MachineVending01_Iron_TextData",
-            "SourceString": "\u30b3\u30fc\u30e9\u81ea\u52d5\u8ca9\u58f2\u6a5f",
-            "LocalizedString": "\u30b3\u30fc\u30e9\u81ea\u52d5\u8ca9\u58f2\u6a5f"
+            "SourceString": "コーラ自動販売機",
+            "LocalizedString": "コーラ自動販売機"
         }
     },
     "MAPOBJECT_NAME_PipeClay01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_PipeClay01_Iron_TextData",
-            "SourceString": "\u571f\u7ba1",
-            "LocalizedString": "\u571f\u7ba1"
+            "SourceString": "土管",
+            "LocalizedString": "土管"
         }
     },
     "MAPOBJECT_NAME_Shelf01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf01_Iron_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u7cfb\u306e\u68da",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u7cfb\u306e\u68da"
+            "SourceString": "アイアン系の棚",
+            "LocalizedString": "アイアン系の棚"
         }
     },
     "MAPOBJECT_NAME_Shelf02_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf02_Iron_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u7cfb\u306e\u6a2a\u9577\u306e\u68da",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u7cfb\u306e\u6a2a\u9577\u306e\u68da"
+            "SourceString": "アイアン系の横長の棚",
+            "LocalizedString": "アイアン系の横長の棚"
         }
     },
     "MAPOBJECT_NAME_Shelf03_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf03_Iron_TextData",
-            "SourceString": "\u30aa\u30ec\u30f3\u30b8\u306e\u30ed\u30c3\u30ab\u30fc",
-            "LocalizedString": "\u30aa\u30ec\u30f3\u30b8\u306e\u30ed\u30c3\u30ab\u30fc"
+            "SourceString": "オレンジのロッカー",
+            "LocalizedString": "オレンジのロッカー"
         }
     },
     "MAPOBJECT_NAME_Shelf04_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf04_Iron_TextData",
-            "SourceString": "\u30ed\u30c3\u30ab\u30fc",
-            "LocalizedString": "\u30ed\u30c3\u30ab\u30fc"
+            "SourceString": "ロッカー",
+            "LocalizedString": "ロッカー"
         }
     },
     "MAPOBJECT_NAME_SignExit_Ceiling_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_SignExit_Ceiling_Iron_TextData",
-            "SourceString": "\u975e\u5e38\u53e3\u30b5\u30a4\u30f3\u5929\u4e95\u4ed8\u3051",
-            "LocalizedString": "\u975e\u5e38\u53e3\u30b5\u30a4\u30f3\u5929\u4e95\u4ed8\u3051"
+            "SourceString": "非常口サイン天井付け",
+            "LocalizedString": "非常口サイン天井付け"
         }
     },
     "MAPOBJECT_NAME_SignExit_Wall_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_SignExit_Wall_Iron_TextData",
-            "SourceString": "\u975e\u5e38\u53e3\u30b5\u30a4\u30f3\u58c1\u4ed8\u3051",
-            "LocalizedString": "\u975e\u5e38\u53e3\u30b5\u30a4\u30f3\u58c1\u4ed8\u3051"
+            "SourceString": "非常口サイン壁付け",
+            "LocalizedString": "非常口サイン壁付け"
         }
     },
     "MAPOBJECT_NAME_Sofa01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Sofa01_Iron_TextData",
-            "SourceString": "\u76ae\u5f35\u308a\u306e1\u4eba\u7528\u30bd\u30d5\u30a1",
-            "LocalizedString": "\u76ae\u5f35\u308a\u306e1\u4eba\u7528\u30bd\u30d5\u30a1"
+            "SourceString": "皮張りの1人用ソファ",
+            "LocalizedString": "皮張りの1人用ソファ"
         }
     },
     "MAPOBJECT_NAME_Sofa02_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Sofa02_Iron_TextData",
-            "SourceString": "\u76ae\u5f35\u308a\u306e2\u4eba\u7528\u30bd\u30d5\u30a1",
-            "LocalizedString": "\u76ae\u5f35\u308a\u306e2\u4eba\u7528\u30bd\u30d5\u30a1"
+            "SourceString": "皮張りの2人用ソファ",
+            "LocalizedString": "皮張りの2人用ソファ"
         }
     },
     "MAPOBJECT_NAME_Stool01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stool01_Iron_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u306e\u30b9\u30c4\u30fc\u30eb",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u306e\u30b9\u30c4\u30fc\u30eb"
+            "SourceString": "アイアンのスツール",
+            "LocalizedString": "アイアンのスツール"
         }
     },
     "MAPOBJECT_NAME_TableCircular01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TableCircular01_Iron_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u306e\u4e38\u30c6\u30fc\u30d6\u30eb",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u306e\u4e38\u30c6\u30fc\u30d6\u30eb"
+            "SourceString": "アイアンの丸テーブル",
+            "LocalizedString": "アイアンの丸テーブル"
         }
     },
     "MAPOBJECT_NAME_TableSide01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TableSide01_Iron_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u30a6\u30c3\u30c9\u306e\u30b5\u30a4\u30c9\u30c6\u30fc\u30d6\u30eb",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u30a6\u30c3\u30c9\u306e\u30b5\u30a4\u30c9\u30c6\u30fc\u30d6\u30eb"
+            "SourceString": "アイアンウッドのサイドテーブル",
+            "LocalizedString": "アイアンウッドのサイドテーブル"
         }
     },
     "MAPOBJECT_NAME_TableSquare01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TableSquare01_Iron_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u30a6\u30c3\u30c9\u306e\u30c6\u30fc\u30d6\u30eb",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u30a6\u30c3\u30c9\u306e\u30c6\u30fc\u30d6\u30eb"
+            "SourceString": "アイアンウッドのテーブル",
+            "LocalizedString": "アイアンウッドのテーブル"
         }
     },
     "MAPOBJECT_NAME_TableSquare02_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TableSquare02_Iron_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u30a6\u30c3\u30c9\u306e\u30ed\u30fc\u30c6\u30fc\u30d6\u30eb",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u30a6\u30c3\u30c9\u306e\u30ed\u30fc\u30c6\u30fc\u30d6\u30eb"
+            "SourceString": "アイアンウッドのローテーブル",
+            "LocalizedString": "アイアンウッドのローテーブル"
         }
     },
     "MAPOBJECT_NAME_Tire01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Tire01_Iron_TextData",
-            "SourceString": "\u30bf\u30a4\u30e4",
-            "LocalizedString": "\u30bf\u30a4\u30e4"
+            "SourceString": "タイヤ",
+            "LocalizedString": "タイヤ"
         }
     },
     "MAPOBJECT_NAME_TrafficBarricade01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficBarricade01_Iron_TextData",
-            "SourceString": "\u30d0\u30ea\u30b1\u30fc\u30c9",
-            "LocalizedString": "\u30d0\u30ea\u30b1\u30fc\u30c9"
+            "SourceString": "バリケード",
+            "LocalizedString": "バリケード"
         }
     },
     "MAPOBJECT_NAME_TrafficBarricade02_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficBarricade02_Iron_TextData",
-            "SourceString": "\u30aa\u30ec\u30f3\u30b8\u306e\u30d0\u30ea\u30b1\u30fc\u30c9",
-            "LocalizedString": "\u30aa\u30ec\u30f3\u30b8\u306e\u30d0\u30ea\u30b1\u30fc\u30c9"
+            "SourceString": "オレンジのバリケード",
+            "LocalizedString": "オレンジのバリケード"
         }
     },
     "MAPOBJECT_NAME_TrafficBarricade03_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficBarricade03_Iron_TextData",
-            "SourceString": "\u9244\u306e\u8d64\u8272\u30d0\u30ea\u30b1\u30fc\u30c9",
-            "LocalizedString": "\u9244\u306e\u8d64\u8272\u30d0\u30ea\u30b1\u30fc\u30c9"
+            "SourceString": "鉄の赤色バリケード",
+            "LocalizedString": "鉄の赤色バリケード"
         }
     },
     "MAPOBJECT_NAME_TrafficBarricade04_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficBarricade04_Iron_TextData",
-            "SourceString": "\u9244\u306e\u767d\u8272\u30d0\u30ea\u30b1\u30fc\u30c9",
-            "LocalizedString": "\u9244\u306e\u767d\u8272\u30d0\u30ea\u30b1\u30fc\u30c9"
+            "SourceString": "鉄の白色バリケード",
+            "LocalizedString": "鉄の白色バリケード"
         }
     },
     "MAPOBJECT_NAME_TrafficBarricade05_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficBarricade05_Iron_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u306e\u30d5\u30a7\u30f3\u30b9",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u306e\u30d5\u30a7\u30f3\u30b9"
+            "SourceString": "アイアンのフェンス",
+            "LocalizedString": "アイアンのフェンス"
         }
     },
     "MAPOBJECT_NAME_TrafficCone01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficCone01_Iron_TextData",
-            "SourceString": "\u4e09\u89d2\u30b3\u30fc\u30f3",
-            "LocalizedString": "\u4e09\u89d2\u30b3\u30fc\u30f3"
+            "SourceString": "三角コーン",
+            "LocalizedString": "三角コーン"
         }
     },
     "MAPOBJECT_NAME_TrafficCone02_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficCone02_Iron_TextData",
-            "SourceString": "\u592a\u3044\u30ed\u30fc\u30c9\u30b3\u30fc\u30f3",
-            "LocalizedString": "\u592a\u3044\u30ed\u30fc\u30c9\u30b3\u30fc\u30f3"
+            "SourceString": "太いロードコーン",
+            "LocalizedString": "太いロードコーン"
         }
     },
     "MAPOBJECT_NAME_TrafficCone03_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficCone03_Iron_TextData",
-            "SourceString": "\u7d30\u3044\u30ed\u30fc\u30c9\u30b3\u30fc\u30f3",
-            "LocalizedString": "\u7d30\u3044\u30ed\u30fc\u30c9\u30b3\u30fc\u30f3"
+            "SourceString": "細いロードコーン",
+            "LocalizedString": "細いロードコーン"
         }
     },
     "MAPOBJECT_NAME_TrafficLight01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficLight01_Iron_TextData",
-            "SourceString": "\u4fe1\u53f7\u6a5f",
-            "LocalizedString": "\u4fe1\u53f7\u6a5f"
+            "SourceString": "信号機",
+            "LocalizedString": "信号機"
         }
     },
     "MAPOBJECT_NAME_BathTub_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_BathTub_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30d0\u30b9\u30bf\u30d6",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30d0\u30b9\u30bf\u30d6"
+            "SourceString": "アンティークなバスタブ",
+            "LocalizedString": "アンティークなバスタブ"
         }
     },
     "MAPOBJECT_NAME_Box01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Box01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u7db2\u304b\u3054\u306e\u7bb1",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u7db2\u304b\u3054\u306e\u7bb1"
+            "SourceString": "アンティークな網かごの箱",
+            "LocalizedString": "アンティークな網かごの箱"
         }
     },
     "MAPOBJECT_NAME_Chair01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Chair01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6728\u306e\u6905\u5b50",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6728\u306e\u6905\u5b50"
+            "SourceString": "アンティークな木の椅子",
+            "LocalizedString": "アンティークな木の椅子"
         }
     },
     "MAPOBJECT_NAME_Chair02_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Chair02_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6728\u306e\u7dd1\u6905\u5b50",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6728\u306e\u7dd1\u6905\u5b50"
+            "SourceString": "アンティークな木の緑椅子",
+            "LocalizedString": "アンティークな木の緑椅子"
         }
     },
     "MAPOBJECT_NAME_Clock01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Clock01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u67f1\u6642\u8a08",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u67f1\u6642\u8a08"
+            "SourceString": "アンティークな柱時計",
+            "LocalizedString": "アンティークな柱時計"
         }
     },
     "MAPOBJECT_NAME_Curtain01_Wall_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Curtain01_Wall_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30ab\u30fc\u30c6\u30f3",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30ab\u30fc\u30c6\u30f3"
+            "SourceString": "アンティークなカーテン",
+            "LocalizedString": "アンティークなカーテン"
         }
     },
     "MAPOBJECT_NAME_Desk01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Desk01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30c7\u30b9\u30af",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30c7\u30b9\u30af"
+            "SourceString": "アンティークなデスク",
+            "LocalizedString": "アンティークなデスク"
         }
     },
     "MAPOBJECT_NAME_Globe01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Globe01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u7403\u4f53\u5730\u7406\u6a21\u578b",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u7403\u4f53\u5730\u7406\u6a21\u578b"
+            "SourceString": "アンティークな球体地理模型",
+            "LocalizedString": "アンティークな球体地理模型"
         }
     },
     "MAPOBJECT_NAME_Mirror01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Mirror01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6955\u5186\u93e1",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6955\u5186\u93e1"
+            "SourceString": "アンティークな楕円鏡",
+            "LocalizedString": "アンティークな楕円鏡"
         }
     },
     "MAPOBJECT_NAME_Mirror02_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Mirror02_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u93e1",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u93e1"
+            "SourceString": "アンティークな鏡",
+            "LocalizedString": "アンティークな鏡"
         }
     },
     "MAPOBJECT_NAME_Mirror01_Wall_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Mirror01_Wall_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30a6\u30a9\u30fc\u30eb\u30df\u30e9\u30fc",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30a6\u30a9\u30fc\u30eb\u30df\u30e9\u30fc"
+            "SourceString": "アンティークなウォールミラー",
+            "LocalizedString": "アンティークなウォールミラー"
         }
     },
     "MAPOBJECT_NAME_Partition_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Partition_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30d1\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30d1\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3"
+            "SourceString": "アンティークなパーテーション",
+            "LocalizedString": "アンティークなパーテーション"
         }
     },
     "MAPOBJECT_NAME_Piano01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Piano01_Stone_TextData",
-            "SourceString": "\u30b0\u30e9\u30f3\u30c9\u30d4\u30a2\u30ce",
-            "LocalizedString": "\u30b0\u30e9\u30f3\u30c9\u30d4\u30a2\u30ce"
+            "SourceString": "グランドピアノ",
+            "LocalizedString": "グランドピアノ"
         }
     },
     "MAPOBJECT_NAME_Piano02_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Piano02_Stone_TextData",
-            "SourceString": "\u30a2\u30c3\u30d7\u30e9\u30a4\u30c8\u30d4\u30a2\u30ce",
-            "LocalizedString": "\u30a2\u30c3\u30d7\u30e9\u30a4\u30c8\u30d4\u30a2\u30ce"
+            "SourceString": "アップライトピアノ",
+            "LocalizedString": "アップライトピアノ"
         }
     },
     "MAPOBJECT_NAME_Rug01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Rug01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30ab\u30fc\u30da\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30ab\u30fc\u30da\u30c3\u30c8"
+            "SourceString": "アンティークなカーペット",
+            "LocalizedString": "アンティークなカーペット"
         }
     },
     "MAPOBJECT_NAME_Rug02_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Rug02_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u8d64\u30ab\u30fc\u30da\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u8d64\u30ab\u30fc\u30da\u30c3\u30c8"
+            "SourceString": "アンティークな赤カーペット",
+            "LocalizedString": "アンティークな赤カーペット"
         }
     },
     "MAPOBJECT_NAME_Rug03_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Rug03_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u7dd1\u30ab\u30fc\u30da\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u7dd1\u30ab\u30fc\u30da\u30c3\u30c8"
+            "SourceString": "アンティークな緑カーペット",
+            "LocalizedString": "アンティークな緑カーペット"
         }
     },
     "MAPOBJECT_NAME_Rug04_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Rug04_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u7d30\u9577\u30ab\u30fc\u30da\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u7d30\u9577\u30ab\u30fc\u30da\u30c3\u30c8"
+            "SourceString": "アンティークな細長カーペット",
+            "LocalizedString": "アンティークな細長カーペット"
         }
     },
     "MAPOBJECT_NAME_Shelf01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u672c\u68da",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u672c\u68da"
+            "SourceString": "アンティークな本棚",
+            "LocalizedString": "アンティークな本棚"
         }
     },
     "MAPOBJECT_NAME_Shelf02_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf02_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30ef\u30fc\u30c9\u30ed\u30fc\u30d6",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30ef\u30fc\u30c9\u30ed\u30fc\u30d6"
+            "SourceString": "アンティークなワードローブ",
+            "LocalizedString": "アンティークなワードローブ"
         }
     },
     "MAPOBJECT_NAME_Shelf03_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf03_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30c1\u30a7\u30b9\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30c1\u30a7\u30b9\u30c8"
+            "SourceString": "アンティークなチェスト",
+            "LocalizedString": "アンティークなチェスト"
         }
     },
     "MAPOBJECT_NAME_Shelf04_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf04_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30b5\u30a4\u30c9\u30c1\u30a7\u30b9\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30b5\u30a4\u30c9\u30c1\u30a7\u30b9\u30c8"
+            "SourceString": "アンティークなサイドチェスト",
+            "LocalizedString": "アンティークなサイドチェスト"
         }
     },
     "MAPOBJECT_NAME_Shelf05_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf05_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8"
+            "SourceString": "アンティークなキャビネット",
+            "LocalizedString": "アンティークなキャビネット"
         }
     },
     "MAPOBJECT_NAME_Shelf06_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf06_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6a2a\u9577\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6a2a\u9577\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8"
+            "SourceString": "アンティークな横長キャビネット",
+            "LocalizedString": "アンティークな横長キャビネット"
         }
     },
     "MAPOBJECT_NAME_Shelf07_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf07_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u5927\u578b\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u5927\u578b\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8"
+            "SourceString": "アンティークな大型キャビネット",
+            "LocalizedString": "アンティークな大型キャビネット"
         }
     },
     "MAPOBJECT_NAME_Shelf01_Wall_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf01_Wall_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30a6\u30a9\u30fc\u30eb\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30a6\u30a9\u30fc\u30eb\u30ad\u30e3\u30d3\u30cd\u30c3\u30c8"
+            "SourceString": "アンティークなウォールキャビネット",
+            "LocalizedString": "アンティークなウォールキャビネット"
         }
     },
     "MAPOBJECT_NAME_Sofa01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Sofa01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a1\u4eba\u7528\u30bd\u30d5\u30a1",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a1\u4eba\u7528\u30bd\u30d5\u30a1"
+            "SourceString": "アンティークな1人用ソファ",
+            "LocalizedString": "アンティークな1人用ソファ"
         }
     },
     "MAPOBJECT_NAME_Sofa02_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Sofa02_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a2\u4eba\u7528\u30bd\u30d5\u30a1",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a2\u4eba\u7528\u30bd\u30d5\u30a1"
+            "SourceString": "アンティークな2人用ソファ",
+            "LocalizedString": "アンティークな2人用ソファ"
         }
     },
     "MAPOBJECT_NAME_Sofa03_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Sofa03_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30aa\u30c3\u30c8\u30de\u30f3",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30aa\u30c3\u30c8\u30de\u30f3"
+            "SourceString": "アンティークなオットマン",
+            "LocalizedString": "アンティークなオットマン"
         }
     },
     "MAPOBJECT_NAME_Stool01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stool01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30b9\u30c4\u30fc\u30eb",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30b9\u30c4\u30fc\u30eb"
+            "SourceString": "アンティークなスツール",
+            "LocalizedString": "アンティークなスツール"
         }
     },
     "MAPOBJECT_NAME_Stove01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stove01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30b9\u30c8\u30fc\u30d6",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30b9\u30c8\u30fc\u30d6"
+            "SourceString": "アンティークなストーブ",
+            "LocalizedString": "アンティークなストーブ"
         }
     },
     "MAPOBJECT_NAME_TableCircular01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TableCircular01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u4e38\u3044\u30c6\u30fc\u30d6\u30eb",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u4e38\u3044\u30c6\u30fc\u30d6\u30eb"
+            "SourceString": "アンティークな丸いテーブル",
+            "LocalizedString": "アンティークな丸いテーブル"
         }
     },
     "MAPOBJECT_NAME_TableDresser01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TableDresser01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30c9\u30ec\u30c3\u30b5\u30fc",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30c9\u30ec\u30c3\u30b5\u30fc"
+            "SourceString": "アンティークなドレッサー",
+            "LocalizedString": "アンティークなドレッサー"
         }
     },
     "MAPOBJECT_NAME_TableSink01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TableSink01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6d17\u9762\u53f0",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u6d17\u9762\u53f0"
+            "SourceString": "アンティークな洗面台",
+            "LocalizedString": "アンティークな洗面台"
         }
     },
     "MAPOBJECT_NAME_Toilet01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Toilet01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30c8\u30a4\u30ec",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30c8\u30a4\u30ec"
+            "SourceString": "アンティークなトイレ",
+            "LocalizedString": "アンティークなトイレ"
         }
     },
     "MAPOBJECT_NAME_ToiletHolder01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_ToiletHolder01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30c8\u30a4\u30ec\u30c3\u30c8\u30da\u30fc\u30d1\u30fc\u30db\u30eb\u30c0\u30fc",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30c8\u30a4\u30ec\u30c3\u30c8\u30da\u30fc\u30d1\u30fc\u30db\u30eb\u30c0\u30fc"
+            "SourceString": "アンティークなトイレットペーパーホルダー",
+            "LocalizedString": "アンティークなトイレットペーパーホルダー"
         }
     },
     "MAPOBJECT_NAME_TowlRack01_Stone": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TowlRack01_Stone_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30bf\u30aa\u30eb\u30e9\u30c3\u30af",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u30bf\u30aa\u30eb\u30e9\u30c3\u30af"
+            "SourceString": "アンティークなタオルラック",
+            "LocalizedString": "アンティークなタオルラック"
         }
     },
     "MAPOBJECT_NAME_Plant01_Plant": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Plant01_Plant_TextData",
-            "SourceString": "\u89b3\u8449\u690d\u7269",
-            "LocalizedString": "\u89b3\u8449\u690d\u7269"
+            "SourceString": "観葉植物",
+            "LocalizedString": "観葉植物"
         }
     },
     "MAPOBJECT_NAME_Plant02_Plant": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Plant02_Plant_TextData",
-            "SourceString": "\u30a4\u30b9\u4ed8\u304d\u89b3\u8449\u690d\u7269",
-            "LocalizedString": "\u30a4\u30b9\u4ed8\u304d\u89b3\u8449\u690d\u7269"
+            "SourceString": "イス付き観葉植物",
+            "LocalizedString": "イス付き観葉植物"
         }
     },
     "MAPOBJECT_NAME_Plant03_Plant": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Plant03_Plant_TextData",
-            "SourceString": "\u5353\u4e0a\u89b3\u8449\u690d\u7269",
-            "LocalizedString": "\u5353\u4e0a\u89b3\u8449\u690d\u7269"
+            "SourceString": "卓上観葉植物",
+            "LocalizedString": "卓上観葉植物"
         }
     },
     "MAPOBJECT_NAME_Plant04_Plant": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Plant04_Plant_TextData",
-            "SourceString": "\u9262\u5165\u308a\u89b3\u8449\u690d\u7269",
-            "LocalizedString": "\u9262\u5165\u308a\u89b3\u8449\u690d\u7269"
+            "SourceString": "鉢入り観葉植物",
+            "LocalizedString": "鉢入り観葉植物"
         }
     },
     "MAPOBJECT_NAME_Light_FloorLamp01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Light_FloorLamp01_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u8336\u8272\u30d5\u30ed\u30a2\u30e9\u30f3\u30d7",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u8336\u8272\u30d5\u30ed\u30a2\u30e9\u30f3\u30d7"
+            "SourceString": "アンティークな茶色フロアランプ",
+            "LocalizedString": "アンティークな茶色フロアランプ"
         }
     },
     "MAPOBJECT_NAME_Light_FloorLamp02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Light_FloorLamp02_TextData",
-            "SourceString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u8d64\u8272\u30d5\u30ed\u30a2\u30e9\u30f3\u30d7",
-            "LocalizedString": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306a\u8d64\u8272\u30d5\u30ed\u30a2\u30e9\u30f3\u30d7"
+            "SourceString": "アンティークな赤色フロアランプ",
+            "LocalizedString": "アンティークな赤色フロアランプ"
         }
     },
     "MAPOBJECT_NAME_Light_LightPole01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Light_LightPole01_TextData",
-            "SourceString": "\u30b7\u30f3\u30d7\u30eb\u306a\u8857\u706f",
-            "LocalizedString": "\u30b7\u30f3\u30d7\u30eb\u306a\u8857\u706f"
+            "SourceString": "シンプルな街灯",
+            "LocalizedString": "シンプルな街灯"
         }
     },
     "MAPOBJECT_NAME_Light_LightPole02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Light_LightPole02_TextData",
-            "SourceString": "\u4e8c\u80a1\u306e\u8857\u706f",
-            "LocalizedString": "\u4e8c\u80a1\u306e\u8857\u706f"
+            "SourceString": "二股の街灯",
+            "LocalizedString": "二股の街灯"
         }
     },
     "MAPOBJECT_NAME_Light_LightPole03": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Light_LightPole03_TextData",
-            "SourceString": "\u30ec\u30c8\u30ed\u306a\u8857\u706f",
-            "LocalizedString": "\u30ec\u30c8\u30ed\u306a\u8857\u706f"
+            "SourceString": "レトロな街灯",
+            "LocalizedString": "レトロな街灯"
         }
     },
     "MAPOBJECT_NAME_Light_LightPole04": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Light_LightPole04_TextData",
-            "SourceString": "\u304a\u3057\u3083\u308c\u306a\u8857\u706f",
-            "LocalizedString": "\u304a\u3057\u3083\u308c\u306a\u8857\u706f"
+            "SourceString": "おしゃれな街灯",
+            "LocalizedString": "おしゃれな街灯"
         }
     },
     "MAPOBJECT_NAME_Light_FirePlace01": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Light_FirePlace01_TextData",
-            "SourceString": "\u30ec\u30f3\u30ac\u306e\u6696\u7089",
-            "LocalizedString": "\u30ec\u30f3\u30ac\u306e\u6696\u7089"
+            "SourceString": "レンガの暖炉",
+            "LocalizedString": "レンガの暖炉"
         }
     },
     "MAPOBJECT_NAME_DefenseWall_Wood": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DefenseWall_Wood_TextData",
-            "SourceString": "\u6728\u306e\u9632\u58c1",
-            "LocalizedString": "\u6728\u306e\u9632\u58c1"
+            "SourceString": "木の防壁",
+            "LocalizedString": "木の防壁"
         }
     },
     "MAPOBJECT_NAME_DefenseWall_Metal": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_DefenseWall_Metal_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u9632\u58c1",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u9632\u58c1"
+            "SourceString": "金属の防壁",
+            "LocalizedString": "金属の防壁"
         }
     },
     "MAPOBJECT_NAME_Light_FirePlace02": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Light_FirePlace02_TextData",
-            "SourceString": "\u6696\u7089",
-            "LocalizedString": "\u6696\u7089"
+            "SourceString": "暖炉",
+            "LocalizedString": "暖炉"
         }
     },
     "MAPOBJECT_NAME_Light_CandleSticks_Top": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Light_CandleSticks_Top_TextData",
-            "SourceString": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
-            "LocalizedString": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2"
+            "SourceString": "シャンデリア",
+            "LocalizedString": "シャンデリア"
         }
     },
     "MAPOBJECT_NAME_Light_CandleSticks_Wall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Light_CandleSticks_Wall_TextData",
-            "SourceString": "\u58c1\u639b\u3051\u30e9\u30f3\u30d7",
-            "LocalizedString": "\u58c1\u639b\u3051\u30e9\u30f3\u30d7"
+            "SourceString": "壁掛けランプ",
+            "LocalizedString": "壁掛けランプ"
         }
     },
     "MAPOBJECT_NAME_Television01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Television01_Iron_TextData",
-            "SourceString": "\u53e4\u3044\u30c6\u30ec\u30d3",
-            "LocalizedString": "\u53e4\u3044\u30c6\u30ec\u30d3"
+            "SourceString": "古いテレビ",
+            "LocalizedString": "古いテレビ"
         }
     },
     "MAPOBJECT_NAME_Desk01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Desk01_Iron_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u306e\u30c7\u30b9\u30af",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u306e\u30c7\u30b9\u30af"
+            "SourceString": "アイアンのデスク",
+            "LocalizedString": "アイアンのデスク"
         }
     },
     "MAPOBJECT_NAME_Shelf01_Wall_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Shelf01_Wall_Iron_TextData",
-            "SourceString": "\u30a2\u30a4\u30a2\u30f3\u306e\u58c1\u4ed8\u3051\u68da",
-            "LocalizedString": "\u30a2\u30a4\u30a2\u30f3\u306e\u58c1\u4ed8\u3051\u68da"
+            "SourceString": "アイアンの壁付け棚",
+            "LocalizedString": "アイアンの壁付け棚"
         }
     },
     "MAPOBJECT_NAME_TrafficSign01_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficSign01_Iron_TextData",
-            "SourceString": "\u30d1\u30eb\u901a\u884c\u6b62\u3081\u306e\u9053\u8def\u6a19\u8b58",
-            "LocalizedString": "\u30d1\u30eb\u901a\u884c\u6b62\u3081\u306e\u9053\u8def\u6a19\u8b58"
+            "SourceString": "パル通行止めの道路標識",
+            "LocalizedString": "パル通行止めの道路標識"
         }
     },
     "MAPOBJECT_NAME_TrafficSign02_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficSign02_Iron_TextData",
-            "SourceString": "\u4e00\u6642\u505c\u6b62\u306e\u9053\u8def\u6a19\u8b58",
-            "LocalizedString": "\u4e00\u6642\u505c\u6b62\u306e\u9053\u8def\u6a19\u8b58"
+            "SourceString": "一時停止の道路標識",
+            "LocalizedString": "一時停止の道路標識"
         }
     },
     "MAPOBJECT_NAME_TrafficSign03_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficSign03_Iron_TextData",
-            "SourceString": "\u30c4\u30ce\u30ac\u30df\u6ce8\u610f\u306e\u6a19\u8b58",
-            "LocalizedString": "\u30c4\u30ce\u30ac\u30df\u6ce8\u610f\u306e\u6a19\u8b58"
+            "SourceString": "ツノガミ注意の標識",
+            "LocalizedString": "ツノガミ注意の標識"
         }
     },
     "MAPOBJECT_NAME_TrafficSign04_Iron": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_TrafficSign04_Iron_TextData",
-            "SourceString": "\u30b0\u30e9\u30f3\u30e2\u30b9\u6ce8\u610f\u306e\u6a19\u8b58",
-            "LocalizedString": "\u30b0\u30e9\u30f3\u30e2\u30b9\u6ce8\u610f\u306e\u6a19\u8b58"
+            "SourceString": "グランモス注意の標識",
+            "LocalizedString": "グランモス注意の標識"
         }
     },
     "MAPOBJECT_NAME_Wood_WindowWall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wood_WindowWall_TextData",
-            "SourceString": "\u6728\u306e\u7a93\u4ed8\u304d\u58c1",
-            "LocalizedString": "\u6728\u306e\u7a93\u4ed8\u304d\u58c1"
+            "SourceString": "木の窓付き壁",
+            "LocalizedString": "木の窓付き壁"
         }
     },
     "MAPOBJECT_NAME_Stone_WindowWall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stone_WindowWall_TextData",
-            "SourceString": "\u77f3\u306e\u7a93\u4ed8\u304d\u58c1",
-            "LocalizedString": "\u77f3\u306e\u7a93\u4ed8\u304d\u58c1"
+            "SourceString": "石の窓付き壁",
+            "LocalizedString": "石の窓付き壁"
         }
     },
     "MAPOBJECT_NAME_Metal_WindowWall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Metal_WindowWall_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u7a93\u4ed8\u304d\u58c1",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u7a93\u4ed8\u304d\u58c1"
+            "SourceString": "金属の窓付き壁",
+            "LocalizedString": "金属の窓付き壁"
         }
     },
     "MAPOBJECT_NAME_Wood_TriangleWall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wood_TriangleWall_TextData",
-            "SourceString": "\u6728\u306e\u4e09\u89d2\u58c1",
-            "LocalizedString": "\u6728\u306e\u4e09\u89d2\u58c1"
+            "SourceString": "木の三角壁",
+            "LocalizedString": "木の三角壁"
         }
     },
     "MAPOBJECT_NAME_Stone_TriangleWall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stone_TriangleWall_TextData",
-            "SourceString": "\u77f3\u306e\u4e09\u89d2\u58c1",
-            "LocalizedString": "\u77f3\u306e\u4e09\u89d2\u58c1"
+            "SourceString": "石の三角壁",
+            "LocalizedString": "石の三角壁"
         }
     },
     "MAPOBJECT_NAME_Metal_TriangleWall": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Metal_TriangleWall_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u4e09\u89d2\u58c1",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u4e09\u89d2\u58c1"
+            "SourceString": "金属の三角壁",
+            "LocalizedString": "金属の三角壁"
         }
     },
     "MAPOBJECT_NAME_Wood_SlantedRoof": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Wood_SlantedRoof_TextData",
-            "SourceString": "\u6728\u306e\u659c\u3081\u5c4b\u6839",
-            "LocalizedString": "\u6728\u306e\u659c\u3081\u5c4b\u6839"
+            "SourceString": "木の斜め屋根",
+            "LocalizedString": "木の斜め屋根"
         }
     },
     "MAPOBJECT_NAME_Stone_SlantedRoof": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Stone_SlantedRoof_TextData",
-            "SourceString": "\u77f3\u306e\u659c\u3081\u5c4b\u6839",
-            "LocalizedString": "\u77f3\u306e\u659c\u3081\u5c4b\u6839"
+            "SourceString": "石の斜め屋根",
+            "LocalizedString": "石の斜め屋根"
         }
     },
     "MAPOBJECT_NAME_Metal_SlantedRoof": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Metal_SlantedRoof_TextData",
-            "SourceString": "\u91d1\u5c5e\u306e\u659c\u3081\u5c4b\u6839",
-            "LocalizedString": "\u91d1\u5c5e\u306e\u659c\u3081\u5c4b\u6839"
+            "SourceString": "金属の斜め屋根",
+            "LocalizedString": "金属の斜め屋根"
         }
     },
     "MAPOBJECT_NAME_Chair01_Pal": {
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Chair01_Pal_TextData",
-            "SourceString": "\u30ab\u30a8\u30eb\u30c1\u30a7\u30a2",
-            "LocalizedString": "\u30ab\u30a8\u30eb\u30c1\u30a7\u30a2"
+            "SourceString": "カエルチェア",
+            "LocalizedString": "カエルチェア"
         }
     }
 }

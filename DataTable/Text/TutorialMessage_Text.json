@@ -3,264 +3,264 @@
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_SP_1_TextData",
-            "SourceString": "<keyGuideIcon id=|Interact_1|/>\u30ad\u30fc\u3067\u30a2\u30a4\u30c6\u30e0\u3092\u62fe\u3046",
-            "LocalizedString": "<keyGuideIcon id=|Interact_1|/>\u30ad\u30fc\u3067\u30a2\u30a4\u30c6\u30e0\u3092\u62fe\u3046"
+            "SourceString": "<keyGuideIcon id=|Interact_1|/>キーでアイテムを拾う",
+            "LocalizedString": "<keyGuideIcon id=|Interact_1|/>キーでアイテムを拾う"
         }
     },
     "TUTORIAL_ITEM_1": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_ITEM_1_TextData",
-            "SourceString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>\u30ad\u30fc\u3067\u5efa\u7bc9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f",
-            "LocalizedString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>\u30ad\u30fc\u3067\u5efa\u7bc9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f"
+            "SourceString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>キーで建築メニューを開く",
+            "LocalizedString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>キーで建築メニューを開く"
         }
     },
     "TUTORIAL_ITEM_2": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_ITEM_2_TextData",
-            "SourceString": "<keyGuideIcon id=|ThrowObject|/>\u30ad\u30fc\u3067\u30b9\u30d5\u30a3\u30a2\u3092\u6295\u3052\u3001\u30d1\u30eb\u3092\u6355\u307e\u3048\u3088\u3046\r\n\u30d1\u30eb\u306f\u5f31\u3089\u305b\u308b\u3068\u6355\u307e\u3048\u3084\u3059\u3044",
-            "LocalizedString": "<keyGuideIcon id=|ThrowObject|/>\u30ad\u30fc\u3067\u30b9\u30d5\u30a3\u30a2\u3092\u6295\u3052\u3001\u30d1\u30eb\u3092\u6355\u307e\u3048\u3088\u3046\r\n\u30d1\u30eb\u306f\u5f31\u3089\u305b\u308b\u3068\u6355\u307e\u3048\u3084\u3059\u3044"
+            "SourceString": "<keyGuideIcon id=|ThrowObject|/>キーでスフィアを投げ、パルを捕まえよう\r\nパルは弱らせると捕まえやすい",
+            "LocalizedString": "<keyGuideIcon id=|ThrowObject|/>キーでスフィアを投げ、パルを捕まえよう\r\nパルは弱らせると捕まえやすい"
         }
     },
     "TUTORIAL_ITEM_3": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_ITEM_3_TextData",
-            "SourceString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>\u30ad\u30fc\u306e\u5efa\u7bc9\u30e1\u30cb\u30e5\u30fc\u304b\u3089\r\n\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u3092\u5efa\u3066\u3001\u62e0\u70b9\u3092\u5efa\u7bc9\u3059\u308b",
-            "LocalizedString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>\u30ad\u30fc\u306e\u5efa\u7bc9\u30e1\u30cb\u30e5\u30fc\u304b\u3089\r\n\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u3092\u5efa\u3066\u3001\u62e0\u70b9\u3092\u5efa\u7bc9\u3059\u308b"
+            "SourceString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>キーの建築メニューから\r\nパルボックスを建て、拠点を建築する",
+            "LocalizedString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>キーの建築メニューから\r\nパルボックスを建て、拠点を建築する"
         }
     },
     "TUTORIAL_ITEM_4": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_ITEM_4_TextData",
-            "SourceString": "|\u6280\u306e\u5b9f|\u3092\u30a4\u30f3\u30d9\u30f3\u30c8\u30ea\u304b\u3089\u4f7f\u304a\u3046\r\n\u30d1\u30eb\u306b\u30b9\u30ad\u30eb\u3092\u899a\u3048\u3055\u305b\u3089\u308c\u308b",
-            "LocalizedString": "|\u6280\u306e\u5b9f|\u3092\u30a4\u30f3\u30d9\u30f3\u30c8\u30ea\u304b\u3089\u4f7f\u304a\u3046\r\n\u30d1\u30eb\u306b\u30b9\u30ad\u30eb\u3092\u899a\u3048\u3055\u305b\u3089\u308c\u308b"
+            "SourceString": "|技の実|をインベントリから使おう\r\nパルにスキルを覚えさせられる",
+            "LocalizedString": "|技の実|をインベントリから使おう\r\nパルにスキルを覚えさせられる"
         }
     },
     "TUTORIAL_ITEM_5": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_ITEM_5_TextData",
-            "SourceString": "<itemName id=|Relic|/>\u3092\u96c6\u3081\u3066<MapObjectName id=|BuildableGoddessStatue|/>\u306b\u6367\u3052\u308b\u3053\u3068\u3067\u3001\r\n\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30d1\u30eb\u6355\u7372\u529b\u304c\u5f37\u5316\u3055\u308c\u308b",
-            "LocalizedString": "<itemName id=|Relic|/>\u3092\u96c6\u3081\u3066<MapObjectName id=|BuildableGoddessStatue|/>\u306b\u6367\u3052\u308b\u3053\u3068\u3067\u3001\r\n\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u30d1\u30eb\u6355\u7372\u529b\u304c\u5f37\u5316\u3055\u308c\u308b"
+            "SourceString": "<itemName id=|Relic|/>を集めて<MapObjectName id=|BuildableGoddessStatue|/>に捧げることで、\r\nプレイヤーのパル捕獲力が強化される",
+            "LocalizedString": "<itemName id=|Relic|/>を集めて<MapObjectName id=|BuildableGoddessStatue|/>に捧げることで、\r\nプレイヤーのパル捕獲力が強化される"
         }
     },
     "TUTORIAL_ITEM_6": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_ITEM_6_TextData",
-            "SourceString": "\u30b8\u30e3\u30f3\u30d7\u3057\u306a\u304c\u3089<keyGuideIcon id=|Jump|/>\u30ad\u30fc\u3067\u6ed1\u7a7a\u304c\u3067\u304d\u308b",
-            "LocalizedString": "\u30b8\u30e3\u30f3\u30d7\u3057\u306a\u304c\u3089<keyGuideIcon id=|Jump|/>\u30ad\u30fc\u3067\u6ed1\u7a7a\u304c\u3067\u304d\u308b"
+            "SourceString": "ジャンプしながら<keyGuideIcon id=|Jump|/>キーで滑空ができる",
+            "LocalizedString": "ジャンプしながら<keyGuideIcon id=|Jump|/>キーで滑空ができる"
         }
     },
     "TUTORIAL_ITEM_7": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_ITEM_7_TextData",
-            "SourceString": "<MapObjectName id=|HatchingPalEgg|/>\u3092\u5efa\u7bc9\u3059\u308b\u3053\u3068\u3067\u3001\r\n\u30d1\u30eb\u306e\u30bf\u30de\u30b4\u3092\u5b75\u3059\u3053\u3068\u304c\u3067\u304d\u308b",
-            "LocalizedString": "<MapObjectName id=|HatchingPalEgg|/>\u3092\u5efa\u7bc9\u3059\u308b\u3053\u3068\u3067\u3001\r\n\u30d1\u30eb\u306e\u30bf\u30de\u30b4\u3092\u5b75\u3059\u3053\u3068\u304c\u3067\u304d\u308b"
+            "SourceString": "<MapObjectName id=|HatchingPalEgg|/>を建築することで、\r\nパルのタマゴを孵すことができる",
+            "LocalizedString": "<MapObjectName id=|HatchingPalEgg|/>を建築することで、\r\nパルのタマゴを孵すことができる"
         }
     },
     "TUTORIAL_RESPAWN_1": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_RESPAWN_1_TextData",
-            "SourceString": "\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u3092\u5efa\u3066\u308b\u3068\r\n\u5efa\u3066\u305f\u4f4d\u7f6e\u304b\u3089\u5fa9\u6d3b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b",
-            "LocalizedString": "\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u3092\u5efa\u3066\u308b\u3068\r\n\u5efa\u3066\u305f\u4f4d\u7f6e\u304b\u3089\u5fa9\u6d3b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b"
+            "SourceString": "パルボックスを建てると\r\n建てた位置から復活することができる",
+            "LocalizedString": "パルボックスを建てると\r\n建てた位置から復活することができる"
         }
     },
     "TUTORIAL_RESPAWN_2": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_RESPAWN_2_TextData",
-            "SourceString": "\u3084\u3089\u308c\u305f\u5834\u6240\u306b\u30d1\u30eb\u3084\u30a2\u30a4\u30c6\u30e0\u304c\u6b8b\u3063\u3066\u3044\u308b\r\n\u4ed6\u306e\u4eba\u306b\u596a\u308f\u308c\u308b\u524d\u306b\u56de\u53ce\u3057\u3088\u3046",
-            "LocalizedString": "\u3084\u3089\u308c\u305f\u5834\u6240\u306b\u30d1\u30eb\u3084\u30a2\u30a4\u30c6\u30e0\u304c\u6b8b\u3063\u3066\u3044\u308b\r\n\u4ed6\u306e\u4eba\u306b\u596a\u308f\u308c\u308b\u524d\u306b\u56de\u53ce\u3057\u3088\u3046"
+            "SourceString": "やられた場所にパルやアイテムが残っている\r\n他の人に奪われる前に回収しよう",
+            "LocalizedString": "やられた場所にパルやアイテムが残っている\r\n他の人に奪われる前に回収しよう"
         }
     },
     "TUTORIAL_INDIVIDUAL_1": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_INDIVIDUAL_1_TextData",
-            "SourceString": "\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30dd\u30a4\u30f3\u30c8\u3092\u6d88\u8cbb\u3059\u308b\u3053\u3068\u3067\u3001\r\n\u65b0\u305f\u306a\u30a2\u30a4\u30c6\u30e0\u3084\u65bd\u8a2d\u3092\u89e3\u653e\u3067\u304d\u308b",
-            "LocalizedString": "\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30dd\u30a4\u30f3\u30c8\u3092\u6d88\u8cbb\u3059\u308b\u3053\u3068\u3067\u3001\r\n\u65b0\u305f\u306a\u30a2\u30a4\u30c6\u30e0\u3084\u65bd\u8a2d\u3092\u89e3\u653e\u3067\u304d\u308b"
+            "SourceString": "テクノロジーポイントを消費することで、\r\n新たなアイテムや施設を解放できる",
+            "LocalizedString": "テクノロジーポイントを消費することで、\r\n新たなアイテムや施設を解放できる"
         }
     },
     "TUTORIAL_INDIVIDUAL_2": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_INDIVIDUAL_2_TextData",
-            "SourceString": "<keyGuideIcon id=|OpenCharacterMenu|/>\u30ad\u30fc\u3067\u30a4\u30f3\u30d9\u30f3\u30c8\u30ea\u3092\u958b\u3044\u3066\u3001\r\n\u30b9\u30c6\u30fc\u30bf\u30b9\u30dd\u30a4\u30f3\u30c8\u3092\u6d88\u8cbb\u3057\u3066\u30d7\u30ec\u30a4\u30e4\u30fc\u3092\u5f37\u5316\u3067\u304d\u308b",
-            "LocalizedString": "<keyGuideIcon id=|OpenCharacterMenu|/>\u30ad\u30fc\u3067\u30a4\u30f3\u30d9\u30f3\u30c8\u30ea\u3092\u958b\u3044\u3066\u3001\r\n\u30b9\u30c6\u30fc\u30bf\u30b9\u30dd\u30a4\u30f3\u30c8\u3092\u6d88\u8cbb\u3057\u3066\u30d7\u30ec\u30a4\u30e4\u30fc\u3092\u5f37\u5316\u3067\u304d\u308b"
+            "SourceString": "<keyGuideIcon id=|OpenCharacterMenu|/>キーでインベントリを開いて、\r\nステータスポイントを消費してプレイヤーを強化できる",
+            "LocalizedString": "<keyGuideIcon id=|OpenCharacterMenu|/>キーでインベントリを開いて、\r\nステータスポイントを消費してプレイヤーを強化できる"
         }
     },
     "TUTORIAL_INDIVIDUAL_3": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_INDIVIDUAL_3_TextData",
-            "SourceString": "\u304a\u8179\u304c\u7a7a\u3044\u3066\u3044\u308b\u3068\u30d1\u30e9\u30e1\u30fc\u30bf\u304c\u30c0\u30a6\u30f3\u3059\u308b\r\n\u30a4\u30f3\u30d9\u30f3\u30c8\u30ea\u304b\u3089\u30a2\u30a4\u30c6\u30e0\u3092\u4f7f\u3046\u3053\u3068\u3067\u98df\u4e8b\u3067\u304d\u308b",
-            "LocalizedString": "\u304a\u8179\u304c\u7a7a\u3044\u3066\u3044\u308b\u3068\u30d1\u30e9\u30e1\u30fc\u30bf\u304c\u30c0\u30a6\u30f3\u3059\u308b\r\n\u30a4\u30f3\u30d9\u30f3\u30c8\u30ea\u304b\u3089\u30a2\u30a4\u30c6\u30e0\u3092\u4f7f\u3046\u3053\u3068\u3067\u98df\u4e8b\u3067\u304d\u308b"
+            "SourceString": "お腹が空いているとパラメータがダウンする\r\nインベントリからアイテムを使うことで食事できる",
+            "LocalizedString": "お腹が空いているとパラメータがダウンする\r\nインベントリからアイテムを使うことで食事できる"
         }
     },
     "TUTORIAL_INDIVIDUAL_4": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_INDIVIDUAL_4_TextData",
-            "SourceString": "\u30d1\u30eb\u306f\u304a\u8179\u304c\u7a7a\u3044\u3066\u3044\u308b\u3068\u30d1\u30e9\u30e1\u30fc\u30bf\u304c\u30c0\u30a6\u30f3\u3059\u308b\r\n\u30a4\u30f3\u30d9\u30f3\u30c8\u30ea\u304b\u3089\u30a2\u30a4\u30c6\u30e0\u3092\u4f7f\u3044\u3001\u30d1\u30eb\u306b\u30a8\u30b5\u3092\u3042\u3052\u3088\u3046",
-            "LocalizedString": "\u30d1\u30eb\u306f\u304a\u8179\u304c\u7a7a\u3044\u3066\u3044\u308b\u3068\u30d1\u30e9\u30e1\u30fc\u30bf\u304c\u30c0\u30a6\u30f3\u3059\u308b\r\n\u30a4\u30f3\u30d9\u30f3\u30c8\u30ea\u304b\u3089\u30a2\u30a4\u30c6\u30e0\u3092\u4f7f\u3044\u3001\u30d1\u30eb\u306b\u30a8\u30b5\u3092\u3042\u3052\u3088\u3046"
+            "SourceString": "パルはお腹が空いているとパラメータがダウンする\r\nインベントリからアイテムを使い、パルにエサをあげよう",
+            "LocalizedString": "パルはお腹が空いているとパラメータがダウンする\r\nインベントリからアイテムを使い、パルにエサをあげよう"
         }
     },
     "TUTORIAL_INDIVIDUAL_5": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_INDIVIDUAL_5_TextData",
-            "SourceString": "\u30d1\u30eb\u306eSAN\u5024\u304c\u4f4e\u4e0b\u3059\u308b\u3068\u3001\u30b5\u30dc\u3063\u305f\u308a\u75c5\u6c17\u306b\u306a\u3063\u305f\u308a\u3059\u308b\r\n\u826f\u3044\u98df\u4e8b\u3092\u4e0e\u3048\u305f\u308a\u3001\u6e29\u6cc9\u3092\u5efa\u7bc9\u3057\u3066\u56de\u5fa9\u3055\u305b\u3066\u3042\u3052\u3088\u3046",
-            "LocalizedString": "\u30d1\u30eb\u306eSAN\u5024\u304c\u4f4e\u4e0b\u3059\u308b\u3068\u3001\u30b5\u30dc\u3063\u305f\u308a\u75c5\u6c17\u306b\u306a\u3063\u305f\u308a\u3059\u308b\r\n\u826f\u3044\u98df\u4e8b\u3092\u4e0e\u3048\u305f\u308a\u3001\u6e29\u6cc9\u3092\u5efa\u7bc9\u3057\u3066\u56de\u5fa9\u3055\u305b\u3066\u3042\u3052\u3088\u3046"
+            "SourceString": "パルのSAN値が低下すると、サボったり病気になったりする\r\n良い食事を与えたり、温泉を建築して回復させてあげよう",
+            "LocalizedString": "パルのSAN値が低下すると、サボったり病気になったりする\r\n良い食事を与えたり、温泉を建築して回復させてあげよう"
         }
     },
     "TUTORIAL_INDIVIDUAL_6": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_INDIVIDUAL_6_TextData",
-            "SourceString": "\u30d1\u30eb\u304c\u75c5\u6c17\u306b\u306a\u3063\u3066\u3057\u307e\u3063\u305f\r\n\u88fd\u85ac\u53f0\u3067\u85ac\u3092\u4f5c\u308a\u3001\u6cbb\u7642\u3057\u3066\u3042\u3052\u3088\u3046",
-            "LocalizedString": "\u30d1\u30eb\u304c\u75c5\u6c17\u306b\u306a\u3063\u3066\u3057\u307e\u3063\u305f\r\n\u88fd\u85ac\u53f0\u3067\u85ac\u3092\u4f5c\u308a\u3001\u6cbb\u7642\u3057\u3066\u3042\u3052\u3088\u3046"
+            "SourceString": "パルが病気になってしまった\r\n製薬台で薬を作り、治療してあげよう",
+            "LocalizedString": "パルが病気になってしまった\r\n製薬台で薬を作り、治療してあげよう"
         }
     },
     "TUTORIAL_INDIVIDUAL_7": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_INDIVIDUAL_7_TextData",
-            "SourceString": "\u30d1\u30eb\u306f\u4f5c\u696d\u3092\u3057\u3066\u3044\u308b\u3068SAN\u5024\u304c\u4f4e\u4e0b\u3057\u3066\u30b5\u30dc\u3063\u3066\u3057\u307e\u3046\r\n\u6e29\u6cc9\u306a\u3069\u3092\u4f5c\u308a\u3001\u4f5c\u696d\u306b\u65e9\u304f\u5fa9\u5e30\u3055\u305b\u3088\u3046",
-            "LocalizedString": "\u30d1\u30eb\u306f\u4f5c\u696d\u3092\u3057\u3066\u3044\u308b\u3068SAN\u5024\u304c\u4f4e\u4e0b\u3057\u3066\u30b5\u30dc\u3063\u3066\u3057\u307e\u3046\r\n\u6e29\u6cc9\u306a\u3069\u3092\u4f5c\u308a\u3001\u4f5c\u696d\u306b\u65e9\u304f\u5fa9\u5e30\u3055\u305b\u3088\u3046"
+            "SourceString": "パルは作業をしているとSAN値が低下してサボってしまう\r\n温泉などを作り、作業に早く復帰させよう",
+            "LocalizedString": "パルは作業をしているとSAN値が低下してサボってしまう\r\n温泉などを作り、作業に早く復帰させよう"
         }
     },
     "TUTORIAL_CAPTURE_1": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_CAPTURE_1_TextData",
-            "SourceString": "\u91ce\u751f\u30d1\u30eb\u306f<uiCommon id=|COMMON_STATUS_HP|/>\u3092\u6e1b\u3089\u3059\u3068\u6355\u7372\u3057\u3084\u3059\u304f\u306a\u308b\r\n\u5012\u3057\u3066\u3057\u307e\u3046\u3068\u6355\u7372\u3067\u304d\u306a\u3044",
-            "LocalizedString": "\u91ce\u751f\u30d1\u30eb\u306f<uiCommon id=|COMMON_STATUS_HP|/>\u3092\u6e1b\u3089\u3059\u3068\u6355\u7372\u3057\u3084\u3059\u304f\u306a\u308b\r\n\u5012\u3057\u3066\u3057\u307e\u3046\u3068\u6355\u7372\u3067\u304d\u306a\u3044"
+            "SourceString": "野生パルは<uiCommon id=|COMMON_STATUS_HP|/>を減らすと捕獲しやすくなる\r\n倒してしまうと捕獲できない",
+            "LocalizedString": "野生パルは<uiCommon id=|COMMON_STATUS_HP|/>を減らすと捕獲しやすくなる\r\n倒してしまうと捕獲できない"
         }
     },
     "TUTORIAL_CAPTURE_2": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_CAPTURE_2_TextData",
-            "SourceString": "<keyGuideIcon id=|ThrowPal|/>\u30ad\u30fc\u3067\u6355\u307e\u3048\u305f\u30d1\u30eb\u3092\u53ec\u559a\u3059\u308b",
-            "LocalizedString": "<keyGuideIcon id=|ThrowPal|/>\u30ad\u30fc\u3067\u6355\u307e\u3048\u305f\u30d1\u30eb\u3092\u53ec\u559a\u3059\u308b"
+            "SourceString": "<keyGuideIcon id=|ThrowPal|/>キーで捕まえたパルを召喚する",
+            "LocalizedString": "<keyGuideIcon id=|ThrowPal|/>キーで捕まえたパルを召喚する"
         }
     },
     "TUTORIAL_CAPTURE_3": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_CAPTURE_3_TextData",
-            "SourceString": "\u65b0\u7a2e\u306e\u30d1\u30eb\u3092\u6355\u7372\u3059\u308b\u3068\u5927\u91cf\u306e\u7d4c\u9a13\u5024\u304c\u3082\u3089\u3048\u308b\r\n\u307e\u3060\u898b\u306c\u30d1\u30eb\u3092\u63a2\u3057\u306b\u5148\u3078\u9032\u3082\u3046",
-            "LocalizedString": "\u65b0\u7a2e\u306e\u30d1\u30eb\u3092\u6355\u7372\u3059\u308b\u3068\u5927\u91cf\u306e\u7d4c\u9a13\u5024\u304c\u3082\u3089\u3048\u308b\r\n\u307e\u3060\u898b\u306c\u30d1\u30eb\u3092\u63a2\u3057\u306b\u5148\u3078\u9032\u3082\u3046"
+            "SourceString": "新種のパルを捕獲すると大量の経験値がもらえる\r\nまだ見ぬパルを探しに先へ進もう",
+            "LocalizedString": "新種のパルを捕獲すると大量の経験値がもらえる\r\nまだ見ぬパルを探しに先へ進もう"
         }
     },
     "TUTORIAL_CAPTURE_4": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_CAPTURE_4_TextData",
-            "SourceString": "\u3059\u3067\u306b\u6355\u7372\u3057\u305f\u30d1\u30eb\u3067\u308210\u5339\u96c6\u3081\u308b\u307e\u3067\u306f\r\n\u30dc\u30fc\u30ca\u30b9\u7d4c\u9a13\u5024\u3092\u5f97\u3089\u308c\u308b",
-            "LocalizedString": "\u3059\u3067\u306b\u6355\u7372\u3057\u305f\u30d1\u30eb\u3067\u308210\u5339\u96c6\u3081\u308b\u307e\u3067\u306f\r\n\u30dc\u30fc\u30ca\u30b9\u7d4c\u9a13\u5024\u3092\u5f97\u3089\u308c\u308b"
+            "SourceString": "すでに捕獲したパルでも10匹集めるまでは\r\nボーナス経験値を得られる",
+            "LocalizedString": "すでに捕獲したパルでも10匹集めるまでは\r\nボーナス経験値を得られる"
         }
     },
     "TUTORIAL_CAPTURE_5": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_CAPTURE_5_TextData",
-            "SourceString": "\u4e00\u5ea6\u306b\u6301\u3061\u904b\u3079\u308b\u30d1\u30eb\u306f5\u4f53\u307e\u3067\u3060\r\n\u305d\u308c\u4ee5\u4e0a\u6355\u307e\u3048\u308b\u3068\u81ea\u52d5\u7684\u306b\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u306b\u8ee2\u9001\u3055\u308c\u308b",
-            "LocalizedString": "\u4e00\u5ea6\u306b\u6301\u3061\u904b\u3079\u308b\u30d1\u30eb\u306f5\u4f53\u307e\u3067\u3060\r\n\u305d\u308c\u4ee5\u4e0a\u6355\u307e\u3048\u308b\u3068\u81ea\u52d5\u7684\u306b\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u306b\u8ee2\u9001\u3055\u308c\u308b"
+            "SourceString": "一度に持ち運べるパルは5体までだ\r\nそれ以上捕まえると自動的にパルボックスに転送される",
+            "LocalizedString": "一度に持ち運べるパルは5体までだ\r\nそれ以上捕まえると自動的にパルボックスに転送される"
         }
     },
     "TUTORIAL_CAPTURE_6": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_CAPTURE_6_TextData",
-            "SourceString": "\u5e0c\u5c11\u306a\u30d1\u30eb\u3092\u6355\u307e\u3048\u305f\uff01\r\n\u7279\u5225\u306a\u30b9\u30ad\u30eb\u3092\u4fdd\u6301\u3057\u3066\u3044\u308b\u3088\u3046\u3060",
-            "LocalizedString": "\u5e0c\u5c11\u306a\u30d1\u30eb\u3092\u6355\u307e\u3048\u305f\uff01\r\n\u7279\u5225\u306a\u30b9\u30ad\u30eb\u3092\u4fdd\u6301\u3057\u3066\u3044\u308b\u3088\u3046\u3060"
+            "SourceString": "希少なパルを捕まえた！\r\n特別なスキルを保持しているようだ",
+            "LocalizedString": "希少なパルを捕まえた！\r\n特別なスキルを保持しているようだ"
         }
     },
     "TUTORIAL_CAPTURE_7": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_CAPTURE_7_TextData",
-            "SourceString": "\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u3092\u5efa\u3066\u308b\u3068\r\n\u6355\u307e\u3048\u305f\u30d1\u30eb\u3092\u53d6\u308a\u51fa\u3059\u3053\u3068\u304c\u3067\u304d\u308b",
-            "LocalizedString": "\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u3092\u5efa\u3066\u308b\u3068\r\n\u6355\u307e\u3048\u305f\u30d1\u30eb\u3092\u53d6\u308a\u51fa\u3059\u3053\u3068\u304c\u3067\u304d\u308b"
+            "SourceString": "パルボックスを建てると\r\n捕まえたパルを取り出すことができる",
+            "LocalizedString": "パルボックスを建てると\r\n捕まえたパルを取り出すことができる"
         }
     },
     "TUTORIAL_CAPTURE_8": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_CAPTURE_8_TextData",
-            "SourceString": "\u81ea\u5206\u3088\u308a\u9ad8\u30ec\u30d9\u30eb\u306a\u30d1\u30eb\u306f\u4f7f\u3044\u3053\u306a\u305b\u306a\u3044\uff01\r\n\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u540c\u3058\u30ec\u30d9\u30eb\u307e\u3067\u6027\u80fd\u304c\u4e0b\u304c\u3063\u3066\u3057\u307e\u3046",
-            "LocalizedString": "\u81ea\u5206\u3088\u308a\u9ad8\u30ec\u30d9\u30eb\u306a\u30d1\u30eb\u306f\u4f7f\u3044\u3053\u306a\u305b\u306a\u3044\uff01\r\n\u30d7\u30ec\u30a4\u30e4\u30fc\u3068\u540c\u3058\u30ec\u30d9\u30eb\u307e\u3067\u6027\u80fd\u304c\u4e0b\u304c\u3063\u3066\u3057\u307e\u3046"
+            "SourceString": "自分より高レベルなパルは使いこなせない！\r\nプレイヤーと同じレベルまで性能が下がってしまう",
+            "LocalizedString": "自分より高レベルなパルは使いこなせない！\r\nプレイヤーと同じレベルまで性能が下がってしまう"
         }
     },
     "TUTORIAL_COMMON_1": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_COMMON_1_TextData",
-            "SourceString": "\u91cd\u3044\u3082\u306e\u3092\u6301\u3061\u3059\u304e\u308b\u3068\u52d5\u3051\u306a\u304f\u306a\u308b\r\n\u30b9\u30c6\u30fc\u30bf\u30b9\u30dd\u30a4\u30f3\u30c8\u3092\u6d88\u8cbb\u3057\u3066\u3001\u6240\u6301\u91cd\u91cf\u3092\u5897\u3084\u305b\u308b",
-            "LocalizedString": "\u91cd\u3044\u3082\u306e\u3092\u6301\u3061\u3059\u304e\u308b\u3068\u52d5\u3051\u306a\u304f\u306a\u308b\r\n\u30b9\u30c6\u30fc\u30bf\u30b9\u30dd\u30a4\u30f3\u30c8\u3092\u6d88\u8cbb\u3057\u3066\u3001\u6240\u6301\u91cd\u91cf\u3092\u5897\u3084\u305b\u308b"
+            "SourceString": "重いものを持ちすぎると動けなくなる\r\nステータスポイントを消費して、所持重量を増やせる",
+            "LocalizedString": "重いものを持ちすぎると動けなくなる\r\nステータスポイントを消費して、所持重量を増やせる"
         }
     },
     "TUTORIAL_COMMON_2": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_COMMON_2_TextData",
-            "SourceString": "\u643a\u5e2f\u305f\u3044\u307e\u3064\u306f\u3001\u5468\u56f2\u3092\u7167\u3089\u3057\u5bd2\u3055\u3092\u9632\u3050\r\n\u4f5c\u696d\u53f0\u3067\u30af\u30e9\u30d5\u30c8\u3057\u3088\u3046",
-            "LocalizedString": "\u643a\u5e2f\u305f\u3044\u307e\u3064\u306f\u3001\u5468\u56f2\u3092\u7167\u3089\u3057\u5bd2\u3055\u3092\u9632\u3050\r\n\u4f5c\u696d\u53f0\u3067\u30af\u30e9\u30d5\u30c8\u3057\u3088\u3046"
+            "SourceString": "携帯たいまつは、周囲を照らし寒さを防ぐ\r\n作業台でクラフトしよう",
+            "LocalizedString": "携帯たいまつは、周囲を照らし寒さを防ぐ\r\n作業台でクラフトしよう"
         }
     },
     "TUTORIAL_COMMON_3": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_COMMON_3_TextData",
-            "SourceString": "\u30d1\u30eb\u304c\u3084\u3089\u308c\u3066\u3057\u307e\u3063\u305f\uff01\r\n\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u308b\u3068|<uiCommon id=|COMMON_CONDITION_NAME_Dying|/>|\u72b6\u614b\u3092\u6cbb\u7652\u3067\u304d\u308b",
-            "LocalizedString": "\u30d1\u30eb\u304c\u3084\u3089\u308c\u3066\u3057\u307e\u3063\u305f\uff01\r\n\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u308b\u3068|<uiCommon id=|COMMON_CONDITION_NAME_Dying|/>|\u72b6\u614b\u3092\u6cbb\u7652\u3067\u304d\u308b"
+            "SourceString": "パルがやられてしまった！\r\nパルボックスに預けると|<uiCommon id=|COMMON_CONDITION_NAME_Dying|/>|状態を治癒できる",
+            "LocalizedString": "パルがやられてしまった！\r\nパルボックスに預けると|<uiCommon id=|COMMON_CONDITION_NAME_Dying|/>|状態を治癒できる"
         }
     },
     "TUTORIAL_COMMON_4": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_COMMON_4_TextData",
-            "SourceString": "\u62e0\u70b9\u306b\u30d1\u30eb\u3092\u51fa\u3059\u3068\u3001\u5f7c\u3089\u306f\r\n\u81ea\u5206\u304c\u3067\u304d\u308b\u4ed5\u4e8b\u3092\u898b\u3064\u3051\u3066\u81ea\u767a\u7684\u306b\u4f5c\u696d\u3059\u308b",
-            "LocalizedString": "\u62e0\u70b9\u306b\u30d1\u30eb\u3092\u51fa\u3059\u3068\u3001\u5f7c\u3089\u306f\r\n\u81ea\u5206\u304c\u3067\u304d\u308b\u4ed5\u4e8b\u3092\u898b\u3064\u3051\u3066\u81ea\u767a\u7684\u306b\u4f5c\u696d\u3059\u308b"
+            "SourceString": "拠点にパルを出すと、彼らは\r\n自分ができる仕事を見つけて自発的に作業する",
+            "LocalizedString": "拠点にパルを出すと、彼らは\r\n自分ができる仕事を見つけて自発的に作業する"
         }
     },
     "TUTORIAL_COMMON_5": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_COMMON_5_TextData",
-            "SourceString": "\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u304b\u3089\u62e0\u70b9\u306b\u30d1\u30eb\u3092\u51fa\u3059\u3068\u3001\r\n\u305d\u306e\u30d1\u30eb\u304c\u5f97\u610f\u306a\u4f5c\u696d\u3092\u624b\u4f1d\u3063\u3066\u304f\u308c\u308b",
-            "LocalizedString": "\u30d1\u30eb\u30dc\u30c3\u30af\u30b9\u304b\u3089\u62e0\u70b9\u306b\u30d1\u30eb\u3092\u51fa\u3059\u3068\u3001\r\n\u305d\u306e\u30d1\u30eb\u304c\u5f97\u610f\u306a\u4f5c\u696d\u3092\u624b\u4f1d\u3063\u3066\u304f\u308c\u308b"
+            "SourceString": "パルボックスから拠点にパルを出すと、\r\nそのパルが得意な作業を手伝ってくれる",
+            "LocalizedString": "パルボックスから拠点にパルを出すと、\r\nそのパルが得意な作業を手伝ってくれる"
         }
     },
     "TUTORIAL_COMMON_6": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_COMMON_6_TextData",
-            "SourceString": "\u30d1\u30eb\u304c\u88c5\u5099\u3067\u304d\u308b\u30a2\u30af\u30c6\u30a3\u30d6\u30b9\u30ad\u30eb\u306f\uff13\u3064\u3060\u3051\r\n\u65b0\u3057\u3044\u30b9\u30ad\u30eb\u306f<uiCommon id=|INGAME_MAIN_MENU_PAL|/>\u30e1\u30cb\u30e5\u30fc\u3067\u5165\u308c\u66ff\u3048\u3088\u3046",
-            "LocalizedString": "\u30d1\u30eb\u304c\u88c5\u5099\u3067\u304d\u308b\u30a2\u30af\u30c6\u30a3\u30d6\u30b9\u30ad\u30eb\u306f\uff13\u3064\u3060\u3051\r\n\u65b0\u3057\u3044\u30b9\u30ad\u30eb\u306f<uiCommon id=|INGAME_MAIN_MENU_PAL|/>\u30e1\u30cb\u30e5\u30fc\u3067\u5165\u308c\u66ff\u3048\u3088\u3046"
+            "SourceString": "パルが装備できるアクティブスキルは３つだけ\r\n新しいスキルは<uiCommon id=|INGAME_MAIN_MENU_PAL|/>メニューで入れ替えよう",
+            "LocalizedString": "パルが装備できるアクティブスキルは３つだけ\r\n新しいスキルは<uiCommon id=|INGAME_MAIN_MENU_PAL|/>メニューで入れ替えよう"
         }
     },
     "TUTORIAL_COMMON_7": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_COMMON_7_TextData",
-            "SourceString": "\u91ce\u751f\u30d1\u30eb\u306f\u72c2\u66b4\u3067\u3001\u7d20\u624b\u3067\u52dd\u3064\u3053\u3068\u306f\u96e3\u3057\u3044\r\n\u4f5c\u696d\u53f0\u3092\u5efa\u7bc9\u3057\u3066\u6b66\u5668\u3092\u4f5c\u308d\u3046",
-            "LocalizedString": "\u91ce\u751f\u30d1\u30eb\u306f\u72c2\u66b4\u3067\u3001\u7d20\u624b\u3067\u52dd\u3064\u3053\u3068\u306f\u96e3\u3057\u3044\r\n\u4f5c\u696d\u53f0\u3092\u5efa\u7bc9\u3057\u3066\u6b66\u5668\u3092\u4f5c\u308d\u3046"
+            "SourceString": "野生パルは狂暴で、素手で勝つことは難しい\r\n作業台を建築して武器を作ろう",
+            "LocalizedString": "野生パルは狂暴で、素手で勝つことは難しい\r\n作業台を建築して武器を作ろう"
         }
     },
     "TUTORIAL_COMMON_8": {
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_COMMON_8_TextData",
-            "SourceString": "\u4ed6\u306e\u5192\u967a\u8005\u306e\u624b\u8a18\u3092\u624b\u306b\u5165\u308c\u305f\r\n\u5f7c\u3089\u306e\u65c5\u8def\u306f\u30aa\u30d7\u30b7\u30e7\u30f3\u753b\u9762\u304b\u3089\u78ba\u8a8d\u3067\u304d\u308b",
-            "LocalizedString": "\u4ed6\u306e\u5192\u967a\u8005\u306e\u624b\u8a18\u3092\u624b\u306b\u5165\u308c\u305f\r\n\u5f7c\u3089\u306e\u65c5\u8def\u306f\u30aa\u30d7\u30b7\u30e7\u30f3\u753b\u9762\u304b\u3089\u78ba\u8a8d\u3067\u304d\u308b"
+            "SourceString": "他の冒険者の手記を手に入れた\r\n彼らの旅路はオプション画面から確認できる",
+            "LocalizedString": "他の冒険者の手記を手に入れた\r\n彼らの旅路はオプション画面から確認できる"
         }
     }
 }

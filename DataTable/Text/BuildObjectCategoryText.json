@@ -3,248 +3,248 @@
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Product_TextData",
-            "SourceString": "\u751f\u7523",
-            "LocalizedString": "\u751f\u7523"
+            "SourceString": "生産",
+            "LocalizedString": "生産"
         }
     },
     "CATEGORY_TYPE_A_Pal": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Pal_TextData",
-            "SourceString": "\u30d1\u30eb",
-            "LocalizedString": "\u30d1\u30eb"
+            "SourceString": "パル",
+            "LocalizedString": "パル"
         }
     },
     "CATEGORY_TYPE_A_Infrastructure": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Infrastructure_TextData",
-            "SourceString": "\u30a4\u30f3\u30d5\u30e9",
-            "LocalizedString": "\u30a4\u30f3\u30d5\u30e9"
+            "SourceString": "インフラ",
+            "LocalizedString": "インフラ"
         }
     },
     "CATEGORY_TYPE_A_Food": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Food_TextData",
-            "SourceString": "\u98df\u6599",
-            "LocalizedString": "\u98df\u6599"
+            "SourceString": "食料",
+            "LocalizedString": "食料"
         }
     },
     "CATEGORY_TYPE_A_Foundation": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Foundation_TextData",
-            "SourceString": "\u5efa\u7bc9",
-            "LocalizedString": "\u5efa\u7bc9"
+            "SourceString": "建築",
+            "LocalizedString": "建築"
         }
     },
     "CATEGORY_TYPE_A_Defense": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Defense_TextData",
-            "SourceString": "\u9632\u885b",
-            "LocalizedString": "\u9632\u885b"
+            "SourceString": "防衛",
+            "LocalizedString": "防衛"
         }
     },
     "CATEGORY_TYPE_A_Other": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Other_TextData",
-            "SourceString": "\u305d\u306e\u4ed6",
-            "LocalizedString": "\u305d\u306e\u4ed6"
+            "SourceString": "その他",
+            "LocalizedString": "その他"
         }
     },
     "CATEGORY_TYPE_A_Storage": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Storage_TextData",
-            "SourceString": "\u53ce\u7d0d",
-            "LocalizedString": "\u53ce\u7d0d"
+            "SourceString": "収納",
+            "LocalizedString": "収納"
         }
     },
     "CATEGORY_TYPE_A_Light": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Light_TextData",
-            "SourceString": "\u7167\u660e",
-            "LocalizedString": "\u7167\u660e"
+            "SourceString": "照明",
+            "LocalizedString": "照明"
         }
     },
     "CATEGORY_TYPE_A_Furniture": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Furniture_TextData",
-            "SourceString": "\u5bb6\u5177",
-            "LocalizedString": "\u5bb6\u5177"
+            "SourceString": "家具",
+            "LocalizedString": "家具"
         }
     },
     "CATEGORY_TYPE_A_Dismantle": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_A_Dismantle_TextData",
-            "SourceString": "\u89e3\u4f53",
-            "LocalizedString": "\u89e3\u4f53"
+            "SourceString": "解体",
+            "LocalizedString": "解体"
         }
     },
     "CATEGORY_TYPE_B_Prod_Craft": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Prod_Craft_TextData",
-            "SourceString": "\u30af\u30e9\u30d5\u30c8",
-            "LocalizedString": "\u30af\u30e9\u30d5\u30c8"
+            "SourceString": "クラフト",
+            "LocalizedString": "クラフト"
         }
     },
     "CATEGORY_TYPE_B_Prod_Resource": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Prod_Resource_TextData",
-            "SourceString": "\u8cc7\u6750",
-            "LocalizedString": "\u8cc7\u6750"
+            "SourceString": "資材",
+            "LocalizedString": "資材"
         }
     },
     "CATEGORY_TYPE_B_Prod_Furnace": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Prod_Furnace_TextData",
-            "SourceString": "\u7089",
-            "LocalizedString": "\u7089"
+            "SourceString": "炉",
+            "LocalizedString": "炉"
         }
     },
     "CATEGORY_TYPE_B_Prod_Medicine": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Prod_Medicine_TextData",
-            "SourceString": "\u85ac\u54c1",
-            "LocalizedString": "\u85ac\u54c1"
+            "SourceString": "薬品",
+            "LocalizedString": "薬品"
         }
     },
     "CATEGORY_TYPE_B_Pal_Capture": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Pal_Capture_TextData",
-            "SourceString": "\u6355\u7372",
-            "LocalizedString": "\u6355\u7372"
+            "SourceString": "捕獲",
+            "LocalizedString": "捕獲"
         }
     },
     "CATEGORY_TYPE_B_Pal_Breed": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Pal_Breed_TextData",
-            "SourceString": "\u4ea4\u914d",
-            "LocalizedString": "\u4ea4\u914d"
+            "SourceString": "交配",
+            "LocalizedString": "交配"
         }
     },
     "CATEGORY_TYPE_B_Pal_Modify": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Pal_Modify_TextData",
-            "SourceString": "\u6539\u9020",
-            "LocalizedString": "\u6539\u9020"
+            "SourceString": "改造",
+            "LocalizedString": "改造"
         }
     },
     "CATEGORY_TYPE_B_Infra_Medical": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Infra_Medical_TextData",
-            "SourceString": "\u533b\u7642",
-            "LocalizedString": "\u533b\u7642"
+            "SourceString": "医療",
+            "LocalizedString": "医療"
         }
     },
     "CATEGORY_TYPE_B_Infra_Storage": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Infra_Storage_TextData",
-            "SourceString": "\u8caf\u8535",
-            "LocalizedString": "\u8caf\u8535"
+            "SourceString": "貯蔵",
+            "LocalizedString": "貯蔵"
         }
     },
     "CATEGORY_TYPE_B_Infra_Trade": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Infra_Trade_TextData",
-            "SourceString": "\u5546\u696d",
-            "LocalizedString": "\u5546\u696d"
+            "SourceString": "商業",
+            "LocalizedString": "商業"
         }
     },
     "CATEGORY_TYPE_B_Infra_GeneratePower": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Infra_GeneratePower_TextData",
-            "SourceString": "\u767a\u96fb",
-            "LocalizedString": "\u767a\u96fb"
+            "SourceString": "発電",
+            "LocalizedString": "発電"
         }
     },
     "CATEGORY_TYPE_B_Infra_Defense": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Infra_Defense_TextData",
-            "SourceString": "\u9632\u885b",
-            "LocalizedString": "\u9632\u885b"
+            "SourceString": "防衛",
+            "LocalizedString": "防衛"
         }
     },
     "CATEGORY_TYPE_B_Infra_Environment": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Infra_Environment_TextData",
-            "SourceString": "\u74b0\u5883",
-            "LocalizedString": "\u74b0\u5883"
+            "SourceString": "環境",
+            "LocalizedString": "環境"
         }
     },
     "CATEGORY_TYPE_B_Food_Basic": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Food_Basic_TextData",
-            "SourceString": "\u57fa\u672c",
-            "LocalizedString": "\u57fa\u672c"
+            "SourceString": "基本",
+            "LocalizedString": "基本"
         }
     },
     "CATEGORY_TYPE_B_Food_Agriculture": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Food_Agriculture_TextData",
-            "SourceString": "\u8fb2\u696d",
-            "LocalizedString": "\u8fb2\u696d"
+            "SourceString": "農業",
+            "LocalizedString": "農業"
         }
     },
     "CATEGORY_TYPE_B_Food_Cooking": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Food_Cooking_TextData",
-            "SourceString": "\u8abf\u7406",
-            "LocalizedString": "\u8abf\u7406"
+            "SourceString": "調理",
+            "LocalizedString": "調理"
         }
     },
     "CATEGORY_TYPE_B_Food_Livestock": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Food_Livestock_TextData",
-            "SourceString": "\u755c\u7523",
-            "LocalizedString": "\u755c\u7523"
+            "SourceString": "畜産",
+            "LocalizedString": "畜産"
         }
     },
     "CATEGORY_TYPE_B_Found_Basic": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Found_Basic_TextData",
-            "SourceString": "\u5efa\u6750",
-            "LocalizedString": "\u5efa\u6750"
+            "SourceString": "建材",
+            "LocalizedString": "建材"
         }
     },
     "CATEGORY_TYPE_B_Found_House": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Found_House_TextData",
-            "SourceString": "\u5bb6\u5c4b",
-            "LocalizedString": "\u5bb6\u5c4b"
+            "SourceString": "家屋",
+            "LocalizedString": "家屋"
         }
     },
     "CATEGORY_TYPE_B_Other": {
         "TextData": {
             "Namespace": "DT_BuildObjectCategoryText",
             "Key": "CATEGORY_TYPE_B_Other_TextData",
-            "SourceString": "\u7279\u6b8a",
-            "LocalizedString": "\u7279\u6b8a"
+            "SourceString": "特殊",
+            "LocalizedString": "特殊"
         }
     }
 }

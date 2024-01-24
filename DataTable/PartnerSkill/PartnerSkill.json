@@ -1,6 +1,6 @@
 {
     "Unknown": {
-        "DevName": "\u6307\u5b9a\u306a\u3057",
+        "DevName": "指定なし",
         "effectTime": 0.0,
         "CoolDownTime": 0.0,
         "ExecCost": 0.0,
@@ -10,7 +10,7 @@
         "IsToggleKey": false
     },
     "OnHeadShoot": {
-        "DevName": "\u80a9\u306e\u308a\u5c04\u6483",
+        "DevName": "肩のり射撃",
         "effectTime": 20.0,
         "CoolDownTime": 120.0,
         "ExecCost": 0.4,
@@ -20,7 +20,7 @@
         "IsToggleKey": true
     },
     "Shiled": {
-        "DevName": "\u88c5\u5099\u30b7\u30fc\u30eb\u30c9",
+        "DevName": "装備シールド",
         "effectTime": 30.0,
         "CoolDownTime": 10.0,
         "ExecCost": 1.0,
@@ -30,7 +30,7 @@
         "IsToggleKey": true
     },
     "Grenade": {
-        "DevName": "\u30d1\u30eb\u30b0\u30ec\u30cd\u30fc\u30c9",
+        "DevName": "パルグレネード",
         "effectTime": 20.0,
         "CoolDownTime": 60.0,
         "ExecCost": 20.0,
@@ -40,7 +40,7 @@
         "IsToggleKey": true
     },
     "Launcher": {
-        "DevName": "\u5375\u30e9\u30f3\u30c1\u30e3\u30fc",
+        "DevName": "卵ランチャー",
         "effectTime": 10.0,
         "CoolDownTime": 120.0,
         "ExecCost": 1.0,
@@ -50,7 +50,7 @@
         "IsToggleKey": true
     },
     "RocketLauncher": {
-        "DevName": "\u30ed\u30b1\u30c3\u30c8\u30e9\u30f3\u30c1\u30e3\u30fc",
+        "DevName": "ロケットランチャー",
         "effectTime": 15.0,
         "CoolDownTime": 180.0,
         "ExecCost": 15.0,
@@ -60,7 +60,7 @@
         "IsToggleKey": true
     },
     "Flamethrower": {
-        "DevName": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+        "DevName": "かえんほうしゃ",
         "effectTime": 10.0,
         "CoolDownTime": 120.0,
         "ExecCost": 1.0,
@@ -70,7 +70,7 @@
         "IsToggleKey": true
     },
     "SearchMine": {
-        "DevName": "\u9271\u8108\u63a2\u77e5",
+        "DevName": "鉱脈探知",
         "effectTime": 1.0,
         "CoolDownTime": 60.0,
         "ExecCost": 1.0,
@@ -80,7 +80,7 @@
         "IsToggleKey": false
     },
     "SearchPal": {
-        "DevName": "\u30d1\u30eb\u63a2\u77e5",
+        "DevName": "パル探知",
         "effectTime": 1.0,
         "CoolDownTime": 60.0,
         "ExecCost": 1.0,
@@ -90,7 +90,7 @@
         "IsToggleKey": false
     },
     "SearchDungeon": {
-        "DevName": "\u30c0\u30f3\u30b8\u30e7\u30f3\u63a2\u77e5",
+        "DevName": "ダンジョン探知",
         "effectTime": 1.0,
         "CoolDownTime": 60.0,
         "ExecCost": 1.0,
@@ -100,7 +100,7 @@
         "IsToggleKey": false
     },
     "UniqueRideShooting_Dummy": {
-        "DevName": "\u30e6\u30cb\u30fc\u30af\u30e9\u30a4\u30c9\u5c04\u6483(\u30c0\u30df\u30fc)",
+        "DevName": "ユニークライド射撃(ダミー)",
         "effectTime": 50.0,
         "CoolDownTime": 10.0,
         "ExecCost": 1.0,
@@ -110,7 +110,7 @@
         "IsToggleKey": false
     },
     "UniqueRideShooting_Minigun": {
-        "DevName": "\u30e6\u30cb\u30fc\u30af\u30e9\u30a4\u30c9_\u30a8\u30ec\u30d1\u30f3\u30c0_\u30df\u30cb\u30ac\u30f3",
+        "DevName": "ユニークライド_エレパンダ_ミニガン",
         "effectTime": 150.0,
         "CoolDownTime": 180.0,
         "ExecCost": 1.0,
@@ -120,7 +120,7 @@
         "IsToggleKey": false
     },
     "UniqueRideShooting_MultiMissile": {
-        "DevName": "\u30e6\u30cb\u30fc\u30af\u30e9\u30a4\u30c9_\u30da\u30b3\u30c9\u30f3_\u30de\u30eb\u30c1\u30df\u30b5\u30a4\u30eb",
+        "DevName": "ユニークライド_ペコドン_マルチミサイル",
         "effectTime": 50.0,
         "CoolDownTime": 180.0,
         "ExecCost": 1.0,
@@ -130,7 +130,7 @@
         "IsToggleKey": false
     },
     "UniqueRideShooting_JetMissile": {
-        "DevName": "\u30e6\u30cb\u30fc\u30af\u30e9\u30a4\u30c9_\u30b8\u30a7\u30c3\u30c8\u30c9\u30e9\u30b4\u30f3_\u30df\u30b5\u30a4\u30eb",
+        "DevName": "ユニークライド_ジェットドラゴン_ミサイル",
         "effectTime": 50.0,
         "CoolDownTime": 180.0,
         "ExecCost": 1.0,
@@ -140,7 +140,7 @@
         "IsToggleKey": false
     },
     "UniqueRideShooting_DualGrenadeLauncher": {
-        "DevName": "\u30e6\u30cb\u30fc\u30af\u30e9\u30a4\u30c9_\u30e2\u30ea\u30be\u30fc_\u30c7\u30e5\u30a2\u30eb\u30b0\u30ec\u30cd\u30fc\u30c9\u30e9\u30f3\u30c1\u30e3\u30fc",
+        "DevName": "ユニークライド_モリゾー_デュアルグレネードランチャー",
         "effectTime": 20.0,
         "CoolDownTime": 180.0,
         "ExecCost": 1.0,
@@ -150,7 +150,7 @@
         "IsToggleKey": false
     },
     "UniqueRideShooting_GeroBeam": {
-        "DevName": "\u30e6\u30cb\u30fc\u30af\u30e9\u30a4\u30c9_\u30a2\u30ed\u30a2\u30ea\u30e5\u30fc_\u30b2\u30ed\u30d3\u30fc\u30e0",
+        "DevName": "ユニークライド_アロアリュー_ゲロビーム",
         "effectTime": 1.0,
         "CoolDownTime": 20.0,
         "ExecCost": 1.0,
@@ -160,7 +160,7 @@
         "IsToggleKey": false
     },
     "Toboggan": {
-        "DevName": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30bf\u30c3\u30af\u30eb",
+        "DevName": "スライディングタックル",
         "effectTime": 1.0,
         "CoolDownTime": 120.0,
         "ExecCost": 1000.0,
@@ -170,7 +170,7 @@
         "IsToggleKey": false
     },
     "Waza": {
-        "DevName": "\u30ef\u30b6\u3092\u4f7f\u3046",
+        "DevName": "ワザを使う",
         "effectTime": 1.0,
         "CoolDownTime": 30.0,
         "ExecCost": 1000.0,
@@ -180,7 +180,7 @@
         "IsToggleKey": false
     },
     "Heal": {
-        "DevName": "\u7652\u3057\u306e\u96e8",
+        "DevName": "癒しの雨",
         "effectTime": 1.0,
         "CoolDownTime": 120.0,
         "ExecCost": 1.0,
@@ -190,7 +190,7 @@
         "IsToggleKey": false
     },
     "Heal_LilyQueen": {
-        "DevName": "\u56de\u5fa9",
+        "DevName": "回復",
         "effectTime": 1.0,
         "CoolDownTime": 300.0,
         "ExecCost": 1.0,
@@ -200,7 +200,7 @@
         "IsToggleKey": false
     },
     "Heal_FlowerDoll": {
-        "DevName": "\u56de\u5fa9",
+        "DevName": "回復",
         "effectTime": 1.0,
         "CoolDownTime": 150.0,
         "ExecCost": 1.0,
@@ -210,7 +210,7 @@
         "IsToggleKey": false
     },
     "Berserk": {
-        "DevName": "\u30d0\u30fc\u30b5\u30fc\u30af\u30e2\u30fc\u30c9",
+        "DevName": "バーサークモード",
         "effectTime": 30.0,
         "CoolDownTime": 60.0,
         "ExecCost": 0.0,
@@ -220,7 +220,7 @@
         "IsToggleKey": false
     },
     "NightRunner": {
-        "DevName": "\u591c\u306b\u99c6\u3051\u308b",
+        "DevName": "夜に駆ける",
         "effectTime": 30.0,
         "CoolDownTime": 60.0,
         "ExecCost": 0.0,
@@ -230,7 +230,7 @@
         "IsToggleKey": false
     },
     "AssaultRifle": {
-        "DevName": "\u30a2\u30b5\u30eb\u30c8\u30e9\u30a4\u30d5\u30eb\u30e2\u30fc\u30c9",
+        "DevName": "アサルトライフルモード",
         "effectTime": 10.0,
         "CoolDownTime": 120.0,
         "ExecCost": 1.0,
@@ -240,7 +240,7 @@
         "IsToggleKey": true
     },
     "SpinningShell": {
-        "DevName": "\u30b9\u30d4\u30cb\u30f3\u30b0\u30b7\u30a7\u30eb(\u30c9\u30ea\u30bf\u30b9)",
+        "DevName": "スピニングシェル(ドリタス)",
         "effectTime": 30.0,
         "CoolDownTime": 120.0,
         "ExecCost": 7.5,

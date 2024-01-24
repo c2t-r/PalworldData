@@ -3,464 +3,464 @@
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Grass_1_TextData",
-            "SourceString": "\u98a8\u7acb\u3061\u306e\u4e18",
-            "LocalizedString": "\u98a8\u7acb\u3061\u306e\u4e18"
+            "SourceString": "風立ちの丘",
+            "LocalizedString": "風立ちの丘"
         }
     },
     "REGION_Grass_2": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Grass_2_TextData",
-            "SourceString": "\u7af9\u6797\u306e\u6e13\u8c37",
-            "LocalizedString": "\u7af9\u6797\u306e\u6e13\u8c37"
+            "SourceString": "竹林の渓谷",
+            "LocalizedString": "竹林の渓谷"
         }
     },
     "REGION_Forest_1": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Forest_1_TextData",
-            "SourceString": "\u6708\u6b20\u3051\u6e56\u7554",
-            "LocalizedString": "\u6708\u6b20\u3051\u6e56\u7554"
+            "SourceString": "月欠け湖畔",
+            "LocalizedString": "月欠け湖畔"
         }
     },
     "REGION_Forest_2": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Forest_2_TextData",
-            "SourceString": "\u65b0\u7dd1\u306e\u6e13\u6d41",
-            "LocalizedString": "\u65b0\u7dd1\u306e\u6e13\u6d41"
+            "SourceString": "新緑の渓流",
+            "LocalizedString": "新緑の渓流"
         }
     },
     "REGION_Volcano_1": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Volcano_1_TextData",
-            "SourceString": "\u9ed2\u66dc\u706b\u5c71",
-            "LocalizedString": "\u9ed2\u66dc\u706b\u5c71"
+            "SourceString": "黒曜火山",
+            "LocalizedString": "黒曜火山"
         }
     },
     "REGION_Desert_1": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Desert_1_TextData",
-            "SourceString": "\u6e07\u304d\u306e\u7802\u4e18",
-            "LocalizedString": "\u6e07\u304d\u306e\u7802\u4e18"
+            "SourceString": "渇きの砂丘",
+            "LocalizedString": "渇きの砂丘"
         }
     },
     "REGION_Frost_1": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Frost_1_TextData",
-            "SourceString": "\u767d\u9280\u306e\u970a\u5cf0",
-            "LocalizedString": "\u767d\u9280\u306e\u970a\u5cf0"
+            "SourceString": "白銀の霊峰",
+            "LocalizedString": "白銀の霊峰"
         }
     },
     "REGION_Frost_small": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Frost_small_TextData",
-            "SourceString": "\u51cd\u3066\u3064\u304d\u5c71",
-            "LocalizedString": "\u51cd\u3066\u3064\u304d\u5c71"
+            "SourceString": "凍てつき山",
+            "LocalizedString": "凍てつき山"
         }
     },
     "REGION_Desert_Small": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Desert_Small_TextData",
-            "SourceString": "\u9ec4\u660f\u308c\u7802\u539f",
-            "LocalizedString": "\u9ec4\u660f\u308c\u7802\u539f"
+            "SourceString": "黄昏れ砂原",
+            "LocalizedString": "黄昏れ砂原"
         }
     },
     "REGION_Grass_Boss": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Grass_Boss_TextData",
-            "SourceString": "\u30ec\u30a4\u30f3\u5bc6\u731f\u56e3\u306e\u5854",
-            "LocalizedString": "\u30ec\u30a4\u30f3\u5bc6\u731f\u56e3\u306e\u5854"
+            "SourceString": "レイン密猟団の塔",
+            "LocalizedString": "レイン密猟団の塔"
         }
     },
     "REGION_Forest_Boss": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Forest_Boss_TextData",
-            "SourceString": "\u30d1\u30eb\u611b\u8b77\u56e3\u4f53\u306e\u5854",
-            "LocalizedString": "\u30d1\u30eb\u611b\u8b77\u56e3\u4f53\u306e\u5854"
+            "SourceString": "パル愛護団体の塔",
+            "LocalizedString": "パル愛護団体の塔"
         }
     },
     "REGION_Desert_Boss": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Desert_Boss_TextData",
-            "SourceString": "\u81ea\u8b66\u56e3\u306e\u5854",
-            "LocalizedString": "\u81ea\u8b66\u56e3\u306e\u5854"
+            "SourceString": "自警団の塔",
+            "LocalizedString": "自警団の塔"
         }
     },
     "REGION_Volcano_Boss": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Volcano_Boss_TextData",
-            "SourceString": "\u6c38\u708e\u306e\u540c\u5fd7\u306e\u5854",
-            "LocalizedString": "\u6c38\u708e\u306e\u540c\u5fd7\u306e\u5854"
+            "SourceString": "永炎の同志の塔",
+            "LocalizedString": "永炎の同志の塔"
         }
     },
     "REGION_Frost_Boss": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Frost_Boss_TextData",
-            "SourceString": "\u907a\u4f1d\u5b50\u7814\u7a76\u90e8\u968a\u306e\u5854",
-            "LocalizedString": "\u907a\u4f1d\u5b50\u7814\u7a76\u90e8\u968a\u306e\u5854"
+            "SourceString": "遺伝子研究部隊の塔",
+            "LocalizedString": "遺伝子研究部隊の塔"
         }
     },
     "REGION_TEST_CHICKEN": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_TEST_CHICKEN_TextData",
-            "SourceString": "\u306b\u308f\u3068\u308a\u306e\u3057\u305f",
-            "LocalizedString": "\u306b\u308f\u3068\u308a\u306e\u3057\u305f"
+            "SourceString": "にわとりのした",
+            "LocalizedString": "にわとりのした"
         }
     },
     "REGION_Grass_1_Church": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Grass_1_Church_TextData",
-            "SourceString": "\u3055\u3073\u308c\u305f\u6559\u4f1a",
-            "LocalizedString": "\u3055\u3073\u308c\u305f\u6559\u4f1a"
+            "SourceString": "さびれた教会",
+            "LocalizedString": "さびれた教会"
         }
     },
     "REGION_Grass_1_Village": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Grass_1_Village_TextData",
-            "SourceString": "\u5c0f\u3055\u306a\u96c6\u843d",
-            "LocalizedString": "\u5c0f\u3055\u306a\u96c6\u843d"
+            "SourceString": "小さな集落",
+            "LocalizedString": "小さな集落"
         }
     },
     "REGION_Desert_1_Village": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Desert_1_Village_TextData",
-            "SourceString": "\u7802\u6f20\u306e\u8857",
-            "LocalizedString": "\u7802\u6f20\u306e\u8857"
+            "SourceString": "砂漠の街",
+            "LocalizedString": "砂漠の街"
         }
     },
     "REGION_Volcano_1_Village": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Volcano_1_Village_TextData",
-            "SourceString": "\u679c\u3066\u306e\u6f01\u6751",
-            "LocalizedString": "\u679c\u3066\u306e\u6f01\u6751"
+            "SourceString": "果ての漁村",
+            "LocalizedString": "果ての漁村"
         }
     },
     "REGION_Preserve1": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Preserve1_TextData",
-            "SourceString": "\u7b2c\u4e00\u7981\u731f\u533a",
-            "LocalizedString": "\u7b2c\u4e00\u7981\u731f\u533a"
+            "SourceString": "第一禁猟区",
+            "LocalizedString": "第一禁猟区"
         }
     },
     "REGION_Preserve2": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Preserve2_TextData",
-            "SourceString": "\u7b2c\u4e8c\u7981\u731f\u533a",
-            "LocalizedString": "\u7b2c\u4e8c\u7981\u731f\u533a"
+            "SourceString": "第二禁猟区",
+            "LocalizedString": "第二禁猟区"
         }
     },
     "REGION_Preserve3": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Preserve3_TextData",
-            "SourceString": "\u7b2c\u4e09\u7981\u731f\u533a",
-            "LocalizedString": "\u7b2c\u4e09\u7981\u731f\u533a"
+            "SourceString": "第三禁猟区",
+            "LocalizedString": "第三禁猟区"
         }
     },
     "REGION_Statue1": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Statue1_TextData",
-            "SourceString": "\u30a2\u30cc\u30d3\u30b9\u50cf",
-            "LocalizedString": "\u30a2\u30cc\u30d3\u30b9\u50cf"
+            "SourceString": "アヌビス像",
+            "LocalizedString": "アヌビス像"
         }
     },
     "REGION_Statue2": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Statue2_TextData",
-            "SourceString": "\u30b8\u30a7\u30c3\u30c9\u30e9\u30f3\u50cf",
-            "LocalizedString": "\u30b8\u30a7\u30c3\u30c9\u30e9\u30f3\u50cf"
+            "SourceString": "ジェッドラン像",
+            "LocalizedString": "ジェッドラン像"
         }
     },
     "REGION_Statue3": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Statue3_TextData",
-            "SourceString": "\u30b0\u30ec\u30a4\u30b7\u30e3\u30eb\u50cf",
-            "LocalizedString": "\u30b0\u30ec\u30a4\u30b7\u30e3\u30eb\u50cf"
+            "SourceString": "グレイシャル像",
+            "LocalizedString": "グレイシャル像"
         }
     },
     "REGION_Forest_Ruin": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_Forest_Ruin_TextData",
-            "SourceString": "\u53e4\u3073\u305f\u796d\u7940\u5834",
-            "LocalizedString": "\u53e4\u3073\u305f\u796d\u7940\u5834"
+            "SourceString": "古びた祭祀場",
+            "LocalizedString": "古びた祭祀場"
         }
     },
     "REGION_FixedDungeon_grass_1": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_grass_1_TextData",
-            "SourceString": "\u6c37\u9ce5\u306e\u5c01\u57df",
-            "LocalizedString": "\u6c37\u9ce5\u306e\u5c01\u57df"
+            "SourceString": "氷鳥の封域",
+            "LocalizedString": "氷鳥の封域"
         }
     },
     "REGION_FixedDungeon_grass_2": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_grass_2_TextData",
-            "SourceString": "\u5263\u8c6a\u306e\u5c01\u57df",
-            "LocalizedString": "\u5263\u8c6a\u306e\u5c01\u57df"
+            "SourceString": "剣豪の封域",
+            "LocalizedString": "剣豪の封域"
         }
     },
     "REGION_FixedDungeon_grass_3": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_grass_3_TextData",
-            "SourceString": "\u7ffc\u7adc\u306e\u5c01\u57df",
-            "LocalizedString": "\u7ffc\u7adc\u306e\u5c01\u57df"
+            "SourceString": "翼竜の封域",
+            "LocalizedString": "翼竜の封域"
         }
     },
     "REGION_FixedDungeon_grass_4": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_grass_4_TextData",
-            "SourceString": "\u96f7\u9cf4\u7adc\u306e\u5c01\u57df",
-            "LocalizedString": "\u96f7\u9cf4\u7adc\u306e\u5c01\u57df"
+            "SourceString": "雷鳴竜の封域",
+            "LocalizedString": "雷鳴竜の封域"
         }
     },
     "REGION_FixedDungeon_grass_5": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_grass_5_TextData",
-            "SourceString": "\u95c7\u591c\u306e\u5c01\u57df",
-            "LocalizedString": "\u95c7\u591c\u306e\u5c01\u57df"
+            "SourceString": "闇夜の封域",
+            "LocalizedString": "闇夜の封域"
         }
     },
     "REGION_FixedDungeon_grass_6": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_grass_6_TextData",
-            "SourceString": "\u9b54\u5c0e\u58eb\u306e\u5c01\u57df",
-            "LocalizedString": "\u9b54\u5c0e\u58eb\u306e\u5c01\u57df"
+            "SourceString": "魔導士の封域",
+            "LocalizedString": "魔導士の封域"
         }
     },
     "REGION_FixedDungeon_grass_7": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_grass_7_TextData",
-            "SourceString": "\u795e\u79d8\u306e\u5c01\u57df",
-            "LocalizedString": "\u795e\u79d8\u306e\u5c01\u57df"
+            "SourceString": "神秘の封域",
+            "LocalizedString": "神秘の封域"
         }
     },
     "REGION_FixedDungeon_forest_1": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_forest_1_TextData",
-            "SourceString": "\u525b\u6bc5\u306e\u5c01\u57df",
-            "LocalizedString": "\u525b\u6bc5\u306e\u5c01\u57df"
+            "SourceString": "剛毅の封域",
+            "LocalizedString": "剛毅の封域"
         }
     },
     "REGION_FixedDungeon_forest_2": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_forest_2_TextData",
-            "SourceString": "\u7cbe\u970a\u306e\u5c01\u57df",
-            "LocalizedString": "\u7cbe\u970a\u306e\u5c01\u57df"
+            "SourceString": "精霊の封域",
+            "LocalizedString": "精霊の封域"
         }
     },
     "REGION_FixedDungeon_forest_3": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_forest_3_TextData",
-            "SourceString": "\u795e\u901f\u306e\u5c01\u57df",
-            "LocalizedString": "\u795e\u901f\u306e\u5c01\u57df"
+            "SourceString": "神速の封域",
+            "LocalizedString": "神速の封域"
         }
     },
     "REGION_FixedDungeon_forest_4": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_forest_4_TextData",
-            "SourceString": "\u5b88\u8b77\u8005\u306e\u5c01\u57df",
-            "LocalizedString": "\u5b88\u8b77\u8005\u306e\u5c01\u57df"
+            "SourceString": "守護者の封域",
+            "LocalizedString": "守護者の封域"
         }
     },
     "REGION_FixedDungeon_forest_5": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_FixedDungeon_forest_5_TextData",
-            "SourceString": "\u7d14\u767d\u306e\u5c01\u57df",
-            "LocalizedString": "\u7d14\u767d\u306e\u5c01\u57df"
+            "SourceString": "純白の封域",
+            "LocalizedString": "純白の封域"
         }
     },
     "REGION_UndergroundCave_grass01": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_grass01_TextData",
-            "SourceString": "\u5ec3\u68c4\u3055\u308c\u305f\u5751\u9053",
-            "LocalizedString": "\u5ec3\u68c4\u3055\u308c\u305f\u5751\u9053"
+            "SourceString": "廃棄された坑道",
+            "LocalizedString": "廃棄された坑道"
         }
     },
     "REGION_UndergroundCave_grass02": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_grass02_TextData",
-            "SourceString": "\u6d45\u702c\u306e\u5751\u9053",
-            "LocalizedString": "\u6d45\u702c\u306e\u5751\u9053"
+            "SourceString": "浅瀬の坑道",
+            "LocalizedString": "浅瀬の坑道"
         }
     },
     "REGION_UndergroundCave_grass03": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_grass03_TextData",
-            "SourceString": "\u6edd\u88cf\u306e\u5751\u9053",
-            "LocalizedString": "\u6edd\u88cf\u306e\u5751\u9053"
+            "SourceString": "滝裏の坑道",
+            "LocalizedString": "滝裏の坑道"
         }
     },
     "REGION_UndergroundCave_grass04": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_grass04_TextData",
-            "SourceString": "\u5165\u308a\u6c5f\u306e\u5751\u9053",
-            "LocalizedString": "\u5165\u308a\u6c5f\u306e\u5751\u9053"
+            "SourceString": "入り江の坑道",
+            "LocalizedString": "入り江の坑道"
         }
     },
     "REGION_UndergroundCave_forest01": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_forest01_TextData",
-            "SourceString": "\u4fe1\u4ef0\u8005\u306e\u5751\u9053",
-            "LocalizedString": "\u4fe1\u4ef0\u8005\u306e\u5751\u9053"
+            "SourceString": "信仰者の坑道",
+            "LocalizedString": "信仰者の坑道"
         }
     },
     "REGION_UndergroundCave_dessert01": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_dessert01_TextData",
-            "SourceString": "\u6e07\u304d\u306e\u5751\u9053",
-            "LocalizedString": "\u6e07\u304d\u306e\u5751\u9053"
+            "SourceString": "渇きの坑道",
+            "LocalizedString": "渇きの坑道"
         }
     },
     "REGION_UndergroundCave_dessert02": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_dessert02_TextData",
-            "SourceString": "\u79d8\u5bc6\u306e\u5751\u9053",
-            "LocalizedString": "\u79d8\u5bc6\u306e\u5751\u9053"
+            "SourceString": "秘密の坑道",
+            "LocalizedString": "秘密の坑道"
         }
     },
     "REGION_UndergroundCave_dessert03": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_dessert03_TextData",
-            "SourceString": "\u6700\u679c\u3066\u306e\u5751\u9053",
-            "LocalizedString": "\u6700\u679c\u3066\u306e\u5751\u9053"
+            "SourceString": "最果ての坑道",
+            "LocalizedString": "最果ての坑道"
         }
     },
     "REGION_UndergroundCave_volcano01": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_volcano01_TextData",
-            "SourceString": "\u707c\u71b1\u306e\u5751\u9053",
-            "LocalizedString": "\u707c\u71b1\u306e\u5751\u9053"
+            "SourceString": "灼熱の坑道",
+            "LocalizedString": "灼熱の坑道"
         }
     },
     "REGION_UndergroundCave_volcano02": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_volcano02_TextData",
-            "SourceString": "\u7834\u6ec5\u306e\u5751\u9053",
-            "LocalizedString": "\u7834\u6ec5\u306e\u5751\u9053"
+            "SourceString": "破滅の坑道",
+            "LocalizedString": "破滅の坑道"
         }
     },
     "REGION_UndergroundCave_snow01": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_snow01_TextData",
-            "SourceString": "\u6c37\u5c71\u306e\u5751\u9053",
-            "LocalizedString": "\u6c37\u5c71\u306e\u5751\u9053"
+            "SourceString": "氷山の坑道",
+            "LocalizedString": "氷山の坑道"
         }
     },
     "REGION_UndergroundCave_snow02": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_UndergroundCave_snow02_TextData",
-            "SourceString": "\u5fd8\u308c\u3089\u308c\u305f\u5751\u9053",
-            "LocalizedString": "\u5fd8\u308c\u3089\u308c\u305f\u5751\u9053"
+            "SourceString": "忘れられた坑道",
+            "LocalizedString": "忘れられた坑道"
         }
     },
     "REGION_PvP_1": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_PvP_1_TextData",
-            "SourceString": "\u6f6e\u98a8\u8af8\u5cf6",
-            "LocalizedString": "\u6f6e\u98a8\u8af8\u5cf6"
+            "SourceString": "潮風諸島",
+            "LocalizedString": "潮風諸島"
         }
     },
     "REGION_PvP_2": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_PvP_2_TextData",
-            "SourceString": "\u5fd8\u308c\u3089\u308c\u305f\u5cf6",
-            "LocalizedString": "\u5fd8\u308c\u3089\u308c\u305f\u5cf6"
+            "SourceString": "忘れられた島",
+            "LocalizedString": "忘れられた島"
         }
     },
     "REGION_PvP_3": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_PvP_3_TextData",
-            "SourceString": "\u5bd2\u98a8\u304c\u5439\u304f\u5cf6",
-            "LocalizedString": "\u5bd2\u98a8\u304c\u5439\u304f\u5cf6"
+            "SourceString": "寒風が吹く島",
+            "LocalizedString": "寒風が吹く島"
         }
     },
     "REGION_PvP_4": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_PvP_4_TextData",
-            "SourceString": "\u6771\u306e\u8352\u308c\u5cf6",
-            "LocalizedString": "\u6771\u306e\u8352\u308c\u5cf6"
+            "SourceString": "東の荒れ島",
+            "LocalizedString": "東の荒れ島"
         }
     },
     "REGION_PvP_5": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_PvP_5_TextData",
-            "SourceString": "\u6e7f\u539f\u306e\u5cf6",
-            "LocalizedString": "\u6e7f\u539f\u306e\u5cf6"
+            "SourceString": "湿原の島",
+            "LocalizedString": "湿原の島"
         }
     },
     "REGION_PvP_1_Church": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_PvP_1_Church_TextData",
-            "SourceString": "\u6f6e\u98a8\u8af8\u5cf6\u306e\u6559\u4f1a",
-            "LocalizedString": "\u6f6e\u98a8\u8af8\u5cf6\u306e\u6559\u4f1a"
+            "SourceString": "潮風諸島の教会",
+            "LocalizedString": "潮風諸島の教会"
         }
     },
     "REGION_PvP_2_Church": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_PvP_2_Church_TextData",
-            "SourceString": "\u5fd8\u308c\u3089\u308c\u305f\u5cf6\u306e\u6559\u4f1a\u8de1\u5730",
-            "LocalizedString": "\u5fd8\u308c\u3089\u308c\u305f\u5cf6\u306e\u6559\u4f1a\u8de1\u5730"
+            "SourceString": "忘れられた島の教会跡地",
+            "LocalizedString": "忘れられた島の教会跡地"
         }
     },
     "REGION_PvP_3_Church": {
         "TextData": {
             "Namespace": "DT_WorldMap_Common_Text",
             "Key": "REGION_PvP_3_Church_TextData",
-            "SourceString": "\u6e7f\u539f\u5cf6\u306e\u6559\u4f1a\u8de1\u5730",
-            "LocalizedString": "\u6e7f\u539f\u5cf6\u306e\u6559\u4f1a\u8de1\u5730"
+            "SourceString": "湿原島の教会跡地",
+            "LocalizedString": "湿原島の教会跡地"
         }
     }
 }

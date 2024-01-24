@@ -3,16 +3,16 @@
         "TextData": {
             "Namespace": "DT_TestLocalize",
             "Key": "F51045784D9B46A5523064AD6900B5B9",
-            "SourceString": "\u306f\u3044",
-            "LocalizedString": "\u306f\u3044"
+            "SourceString": "はい",
+            "LocalizedString": "はい"
         }
     },
     "No": {
         "TextData": {
             "Namespace": "",
             "Key": "DD1D7A76416B11C491D0B18561E3D5C8",
-            "SourceString": "\u3044\u3044\u3048",
-            "LocalizedString": "\u3044\u3044\u3048"
+            "SourceString": "いいえ",
+            "LocalizedString": "いいえ"
         }
     },
     "OK": {
@@ -27,8 +27,8 @@
         "TextData": {
             "Namespace": "",
             "Key": "1D8A4B4445DEAA56D0D51E8D153A7C60",
-            "SourceString": "\u30ad\u30e3\u30f3\u30bb\u30eb",
-            "LocalizedString": "\u30ad\u30e3\u30f3\u30bb\u30eb"
+            "SourceString": "キャンセル",
+            "LocalizedString": "キャンセル"
         }
     }
 }
