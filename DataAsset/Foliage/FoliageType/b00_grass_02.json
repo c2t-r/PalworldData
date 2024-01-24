@@ -1,0 +1,50 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'Grass_Lowpoly_sm'",
+        "ObjectPath": "Pal/Content/GrassSV_MaterialPack/Meshes/Grass_Lowpoly_sm.2"
+    },
+    "UpdateGuid": "5987377B-4B9B2335-69E4AB99-53DE1808",
+    "Density": 9064.013,
+    "Radius": 30.0,
+    "ScaleX": {
+        "Min": 0.5,
+        "Max": 0.8
+    },
+    "ZOffset": {
+        "Min": -10.0,
+        "Max": -10.0
+    },
+    "RandomYaw": false,
+    "GroundSlopeAngle": {
+        "Max": 70.0
+    },
+    "MeshBounds": {
+        "Origin": {
+            "X": 0.29309464,
+            "Y": -1.6040154,
+            "Z": 21.611345
+        },
+        "BoxExtent": {
+            "X": 35.60874,
+            "Y": 46.38628,
+            "Z": 25.799772
+        },
+        "SphereRadius": 50.80118349256145
+    },
+    "LowBoundOriginRadius": {
+        "X": 0.78953457,
+        "Y": 0.57960606,
+        "Z": 35.947994
+    },
+    "CullDistance": {
+        "Max": 1200
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

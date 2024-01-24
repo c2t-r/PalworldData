@@ -1,0 +1,906 @@
+{
+    "PAL_SHORT_DESC_Anubis": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Anubis_TextData",
+            "SourceString": "\u4e00\u7dd2\u306b\u3044\u308b\u3068\r\n\u30ac\u30c1\u30ac\u30c1\u306b\u901e\u3057\u3044\u3000\u30d1\u30ef\u30fc\u304c\u307f\u306a\u304e\u308a\r\n\u653b\u6483\u304c\u3000\u30b4\u30ea\u30b4\u30ea\u306e\u5730\u9762\u30bf\u30a4\u30d7\u306b\u306a\u3063\u3061\u3083\u3046\u3002",
+            "LocalizedString": "\u4e00\u7dd2\u306b\u3044\u308b\u3068\r\n\u30ac\u30c1\u30ac\u30c1\u306b\u901e\u3057\u3044\u3000\u30d1\u30ef\u30fc\u304c\u307f\u306a\u304e\u308a\r\n\u653b\u6483\u304c\u3000\u30b4\u30ea\u30b4\u30ea\u306e\u5730\u9762\u30bf\u30a4\u30d7\u306b\u306a\u3063\u3061\u3083\u3046\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Baphomet": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Baphomet_TextData",
+            "SourceString": "\u4e00\u7dd2\u306b\u3044\u308b\u3068\r\n\u30ae\u30e9\u30ae\u30e9\u71c3\u3048\u308b\u3000\u30d1\u30ef\u30fc\u304c\u307f\u306a\u304e\u308a\r\n\u653b\u6483\u304c\u3000\u30e1\u30e9\u30e1\u30e9\u306e\u708e\u30bf\u30a4\u30d7\u306b\u306a\u3063\u3061\u3083\u3046\u3002",
+            "LocalizedString": "\u4e00\u7dd2\u306b\u3044\u308b\u3068\r\n\u30ae\u30e9\u30ae\u30e9\u71c3\u3048\u308b\u3000\u30d1\u30ef\u30fc\u304c\u307f\u306a\u304e\u308a\r\n\u653b\u6483\u304c\u3000\u30e1\u30e9\u30e1\u30e9\u306e\u708e\u30bf\u30a4\u30d7\u306b\u306a\u3063\u3061\u3083\u3046\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Baphomet_Dark": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Baphomet_Dark_TextData",
+            "SourceString": "\u30ae\u30e9\u30ae\u30e9\u3068\u71c3\u3048\u308b\u3000\u6027\u683c\u3060\u3063\u305f\u304c\r\n\u5927\u707d\u5384\u5f8c\u306e\u3000\u53b3\u3057\u3044\u74b0\u5883\u3092\u751f\u304d\u629c\u304f\u305f\u3081\r\n\u6b8b\u8650\u306a\u6027\u683c\u306b\u3000\u306a\u3063\u305f\u3068\u3044\u3046\u3002",
+            "LocalizedString": "\u30ae\u30e9\u30ae\u30e9\u3068\u71c3\u3048\u308b\u3000\u6027\u683c\u3060\u3063\u305f\u304c\r\n\u5927\u707d\u5384\u5f8c\u306e\u3000\u53b3\u3057\u3044\u74b0\u5883\u3092\u751f\u304d\u629c\u304f\u305f\u3081\r\n\u6b8b\u8650\u306a\u6027\u683c\u306b\u3000\u306a\u3063\u305f\u3068\u3044\u3046\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Bastet": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Bastet_TextData",
+            "SourceString": "\u3054\u304f\u50c5\u304b\u306a\u3000\u7a7a\u6c17\u306e\u6d41\u308c\u3082\u611f\u3058\u53d6\u308a\r\n\u8fd1\u304f\u306e\u30c0\u30f3\u30b8\u30e7\u30f3\u3092\u898b\u3064\u3051\u3066\u304f\u308c\u308b\uff01",
+            "LocalizedString": "\u3054\u304f\u50c5\u304b\u306a\u3000\u7a7a\u6c17\u306e\u6d41\u308c\u3082\u611f\u3058\u53d6\u308a\r\n\u8fd1\u304f\u306e\u30c0\u30f3\u30b8\u30e7\u30f3\u3092\u898b\u3064\u3051\u3066\u304f\u308c\u308b\uff01"
+        }
+    },
+    "PAL_SHORT_DESC_Boar": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Boar_TextData",
+            "SourceString": "\u6c17\u6027\u304c\u8352\u304f\u3000\u3069\u3093\u306a\u76f8\u624b\u3068\u3082\u30b1\u30f3\u30ab\u3057\u304c\u3061\u3002\r\n\u80cc\u4e2d\u306b\u4e57\u3063\u3066\u3000\u6c17\u306b\u5165\u3089\u306a\u3044\u30e4\u30c4\u3068\r\n\u30d0\u30c8\u30eb\u3057\u3088\u3046\u305c\uff01",
+            "LocalizedString": "\u6c17\u6027\u304c\u8352\u304f\u3000\u3069\u3093\u306a\u76f8\u624b\u3068\u3082\u30b1\u30f3\u30ab\u3057\u304c\u3061\u3002\r\n\u80cc\u4e2d\u306b\u4e57\u3063\u3066\u3000\u6c17\u306b\u5165\u3089\u306a\u3044\u30e4\u30c4\u3068\r\n\u30d0\u30c8\u30eb\u3057\u3088\u3046\u305c\uff01"
+        }
+    },
+    "PAL_SHORT_DESC_Carbunclo": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Carbunclo_TextData",
+            "SourceString": "\u81c6\u75c5\u3060\u304c\u3000\u8ce2\u304f\u3000\u3088\u304f\u306a\u3064\u304f\u3002\r\n\u982d\u306b\u306e\u305b\u308c\u3070\u3000\u30aa\u30e2\u30c1\u30e3\u4ee3\u308f\u308a\u306e\u9283\u3092\r\n\u72d9\u3063\u305f\u5834\u6240\u306b\u3000\u30d1\u30f3\uff01",
+            "LocalizedString": "\u81c6\u75c5\u3060\u304c\u3000\u8ce2\u304f\u3000\u3088\u304f\u306a\u3064\u304f\u3002\r\n\u982d\u306b\u306e\u305b\u308c\u3070\u3000\u30aa\u30e2\u30c1\u30e3\u4ee3\u308f\u308a\u306e\u9283\u3092\r\n\u72d9\u3063\u305f\u5834\u6240\u306b\u3000\u30d1\u30f3\uff01"
+        }
+    },
+    "PAL_SHORT_DESC_ColorfulBird": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_ColorfulBird_TextData",
+            "SourceString": "\u5947\u5929\u70c8\u306a\u6a21\u69d8\u3067\u3000\u3088\u304f\u76ee\u7acb\u3064\u3002\r\n\u8d77\u7206\u6027\u306e\u5375\u3092\u3000\u7523\u3080\u3053\u3068\u304c\u3067\u304d\r\n\u304a\u30b1\u30c4\u3092\u305f\u305f\u3051\u3070\u3000\u3072\u308a\u51fa\u305b\u308b\u3002",
+            "LocalizedString": "\u5947\u5929\u70c8\u306a\u6a21\u69d8\u3067\u3000\u3088\u304f\u76ee\u7acb\u3064\u3002\r\n\u8d77\u7206\u6027\u306e\u5375\u3092\u3000\u7523\u3080\u3053\u3068\u304c\u3067\u304d\r\n\u304a\u30b1\u30c4\u3092\u305f\u305f\u3051\u3070\u3000\u3072\u308a\u51fa\u305b\u308b\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Deer": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Deer_TextData",
+            "SourceString": "\u975e\u5e38\u306b\u92ed\u3044\u89d2\u3092\u6301\u3063\u305f\u30d1\u30eb\u3002\r\n\u4e57\u308a\u5fc3\u5730\u306f\u3000\u3068\u3066\u3082\u3088\u304f\r\n\u89d2\u3092\u751f\u304b\u3057\u305f\u7a81\u9032\u3082\u3000\u983c\u308a\u306b\u306a\u308b\u3002",
+            "LocalizedString": "\u975e\u5e38\u306b\u92ed\u3044\u89d2\u3092\u6301\u3063\u305f\u30d1\u30eb\u3002\r\n\u4e57\u308a\u5fc3\u5730\u306f\u3000\u3068\u3066\u3082\u3088\u304f\r\n\u89d2\u3092\u751f\u304b\u3057\u305f\u7a81\u9032\u3082\u3000\u983c\u308a\u306b\u306a\u308b\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_DrillGame": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_DrillGame_TextData",
+            "SourceString": "\u7532\u7f85\u306e\u30c8\u30b2\u3067\u3000\u56fa\u3044\u3082\u306e\u3092\u7c89\u7815\u3059\u308b\u3002\r\n\u89d2\u7814\u304e\u3092\u517c\u306d\u3066\u3000\u9271\u77f3\u3067\u3082\u6398\u3089\u305b\u3066\u304a\u3051\u3070\r\n\u304d\u3063\u3068\u6e80\u8db3\u3059\u308b\u3060\u308d\u3046\u3002",
+            "LocalizedString": "\u7532\u7f85\u306e\u30c8\u30b2\u3067\u3000\u56fa\u3044\u3082\u306e\u3092\u7c89\u7815\u3059\u308b\u3002\r\n\u89d2\u7814\u304e\u3092\u517c\u306d\u3066\u3000\u9271\u77f3\u3067\u3082\u6398\u3089\u305b\u3066\u304a\u3051\u3070\r\n\u304d\u3063\u3068\u6e80\u8db3\u3059\u308b\u3060\u308d\u3046\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Eagle": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Eagle_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_ElecPanda": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_ElecPanda_TextData",
+            "SourceString": "\u30cf\u30b8\u3051\u308b\u7b11\u9854\u306e\u3000\u8c6a\u5feb\u306a\u30e4\u30c4\u3002\r\n\u6075\u307e\u308c\u305f\u4f53\u683c\u3092\u751f\u304b\u3057\r\n\u4e3b\u4eba\u3092\u4e57\u305b\u306a\u304c\u3089\u3000\u30df\u30cb\u30ac\u30f3\u3092\u30d6\u30c1\u304b\u307e\u305b\u308b\u305e\u3002",
+            "LocalizedString": "\u30cf\u30b8\u3051\u308b\u7b11\u9854\u306e\u3000\u8c6a\u5feb\u306a\u30e4\u30c4\u3002\r\n\u6075\u307e\u308c\u305f\u4f53\u683c\u3092\u751f\u304b\u3057\r\n\u4e3b\u4eba\u3092\u4e57\u305b\u306a\u304c\u3089\u3000\u30df\u30cb\u30ac\u30f3\u3092\u30d6\u30c1\u304b\u307e\u305b\u308b\u305e\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Ganesha": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Ganesha_TextData",
+            "SourceString": "\u9f3b\u5148\u304b\u3089\u6c34\u3092\u5674\u5c04\u3067\u304d\u308b\u3002\u3000\u9f3b\u6c34\u3067\u306f\u306a\u3044\u3002\r\n\u3055\u306a\u304c\u3089\u3000\u30b8\u30e7\u30a6\u30ed\u306e\u3088\u3046\u306a\u305d\u306e\u59ff\u306f\r\n\u8fb2\u4f5c\u696d\u306b\u3000\u30d4\u30c3\u30bf\u30ea\u3002",
+            "LocalizedString": "\u9f3b\u5148\u304b\u3089\u6c34\u3092\u5674\u5c04\u3067\u304d\u308b\u3002\u3000\u9f3b\u6c34\u3067\u306f\u306a\u3044\u3002\r\n\u3055\u306a\u304c\u3089\u3000\u30b8\u30e7\u30a6\u30ed\u306e\u3088\u3046\u306a\u305d\u306e\u59ff\u306f\r\n\u8fb2\u4f5c\u696d\u306b\u3000\u30d4\u30c3\u30bf\u30ea\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Garm": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Garm_TextData",
+            "SourceString": "\u7d30\u8eab\u306e\u4f53\u3068\u306f\u88cf\u8179\u306b\u3000\u529b\u6301\u3061\u3002\r\n\u4eba\u3092\u4e57\u305b\u3066\u3082\u3000\u304b\u306a\u308a\u306e\u901f\u5ea6\u3067\u8d70\u308a\u56de\u308c\u308b\u3002\r\n\u30a4\u30cc\u3068\u306f\u9055\u3046\u306e\u3060\u3088\u3000\u30a4\u30cc\u3068\u306f\u3002",
+            "LocalizedString": "\u7d30\u8eab\u306e\u4f53\u3068\u306f\u88cf\u8179\u306b\u3000\u529b\u6301\u3061\u3002\r\n\u4eba\u3092\u4e57\u305b\u3066\u3082\u3000\u304b\u306a\u308a\u306e\u901f\u5ea6\u3067\u8d70\u308a\u56de\u308c\u308b\u3002\r\n\u30a4\u30cc\u3068\u306f\u9055\u3046\u306e\u3060\u3088\u3000\u30a4\u30cc\u3068\u306f\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Gorilla": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Gorilla_TextData",
+            "SourceString": "\u6050\u308b\u3079\u304d\u8155\u529b\u3092\u3082\u3064\u30d1\u30eb\u3002\r\n\u306a\u306b\u304c\u3067\u304d\u308b\u306e\u304b\u306f\u3000\u8abf\u67fb\u4e2d\u30a6\u30db\u3002\r\n\u30a6\u30db\u30db\u30db\u30db\u3002",
+            "LocalizedString": "\u6050\u308b\u3079\u304d\u8155\u529b\u3092\u3082\u3064\u30d1\u30eb\u3002\r\n\u306a\u306b\u304c\u3067\u304d\u308b\u306e\u304b\u306f\u3000\u8abf\u67fb\u4e2d\u30a6\u30db\u3002\r\n\u30a6\u30db\u30db\u30db\u30db\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Hedgehog": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Hedgehog_TextData",
+            "SourceString": "\u885d\u6483\u3092\u53d7\u3051\u308b\u3068\u3000\u5168\u8eab\u304b\u3089\u653e\u96fb\u3059\u308b\u3002\r\n\u512a\u3057\u304f\u62fe\u3044\u4e0a\u3052\u3000\u6575\u306b\u3076\u3093\u6295\u3052\u3066\u307f\u3088\u3046\u3002",
+            "LocalizedString": "\u885d\u6483\u3092\u53d7\u3051\u308b\u3068\u3000\u5168\u8eab\u304b\u3089\u653e\u96fb\u3059\u308b\u3002\r\n\u512a\u3057\u304f\u62fe\u3044\u4e0a\u3052\u3000\u6575\u306b\u3076\u3093\u6295\u3052\u3066\u307f\u3088\u3046\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Kirin": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Kirin_TextData",
+            "SourceString": "\u8d85\u96fb\u5c0e\u306e\u4f53\u3068\u3000\u9a5a\u7570\u7684\u306a\u30b9\u30bf\u30df\u30ca\u3092\u3082\u3064\u3002\r\n\u767a\u96fb\u3055\u305b\u3066\u3082\u3044\u3044\u3057\u3000\u4e57\u3063\u3066\u3082\u3044\u3044\r\n\u30d0\u30c1\u30d0\u30c1\u306b\u5f79\u7acb\u3064\u5974\u3060\u3002",
+            "LocalizedString": "\u8d85\u96fb\u5c0e\u306e\u4f53\u3068\u3000\u9a5a\u7570\u7684\u306a\u30b9\u30bf\u30df\u30ca\u3092\u3082\u3064\u3002\r\n\u767a\u96fb\u3055\u305b\u3066\u3082\u3044\u3044\u3057\u3000\u4e57\u3063\u3066\u3082\u3044\u3044\r\n\u30d0\u30c1\u30d0\u30c1\u306b\u5f79\u7acb\u3064\u5974\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Kitsunebi": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Kitsunebi_TextData",
+            "SourceString": "\u706b\u3092\u4f7f\u3046\u65bd\u8a2d\u306b\u3000\u3046\u3063\u3066\u3064\u3051\u3002\r\n\u6c5a\u7269\u306e\u6d88\u6bd2\u306b\u3082\u3000\u3046\u3063\u3066\u3064\u3051\u3002\r\n\u706b\u708e\u653e\u5c04\u304c\u3000\u5168\u3066\u3092\u89e3\u6c7a\u3057\u3066\u304f\u308c\u308b\u3002",
+            "LocalizedString": "\u706b\u3092\u4f7f\u3046\u65bd\u8a2d\u306b\u3000\u3046\u3063\u3066\u3064\u3051\u3002\r\n\u6c5a\u7269\u306e\u6d88\u6bd2\u306b\u3082\u3000\u3046\u3063\u3066\u3064\u3051\u3002\r\n\u706b\u708e\u653e\u5c04\u304c\u3000\u5168\u3066\u3092\u89e3\u6c7a\u3057\u3066\u304f\u308c\u308b\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_LittleBriarRose": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_LittleBriarRose_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Mutant": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Mutant_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Owl": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Owl_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Penguin": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Penguin_TextData",
+            "SourceString": "\u7fbd\u306f\u3042\u308b\u304c\u3000\u9000\u5316\u3057\u3066\u98db\u3079\u306a\u3044\u3002\r\n\u7a7a\u98db\u3076\u5922\u3092\u3000\u53f6\u3048\u308b\u305f\u3081\r\n\u30e9\u30f3\u30c1\u30e3\u30fc\u306b\u306d\u3058\u8fbc\u307f\u3000\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044\u3002",
+            "LocalizedString": "\u7fbd\u306f\u3042\u308b\u304c\u3000\u9000\u5316\u3057\u3066\u98db\u3079\u306a\u3044\u3002\r\n\u7a7a\u98db\u3076\u5922\u3092\u3000\u53f6\u3048\u308b\u305f\u3081\r\n\u30e9\u30f3\u30c1\u30e3\u30fc\u306b\u306d\u3058\u8fbc\u307f\u3000\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Raijindaughtei": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Raijindaughtei_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_SharkKid": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_SharkKid_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_SheepBall": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_SheepBall_TextData",
+            "SourceString": "\u30e2\u30b3\u30e2\u30b3\u306e\u4f53\u6bdb\u306f\u3000\u9632\u5fa1\u529b\u304c\u9ad8\u3044\u3002\r\n\u305d\u306e\u8eab\u3092\u76fe\u306b\u3057\u3066\u3000\u4e3b\u4eba\u3092\u5b88\u3063\u3066\u304f\u308c\u308b\u305e\u3002\r\n\u306a\u3093\u3068\u52c7\u6562\u306a\u30e4\u30c4\u3060\u308d\u3046\u304b\u3002",
+            "LocalizedString": "\u30e2\u30b3\u30e2\u30b3\u306e\u4f53\u6bdb\u306f\u3000\u9632\u5fa1\u529b\u304c\u9ad8\u3044\u3002\r\n\u305d\u306e\u8eab\u3092\u76fe\u306b\u3057\u3066\u3000\u4e3b\u4eba\u3092\u5b88\u3063\u3066\u304f\u308c\u308b\u305e\u3002\r\n\u306a\u3093\u3068\u52c7\u6562\u306a\u30e4\u30c4\u3060\u308d\u3046\u304b\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Umihebi": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Umihebi_TextData",
+            "SourceString": "\u5de8\u5927\u306a\u4f53\u306e\u3000\u6c34\u68f2\u30d1\u30eb\u3002\r\n\u6c34\u4e0a\u79fb\u52d5\u306f\u3000\u304a\u30d2\u30ec\u306e\u7269\u3002\r\n\u5730\u4e0a\u79fb\u52d5\u306f\u3000\u304a\u30d2\u30ec\u4e0a\u3052\u3002",
+            "LocalizedString": "\u5de8\u5927\u306a\u4f53\u306e\u3000\u6c34\u68f2\u30d1\u30eb\u3002\r\n\u6c34\u4e0a\u79fb\u52d5\u306f\u3000\u304a\u30d2\u30ec\u306e\u7269\u3002\r\n\u5730\u4e0a\u79fb\u52d5\u306f\u3000\u304a\u30d2\u30ec\u4e0a\u3052\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Werewolf": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Werewolf_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Windchimes": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Windchimes_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Suzaku": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Suzaku_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_FireKirin": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_FireKirin_TextData",
+            "SourceString": "\u3053\u3044\u3064\u306e\u30a8\u30f3\u30b8\u30f3\u306f\u3000\u3044\u3064\u3082\u5168\u958b\u3002\r\n\u4e57\u308b\u3068\u30b1\u30c4\u3082\u3042\u3063\u305f\u307e\u308b\u3002\r\n\u4f4e\u6e29\u706b\u50b7\u3000\u8981\u6ce8\u610f\u3002",
+            "LocalizedString": "\u3053\u3044\u3064\u306e\u30a8\u30f3\u30b8\u30f3\u306f\u3000\u3044\u3064\u3082\u5168\u958b\u3002\r\n\u4e57\u308b\u3068\u30b1\u30c4\u3082\u3042\u3063\u305f\u307e\u308b\u3002\r\n\u4f4e\u6e29\u706b\u50b7\u3000\u8981\u6ce8\u610f\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_FairyDragon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_FairyDragon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_SweetsSheep": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_SweetsSheep_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_WhiteTiger": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_WhiteTiger_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_AquaDragon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_AquaDragon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_DarkCrow": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_DarkCrow_TextData",
+            "SourceString": "\u306b\u3089\u3081\u3063\u3053\u3057\u305f\u3089\u3000\u591a\u5206\u52dd\u3066\u306a\u3044\u3002\r\n\u4f55\u304c\u3067\u304d\u308b\u304b\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u306b\u3089\u3081\u3063\u3053\u3057\u305f\u3089\u3000\u591a\u5206\u52dd\u3066\u306a\u3044\u3002\r\n\u4f55\u304c\u3067\u304d\u308b\u304b\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_BlueDragon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_BlueDragon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_PinkCat": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_PinkCat_TextData",
+            "SourceString": "\u30a4\u30ad\u3063\u3066\u3044\u308b\u304c\u3000\u610f\u5916\u3068\u6c17\u5f31\u3002\r\n\u4f55\u304c\u3067\u304d\u308b\u306e\u304b\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u30a4\u30ad\u3063\u3066\u3044\u308b\u304c\u3000\u610f\u5916\u3068\u6c17\u5f31\u3002\r\n\u4f55\u304c\u3067\u304d\u308b\u306e\u304b\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_NegativeKoala": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_NegativeKoala_TextData",
+            "SourceString": "\u3084\u305f\u3089\u3068\u76ee\u3064\u304d\u304c\u60aa\u3044\u304c\u3000\u304d\u3063\u3068\u30a4\u30a4\u5974\u3060\u3002\r\n\u4f55\u304c\u3067\u304d\u308b\u306e\u304b\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3084\u305f\u3089\u3068\u76ee\u3064\u304d\u304c\u60aa\u3044\u304c\u3000\u304d\u3063\u3068\u30a4\u30a4\u5974\u3060\u3002\r\n\u4f55\u304c\u3067\u304d\u308b\u306e\u304b\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_FengyunDeeper": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_FengyunDeeper_TextData",
+            "SourceString": "\u7f8e\u3057\u3044\u6bdb\u4e26\u307f\u3092\u3082\u3064\u3002\r\n\u4eba\u3092\u4e57\u305b\u3066\u3000\u98af\u723d\u3068\u99c6\u3051\u308b\u59ff\u306f\r\n\u304d\u3063\u3068\u3000\u7d75\u306b\u306a\u308b\u3002",
+            "LocalizedString": "\u7f8e\u3057\u3044\u6bdb\u4e26\u307f\u3092\u3082\u3064\u3002\r\n\u4eba\u3092\u4e57\u305b\u3066\u3000\u98af\u723d\u3068\u99c6\u3051\u308b\u59ff\u306f\r\n\u304d\u3063\u3068\u3000\u7d75\u306b\u306a\u308b\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_VolcanicMonster": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_VolcanicMonster_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_GhostBeast": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_GhostBeast_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_RobinHood": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_RobinHood_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_LazyDragon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_LazyDragon_TextData",
+            "SourceString": "\u305d\u306e\u53cc\u7738\u304b\u3089\u306f\u3000\u611f\u60c5\u3092\u8aad\u307f\u53d6\u308c\u306a\u3044\u3002\r\n\u4f53\u683c\u3092\u751f\u304b\u3057\u3000\u30df\u30b5\u30a4\u30eb\u3092\u4e71\u5c04\u3059\u308b\u304c\r\n\u306f\u305f\u3057\u3066\u3000\u697d\u3057\u3044\u306e\u304b\uff1f",
+            "LocalizedString": "\u305d\u306e\u53cc\u7738\u304b\u3089\u306f\u3000\u611f\u60c5\u3092\u8aad\u307f\u53d6\u308c\u306a\u3044\u3002\r\n\u4f53\u683c\u3092\u751f\u304b\u3057\u3000\u30df\u30b5\u30a4\u30eb\u3092\u4e71\u5c04\u3059\u308b\u304c\r\n\u306f\u305f\u3057\u3066\u3000\u697d\u3057\u3044\u306e\u304b\uff1f"
+        }
+    },
+    "PAL_SHORT_DESC_AmaterasuWolf": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_AmaterasuWolf_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_LizardMan": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_LizardMan_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_BluePlatypus": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_BluePlatypus_TextData",
+            "SourceString": "\u7b4b\u91d1\u5165\u308a\u306e\u3000\u30dc\u30c7\u30a3\u30b5\u30fc\u30d5\u30a1\u30fc\u3002\r\n\u6c34\u304c\u7121\u304f\u3066\u3082\u3000\u81ea\u5206\u3067\u6ce2\u3092\u4f5c\u3063\u3066\r\n\u3044\u3064\u3067\u3082\u3069\u3053\u3067\u3082\u3000\u826f\u3044\u6ce2\u306b\u4e57\u3063\u3066\u3044\u308b\u3002",
+            "LocalizedString": "\u7b4b\u91d1\u5165\u308a\u306e\u3000\u30dc\u30c7\u30a3\u30b5\u30fc\u30d5\u30a1\u30fc\u3002\r\n\u6c34\u304c\u7121\u304f\u3066\u3082\u3000\u81ea\u5206\u3067\u6ce2\u3092\u4f5c\u3063\u3066\r\n\u3044\u3064\u3067\u3082\u3069\u3053\u3067\u3082\u3000\u826f\u3044\u6ce2\u306b\u4e57\u3063\u3066\u3044\u308b\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_BlackFurDragon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_BlackFurDragon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_BeardedDragon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_BeardedDragon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_BirdDragon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_BirdDragon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_PinkKangaroo": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_PinkKangaroo_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_ChickenPal": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_ChickenPal_TextData",
+            "SourceString": "\u30d1\u30eb\u754c\u306e\u98df\u7269\u9023\u9396\u306e\u6700\u4e0b\u5c64\u3002\u30ad\u30f3\u30b0 \u30aa\u30d6 \u30b6\u30b3\u3002\r\n\u7f8e\u5473\u3044\u306e\u3067\u3000\u3088\u304f\u4ed6\u306e\u30d1\u30eb\u306b\u3000\u72e9\u3089\u308c\u308b\u3002\r\n\u307b\u3063\u3068\u3051\u3070\u3000\u30bf\u30de\u30b4\u3092\u3046\u3080\u3002",
+            "LocalizedString": "\u30d1\u30eb\u754c\u306e\u98df\u7269\u9023\u9396\u306e\u6700\u4e0b\u5c64\u3002\u30ad\u30f3\u30b0 \u30aa\u30d6 \u30b6\u30b3\u3002\r\n\u7f8e\u5473\u3044\u306e\u3067\u3000\u3088\u304f\u4ed6\u306e\u30d1\u30eb\u306b\u3000\u72e9\u3089\u308c\u308b\u3002\r\n\u307b\u3063\u3068\u3051\u3070\u3000\u30bf\u30de\u30b4\u3092\u3046\u3080\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_FlowerDinosaur": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_FlowerDinosaur_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_ElecCat": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_ElecCat_TextData",
+            "SourceString": "\u4e00\u7dd2\u306b\u3044\u308b\u3068\r\n\u30d1\u30c1\u30d1\u30c1\u5f3e\u3051\u308b\u3000\u30d1\u30ef\u30fc\u304c\u307f\u306a\u304e\u308a\r\n\u653b\u6483\u304c\u3000\u30d0\u30c1\u30d0\u30c1\u306e\u96fb\u6c17\u30bf\u30a4\u30d7\u306b\u306a\u3063\u3061\u3083\u3046\u3002",
+            "LocalizedString": "\u4e00\u7dd2\u306b\u3044\u308b\u3068\r\n\u30d1\u30c1\u30d1\u30c1\u5f3e\u3051\u308b\u3000\u30d1\u30ef\u30fc\u304c\u307f\u306a\u304e\u308a\r\n\u653b\u6483\u304c\u3000\u30d0\u30c1\u30d0\u30c1\u306e\u96fb\u6c17\u30bf\u30a4\u30d7\u306b\u306a\u3063\u3061\u3083\u3046\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_IceHorse": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_IceHorse_TextData",
+            "SourceString": "\u8db3\u5143\u306e\u5927\u6c17\u3092\u3000\u77ac\u9593\u7684\u306b\u51cd\u7d50\u3055\u305b\u3066\r\n\u7a7a\u4e2d\u3092\u8d70\u308b\u3000\u30af\u30fc\u30eb\u306a\u30e4\u30c4\u3002\r\n\u3064\u3044\u3067\u306b\u9854\u3082\u3000\u30af\u30fc\u30eb\u306a\u30e4\u30c4\u3002",
+            "LocalizedString": "\u8db3\u5143\u306e\u5927\u6c17\u3092\u3000\u77ac\u9593\u7684\u306b\u51cd\u7d50\u3055\u305b\u3066\r\n\u7a7a\u4e2d\u3092\u8d70\u308b\u3000\u30af\u30fc\u30eb\u306a\u30e4\u30c4\u3002\r\n\u3064\u3044\u3067\u306b\u9854\u3082\u3000\u30af\u30fc\u30eb\u306a\u30e4\u30c4\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_GrassMammoth": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_GrassMammoth_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_CatVampire": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_CatVampire_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_SakuraSaurus": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_SakuraSaurus_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Horus": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Horus_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_KingBahamut": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_KingBahamut_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_BerryGoat": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_BerryGoat_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_IceDeer": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_IceDeer_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_BlackGriffon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_BlackGriffon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_WhiteMoth": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_WhiteMoth_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_CuteFox": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_CuteFox_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_FoxMage": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_FoxMage_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_PinkLizard": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_PinkLizard_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_WaterLizard": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_WaterLizard_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_ElecLion": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_ElecLion_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_GuardianDog": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_GuardianDog_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_GrassDragon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_GrassDragon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_WizardOwl": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_WizardOwl_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_CowPal": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_CowPal_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Kelpie": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Kelpie_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Yeti": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Yeti_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_VioletFairy": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_VioletFairy_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_HawkBird": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_HawkBird_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_FlowerRabbit": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_FlowerRabbit_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_LilyQueen": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_LilyQueen_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_QueenBee": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_QueenBee_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_SoldierBee": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_SoldierBee_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_CatBat": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_CatBat_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_GrassPanda": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_GrassPanda_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_FlameBuffalo": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_FlameBuffalo_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_ThunderDog": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_ThunderDog_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_CuteMole": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_CuteMole_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_BlackMetalDragon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_BlackMetalDragon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_DreamDemon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_DreamDemon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Monkey": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Monkey_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Bastet_Ice": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Bastet_Ice_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Hedgehog_Ice": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Hedgehog_Ice_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_RaijinDaughter": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_RaijinDaughter_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Suzaku_Water": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Suzaku_Water_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Alpaca": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Alpaca_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Serpent": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Serpent_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_VolcanicMonster_Ice": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_VolcanicMonster_Ice_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_LazyDragon_Electric": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_LazyDragon_Electric_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_BirdDragon_Ice": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_BirdDragon_Ice_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_IceHorse_Dark": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_IceHorse_Dark_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_SakuraSaurus_Water": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_SakuraSaurus_Water_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_NegativeOctopus": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_NegativeOctopus_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_GrassPanda_Electric": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_GrassPanda_Electric_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_GrassRabbitMan": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_GrassRabbitMan_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_IceFox": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_IceFox_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_JetDragon": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_JetDragon_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Manticore": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Manticore_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Yeti_Grass": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Yeti_Grass_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_LilyQueen_Dark": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_LilyQueen_Dark_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Serpent_Ground": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Serpent_Ground_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_FairyDragon_Water": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_FairyDragon_Water_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_FlowerDinosaur_Electric": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_FlowerDinosaur_Electric_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_Manticore_Dark": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_Manticore_Dark_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_KingAlpaca": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_KingAlpaca_TextData",
+            "SourceString": "\u5916\u898b\u306f\u3068\u3066\u3082\u30a8\u30e9\u305d\u3046\u3060\u304c\u3000\u5b9f\u306f\u3068\u3063\u3066\u3082\u81c6\u75c5\u3002\r\n\u865a\u52e2\u3092\u5f35\u308b\u305f\u3081\u306b\u3000\u4eca\u306e\u59ff\u306b\u306a\u3063\u305f\u3068\u3044\u3046\u3002\r\n\u30e2\u30d5\u30e2\u30d5\u306e\u4e2d\u306b\u3000\u8ca1\u5b9d\u3092\u96a0\u3057\u6301\u3063\u3066\u3044\u308b\u304b\u3082\uff1f",
+            "LocalizedString": "\u5916\u898b\u306f\u3068\u3066\u3082\u30a8\u30e9\u305d\u3046\u3060\u304c\u3000\u5b9f\u306f\u3068\u3063\u3066\u3082\u81c6\u75c5\u3002\r\n\u865a\u52e2\u3092\u5f35\u308b\u305f\u3081\u306b\u3000\u4eca\u306e\u59ff\u306b\u306a\u3063\u305f\u3068\u3044\u3046\u3002\r\n\u30e2\u30d5\u30e2\u30d5\u306e\u4e2d\u306b\u3000\u8ca1\u5b9d\u3092\u96a0\u3057\u6301\u3063\u3066\u3044\u308b\u304b\u3082\uff1f"
+        }
+    },
+    "PAL_SHORT_DESC_PlantSlime": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_PlantSlime_TextData",
+            "SourceString": "\u8349\u539f\u306b\u751f\u606f\u3059\u308b \u8b0e\u306e\u30b9\u30e9\u30a4\u30e0\u3002\r\n\u666e\u6bb5\u306f\u571f\u306b\u57cb\u307e\u308a\u306a\u304c\u3089\u7720\u3063\u3066\u3044\u308b\u3002",
+            "LocalizedString": "\u8349\u539f\u306b\u751f\u606f\u3059\u308b \u8b0e\u306e\u30b9\u30e9\u30a4\u30e0\u3002\r\n\u666e\u6bb5\u306f\u571f\u306b\u57cb\u307e\u308a\u306a\u304c\u3089\u7720\u3063\u3066\u3044\u308b\u3002"
+        }
+    },
+    "PAL_SHORT_DESC_CatMage": {
+        "TextData": {
+            "Namespace": "DT_PalShortDescriptionText",
+            "Key": "PAL_SHORT_DESC_CatMage_TextData",
+            "SourceString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002",
+            "LocalizedString": "\u3053\u306e\u30d1\u30eb\u306f\u8abf\u67fb\u4e2d\u3060\u3002"
+        }
+    }
+}

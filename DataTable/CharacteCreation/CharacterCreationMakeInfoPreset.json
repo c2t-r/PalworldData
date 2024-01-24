@@ -1,0 +1,650 @@
+{
+    "TypeA_000": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeA",
+            "HeadMeshName": "Type1",
+            "HairMeshName": "Type1",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": 0.0,
+            "HairColor": {
+                "R": 0.597202,
+                "G": 0.23074,
+                "B": 0.23074,
+                "A": 1.0,
+                "Hex": "FFCB8484"
+            },
+            "BrowColor": {
+                "R": 0.597202,
+                "G": 0.23074,
+                "B": 0.23074,
+                "A": 1.0,
+                "Hex": "FFCB8484"
+            },
+            "BodyColor": {
+                "R": 0.921875,
+                "G": 0.474172,
+                "B": 0.398519,
+                "A": 1.0,
+                "Hex": "FFF6B7AA"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.253794,
+                "G": 0.692708,
+                "B": 0.492215,
+                "A": 1.0,
+                "Hex": "FF8AD9BA"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 2
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_07.T_icon_chara_preset_07",
+            "SubPathString": ""
+        }
+    },
+    "TypeA_008": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeA",
+            "HeadMeshName": "Type5",
+            "HairMeshName": "Type5",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": 0.0,
+            "HairColor": {
+                "R": 0.035601,
+                "G": 0.035601,
+                "B": 0.035601,
+                "A": 1.0,
+                "Hex": "FF353535"
+            },
+            "BrowColor": {
+                "R": 0.035601,
+                "G": 0.035601,
+                "B": 0.035601,
+                "A": 1.0,
+                "Hex": "FF353535"
+            },
+            "BodyColor": {
+                "R": 0.242281,
+                "G": 0.114435,
+                "B": 0.093059,
+                "A": 1.0,
+                "Hex": "FF875F56"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.527115,
+                "G": 0.417885,
+                "B": 0.0,
+                "A": 1.0,
+                "Hex": "FFC0AD00"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 2
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_08.T_icon_chara_preset_08",
+            "SubPathString": ""
+        }
+    },
+    "TypeA_009": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeA",
+            "HeadMeshName": "Type7",
+            "HairMeshName": "Type7",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": 0.0,
+            "HairColor": {
+                "R": 0.83077,
+                "G": 0.665387,
+                "B": 0.775822,
+                "A": 1.0,
+                "Hex": "FFEBD5E4"
+            },
+            "BrowColor": {
+                "R": 0.62396,
+                "G": 0.496933,
+                "B": 0.584078,
+                "A": 1.0,
+                "Hex": "FFCFBBC9"
+            },
+            "BodyColor": {
+                "R": 0.55834,
+                "G": 0.238398,
+                "B": 0.184475,
+                "A": 1.0,
+                "Hex": "FFC58677"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.552011,
+                "G": 0.234551,
+                "B": 0.55834,
+                "A": 1.0,
+                "Hex": "FFC485C5"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 1
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_09.T_icon_chara_preset_09",
+            "SubPathString": ""
+        }
+    },
+    "TypeA_010": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeA",
+            "HeadMeshName": "Type1",
+            "HairMeshName": "Type7",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": 0.0,
+            "HairColor": {
+                "R": 0.0,
+                "G": 0.423268,
+                "B": 0.371238,
+                "A": 1.0,
+                "Hex": "FF00AEA4"
+            },
+            "BrowColor": {
+                "R": 0.278894,
+                "G": 0.508881,
+                "B": 0.496933,
+                "A": 1.0,
+                "Hex": "FF90BDBB"
+            },
+            "BodyColor": {
+                "R": 0.964687,
+                "G": 0.708376,
+                "B": 0.64448,
+                "A": 1.0,
+                "Hex": "FFFBDBD2"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.313989,
+                "G": 0.571125,
+                "B": 0.491021,
+                "A": 1.0,
+                "Hex": "FF98C7BA"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 3
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_10.T_icon_chara_preset_10",
+            "SubPathString": ""
+        }
+    },
+    "TypeA_011": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeA",
+            "HeadMeshName": "Type3",
+            "HairMeshName": "Type3",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": 0.0,
+            "HairColor": {
+                "R": 0.14996,
+                "G": 0.040915,
+                "B": 0.038204,
+                "A": 1.0,
+                "Hex": "FF6C3937"
+            },
+            "BrowColor": {
+                "R": 0.14996,
+                "G": 0.040915,
+                "B": 0.038204,
+                "A": 1.0,
+                "Hex": "FF6C3937"
+            },
+            "BodyColor": {
+                "R": 0.623961,
+                "G": 0.346704,
+                "B": 0.274677,
+                "A": 1.0,
+                "Hex": "FFCF9F8F"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.194618,
+                "G": 0.0865,
+                "B": 0.012286,
+                "A": 1.0,
+                "Hex": "FF7A531D"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 2
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_11.T_icon_chara_preset_11",
+            "SubPathString": ""
+        }
+    },
+    "TypeA_012": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeA",
+            "HeadMeshName": "Type5",
+            "HairMeshName": "Type2",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": 0.0,
+            "HairColor": {
+                "R": 0.730461,
+                "G": 0.730461,
+                "B": 0.730461,
+                "A": 1.0,
+                "Hex": "FFDEDEDE"
+            },
+            "BrowColor": {
+                "R": 0.723055,
+                "G": 0.723055,
+                "B": 0.723055,
+                "A": 1.0,
+                "Hex": "FFDDDDDD"
+            },
+            "BodyColor": {
+                "R": 0.361307,
+                "G": 0.171441,
+                "B": 0.138432,
+                "A": 1.0,
+                "Hex": "FFA27368"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.423268,
+                "G": 0.48515,
+                "B": 0.450786,
+                "A": 1.0,
+                "Hex": "FFAEB9B3"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 2
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_12.T_icon_chara_preset_12",
+            "SubPathString": ""
+        }
+    },
+    "TypeC_000": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeB",
+            "HeadMeshName": "Type16",
+            "HairMeshName": "Type8",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": -0.5,
+            "HairColor": {
+                "R": 0.14996,
+                "G": 0.040915,
+                "B": 0.038204,
+                "A": 1.0,
+                "Hex": "FF6C3937"
+            },
+            "BrowColor": {
+                "R": 0.14996,
+                "G": 0.040915,
+                "B": 0.038204,
+                "A": 1.0,
+                "Hex": "FF6C3937"
+            },
+            "BodyColor": {
+                "R": 0.838799,
+                "G": 0.376262,
+                "B": 0.287441,
+                "A": 1.0,
+                "Hex": "FFECA592"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.048172,
+                "G": 0.168269,
+                "B": 0.291771,
+                "A": 1.0,
+                "Hex": "FF3E7293"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 4
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_01.T_icon_chara_preset_01",
+            "SubPathString": ""
+        }
+    },
+    "TypeC_000_0": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeB",
+            "HeadMeshName": "Type20",
+            "HairMeshName": "Type23",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": -0.5,
+            "HairColor": {
+                "R": 0.039216,
+                "G": 0.031373,
+                "B": 0.027451,
+                "A": 1.0,
+                "Hex": "FF37312E"
+            },
+            "BrowColor": {
+                "R": 0.039216,
+                "G": 0.031373,
+                "B": 0.027451,
+                "A": 1.0,
+                "Hex": "FF37312E"
+            },
+            "BodyColor": {
+                "R": 0.124772,
+                "G": 0.038204,
+                "B": 0.029557,
+                "A": 1.0,
+                "Hex": "FF633730"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.270498,
+                "G": 0.122139,
+                "B": 0.016807,
+                "A": 1.0,
+                "Hex": "FF8E6223"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 5
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_02.T_icon_chara_preset_02",
+            "SubPathString": ""
+        }
+    },
+    "TypeC_000_1": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeB",
+            "HeadMeshName": "Type19",
+            "HairMeshName": "Type25",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": -0.5,
+            "HairColor": {
+                "R": 0.14996,
+                "G": 0.040915,
+                "B": 0.038204,
+                "A": 1.0,
+                "Hex": "FF6C3937"
+            },
+            "BrowColor": {
+                "R": 0.14996,
+                "G": 0.040915,
+                "B": 0.038204,
+                "A": 1.0,
+                "Hex": "FF6C3937"
+            },
+            "BodyColor": {
+                "R": 0.313989,
+                "G": 0.102242,
+                "B": 0.066626,
+                "A": 1.0,
+                "Hex": "FF985A49"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.527115,
+                "G": 0.417885,
+                "B": 0.0,
+                "A": 1.0,
+                "Hex": "FFC0AD00"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 6
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_03.T_icon_chara_preset_03",
+            "SubPathString": ""
+        }
+    },
+    "TypeC_000_3": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeB",
+            "HeadMeshName": "Type18",
+            "HairMeshName": "Type3",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": -0.5,
+            "HairColor": {
+                "R": 0.14996,
+                "G": 0.040915,
+                "B": 0.038204,
+                "A": 1.0,
+                "Hex": "FF6C3937"
+            },
+            "BrowColor": {
+                "R": 0.14996,
+                "G": 0.040915,
+                "B": 0.038204,
+                "A": 1.0,
+                "Hex": "FF6C3937"
+            },
+            "BodyColor": {
+                "R": 0.590619,
+                "G": 0.250158,
+                "B": 0.168269,
+                "A": 1.0,
+                "Hex": "FFCA8972"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.250158,
+                "G": 0.0,
+                "B": 0.095307,
+                "A": 1.0,
+                "Hex": "FF890057"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 6
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_04.T_icon_chara_preset_04",
+            "SubPathString": ""
+        }
+    },
+    "TypeC_000_2": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeB",
+            "HeadMeshName": "Type21",
+            "HairMeshName": "Type6",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": -0.5,
+            "HairColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "BrowColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "BodyColor": {
+                "R": 0.439657,
+                "G": 0.266356,
+                "B": 0.223228,
+                "A": 1.0,
+                "Hex": "FFB18D82"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeMaterialName": "Type010",
+            "VoiceID": 6
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_05.T_icon_chara_preset_05",
+            "SubPathString": ""
+        }
+    },
+    "TypeB_000": {
+        "MakeInfo": {
+            "BodyMeshName": "TypeB",
+            "HeadMeshName": "Type2",
+            "HairMeshName": "Type2",
+            "EquipmentBodyMeshName": "Default_EquipBody",
+            "EquipmentHeadMeshName": "Default_EquipHead",
+            "DisableEquipmentHeadFlag": false,
+            "ArmVolume": 0.0,
+            "TorsoVolume": 0.0,
+            "LegVolume": -0.5,
+            "HairColor": {
+                "R": 0.597202,
+                "G": 0.23074,
+                "B": 0.23074,
+                "A": 1.0,
+                "Hex": "FFCB8484"
+            },
+            "BrowColor": {
+                "R": 0.597202,
+                "G": 0.23074,
+                "B": 0.23074,
+                "A": 1.0,
+                "Hex": "FFCB8484"
+            },
+            "BodyColor": {
+                "R": 0.921875,
+                "G": 0.474172,
+                "B": 0.398519,
+                "A": 1.0,
+                "Hex": "FFF6B7AA"
+            },
+            "BodySubsurfaceColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+            },
+            "EyeColor": {
+                "R": 0.253794,
+                "G": 0.692708,
+                "B": 0.492215,
+                "A": 1.0,
+                "Hex": "FF8AD9BA"
+            },
+            "EyeMaterialName": "Type001",
+            "VoiceID": 5
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_preset/T_icon_chara_preset_06.T_icon_chara_preset_06",
+            "SubPathString": ""
+        }
+    }
+}

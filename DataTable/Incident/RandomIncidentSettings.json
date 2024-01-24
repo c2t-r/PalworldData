@@ -1,0 +1,515 @@
+{
+    "Test000": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Test000'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_Test000.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Test000'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Test000.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "TestSalesMan": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Test001'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Test001.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "TestHunterVsPal": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Test002'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_Test002.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Test002'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Test002.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "Outbreak_MopBaby": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_outbreak_MopBaby'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_outbreak_MopBaby.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "Salsman_VS_Poacher": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Salsman_VS_Poacher'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Salsman_VS_Poacher.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "FlowerRabbit_VS_Garm": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_FlowerRabbit_VS_wolf'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_FlowerRabbit_VS_wolf.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "Outbreak_Penguin": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_outbreak_Penguin2'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_outbreak_Penguin2.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "Outbreak_MopKing": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_outbreak_MopKing2'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_outbreak_MopKing2.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "Outbreak_Sheepball": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_outbreak_Sheepball'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_outbreak_Sheepball.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "Pachiguri_VS_Garm": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Pachiguri_VS_wolf'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_Pachiguri_VS_wolf.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "HunterVsBoss_Penguin": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_BOSS_Penguin'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_BOSS_Penguin.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Test002'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Test002.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "HunterVsBerryGoat": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_BerryGoat'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_BerryGoat.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Test002'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Test002.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "DarkDealer": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_DarkTrader'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_DarkTrader.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "Outbreak_Grass": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Outbreak_Grass'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_Outbreak_Grass.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "OutBreak_Grass2": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Outbreak_Grass2'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_Outbreak_Grass2.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "Outbreak_Forest": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Outbreak_Forest'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_Outbreak_Forest.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "OutBreak_Grass_Desert": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Outbreak_Grass_Desert'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_Outbreak_Grass_Desert.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "OutBreak_Forest_Frost": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Outbreak_Forest_Frost'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_Outbreak_Forest_Frost.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "OutBreak_Desert": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Outbreak_Desert'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_Outbreak_Desert.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "OutBreak_Volcano": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Outbreak_Volcano'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_Outbreak_Volcano.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "OutBreak_Snow": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Outbreak_Snow'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_Outbreak_Snow.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "GrassMammoth_VS_GrassMammoth": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_GrassMammoth_Battle'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_GrassMammoth_Battle.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "OutBreak_ColorfulBird": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_outbreak_ColorfulBird'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_outbreak_ColorfulBird.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "LazyDragon": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_LazyDragon'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_LazyDragon.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "Gorilla_VS_Gorilla": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Gorilla_Battle'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_Gorilla_Battle.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "FlowerRabbit_VS_Eagle": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_FlowerRabbit_VS_Eagle'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_FlowerRabbit_VS_Eagle.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "Outbreak_QueenBee": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_outbreak_QueenBee'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_outbreak_QueenBee.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "HunterVsRobinhood_Rose": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_RobinHood_Rose'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_RobinHood_Rose.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Hunter_GrassDesert'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Hunter_GrassDesert.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "Hunter_VS_DrillGame": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_DrillGame'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_DrillGame.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Hunter_GrassDesert'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Hunter_GrassDesert.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "RaijinDaughter_VS_ThunderDog": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_RaijinDaughter_VS_ThunderDog'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_RaijinDaughter_VS_ThunderDog.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "Police_VS_RobinHood_Ground": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_RobinHood_Ground'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_RobinHood_Ground.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Police_Desert'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Police_Desert.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "FlowerDinosaurCouple": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_FlowerDinosaurCouple'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_FlowerDinosaurCouple.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "LavaGirl_VS_BirdDragon": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_LavaGirl_VS_BirdDragon'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_LavaGirl_VS_BirdDragon.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "FireCult_VS_VolcanicMonster": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_VolcanicMonster'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_VolcanicMonster.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Cultist_Volcano'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Cultist_Volcano.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "SharkKidCouple": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_SharkKid_Couple'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_SharkKid_Couple.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "VolcanicMonster_VS_VolcanicMonster": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_VolcanicMonster_Battle'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_VolcanicMonster_Battle.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "BastetIce_VS_WhiteTiger": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_BastetIce_VS_WhiteTiger'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_BastetIce_VS_WhiteTiger.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "Scientist_VS_WhiteMoth": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_WhiteMoth'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_WhiteMoth.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Scientist_Snow'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Scientist_Snow.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "BirdDragonIce_VS_BirdDragon": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_BirdDragonIce_Battle'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_BirdDragonIce_Battle.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "YetiCouple": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Yeti_Couple'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_Yeti_Couple.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalTamer_VS_Hunter": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalTamer_VS_Hunter'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalTamer_VS_Hunter.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "Aigo_VS_Hunter": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Aigo_VS_Hunter'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Aigo_VS_Hunter.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "Police_VS_Hunter": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Police_VS_Hunter'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Police_VS_Hunter.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "Cultist_VS_Hunter": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Cultist_VS_Hunter'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Cultist_VS_Hunter.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "Scientist_VS_Hunter": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_Scientist_VS_Hunter'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_Scientist_VS_Hunter.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionHunterVsPal_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionHunterVsPal.0"
+        }
+    },
+    "OutBreak_Test": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_Outbreak_Test'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_OutBreak/DT_RandomIncidentMonster_Outbreak_Test.0"
+        },
+        "NPCSpawnData": null,
+        "ExcludeOtherPal": true,
+        "action": null
+    }
+}

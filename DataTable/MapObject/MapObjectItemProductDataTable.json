@@ -1,0 +1,17 @@
+{
+    "Well": {
+        "Product_Id": "WaterBucket",
+        "RequiredWorkAmount": 1000.0,
+        "AutoWorkAmountBySec": 5.0
+    },
+    "StonePit": {
+        "Product_Id": "Stone",
+        "RequiredWorkAmount": 800.0,
+        "AutoWorkAmountBySec": 0.0
+    },
+    "StationDeforest2": {
+        "Product_Id": "Wood",
+        "RequiredWorkAmount": 800.0,
+        "AutoWorkAmountBySec": 0.0
+    }
+}

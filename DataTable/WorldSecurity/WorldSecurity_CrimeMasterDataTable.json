@@ -1,0 +1,18 @@
+{
+    "AttackToPolice": {
+        "CrimeNameTextId": "CRIME_ATTACK_TO_POLICE",
+        "BaseReward": 3000
+    },
+    "TheftItem": {
+        "CrimeNameTextId": "CRIME_THEFT",
+        "BaseReward": 500
+    },
+    "AttackToNonCriminal": {
+        "CrimeNameTextId": "CRIME_ASSAULT",
+        "BaseReward": 1000
+    },
+    "AreaInvasion": {
+        "CrimeNameTextId": "CRIME_INVASION",
+        "BaseReward": 500
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'Bush2'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/b04/WinterNature/Mesh/Bush2.2"
+    },
+    "UpdateGuid": "B8E6F453-4F361EF7-226EBDAB-9AE51E55",
+    "Density": 0.8,
+    "Radius": 50.0,
+    "ScaleX": {
+        "Min": 0.3,
+        "Max": 0.9
+    },
+    "GroundSlopeAngle": {
+        "Max": 90.0
+    },
+    "MeshBounds": {
+        "Origin": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 107.87372
+        },
+        "BoxExtent": {
+            "X": 129.93597,
+            "Y": 114.85304,
+            "Z": 115.7831
+        },
+        "SphereRadius": 145.68368876279737
+    },
+    "LowBoundOriginRadius": {
+        "X": -17.288612,
+        "Y": 1.6335697,
+        "Z": 47.48497
+    },
+    "CullDistance": {
+        "Max": 4000
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

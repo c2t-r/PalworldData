@@ -1,0 +1,242 @@
+{
+    "1": {
+        "SpawnAreaId": "TestDebug01",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_1_dungeon_grass.BP_PalSpawner_Sheets_50_1_dungeon_grass_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_1_dungeon_grass"
+    },
+    "2": {
+        "SpawnAreaId": "TestDebug01",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_2_dungeon_grass_boss.BP_PalSpawner_Sheets_50_2_dungeon_grass_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_2_dungeon_grass_boss"
+    },
+    "3": {
+        "SpawnAreaId": "Meadow01",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_1_dungeon_grass.BP_PalSpawner_Sheets_50_1_dungeon_grass_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_1_dungeon_grass"
+    },
+    "4": {
+        "SpawnAreaId": "Meadow01",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_2_dungeon_grass_boss.BP_PalSpawner_Sheets_50_2_dungeon_grass_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_2_dungeon_grass_boss"
+    },
+    "5": {
+        "SpawnAreaId": "Grass001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_2_dungeon_grass_boss.BP_PalSpawner_Sheets_50_2_dungeon_grass_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_2_dungeon_grass_boss"
+    },
+    "6": {
+        "SpawnAreaId": "Grass001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_1_dungeon_grass.BP_PalSpawner_Sheets_50_1_dungeon_grass_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_1_dungeon_grass"
+    },
+    "7": {
+        "SpawnAreaId": "Grass002",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_4_dungeon_grass2_boss.BP_PalSpawner_Sheets_50_4_dungeon_grass2_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_4_dungeon_grass2_boss"
+    },
+    "8": {
+        "SpawnAreaId": "Grass002",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_3_dungeon_grass2.BP_PalSpawner_Sheets_50_3_dungeon_grass2_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_3_dungeon_grass2"
+    },
+    "9": {
+        "SpawnAreaId": "Forest001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_6_dungeon_forest_boss.BP_PalSpawner_Sheets_50_6_dungeon_forest_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_6_dungeon_forest_boss"
+    },
+    "10": {
+        "SpawnAreaId": "Forest001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_5_dungeon_forest.BP_PalSpawner_Sheets_50_5_dungeon_forest_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_5_dungeon_forest"
+    },
+    "11": {
+        "SpawnAreaId": "Forest002",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_6_dungeon_forest_boss.BP_PalSpawner_Sheets_50_6_dungeon_forest_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_6_dungeon_forest_boss"
+    },
+    "12": {
+        "SpawnAreaId": "Forest002",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_5_dungeon_forest.BP_PalSpawner_Sheets_50_5_dungeon_forest_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_5_dungeon_forest"
+    },
+    "13": {
+        "SpawnAreaId": "Dessert001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_8_dungeon_volcano_boss.BP_PalSpawner_Sheets_50_8_dungeon_volcano_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_8_dungeon_volcano_boss"
+    },
+    "14": {
+        "SpawnAreaId": "Dessert001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_7_dungeon_volcano.BP_PalSpawner_Sheets_50_7_dungeon_volcano_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_7_dungeon_volcano"
+    },
+    "15": {
+        "SpawnAreaId": "Volcano001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_10_dungeon_dessert_boss.BP_PalSpawner_Sheets_50_10_dungeon_dessert_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_10_dungeon_dessert_boss"
+    },
+    "16": {
+        "SpawnAreaId": "Volcano001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_9_dungeon_dessert.BP_PalSpawner_Sheets_50_9_dungeon_dessert_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_9_dungeon_dessert"
+    },
+    "17": {
+        "SpawnAreaId": "Snow001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_12_dungeon_snow_boss.BP_PalSpawner_Sheets_50_12_dungeon_snow_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_12_dungeon_snow_boss"
+    },
+    "18": {
+        "SpawnAreaId": "Snow001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_11_dungeon_snow.BP_PalSpawner_Sheets_50_11_dungeon_snow_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_11_dungeon_snow"
+    },
+    "19": {
+        "SpawnAreaId": "Island001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_2_dungeon_grass_boss.BP_PalSpawner_Sheets_50_2_dungeon_grass_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_2_dungeon_grass_boss"
+    },
+    "20": {
+        "SpawnAreaId": "Island001",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_1_dungeon_grass.BP_PalSpawner_Sheets_50_1_dungeon_grass_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_1_dungeon_grass"
+    },
+    "21": {
+        "SpawnAreaId": "Island002",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_2_dungeon_grass_boss.BP_PalSpawner_Sheets_50_2_dungeon_grass_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_2_dungeon_grass_boss"
+    },
+    "22": {
+        "SpawnAreaId": "Island002",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_1_dungeon_grass.BP_PalSpawner_Sheets_50_1_dungeon_grass_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_1_dungeon_grass"
+    },
+    "23": {
+        "SpawnAreaId": "Island003",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Boss",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_2_dungeon_grass_boss.BP_PalSpawner_Sheets_50_2_dungeon_grass_boss_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_2_dungeon_grass_boss"
+    },
+    "24": {
+        "SpawnAreaId": "Island003",
+        "RankType": "EPalDungeonEnemySpawnerRankType::Normal",
+        "WeightInSpawnAreaAndRank": 1.0,
+        "SpawnerBlueprintSoftClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Spawner/SheetsVariant/BP_PalSpawner_Sheets_50_1_dungeon_grass.BP_PalSpawner_Sheets_50_1_dungeon_grass_C",
+            "SubPathString": ""
+        },
+        "SpawnerName": "50_1_dungeon_grass"
+    }
+}

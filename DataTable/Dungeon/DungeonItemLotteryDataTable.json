@@ -1,0 +1,122 @@
+{
+    "1": {
+        "SpawnAreaId": "Meadow01",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Grass01"
+    },
+    "2": {
+        "SpawnAreaId": "Meadow01",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Grass02"
+    },
+    "3": {
+        "SpawnAreaId": "TestDebug01",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Grass01"
+    },
+    "4": {
+        "SpawnAreaId": "TestDebug01",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Grass02"
+    },
+    "5": {
+        "SpawnAreaId": "Grass001",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Grass01"
+    },
+    "6": {
+        "SpawnAreaId": "Grass001",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Grass02"
+    },
+    "7": {
+        "SpawnAreaId": "Grass002",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Grass01"
+    },
+    "8": {
+        "SpawnAreaId": "Grass002",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Grass02"
+    },
+    "9": {
+        "SpawnAreaId": "Forest001",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Forest01"
+    },
+    "10": {
+        "SpawnAreaId": "Forest001",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Forest02"
+    },
+    "11": {
+        "SpawnAreaId": "Forest002",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Forest01"
+    },
+    "12": {
+        "SpawnAreaId": "Forest002",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Forest02"
+    },
+    "13": {
+        "SpawnAreaId": "Dessert001",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Desert01"
+    },
+    "14": {
+        "SpawnAreaId": "Dessert001",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Desert02"
+    },
+    "15": {
+        "SpawnAreaId": "Volcano001",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Volcano01"
+    },
+    "16": {
+        "SpawnAreaId": "Volcano001",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Volcano02"
+    },
+    "17": {
+        "SpawnAreaId": "Snow001",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Snow01"
+    },
+    "18": {
+        "SpawnAreaId": "Snow001",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Snow02"
+    },
+    "19": {
+        "SpawnAreaId": "Island001",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Grass01"
+    },
+    "20": {
+        "SpawnAreaId": "Island001",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Grass02"
+    },
+    "21": {
+        "SpawnAreaId": "Island002",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Grass01"
+    },
+    "22": {
+        "SpawnAreaId": "Island002",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Grass02"
+    },
+    "23": {
+        "SpawnAreaId": "Island003",
+        "Type": "EPalDungeonItemSpawnerType::Normal",
+        "ItemFieldLotteryName": "Grass01"
+    },
+    "24": {
+        "SpawnAreaId": "Island003",
+        "Type": "EPalDungeonItemSpawnerType::Special",
+        "ItemFieldLotteryName": "Grass02"
+    }
+}

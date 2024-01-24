@@ -1,0 +1,92 @@
+{
+    "OpenSurvivalGuide": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialOpenSurvivalGuide.BP_PalQuestData_TutorialOpenSurvivalGuide_C",
+            "SubPathString": ""
+        }
+    },
+    "CollectWood": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialPickupItem.BP_PalQuestData_TutorialPickupItem_C",
+            "SubPathString": ""
+        }
+    },
+    "BuildWorkBench": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialWorkBench.BP_PalQuestData_TutorialWorkBench_C",
+            "SubPathString": ""
+        }
+    },
+    "Technology_PalSPhere": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialUnlockPalSphere.BP_PalQuestData_TutorialUnlockPalSphere_C",
+            "SubPathString": ""
+        }
+    },
+    "CraftPalSphere": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialCraftPalSphere.BP_PalQuestData_TutorialCraftPalSphere_C",
+            "SubPathString": ""
+        }
+    },
+    "CapturePal": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialCapturePal.BP_PalQuestData_TutorialCapturePal_C",
+            "SubPathString": ""
+        }
+    },
+    "Technology_PalBox": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialUnlockPalBox.BP_PalQuestData_TutorialUnlockPalBox_C",
+            "SubPathString": ""
+        }
+    },
+    "BuildBaseCamp": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialBaseCamp.BP_PalQuestData_TutorialBaseCamp_C",
+            "SubPathString": ""
+        }
+    },
+    "AddWorkerPal": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialWorker.BP_PalQuestData_TutorialWorker_C",
+            "SubPathString": ""
+        }
+    },
+    "Meal": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialMeal.BP_PalQuestData_TutorialMeal_C",
+            "SubPathString": ""
+        }
+    },
+    "UseStatusPoint": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialUseStatusPoint.BP_PalQuestData_TutorialUseStatusPoint_C",
+            "SubPathString": ""
+        }
+    },
+    "CapturePal_SheepBall": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialCapturePalSheepBall.BP_PalQuestData_TutorialCapturePalSheepBall_C",
+            "SubPathString": ""
+        }
+    },
+    "CapturePal_AnyOne": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialCaptureCountAnyone.BP_PalQuestData_TutorialCaptureCountAnyone_C",
+            "SubPathString": ""
+        }
+    },
+    "BaseCampLevel": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialBaseCampLevel.BP_PalQuestData_TutorialBaseCampLevel_C",
+            "SubPathString": ""
+        }
+    },
+    "DefeatGrassBoss": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialDefeatBoss.BP_PalQuestData_TutorialDefeatBoss_C",
+            "SubPathString": ""
+        }
+    }
+}

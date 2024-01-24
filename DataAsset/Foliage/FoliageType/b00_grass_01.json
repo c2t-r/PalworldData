@@ -1,0 +1,41 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'Grass_small_sm'",
+        "ObjectPath": "Pal/Content/GrassSV_MaterialPack/Meshes/Grass_small_sm.2"
+    },
+    "UpdateGuid": "4BE44680-466A540A-5C351C95-0EAEA757",
+    "Density": 200.0,
+    "ScaleX": {
+        "Max": 1.3
+    },
+    "MeshBounds": {
+        "Origin": {
+            "X": 5.3966293,
+            "Y": -6.830467,
+            "Z": 9.455326
+        },
+        "BoxExtent": {
+            "X": 89.143906,
+            "Y": 76.24873,
+            "Z": 15.62888
+        },
+        "SphereRadius": 107.82033045693807
+    },
+    "LowBoundOriginRadius": {
+        "X": -7.8255653,
+        "Y": -3.3616333,
+        "Z": 80.92411
+    },
+    "CullDistance": {
+        "Min": 3000,
+        "Max": 4000
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

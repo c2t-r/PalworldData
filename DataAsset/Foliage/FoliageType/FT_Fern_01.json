@@ -1,0 +1,44 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'pal_b00_grass_SM_Fern_01'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/grass_bush/b00/pal_b00_grass_SM_Fern_01.2"
+    },
+    "UpdateGuid": "C11F0D5D-4EDDD286-4CAEB689-5D3B2B42",
+    "Radius": 100.0,
+    "bSingleInstanceModeOverrideRadius": true,
+    "SingleInstanceModeRadius": 20.0,
+    "ScaleX": {
+        "Min": 0.5
+    },
+    "MeshBounds": {
+        "Origin": {
+            "X": -2.6584015,
+            "Y": 1.0698242,
+            "Z": 51.31822
+        },
+        "BoxExtent": {
+            "X": 126.179276,
+            "Y": 128.06201,
+            "Z": 51.873108
+        },
+        "SphereRadius": 139.6221466064453
+    },
+    "LowBoundOriginRadius": {
+        "X": 4.0341644,
+        "Y": 42.61743,
+        "Z": 147.51888
+    },
+    "CullDistance": {
+        "Max": 4000
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    },
+    "ReapplyScaling": true,
+    "ReapplyScaleX": true
+}

@@ -1,0 +1,22 @@
+{
+    "Default": {
+        "TalkData": [
+            {
+                "TalkCommand": "EPalNPCTalkCommand::SimpleMessages",
+                "MessageIDList": [
+                    "VILLAGELEADER01_A1",
+                    "VILLAGELEADER01_A2",
+                    "VILLAGELEADER01_A3",
+                    "VILLAGELEADER01_A4",
+                    "VILLAGELEADER01_A5"
+                ],
+                "ChoiceMessageIDList": [],
+                "TalkerNameID": "None",
+                "CustomFuncName": "None",
+                "isCloseWhenCalledCustomFunc": false,
+                "CustomFuncParam": null,
+                "SelectedChoiceCommandDataList": []
+            }
+        ]
+    }
+}

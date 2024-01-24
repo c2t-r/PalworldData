@@ -1,0 +1,57 @@
+{
+    "1": {
+        "SpawnAreaId": "TestDebug01",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "TestDebug01"
+    },
+    "2": {
+        "SpawnAreaId": "Grass001",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "Grass001_01"
+    },
+    "3": {
+        "SpawnAreaId": "Grass002",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "Grass002_01"
+    },
+    "4": {
+        "SpawnAreaId": "Forest001",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "Forest001_01"
+    },
+    "5": {
+        "SpawnAreaId": "Forest002",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "Forest002_01"
+    },
+    "6": {
+        "SpawnAreaId": "Dessert001",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "Dessert001_01"
+    },
+    "7": {
+        "SpawnAreaId": "Volcano001",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "Volcano001_01"
+    },
+    "8": {
+        "SpawnAreaId": "Snow001",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "Snow001_01"
+    },
+    "9": {
+        "SpawnAreaId": "Island001",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "Island001_01"
+    },
+    "10": {
+        "SpawnAreaId": "Island002",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "Island002_01"
+    },
+    "11": {
+        "SpawnAreaId": "Island003",
+        "WeightInSpawnArea": 1.0,
+        "LevelName": "Island003_01"
+    }
+}

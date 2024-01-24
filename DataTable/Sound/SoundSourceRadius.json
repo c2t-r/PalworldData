@@ -1,0 +1,38 @@
+{
+    "Run": {
+        "Radius_Meter": 3,
+        "bIsMuteable": true
+    },
+    "Sprint": {
+        "Radius_Meter": 5,
+        "bIsMuteable": true
+    },
+    "Shot": {
+        "Radius_Meter": 50,
+        "bIsMuteable": true
+    },
+    "BulletHit": {
+        "Radius_Meter": 20,
+        "bIsMuteable": false
+    },
+    "Explosion": {
+        "Radius_Meter": 150,
+        "bIsMuteable": false
+    },
+    "Sliding": {
+        "Radius_Meter": 10,
+        "bIsMuteable": true
+    },
+    "Landing": {
+        "Radius_Meter": 10,
+        "bIsMuteable": true
+    },
+    "MonsterRoar": {
+        "Radius_Meter": 30,
+        "bIsMuteable": false
+    },
+    "HitPalSphere": {
+        "Radius_Meter": 20,
+        "bIsMuteable": false
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "EffectSettingDataArray": [
+        {
+            "EPalSizeType::XS": {
+                "CaptureAbsorbToBall_ParticleCount": 1,
+                "CaptureAbsorbToBall_Scale": 1.0
+            }
+        },
+        {
+            "EPalSizeType::S": {
+                "CaptureAbsorbToBall_ParticleCount": 1,
+                "CaptureAbsorbToBall_Scale": 1.0
+            }
+        },
+        {
+            "EPalSizeType::M": {
+                "CaptureAbsorbToBall_ParticleCount": 2,
+                "CaptureAbsorbToBall_Scale": 1.0
+            }
+        },
+        {
+            "EPalSizeType::L": {
+                "CaptureAbsorbToBall_ParticleCount": 2,
+                "CaptureAbsorbToBall_Scale": 1.5
+            }
+        },
+        {
+            "EPalSizeType::XL": {
+                "CaptureAbsorbToBall_ParticleCount": 3,
+                "CaptureAbsorbToBall_Scale": 1.5
+            }
+        }
+    ]
+}

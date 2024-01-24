@@ -1,0 +1,513 @@
+[
+    {
+        "TextId_Description": "Day-xx",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day-xx.T_Note_Day-xx",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day0",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day0.T_Note_Day0",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day1-1",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day1-1.T_Note_Day1-1",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day1-2",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day1-2.T_Note_Day1-2",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day2",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day2.T_Note_Day2",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day3",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day3.T_Note_Day3",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day5",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day5.T_Note_Day5",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day6",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day6.T_Note_Day6",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day8",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day8.T_Note_Day8",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day10",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day10.T_Note_Day10",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day11",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day11.T_Note_Day11",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day12-1",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day12-1.T_Note_Day12-1",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day12-2",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day12-2.T_Note_Day12-2",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day12-3",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day12-3.T_Note_Day12-3",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day13",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day13.T_Note_Day13",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day15",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day15.T_Note_Day15",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day18",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day18.T_Note_Day18",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day22",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day22.T_Note_Day22",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day25",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day25.T_Note_Day25",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day29",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day29.T_Note_Day29",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day30",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day30.T_Note_Day30",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day32",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day32.T_Note_Day32",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "Day38",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_Day38.T_Note_Day38",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "GrassBoss1",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_GrassBoss1.T_Note_GrassBoss1",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "GrassBoss2",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_GrassBoss2.T_Note_GrassBoss2",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "GrassBoss3",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_GrassBoss3.T_Note_GrassBoss3",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "GrassBoss4",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_GrassBoss4.T_Note_GrassBoss4",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "GrassBoss5",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_GrassBoss5.T_Note_GrassBoss5",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "ForestBoss1",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_ForestBoss1.T_Note_ForestBoss1",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "ForestBoss2",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_ForestBoss2.T_Note_ForestBoss2",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "ForestBoss3",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_ForestBoss3.T_Note_ForestBoss3",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "ForestBoss4",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_ForestBoss3.T_Note_ForestBoss3",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "DesertBoss1",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_DesertBoss1.T_Note_DesertBoss1",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "DesertBoss2",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_DesertBoss2.T_Note_DesertBoss2",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "DesertBoss3",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_DesertBoss3.T_Note_DesertBoss3",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "SnowBoss1",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_SnowBoss1.T_Note_SnowBoss1",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "SnowBoss2",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_SnowBoss2.T_Note_SnowBoss2",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "SnowBoss3",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_SnowBoss3.T_Note_SnowBoss3",
+            "SubPathString": ""
+        }
+    },
+    {
+        "TextId_Description": "VolcanoBoss1",
+        "Texture": {
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_VolcanoBoss1.T_Note_VolcanoBoss1",
+            "SubPathString": ""
+        }
+    },
+    {
+        "NoteDataMap": [
+            {
+                "Day-xx": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_238'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.0"
+                }
+            },
+            {
+                "Day0": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_239'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.1"
+                }
+            },
+            {
+                "Day1-1": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_240'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.2"
+                }
+            },
+            {
+                "Day1-2": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_241'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.3"
+                }
+            },
+            {
+                "Day2": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_242'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.4"
+                }
+            },
+            {
+                "Day3": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_243'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.5"
+                }
+            },
+            {
+                "Day5": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_244'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.6"
+                }
+            },
+            {
+                "Day6": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_245'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.7"
+                }
+            },
+            {
+                "Day8": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_246'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.8"
+                }
+            },
+            {
+                "Day10": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_247'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.9"
+                }
+            },
+            {
+                "Day11": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_248'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.10"
+                }
+            },
+            {
+                "Day12-1": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_249'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.11"
+                }
+            },
+            {
+                "Day12-2": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_250'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.12"
+                }
+            },
+            {
+                "Day12-3": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_251'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.13"
+                }
+            },
+            {
+                "Day13": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_252'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.14"
+                }
+            },
+            {
+                "Day15": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_253'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.15"
+                }
+            },
+            {
+                "Day18": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_254'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.16"
+                }
+            },
+            {
+                "Day22": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_255'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.17"
+                }
+            },
+            {
+                "Day25": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_256'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.18"
+                }
+            },
+            {
+                "Day29": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_257'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.19"
+                }
+            },
+            {
+                "Day30": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_258'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.20"
+                }
+            },
+            {
+                "Day32": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_259'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.21"
+                }
+            },
+            {
+                "Day38": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_260'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.22"
+                }
+            },
+            {
+                "GrassBoss1": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_261'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.23"
+                }
+            },
+            {
+                "GrassBoss2": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_262'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.24"
+                }
+            },
+            {
+                "GrassBoss3": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_263'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.25"
+                }
+            },
+            {
+                "GrassBoss4": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_264'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.26"
+                }
+            },
+            {
+                "GrassBoss5": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_265'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.27"
+                }
+            },
+            {
+                "ForestBoss1": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_266'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.28"
+                }
+            },
+            {
+                "ForestBoss2": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_267'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.29"
+                }
+            },
+            {
+                "ForestBoss3": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_268'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.30"
+                }
+            },
+            {
+                "ForestBoss4": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_269'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.31"
+                }
+            },
+            {
+                "DesertBoss1": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_270'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.32"
+                }
+            },
+            {
+                "DesertBoss2": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_271'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.33"
+                }
+            },
+            {
+                "DesertBoss3": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_272'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.34"
+                }
+            },
+            {
+                "SnowBoss1": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_273'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.35"
+                }
+            },
+            {
+                "SnowBoss2": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_274'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.36"
+                }
+            },
+            {
+                "SnowBoss3": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_275'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.37"
+                }
+            },
+            {
+                "VolcanoBoss1": {
+                    "ObjectName": "PalNoteData'DA_NoteDataAsset:PalNoteData_276'",
+                    "ObjectPath": "Pal/Content/Pal/DataAsset/Note/DA_NoteDataAsset.38"
+                }
+            }
+        ]
+    }
+]

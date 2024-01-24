@@ -1,0 +1,14 @@
+{
+    "Default": {
+        "Texture_2_CF1D1C1E44798A5D0F778DA8BEF5CE64": {
+            "AssetPathName": "/Game/Pal/Texture/StatusParameterIcon/T_icon_status_work_speed.T_icon_status_work_speed",
+            "SubPathString": ""
+        }
+    },
+    "NewRow": {
+        "Texture_2_CF1D1C1E44798A5D0F778DA8BEF5CE64": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Single": {
+        "WorldMode": "EPalOptionWorldMode::Single",
+        "bEnablePlayerToPlayerDamage": false,
+        "bCanPickupOtherGuildDeathPenaltyDrop": false,
+        "bEnableNonLoginPenalty": false,
+        "bEnableFastTravel": true,
+        "bIsStartLocationSelectByMap": false,
+        "bExistPlayerAfterLogout": false,
+        "bEnableDefenseOtherGuildPlayer": false
+    },
+    "ListenMulti": {
+        "WorldMode": "EPalOptionWorldMode::ListenMulti",
+        "bEnablePlayerToPlayerDamage": false,
+        "bCanPickupOtherGuildDeathPenaltyDrop": false,
+        "bEnableNonLoginPenalty": false,
+        "bEnableFastTravel": true,
+        "bIsStartLocationSelectByMap": false,
+        "bExistPlayerAfterLogout": false,
+        "bEnableDefenseOtherGuildPlayer": false
+    },
+    "Dedicated_PvE": {
+        "WorldMode": "EPalOptionWorldMode::Dedicated_PvE",
+        "bEnablePlayerToPlayerDamage": false,
+        "bCanPickupOtherGuildDeathPenaltyDrop": false,
+        "bEnableNonLoginPenalty": true,
+        "bEnableFastTravel": false,
+        "bIsStartLocationSelectByMap": true,
+        "bExistPlayerAfterLogout": false,
+        "bEnableDefenseOtherGuildPlayer": false
+    },
+    "Dedicated_PvP": {
+        "WorldMode": "EPalOptionWorldMode::Dedicated_PvP",
+        "bEnablePlayerToPlayerDamage": false,
+        "bCanPickupOtherGuildDeathPenaltyDrop": true,
+        "bEnableNonLoginPenalty": true,
+        "bEnableFastTravel": false,
+        "bIsStartLocationSelectByMap": true,
+        "bExistPlayerAfterLogout": true,
+        "bEnableDefenseOtherGuildPlayer": true
+    }
+}

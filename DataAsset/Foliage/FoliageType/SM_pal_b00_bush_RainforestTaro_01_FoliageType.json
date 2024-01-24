@@ -1,0 +1,49 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'SM_pal_b00_bush_RainforestTaro_01'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/b00/Rainforest/Mesh/Plants/SM_pal_b00_bush_RainforestTaro_01.2"
+    },
+    "UpdateGuid": "2E08CB66-408124CE-5E8BB295-94B723E5",
+    "Density": 5.0,
+    "Radius": 20.0,
+    "bSingleInstanceModeOverrideRadius": true,
+    "SingleInstanceModeRadius": 20.0,
+    "ScaleX": {
+        "Min": 0.3,
+        "Max": 0.4
+    },
+    "GroundSlopeAngle": {
+        "Max": 77.0
+    },
+    "MeshBounds": {
+        "Origin": {
+            "X": -15.588207,
+            "Y": -3.6705093,
+            "Z": 89.592125
+        },
+        "BoxExtent": {
+            "X": 116.276474,
+            "Y": 116.57401,
+            "Z": 97.451
+        },
+        "SphereRadius": 141.65527743036444
+    },
+    "LowBoundOriginRadius": {
+        "X": -23.43517,
+        "Y": 43.775097,
+        "Z": 84.56254
+    },
+    "CullDistance": {
+        "Max": 4000
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    },
+    "ReapplyScaling": true,
+    "ReapplyScaleX": true
+}

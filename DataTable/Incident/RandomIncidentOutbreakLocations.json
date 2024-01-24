@@ -1,0 +1,62 @@
+{
+    "Location_0": {
+        "Location": {
+            "X": 0.0,
+            "Y": 0.0
+        }
+    },
+    "Location_1": {
+        "Location": {
+            "X": -1200.0,
+            "Y": 1200.0
+        }
+    },
+    "Location_2": {
+        "Location": {
+            "X": 1200.0,
+            "Y": 0.0
+        }
+    },
+    "Location_3": {
+        "Location": {
+            "X": 1200.0,
+            "Y": -1200.0
+        }
+    },
+    "Location_4": {
+        "Location": {
+            "X": -1200.0,
+            "Y": 0.0
+        }
+    },
+    "Location_5": {
+        "Location": {
+            "X": -1200.0,
+            "Y": -1200.0
+        }
+    },
+    "Location_6": {
+        "Location": {
+            "X": 0.0,
+            "Y": 1200.0
+        }
+    },
+    "NewRow_0": {
+        "Location": {
+            "X": 1200.0,
+            "Y": 1200.0
+        }
+    },
+    "NewRow": {
+        "Location": {
+            "X": 0.0,
+            "Y": -1200.0
+        }
+    },
+    "NewRow_1": {
+        "Location": {
+            "X": 1500.0,
+            "Y": 0.0
+        }
+    }
+}

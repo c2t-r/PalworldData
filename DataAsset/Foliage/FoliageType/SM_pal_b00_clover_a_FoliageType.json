@@ -1,0 +1,40 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'SM_pal_b00_clover_a'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/grass_bush/b00/SM_pal_b00_clover_a.2"
+    },
+    "UpdateGuid": "103F2D43-4FAEDB20-F888698D-D6B67698",
+    "ScaleX": {
+        "Min": 0.5,
+        "Max": 0.7
+    },
+    "MeshBounds": {
+        "Origin": {
+            "X": 1.4119377,
+            "Y": -3.1102715,
+            "Z": 0.26985264
+        },
+        "BoxExtent": {
+            "X": 93.1577,
+            "Y": 100.35545,
+            "Z": 28.235458
+        },
+        "SphereRadius": 103.33830984651335
+    },
+    "LowBoundOriginRadius": {
+        "X": 18.261274,
+        "Y": 2.1791286,
+        "Z": 60.559826
+    },
+    "CullDistance": {
+        "Max": 3000
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

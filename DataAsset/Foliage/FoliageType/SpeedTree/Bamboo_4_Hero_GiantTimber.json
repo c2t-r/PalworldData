@@ -1,0 +1,46 @@
+{
+    "PresetType": "EPalFoliagePresetType::NormalTree_L",
+    "Mesh": {
+        "ObjectName": "StaticMesh'Bamboo_4_Hero_GiantTimber'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Mesh/bamboo/Bamboo_4_Hero_GiantTimber.2"
+    },
+    "ComponentClass": {
+        "ObjectName": "Class'PalFoliageISMComponentBase'",
+        "ObjectPath": "/Script/Pal"
+    },
+    "UpdateGuid": "5D224279-4FDCE70F-BB9A5989-95731BA9",
+    "Density": 2.0,
+    "Radius": 555.0,
+    "ScaleX": {
+        "Min": 0.7
+    },
+    "AlignToNormal": false,
+    "AverageNormalSingleComponent": false,
+    "MeshBounds": {
+        "Origin": {
+            "X": -18.116608,
+            "Y": 0.05923462,
+            "Z": 404.45337
+        },
+        "BoxExtent": {
+            "X": 111.211334,
+            "Y": 114.59248,
+            "Z": 419.69336
+        },
+        "SphereRadius": 423.3965225516985
+    },
+    "LowBoundOriginRadius": {
+        "X": -9.998587,
+        "Y": 5.13052,
+        "Z": 60.235844
+    },
+    "bAffectDistanceFieldLighting": true,
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

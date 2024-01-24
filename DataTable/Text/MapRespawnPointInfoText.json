@@ -1,0 +1,626 @@
+{
+    "SpawnPoint_1": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_1_TextData",
+            "SourceString": "\u5c0f\u9ad8\u3044\u4e18\u306e\u4e0a\u3002\r\n\u898b\u6674\u3089\u3057\u304c\u3088\u304f\u8cc7\u6e90\u3082\u8c4a\u5bcc\u306a\u305f\u3081\u3001\r\n\u521d\u3081\u3066\u30d7\u30ec\u30a4\u3059\u308b\u4eba\u306b\u304a\u3059\u3059\u3081\u3002",
+            "LocalizedString": "\u5c0f\u9ad8\u3044\u4e18\u306e\u4e0a\u3002\r\n\u898b\u6674\u3089\u3057\u304c\u3088\u304f\u8cc7\u6e90\u3082\u8c4a\u5bcc\u306a\u305f\u3081\u3001\r\n\u521d\u3081\u3066\u30d7\u30ec\u30a4\u3059\u308b\u4eba\u306b\u304a\u3059\u3059\u3081\u3002"
+        }
+    },
+    "SpawnPoint_1_Title": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_1_Title_TextData",
+            "SourceString": "\u98a8\u7acb\u3061\u306e\u4e18 \u59cb\u307e\u308a\u306e\u53f0\u5730",
+            "LocalizedString": "\u98a8\u7acb\u3061\u306e\u4e18 \u59cb\u307e\u308a\u306e\u53f0\u5730"
+        }
+    },
+    "SpawnPoint_2": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_2_TextData",
+            "SourceString": "\u6d77\u8fba\u306e\u7802\u6d5c\u3002\u6c34\u751f\u306e\u30d1\u30eb\u304c\u591a\u3044\u3002\r\n\u6728\u306f\u5c11\u306a\u3044\u304c\u3001\u30d1\u30eb\u306f\u305d\u3053\u305d\u3053\u751f\u606f\u3057\u3066\u3044\u308b\u3002",
+            "LocalizedString": "\u6d77\u8fba\u306e\u7802\u6d5c\u3002\u6c34\u751f\u306e\u30d1\u30eb\u304c\u591a\u3044\u3002\r\n\u6728\u306f\u5c11\u306a\u3044\u304c\u3001\u30d1\u30eb\u306f\u305d\u3053\u305d\u3053\u751f\u606f\u3057\u3066\u3044\u308b\u3002"
+        }
+    },
+    "SpawnPoint_2_Title": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_2_Title_TextData",
+            "SourceString": "\u98a8\u7acb\u3061\u306e\u4e18 \u98db\u3073\u9b5a\u6d77\u5cb8",
+            "LocalizedString": "\u98a8\u7acb\u3061\u306e\u4e18 \u98db\u3073\u9b5a\u6d77\u5cb8"
+        }
+    },
+    "SpawnPoint_3": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_3_TextData",
+            "SourceString": "\u5ca9\u7901\u304c\u5e83\u304c\u308b\u6d77\u5cb8\u3002\r\n\u8cc7\u6e90\u3084\u30d1\u30eb\u306e\u91cf\u306f\u5e73\u5747\u7684\u3002\r\n\u5c11\u3057\u5ca9\u304c\u3061\u3060\u304c\u3001\u5e83\u3081\u306e\u571f\u5730\u3092\u78ba\u4fdd\u3067\u304d\u308b\u3002",
+            "LocalizedString": "\u5ca9\u7901\u304c\u5e83\u304c\u308b\u6d77\u5cb8\u3002\r\n\u8cc7\u6e90\u3084\u30d1\u30eb\u306e\u91cf\u306f\u5e73\u5747\u7684\u3002\r\n\u5c11\u3057\u5ca9\u304c\u3061\u3060\u304c\u3001\u5e83\u3081\u306e\u571f\u5730\u3092\u78ba\u4fdd\u3067\u304d\u308b\u3002"
+        }
+    },
+    "SpawnPoint_3_Title": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_3_Title_TextData",
+            "SourceString": "\u6f6e\u98a8\u8af8\u5cf6 \u5ca9\u7901",
+            "LocalizedString": "\u6f6e\u98a8\u8af8\u5cf6 \u5ca9\u7901"
+        }
+    },
+    "SpawnPoint_4": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_4_TextData",
+            "SourceString": "\u6f6e\u98a8\u304c\u5439\u304d\u629c\u3051\u308b\u5cf6\u3002\r\n\u706b\u5c71\u306b\u8fd1\u304f\u3001\u6e29\u6696\u306a\u6c17\u5019\u3067\u4f4f\u307f\u3084\u3059\u3044\u3002\r\n\u672c\u571f\u4e2d\u592e\u306b\u6e21\u308a\u3084\u3059\u304f\u3001\u69d8\u3005\u306a\u5192\u967a\u304c\u697d\u3057\u3081\u308b\u3002",
+            "LocalizedString": "\u6f6e\u98a8\u304c\u5439\u304d\u629c\u3051\u308b\u5cf6\u3002\r\n\u706b\u5c71\u306b\u8fd1\u304f\u3001\u6e29\u6696\u306a\u6c17\u5019\u3067\u4f4f\u307f\u3084\u3059\u3044\u3002\r\n\u672c\u571f\u4e2d\u592e\u306b\u6e21\u308a\u3084\u3059\u304f\u3001\u69d8\u3005\u306a\u5192\u967a\u304c\u697d\u3057\u3081\u308b\u3002"
+        }
+    },
+    "SpawnPoint_4_Title": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_4_Title_TextData",
+            "SourceString": "\u6f6e\u98a8\u8af8\u5cf6 \u6f02\u6d41\u8005\u306e\u6d5c",
+            "LocalizedString": "\u6f6e\u98a8\u8af8\u5cf6 \u6f02\u6d41\u8005\u306e\u6d5c"
+        }
+    },
+    "SpawnPoint_5": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_5_TextData",
+            "SourceString": "\u672c\u571f\u304b\u3089\u9060\u304f\u3001\u4eba\u304c\u4f4f\u3093\u3067\u3044\u308b\u6c17\u914d\u306e\u306a\u3044\u5cf6\u3002\r\n\u5317\u65b9\u306b\u4f4d\u7f6e\u3059\u308b\u305f\u3081\u3001\u6c17\u6e29\u3082\u4f4e\u3081\u3002\r\n\u8cc7\u6e90\u3084\u30d1\u30eb\u306e\u91cf\u304c\u5c11\u306a\u304f\u3001\u5c45\u4f4f\u306f\u96e3\u3057\u3044\u3002",
+            "LocalizedString": "\u672c\u571f\u304b\u3089\u9060\u304f\u3001\u4eba\u304c\u4f4f\u3093\u3067\u3044\u308b\u6c17\u914d\u306e\u306a\u3044\u5cf6\u3002\r\n\u5317\u65b9\u306b\u4f4d\u7f6e\u3059\u308b\u305f\u3081\u3001\u6c17\u6e29\u3082\u4f4e\u3081\u3002\r\n\u8cc7\u6e90\u3084\u30d1\u30eb\u306e\u91cf\u304c\u5c11\u306a\u304f\u3001\u5c45\u4f4f\u306f\u96e3\u3057\u3044\u3002"
+        }
+    },
+    "SpawnPoint_5_Title": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_5_Title_TextData",
+            "SourceString": "\u5fd8\u308c\u3089\u308c\u305f\u5cf6",
+            "LocalizedString": "\u5fd8\u308c\u3089\u308c\u305f\u5cf6"
+        }
+    },
+    "SpawnPoint_6": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_6_TextData",
+            "SourceString": "\u96ea\u5c71\u304b\u3089\u51b7\u305f\u3044\u98a8\u304c\u6d41\u308c\u3066\u304f\u308b\u5cf6\u3002\r\n\u591c\u306e\u51b7\u3048\u8fbc\u307f\u304c\u304d\u3064\u304f\u3001\r\n\u539f\u4f4f\u6c11\u3067\u3082\u3042\u307e\u308a\u3053\u3053\u306b\u4f4f\u3082\u3046\u3068\u306f\u601d\u308f\u306a\u3044\u3002",
+            "LocalizedString": "\u96ea\u5c71\u304b\u3089\u51b7\u305f\u3044\u98a8\u304c\u6d41\u308c\u3066\u304f\u308b\u5cf6\u3002\r\n\u591c\u306e\u51b7\u3048\u8fbc\u307f\u304c\u304d\u3064\u304f\u3001\r\n\u539f\u4f4f\u6c11\u3067\u3082\u3042\u307e\u308a\u3053\u3053\u306b\u4f4f\u3082\u3046\u3068\u306f\u601d\u308f\u306a\u3044\u3002"
+        }
+    },
+    "SpawnPoint_6_Title": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_6_Title_TextData",
+            "SourceString": "\u5bd2\u98a8\u304c\u5439\u304f\u5cf6",
+            "LocalizedString": "\u5bd2\u98a8\u304c\u5439\u304f\u5cf6"
+        }
+    },
+    "SpawnPoint_7": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_7_TextData",
+            "SourceString": "\u6771\u306b\u4f4d\u7f6e\u3059\u308b\u8352\u308c\u305f\u5cf6\u3002\r\n\u5927\u9678\u306e\u7aef\u306b\u3042\u308a\u3001\u8ab0\u3082\u958b\u62d3\u3057\u3088\u3046\u3068\u3057\u306a\u3044\u3002\r\n\u6163\u308c\u3066\u306a\u3044\u8005\u304c\u4f4f\u3080\u306b\u306f\u3001\u5c11\u3057\u96e3\u3057\u3044\u3002",
+            "LocalizedString": "\u6771\u306b\u4f4d\u7f6e\u3059\u308b\u8352\u308c\u305f\u5cf6\u3002\r\n\u5927\u9678\u306e\u7aef\u306b\u3042\u308a\u3001\u8ab0\u3082\u958b\u62d3\u3057\u3088\u3046\u3068\u3057\u306a\u3044\u3002\r\n\u6163\u308c\u3066\u306a\u3044\u8005\u304c\u4f4f\u3080\u306b\u306f\u3001\u5c11\u3057\u96e3\u3057\u3044\u3002"
+        }
+    },
+    "SpawnPoint_7_Title": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_7_Title_TextData",
+            "SourceString": "\u6771\u306e\u8352\u308c\u5cf6",
+            "LocalizedString": "\u6771\u306e\u8352\u308c\u5cf6"
+        }
+    },
+    "SpawnPoint_8": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_8_TextData",
+            "SourceString": "\u6e7f\u5730\u5e2f\u304c\u5e83\u304c\u3063\u3066\u3044\u308b\u5cf6\u3002\r\n\u9069\u5ea6\u306a\u6e7f\u5ea6\u304b\u3089\u30d9\u30ea\u30fc\u304c\u305f\u304f\u3055\u3093\u751f\u3048\u3066\u3044\u308b\u3002\r\n\u672c\u571f\u4e2d\u592e\u3078\u306e\u30a2\u30af\u30bb\u30b9\u3082\u826f\u597d\u3002",
+            "LocalizedString": "\u6e7f\u5730\u5e2f\u304c\u5e83\u304c\u3063\u3066\u3044\u308b\u5cf6\u3002\r\n\u9069\u5ea6\u306a\u6e7f\u5ea6\u304b\u3089\u30d9\u30ea\u30fc\u304c\u305f\u304f\u3055\u3093\u751f\u3048\u3066\u3044\u308b\u3002\r\n\u672c\u571f\u4e2d\u592e\u3078\u306e\u30a2\u30af\u30bb\u30b9\u3082\u826f\u597d\u3002"
+        }
+    },
+    "SpawnPoint_8_Title": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "SpawnPoint_8_Title_TextData",
+            "SourceString": "\u6e7f\u539f\u306e\u5cf6",
+            "LocalizedString": "\u6e7f\u539f\u306e\u5cf6"
+        }
+    },
+    "FTPoint1": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint1_TextData",
+            "SourceString": "\u9ed2\u66dc\u706b\u5c71 \u4e2d\u8179",
+            "LocalizedString": "\u9ed2\u66dc\u706b\u5c71 \u4e2d\u8179"
+        }
+    },
+    "FTPoint2": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint2_TextData",
+            "SourceString": "\u6c38\u708e\u306e\u540c\u5fd7\u306e\u5854",
+            "LocalizedString": "\u6c38\u708e\u306e\u540c\u5fd7\u306e\u5854"
+        }
+    },
+    "FTPoint3": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint3_TextData",
+            "SourceString": "\u6c38\u708e\u306e\u540c\u5fd7\u306e\u5854 \u5165\u53e3",
+            "LocalizedString": "\u6c38\u708e\u306e\u540c\u5fd7\u306e\u5854 \u5165\u53e3"
+        }
+    },
+    "FTPoint4": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint4_TextData",
+            "SourceString": "\u53e4\u4ee3\u6587\u660e\u8de1\u5730",
+            "LocalizedString": "\u53e4\u4ee3\u6587\u660e\u8de1\u5730"
+        }
+    },
+    "FTPoint5": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint5_TextData",
+            "SourceString": "\u679c\u3066\u306e\u6f01\u6751",
+            "LocalizedString": "\u679c\u3066\u306e\u6f01\u6751"
+        }
+    },
+    "FTPoint6": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint6_TextData",
+            "SourceString": "\u9ed2\u66dc\u706b\u5c71\u306e\u30a2\u30cc\u30d3\u30b9\u50cf",
+            "LocalizedString": "\u9ed2\u66dc\u706b\u5c71\u306e\u30a2\u30cc\u30d3\u30b9\u50cf"
+        }
+    },
+    "FTPoint7": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint7_TextData",
+            "SourceString": "\u5e38\u590f\u306e\u6d5c",
+            "LocalizedString": "\u5e38\u590f\u306e\u6d5c"
+        }
+    },
+    "FTPoint8": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint8_TextData",
+            "SourceString": "\u6ec5\u3073\u305f\u57ce\u585e\u90fd\u5e02",
+            "LocalizedString": "\u6ec5\u3073\u305f\u57ce\u585e\u90fd\u5e02"
+        }
+    },
+    "FTPoint9": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint9_TextData",
+            "SourceString": "\u81ea\u8b66\u56e3\u306e\u5854 \u5165\u53e3",
+            "LocalizedString": "\u81ea\u8b66\u56e3\u306e\u5854 \u5165\u53e3"
+        }
+    },
+    "FTPoint10": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint10_TextData",
+            "SourceString": "\u81ea\u8b66\u56e3\u306e\u5854",
+            "LocalizedString": "\u81ea\u8b66\u56e3\u306e\u5854"
+        }
+    },
+    "FTPoint11": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint11_TextData",
+            "SourceString": "\u7802\u4e18\u5165\u308a\u53e3",
+            "LocalizedString": "\u7802\u4e18\u5165\u308a\u53e3"
+        }
+    },
+    "FTPoint12": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint12_TextData",
+            "SourceString": "\u7802\u6f20\u306e\u8857",
+            "LocalizedString": "\u7802\u6f20\u306e\u8857"
+        }
+    },
+    "FTPoint13": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint13_TextData",
+            "SourceString": "\u7802\u4e18\u5965\u5730",
+            "LocalizedString": "\u7802\u4e18\u5965\u5730"
+        }
+    },
+    "FTPoint14": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint14_TextData",
+            "SourceString": "\u51b7\u6c34\u6d5c\u8fba",
+            "LocalizedString": "\u51b7\u6c34\u6d5c\u8fba"
+        }
+    },
+    "FTPoint15": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint15_TextData",
+            "SourceString": "\u751f\u8005\u3092\u62d2\u3080\u5c71\u9053",
+            "LocalizedString": "\u751f\u8005\u3092\u62d2\u3080\u5c71\u9053"
+        }
+    },
+    "FTPoint16": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint16_TextData",
+            "SourceString": "\u6c37\u30a4\u30bf\u30c1\u306e\u4e18",
+            "LocalizedString": "\u6c37\u30a4\u30bf\u30c1\u306e\u4e18"
+        }
+    },
+    "FTPoint17": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint17_TextData",
+            "SourceString": "\u4e0d\u6eb6\u6e56",
+            "LocalizedString": "\u4e0d\u6eb6\u6e56"
+        }
+    },
+    "FTPoint18": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint18_TextData",
+            "SourceString": "\u7d76\u5bfe\u96f6\u5ea6\u306e\u5730",
+            "LocalizedString": "\u7d76\u5bfe\u96f6\u5ea6\u306e\u5730"
+        }
+    },
+    "FTPoint19": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint19_TextData",
+            "SourceString": "\u907a\u4f1d\u5b50\u7814\u7a76\u90e8\u968a\u306e\u5854",
+            "LocalizedString": "\u907a\u4f1d\u5b50\u7814\u7a76\u90e8\u968a\u306e\u5854"
+        }
+    },
+    "FTPoint20": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint20_TextData",
+            "SourceString": "\u907a\u4f1d\u5b50\u7814\u7a76\u90e8\u968a\u306e\u5854 \u5165\u53e3",
+            "LocalizedString": "\u907a\u4f1d\u5b50\u7814\u7a76\u90e8\u968a\u306e\u5854 \u5165\u53e3"
+        }
+    },
+    "FTPoint21": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint21_TextData",
+            "SourceString": "\u8349\u5de8\u7363\u306e\u4e18\u9675",
+            "LocalizedString": "\u8349\u5de8\u7363\u306e\u4e18\u9675"
+        }
+    },
+    "FTPoint22": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint22_TextData",
+            "SourceString": "\u3055\u3073\u308c\u305f\u6559\u4f1a",
+            "LocalizedString": "\u3055\u3073\u308c\u305f\u6559\u4f1a"
+        }
+    },
+    "FTPoint23": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint23_TextData",
+            "SourceString": "\u59cb\u307e\u308a\u306e\u53f0\u5730",
+            "LocalizedString": "\u59cb\u307e\u308a\u306e\u53f0\u5730"
+        }
+    },
+    "FTPoint24": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint24_TextData",
+            "SourceString": "\u5c0f\u3055\u306a\u96c6\u843d",
+            "LocalizedString": "\u5c0f\u3055\u306a\u96c6\u843d"
+        }
+    },
+    "FTPoint25": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint25_TextData",
+            "SourceString": "\u4fee\u9a13\u8005\u306e\u6edd",
+            "LocalizedString": "\u4fee\u9a13\u8005\u306e\u6edd"
+        }
+    },
+    "FTPoint26": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint26_TextData",
+            "SourceString": "\u706b\u5c71\u306e\u9e93",
+            "LocalizedString": "\u706b\u5c71\u306e\u9e93"
+        }
+    },
+    "FTPoint27": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint27_TextData",
+            "SourceString": "\u6c37\u9ce5\u306e\u5c01\u57df",
+            "LocalizedString": "\u6c37\u9ce5\u306e\u5c01\u57df"
+        }
+    },
+    "FTPoint28": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint28_TextData",
+            "SourceString": "\u7826\u8de1\u5730",
+            "LocalizedString": "\u7826\u8de1\u5730"
+        }
+    },
+    "FTPoint29": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint29_TextData",
+            "SourceString": "\u96f7\u9cf4\u7adc\u306e\u5c01\u57df",
+            "LocalizedString": "\u96f7\u9cf4\u7adc\u306e\u5c01\u57df"
+        }
+    },
+    "FTPoint30": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint30_TextData",
+            "SourceString": "\u63a2\u7a76\u8005\u306e\u5206\u5c90\u8def",
+            "LocalizedString": "\u63a2\u7a76\u8005\u306e\u5206\u5c90\u8def"
+        }
+    },
+    "FTPoint31": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint31_TextData",
+            "SourceString": "\u53e4\u3073\u305f\u796d\u7940\u5834",
+            "LocalizedString": "\u53e4\u3073\u305f\u796d\u7940\u5834"
+        }
+    },
+    "FTPoint32": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint32_TextData",
+            "SourceString": "\u82b1\u514e\u5c71 \u5c71\u9802",
+            "LocalizedString": "\u82b1\u514e\u5c71 \u5c71\u9802"
+        }
+    },
+    "FTPoint33": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint33_TextData",
+            "SourceString": "\u6e56\u4e2d\u592e",
+            "LocalizedString": "\u6e56\u4e2d\u592e"
+        }
+    },
+    "FTPoint34": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint34_TextData",
+            "SourceString": "\u507d\u5584\u8005\u306e\u4e18",
+            "LocalizedString": "\u507d\u5584\u8005\u306e\u4e18"
+        }
+    },
+    "FTPoint35": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint35_TextData",
+            "SourceString": "\u5b88\u8b77\u8005\u306e\u5c01\u57df",
+            "LocalizedString": "\u5b88\u8b77\u8005\u306e\u5c01\u57df"
+        }
+    },
+    "FTPoint36": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint36_TextData",
+            "SourceString": "\u96ea\u5c71\u3078\u306e\u5206\u5c90\u8def",
+            "LocalizedString": "\u96ea\u5c71\u3078\u306e\u5206\u5c90\u8def"
+        }
+    },
+    "FTPoint37": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint37_TextData",
+            "SourceString": "\u30d1\u30eb\u611b\u8b77\u56e3\u4f53\u306e\u5854 \u5165\u53e3",
+            "LocalizedString": "\u30d1\u30eb\u611b\u8b77\u56e3\u4f53\u306e\u5854 \u5165\u53e3"
+        }
+    },
+    "FTPoint38": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint38_TextData",
+            "SourceString": "\u795e\u901f\u306e\u5c01\u57df",
+            "LocalizedString": "\u795e\u901f\u306e\u5c01\u57df"
+        }
+    },
+    "FTPoint39": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint39_TextData",
+            "SourceString": "\u8349\u718a\u732b\u306e\u68ee",
+            "LocalizedString": "\u8349\u718a\u732b\u306e\u68ee"
+        }
+    },
+    "FTPoint40": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint40_TextData",
+            "SourceString": "\u5c0f\u9bab\u306e\u306a\u308f\u3070\u308a",
+            "LocalizedString": "\u5c0f\u9bab\u306e\u306a\u308f\u3070\u308a"
+        }
+    },
+    "FTPoint41": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint41_TextData",
+            "SourceString": "\u5f69\u8776\u306e\u68ee",
+            "LocalizedString": "\u5f69\u8776\u306e\u68ee"
+        }
+    },
+    "FTPoint42": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint42_TextData",
+            "SourceString": "\u5263\u8c6a\u306e\u5c01\u57df",
+            "LocalizedString": "\u5263\u8c6a\u306e\u5c01\u57df"
+        }
+    },
+    "FTPoint43": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint43_TextData",
+            "SourceString": "\u7af9\u6797\u5965\u5730",
+            "LocalizedString": "\u7af9\u6797\u5965\u5730"
+        }
+    },
+    "FTPoint44": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint44_TextData",
+            "SourceString": "\u7ffc\u7adc\u306e\u5c01\u57df",
+            "LocalizedString": "\u7ffc\u7adc\u306e\u5c01\u57df"
+        }
+    },
+    "FTPoint45": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint45_TextData",
+            "SourceString": "\u30ec\u30a4\u30f3\u5bc6\u731f\u56e3\u306e\u5854 \u5165\u53e3",
+            "LocalizedString": "\u30ec\u30a4\u30f3\u5bc6\u731f\u56e3\u306e\u5854 \u5165\u53e3"
+        }
+    },
+    "FTPoint46": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint46_TextData",
+            "SourceString": "\u30ec\u30a4\u30f3\u5bc6\u731f\u56e3\u306e\u5854",
+            "LocalizedString": "\u30ec\u30a4\u30f3\u5bc6\u731f\u56e3\u306e\u5854"
+        }
+    },
+    "FTPoint47": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint47_TextData",
+            "SourceString": "\u30d1\u30eb\u611b\u8b77\u56e3\u4f53\u306e\u5854",
+            "LocalizedString": "\u30d1\u30eb\u611b\u8b77\u56e3\u4f53\u306e\u5854"
+        }
+    },
+    "FTPoint48": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint48_TextData",
+            "SourceString": "\u7d14\u767d\u306e\u96ea\u539f",
+            "LocalizedString": "\u7d14\u767d\u306e\u96ea\u539f"
+        }
+    },
+    "FTPoint49": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint49_TextData",
+            "SourceString": "\u5fd8\u308c\u3089\u308c\u305f\u5cf6",
+            "LocalizedString": "\u5fd8\u308c\u3089\u308c\u305f\u5cf6"
+        }
+    },
+    "FTPoint50": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint50_TextData",
+            "SourceString": "\u5bd2\u98a8\u304c\u5439\u304f\u5cf6",
+            "LocalizedString": "\u5bd2\u98a8\u304c\u5439\u304f\u5cf6"
+        }
+    },
+    "FTPoint51": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint51_TextData",
+            "SourceString": "\u5c0f\u9752\u9f8d\u306e\u6d5c",
+            "LocalizedString": "\u5c0f\u9752\u9f8d\u306e\u6d5c"
+        }
+    },
+    "FTPoint52": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint52_TextData",
+            "SourceString": "\u6f6e\u98a8\u8af8\u5cf6 \u6f02\u6d41\u8005\u306e\u6d5c",
+            "LocalizedString": "\u6f6e\u98a8\u8af8\u5cf6 \u6f02\u6d41\u8005\u306e\u6d5c"
+        }
+    },
+    "FTPoint53": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint53_TextData",
+            "SourceString": "\u6f6e\u98a8\u8af8\u5cf6\u306e\u6559\u4f1a",
+            "LocalizedString": "\u6f6e\u98a8\u8af8\u5cf6\u306e\u6559\u4f1a"
+        }
+    },
+    "FTPoint54": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint54_TextData",
+            "SourceString": "\u5c0f\u3055\u306a\u5165\u308a\u6c5f",
+            "LocalizedString": "\u5c0f\u3055\u306a\u5165\u308a\u6c5f"
+        }
+    },
+    "FTPoint55": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint55_TextData",
+            "SourceString": "\u5cf6\u6e21\u308a\u6d77\u5cb8",
+            "LocalizedString": "\u5cf6\u6e21\u308a\u6d77\u5cb8"
+        }
+    },
+    "FTPoint56": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint56_TextData",
+            "SourceString": "\u6e7f\u539f\u306e\u5cf6",
+            "LocalizedString": "\u6e7f\u539f\u306e\u5cf6"
+        }
+    },
+    "FTPoint57": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint57_TextData",
+            "SourceString": "\u6771\u306e\u8352\u308c\u5cf6",
+            "LocalizedString": "\u6771\u306e\u8352\u308c\u5cf6"
+        }
+    },
+    "FTPoint58": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint58_TextData",
+            "SourceString": "\u5929\u7136\u306e\u9678\u6a4b",
+            "LocalizedString": "\u5929\u7136\u306e\u9678\u6a4b"
+        }
+    },
+    "FTPoint59": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint59_TextData",
+            "SourceString": "\u5fd8\u308c\u3089\u308c\u305f\u5cf6\u306e\u6559\u4f1a\u8de1\u5730",
+            "LocalizedString": "\u5fd8\u308c\u3089\u308c\u305f\u5cf6\u306e\u6559\u4f1a\u8de1\u5730"
+        }
+    },
+    "FTPoint60": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint60_TextData",
+            "SourceString": "\u6e7f\u539f\u5cf6\u306e\u6559\u4f1a\u8de1\u5730",
+            "LocalizedString": "\u6e7f\u539f\u5cf6\u306e\u6559\u4f1a\u8de1\u5730"
+        }
+    },
+    "FTPoint61": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint61_TextData",
+            "SourceString": "\u53cc\u9a0e\u58eb\u306e\u5927\u6a4b",
+            "LocalizedString": "\u53cc\u9a0e\u58eb\u306e\u5927\u6a4b"
+        }
+    },
+    "FTPoint62": {
+        "TextData": {
+            "Namespace": "DT_MapRespawnPointInfoText",
+            "Key": "FTPoint62_TextData",
+            "SourceString": "\u6e13\u8c37\u5165\u53e3",
+            "LocalizedString": "\u6e13\u8c37\u5165\u53e3"
+        }
+    }
+}

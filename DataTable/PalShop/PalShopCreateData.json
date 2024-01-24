@@ -1,0 +1,274 @@
+{
+    "Test_00": {
+        "MaxLostPalNum": 5,
+        "CharacterNum": 5,
+        "CharacterIDArray": [
+            {
+                "Key": "Boar"
+            },
+            {
+                "Key": "Deer"
+            },
+            {
+                "Key": "Garm"
+            },
+            {
+                "Key": "CowPal"
+            },
+            {
+                "Key": "Hedgehog"
+            },
+            {
+                "Key": "Kirin"
+            },
+            {
+                "Key": "Kitsunebi"
+            },
+            {
+                "Key": "Penguin"
+            },
+            {
+                "Key": "SheepBall"
+            },
+            {
+                "Key": "SharkKid"
+            },
+            {
+                "Key": "ColorfulBird"
+            },
+            {
+                "Key": "PinkCat"
+            },
+            {
+                "Key": "Werewolf"
+            },
+            {
+                "Key": "ChickenPal"
+            }
+        ],
+        "MinCharacterLevel": 1,
+        "MaxCharacterLevel": 10
+    },
+    "Test_01": {
+        "MaxLostPalNum": 5,
+        "CharacterNum": 5,
+        "CharacterIDArray": [
+            {
+                "Key": "FlowerRabbit"
+            },
+            {
+                "Key": "SweetsSheep"
+            },
+            {
+                "Key": "Hedgehog_Ice"
+            },
+            {
+                "Key": "Bastet"
+            },
+            {
+                "Key": "Eagle"
+            },
+            {
+                "Key": "PinkRabbit"
+            },
+            {
+                "Key": "MopKing"
+            },
+            {
+                "Key": "ColorfulBird"
+            },
+            {
+                "Key": "LizardMan"
+            },
+            {
+                "Key": "Serpent"
+            },
+            {
+                "Key": "Alpaca"
+            },
+            {
+                "Key": "MopBaby"
+            },
+            {
+                "Key": "NegativeOctopus"
+            },
+            {
+                "Key": "NightFox"
+            },
+            {
+                "Key": "RobinHood"
+            },
+            {
+                "Key": "CatBat"
+            },
+            {
+                "Key": "LazyCatfish"
+            },
+            {
+                "Key": "LittleBriarRose"
+            },
+            {
+                "Key": "CatMage"
+            },
+            {
+                "Key": "CatVampire"
+            },
+            {
+                "Key": "Werewolf"
+            },
+            {
+                "Key": "GhostBeast"
+            },
+            {
+                "Key": "Bastet_Ice"
+            },
+            {
+                "Key": "WhiteTiger"
+            },
+            {
+                "Key": "WeaselDragon"
+            },
+            {
+                "Key": "HawkBird"
+            },
+            {
+                "Key": "VioletFairy"
+            },
+            {
+                "Key": "Baphomet"
+            },
+            {
+                "Key": "FairyDragon"
+            },
+            {
+                "Key": "Baphomet_Dark"
+            },
+            {
+                "Key": "FlowerDinosaur"
+            },
+            {
+                "Key": "LavaGirl"
+            },
+            {
+                "Key": "WoolFox"
+            },
+            {
+                "Key": "RaijinDaughter"
+            },
+            {
+                "Key": "HerculesBeetle"
+            },
+            {
+                "Key": "FlowerDoll"
+            },
+            {
+                "Key": "LazyDragon"
+            },
+            {
+                "Key": "Mutant"
+            },
+            {
+                "Key": "SoldierBee"
+            },
+            {
+                "Key": "Eagle"
+            },
+            {
+                "Key": "CuteFox"
+            },
+            {
+                "Key": "CuteMole"
+            },
+            {
+                "Key": "WindChimes"
+            },
+            {
+                "Key": "DarkCrow"
+            },
+            {
+                "Key": "KingAlpaca"
+            },
+            {
+                "Key": "CaptainPenguin"
+            }
+        ],
+        "MinCharacterLevel": 5,
+        "MaxCharacterLevel": 10
+    },
+    "Desert_00": {
+        "MaxLostPalNum": 5,
+        "CharacterNum": 5,
+        "CharacterIDArray": [
+            {
+                "Key": "RaijinDaughter"
+            },
+            {
+                "Key": "ThunderDog"
+            },
+            {
+                "Key": "RobinHood_Ground"
+            },
+            {
+                "Key": "FlowerDinosaur_Electric"
+            },
+            {
+                "Key": "Serpent_Ground"
+            },
+            {
+                "Key": "DrillGame"
+            },
+            {
+                "Key": "PinkLizard"
+            },
+            {
+                "Key": "HawkBird"
+            },
+            {
+                "Key": "SakuraSaurus"
+            },
+            {
+                "Key": "CuteMole"
+            },
+            {
+                "Key": "WindChimes"
+            }
+        ],
+        "MinCharacterLevel": 25,
+        "MaxCharacterLevel": 35
+    },
+    "Volcano_00": {
+        "MaxLostPalNum": 5,
+        "CharacterNum": 5,
+        "CharacterIDArray": [
+            {
+                "Key": "LavaGirl"
+            },
+            {
+                "Key": "Kelpie_Fire"
+            },
+            {
+                "Key": "FoxMage"
+            },
+            {
+                "Key": "FireKirin"
+            },
+            {
+                "Key": "BirdDragon"
+            },
+            {
+                "Key": "VolcanicMonster"
+            },
+            {
+                "Key": "SharkKid_Fire"
+            },
+            {
+                "Key": "LizardMan_Fire"
+            },
+            {
+                "Key": "Baphomet"
+            }
+        ],
+        "MinCharacterLevel": 25,
+        "MaxCharacterLevel": 35
+    }
+}

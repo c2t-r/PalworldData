@@ -1,0 +1,1362 @@
+{
+    "PREFIX_NAME_LONELY": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_LONELY_TextData",
+            "SourceString": "\u660f\u304d\u592a\u967d\u306e\u5b88\u8b77\u8005",
+            "LocalizedString": "\u660f\u304d\u592a\u967d\u306e\u5b88\u8b77\u8005"
+        }
+    },
+    "PREFIX_NAME_PV5012": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_PV5012_TextData",
+            "SourceString": "\u95c7\u306e\u738b\u8005",
+            "LocalizedString": "\u95c7\u306e\u738b\u8005"
+        }
+    },
+    "PREFIX_NAME_PV5014": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_PV5014_TextData",
+            "SourceString": "\u6e56\u306e\u5973\u738b",
+            "LocalizedString": "\u6e56\u306e\u5973\u738b"
+        }
+    },
+    "PREFIX_NAME_PV6012": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_PV6012_TextData",
+            "SourceString": "\u767d\u9b54\u306e\u4f7f\u8005",
+            "LocalizedString": "\u767d\u9b54\u306e\u4f7f\u8005"
+        }
+    },
+    "PREFIX_NAME_PV6013": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_PV6013_TextData",
+            "SourceString": "\u708e\u7a7a\u306e\u8987\u8005",
+            "LocalizedString": "\u708e\u7a7a\u306e\u8987\u8005"
+        }
+    },
+    "PREFIX_NAME_ELECLION_BOSS": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_ELECLION_BOSS_TextData",
+            "SourceString": "\u8fc5\u96f7\u306e\u72e9\u4eba",
+            "LocalizedString": "\u8fc5\u96f7\u306e\u72e9\u4eba"
+        }
+    },
+    "PREFIX_NAME_LILYQUEEN_BOSS": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_LILYQUEEN_BOSS_TextData",
+            "SourceString": "\u767e\u5408\u306e\u5973\u5e1d",
+            "LocalizedString": "\u767e\u5408\u306e\u5973\u5e1d"
+        }
+    },
+    "PREFIX_NAME_AMATERASUWOLF_BOSS": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_AMATERASUWOLF_BOSS_TextData",
+            "SourceString": "\u9752\u7131\u306e\u5b88\u308a\u795e",
+            "LocalizedString": "\u9752\u7131\u306e\u5b88\u308a\u795e"
+        }
+    },
+    "PREFIX_NAME_SUZAKU_BOSS": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_SUZAKU_BOSS_TextData",
+            "SourceString": "\u5929\u7a7a\u306e\u738b\u8005",
+            "LocalizedString": "\u5929\u7a7a\u306e\u738b\u8005"
+        }
+    },
+    "PREFIX_NAME_FAIRYDRAGON_BOSS": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_FAIRYDRAGON_BOSS_TextData",
+            "SourceString": "\u8349\u539f\u306e\u602a\u7269",
+            "LocalizedString": "\u8349\u539f\u306e\u602a\u7269"
+        }
+    },
+    "PREFIX_NAME_FENGYUNDEEPER_BOSS": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "PREFIX_NAME_FENGYUNDEEPER_BOSS_TextData",
+            "SourceString": "\u8349\u539f\u306e\u96fb\u5149\u77f3\u706b",
+            "LocalizedString": "\u8349\u539f\u306e\u96fb\u5149\u77f3\u706b"
+        }
+    },
+    "BOSS_NAME_Alpaca": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Alpaca_TextData",
+            "SourceString": "\u7f8e\u811a\u304c\u81ea\u6162\u306e",
+            "LocalizedString": "\u7f8e\u811a\u304c\u81ea\u6162\u306e"
+        }
+    },
+    "BOSS_NAME_AmaterasuWolf": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_AmaterasuWolf_TextData",
+            "SourceString": "\u84bc\u708e\u306e\u5b88\u308a\u795e",
+            "LocalizedString": "\u84bc\u708e\u306e\u5b88\u308a\u795e"
+        }
+    },
+    "BOSS_NAME_Anubis": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Anubis_TextData",
+            "SourceString": "\u660f\u304d\u592a\u967d\u306e\u5b88\u8b77\u8005",
+            "LocalizedString": "\u660f\u304d\u592a\u967d\u306e\u5b88\u8b77\u8005"
+        }
+    },
+    "BOSS_NAME_BadCatgirl": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BadCatgirl_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_Baphomet": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Baphomet_TextData",
+            "SourceString": "\u8352\u91ce\u306e\u30cf\u30a4\u30a8\u30ca",
+            "LocalizedString": "\u8352\u91ce\u306e\u30cf\u30a4\u30a8\u30ca"
+        }
+    },
+    "BOSS_NAME_Baphomet_Dark": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Baphomet_Dark_TextData",
+            "SourceString": "\u95c7\u591c\u306e\u30cf\u30a4\u30a8\u30ca",
+            "LocalizedString": "\u95c7\u591c\u306e\u30cf\u30a4\u30a8\u30ca"
+        }
+    },
+    "BOSS_NAME_Bastet": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Bastet_TextData",
+            "SourceString": "\u9ad8\u8cb4\u306a\u714c\u3081\u304d",
+            "LocalizedString": "\u9ad8\u8cb4\u306a\u714c\u3081\u304d"
+        }
+    },
+    "BOSS_NAME_Bastet_Ice": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Bastet_Ice_TextData",
+            "SourceString": "\u6e05\u6f84\u306a\u714c\u3081\u304d",
+            "LocalizedString": "\u6e05\u6f84\u306a\u714c\u3081\u304d"
+        }
+    },
+    "BOSS_NAME_BeardedDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BeardedDragon_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_BerryGoat": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BerryGoat_TextData",
+            "SourceString": "\u6b69\u304f\u8fb2\u5834",
+            "LocalizedString": "\u6b69\u304f\u8fb2\u5834"
+        }
+    },
+    "BOSS_NAME_BirdDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BirdDragon_TextData",
+            "SourceString": "\u7a7a\u304b\u3089\u306e\u8972\u6483\u8005",
+            "LocalizedString": "\u7a7a\u304b\u3089\u306e\u8972\u6483\u8005"
+        }
+    },
+    "BOSS_NAME_BirdDragon_Ice": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BirdDragon_Ice_TextData",
+            "SourceString": "\u6c37\u5929\u304b\u3089\u306e\u8972\u6483\u8005",
+            "LocalizedString": "\u6c37\u5929\u304b\u3089\u306e\u8972\u6483\u8005"
+        }
+    },
+    "BOSS_NAME_BlackCentaur": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BlackCentaur_TextData",
+            "SourceString": "\u4f1d\u8aac\u306e\u9ed2\u9a0e\u58eb",
+            "LocalizedString": "\u4f1d\u8aac\u306e\u9ed2\u9a0e\u58eb"
+        }
+    },
+    "BOSS_NAME_BlackFurDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BlackFurDragon_TextData",
+            "SourceString": "\u95c7\u306e\u738b\u8005",
+            "LocalizedString": "\u95c7\u306e\u738b\u8005"
+        }
+    },
+    "BOSS_NAME_BlackGriffon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BlackGriffon_TextData",
+            "SourceString": "\u672a\u77e5\u306e\u751f\u547d\u4f53",
+            "LocalizedString": "\u672a\u77e5\u306e\u751f\u547d\u4f53"
+        }
+    },
+    "BOSS_NAME_BlackMetalDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BlackMetalDragon_TextData",
+            "SourceString": "\u92fc\u9244\u306e\u7adc\u738b",
+            "LocalizedString": "\u92fc\u9244\u306e\u7adc\u738b"
+        }
+    },
+    "BOSS_NAME_BlueberryFairy": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BlueberryFairy_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_BlueDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BlueDragon_TextData",
+            "SourceString": "\u6e56\u306e\u5973\u738b",
+            "LocalizedString": "\u6e56\u306e\u5973\u738b"
+        }
+    },
+    "BOSS_NAME_BluePlatypus": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BluePlatypus_TextData",
+            "SourceString": "\u3084\u3093\u3061\u3083\u306a\u6ce2\u4e57\u308a\u5c0f\u50e7",
+            "LocalizedString": "\u3084\u3093\u3061\u3083\u306a\u6ce2\u4e57\u308a\u5c0f\u50e7"
+        }
+    },
+    "BOSS_NAME_Boar": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Boar_TextData",
+            "SourceString": "\u68ee\u306e\u8352\u304f\u308c\u3082\u306e",
+            "LocalizedString": "\u68ee\u306e\u8352\u304f\u308c\u3082\u306e"
+        }
+    },
+    "BOSS_NAME_BrownRabbit": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_BrownRabbit_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_CaptainPenguin": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_CaptainPenguin_TextData",
+            "SourceString": "\u6c37\u6d77\u306e\u958b\u62d3\u8005",
+            "LocalizedString": "\u6c37\u6d77\u306e\u958b\u62d3\u8005"
+        }
+    },
+    "BOSS_NAME_Carbunclo": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Carbunclo_TextData",
+            "SourceString": "\u8349\u539f\u4e00\u306e\u81c6\u75c5\u8005",
+            "LocalizedString": "\u8349\u539f\u4e00\u306e\u81c6\u75c5\u8005"
+        }
+    },
+    "BOSS_NAME_CatBat": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_CatBat_TextData",
+            "SourceString": "\u30c8\u30ea\u30c3\u30af\u30b9\u30bf\u30fc",
+            "LocalizedString": "\u30c8\u30ea\u30c3\u30af\u30b9\u30bf\u30fc"
+        }
+    },
+    "BOSS_NAME_CatMage": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_CatMage_TextData",
+            "SourceString": "\u6697\u9ed2\u732b\u9b54\u5c0e\u58eb",
+            "LocalizedString": "\u6697\u9ed2\u732b\u9b54\u5c0e\u58eb"
+        }
+    },
+    "BOSS_NAME_CatVampire": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_CatVampire_TextData",
+            "SourceString": "\u5bb5\u95c7\u306e\u5438\u8840\u9b3c",
+            "LocalizedString": "\u5bb5\u95c7\u306e\u5438\u8840\u9b3c"
+        }
+    },
+    "BOSS_NAME_ChickenPal": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_ChickenPal_TextData",
+            "SourceString": "\u305f\u3063\u3077\u308a\u592a\u3063\u305f",
+            "LocalizedString": "\u305f\u3063\u3077\u308a\u592a\u3063\u305f"
+        }
+    },
+    "BOSS_NAME_ColorfulBird": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_ColorfulBird_TextData",
+            "SourceString": "\u7206\u767a\u3053\u305d\u6211\u304c\u4eba\u751f",
+            "LocalizedString": "\u7206\u767a\u3053\u305d\u6211\u304c\u4eba\u751f"
+        }
+    },
+    "BOSS_NAME_CowPal": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_CowPal_TextData",
+            "SourceString": "A5\u30e9\u30f3\u30af\u306e\u548c\u725b",
+            "LocalizedString": "A5\u30e9\u30f3\u30af\u306e\u548c\u725b"
+        }
+    },
+    "BOSS_NAME_CuteButterfly": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_CuteButterfly_TextData",
+            "SourceString": "\u5922\u898b\u308b\u8776\u306e\u821e",
+            "LocalizedString": "\u5922\u898b\u308b\u8776\u306e\u821e"
+        }
+    },
+    "BOSS_NAME_CuteFox": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_CuteFox_TextData",
+            "SourceString": "\u8349\u539f\u306e\u30a2\u30a4\u30c9\u30eb",
+            "LocalizedString": "\u8349\u539f\u306e\u30a2\u30a4\u30c9\u30eb"
+        }
+    },
+    "BOSS_NAME_CuteMole": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_CuteMole_TextData",
+            "SourceString": "\u5730\u4e2d\u306e\u63a2\u7a76\u8005",
+            "LocalizedString": "\u5730\u4e2d\u306e\u63a2\u7a76\u8005"
+        }
+    },
+    "BOSS_NAME_DarkCrow": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_DarkCrow_TextData",
+            "SourceString": "\u6697\u8e8d\u3059\u308b\u9ed2\u9ce5",
+            "LocalizedString": "\u6697\u8e8d\u3059\u308b\u9ed2\u9ce5"
+        }
+    },
+    "BOSS_NAME_DarkMutant": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_DarkMutant_TextData",
+            "SourceString": "\u7a7a\u9593\u3092\u638c\u63e1\u305b\u3057\u8005",
+            "LocalizedString": "\u7a7a\u9593\u3092\u638c\u63e1\u305b\u3057\u8005"
+        }
+    },
+    "BOSS_NAME_DarkScorpion": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_DarkScorpion_TextData",
+            "SourceString": "\u5168\u3066\u3092\u7a7f\u3064\u69cd",
+            "LocalizedString": "\u5168\u3066\u3092\u7a7f\u3064\u69cd"
+        }
+    },
+    "BOSS_NAME_Deer": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Deer_TextData",
+            "SourceString": "\u7fa4\u308c\u3092\u5b88\u308b\u9577",
+            "LocalizedString": "\u7fa4\u308c\u3092\u5b88\u308b\u9577"
+        }
+    },
+    "BOSS_NAME_Deer_Ground": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Deer_Ground_TextData",
+            "SourceString": "\u9ec4\u91d1\u306e\u89d2",
+            "LocalizedString": "\u9ec4\u91d1\u306e\u89d2"
+        }
+    },
+    "BOSS_NAME_DreamDemon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_DreamDemon_TextData",
+            "SourceString": "\u5922\u55b0\u3044",
+            "LocalizedString": "\u5922\u55b0\u3044"
+        }
+    },
+    "BOSS_NAME_DrillGame": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_DrillGame_TextData",
+            "SourceString": "\u56de\u8ee2\u524a\u5ca9\u6a5f",
+            "LocalizedString": "\u56de\u8ee2\u524a\u5ca9\u6a5f"
+        }
+    },
+    "BOSS_NAME_Eagle": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Eagle_TextData",
+            "SourceString": "\u5b64\u9ad8\u306e\u904b\u3073\u5c4b",
+            "LocalizedString": "\u5b64\u9ad8\u306e\u904b\u3073\u5c4b"
+        }
+    },
+    "BOSS_NAME_ElecCat": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_ElecCat_TextData",
+            "SourceString": "\u3084\u3093\u3061\u3083\u306a\u30c8\u30e9\u30cd\u30b3",
+            "LocalizedString": "\u3084\u3093\u3061\u3083\u306a\u30c8\u30e9\u30cd\u30b3"
+        }
+    },
+    "BOSS_NAME_ElecLion": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_ElecLion_TextData",
+            "SourceString": "\u8fc5\u96f7\u306e\u72e9\u4eba",
+            "LocalizedString": "\u8fc5\u96f7\u306e\u72e9\u4eba"
+        }
+    },
+    "BOSS_NAME_ElecPanda": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_ElecPanda_TextData",
+            "SourceString": "\u96f7\u9cf4\u306e\u53cc\u722a",
+            "LocalizedString": "\u96f7\u9cf4\u306e\u53cc\u722a"
+        }
+    },
+    "BOSS_NAME_FairyDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FairyDragon_TextData",
+            "SourceString": "\u6e29\u539a\u306a\u5929\u7a7a\u7adc",
+            "LocalizedString": "\u6e29\u539a\u306a\u5929\u7a7a\u7adc"
+        }
+    },
+    "BOSS_NAME_FairyDragon_Water": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FairyDragon_Water_TextData",
+            "SourceString": "\u6e26\u6f6e\u306e\u602a\u7269",
+            "LocalizedString": "\u6e26\u6f6e\u306e\u602a\u7269"
+        }
+    },
+    "BOSS_NAME_FeatherOstrich": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FeatherOstrich_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_FengyunDeeper": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FengyunDeeper_TextData",
+            "SourceString": "\u6e38\u96f2",
+            "LocalizedString": "\u6e38\u96f2"
+        }
+    },
+    "BOSS_NAME_FireKirin": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FireKirin_TextData",
+            "SourceString": "\u71b1\u7802\u3092\u99c6\u3051\u308b\u99ff\u99ac",
+            "LocalizedString": "\u71b1\u7802\u3092\u99c6\u3051\u308b\u99ff\u99ac"
+        }
+    },
+    "BOSS_NAME_FireKirin_Dark": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FireKirin_Dark_TextData",
+            "SourceString": "\u95c7\u708e\u306e\u99ff\u99ac",
+            "LocalizedString": "\u95c7\u708e\u306e\u99ff\u99ac"
+        }
+    },
+    "BOSS_NAME_FlameBuffalo": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FlameBuffalo_TextData",
+            "SourceString": "\u71c3\u3048\u76db\u308b\u89d2\u7363",
+            "LocalizedString": "\u71c3\u3048\u76db\u308b\u89d2\u7363"
+        }
+    },
+    "BOSS_NAME_FlowerDinosaur": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FlowerDinosaur_TextData",
+            "SourceString": "\u82b1\u5712\u306e\u5b88\u8b77\u7adc",
+            "LocalizedString": "\u82b1\u5712\u306e\u5b88\u8b77\u7adc"
+        }
+    },
+    "BOSS_NAME_FlowerDinosaur_Electric": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FlowerDinosaur_Electric_TextData",
+            "SourceString": "\u7a32\u59bb\u306e\u5b88\u8b77\u7adc",
+            "LocalizedString": "\u7a32\u59bb\u306e\u5b88\u8b77\u7adc"
+        }
+    },
+    "BOSS_NAME_FlowerDoll": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FlowerDoll_TextData",
+            "SourceString": "\u82b1\u5712\u306e\u59eb\u541b",
+            "LocalizedString": "\u82b1\u5712\u306e\u59eb\u541b"
+        }
+    },
+    "BOSS_NAME_FlowerRabbit": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FlowerRabbit_TextData",
+            "SourceString": "\u82b1\u7551\u306e\u30a2\u30a4\u30c9\u30eb",
+            "LocalizedString": "\u82b1\u7551\u306e\u30a2\u30a4\u30c9\u30eb"
+        }
+    },
+    "BOSS_NAME_FlyingManta": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FlyingManta_TextData",
+            "SourceString": "\u7a7a\u306b\u305f\u3086\u305f\u3046\u9b5a",
+            "LocalizedString": "\u7a7a\u306b\u305f\u3086\u305f\u3046\u9b5a"
+        }
+    },
+    "BOSS_NAME_FoxMage": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FoxMage_TextData",
+            "SourceString": "\u708e\u72d0\u9b54\u5c0e\u58eb",
+            "LocalizedString": "\u708e\u72d0\u9b54\u5c0e\u58eb"
+        }
+    },
+    "BOSS_NAME_Ganesha": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Ganesha_TextData",
+            "SourceString": "\u4fbf\u5229\u306a\u30b8\u30e7\u30a6\u30ed",
+            "LocalizedString": "\u4fbf\u5229\u306a\u30b8\u30e7\u30a6\u30ed"
+        }
+    },
+    "BOSS_NAME_Garm": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Garm_TextData",
+            "SourceString": "\u8349\u539f\u306e\u72e9\u4eba",
+            "LocalizedString": "\u8349\u539f\u306e\u72e9\u4eba"
+        }
+    },
+    "BOSS_NAME_GhostBeast": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_GhostBeast_TextData",
+            "SourceString": "\u51a5\u754c\u306e\u4f7f\u8005",
+            "LocalizedString": "\u51a5\u754c\u306e\u4f7f\u8005"
+        }
+    },
+    "BOSS_NAME_GoldenHorse": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_GoldenHorse_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_Gorilla": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Gorilla_TextData",
+            "SourceString": "\u55a7\u5629\u4e0a\u7b49",
+            "LocalizedString": "\u55a7\u5629\u4e0a\u7b49"
+        }
+    },
+    "BOSS_NAME_GrassDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_GrassDragon_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_GrassMammoth": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_GrassMammoth_TextData",
+            "SourceString": "\u8352\u3076\u308b\u53cc\u7259",
+            "LocalizedString": "\u8352\u3076\u308b\u53cc\u7259"
+        }
+    },
+    "BOSS_NAME_GrassMammoth_Ice": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_GrassMammoth_Ice_TextData",
+            "SourceString": "\u51cd\u3066\u3064\u304f\u53cc\u7259",
+            "LocalizedString": "\u51cd\u3066\u3064\u304f\u53cc\u7259"
+        }
+    },
+    "BOSS_NAME_GrassPanda": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_GrassPanda_TextData",
+            "SourceString": "\u68ee\u306e\u5909\u308f\u308a\u8005",
+            "LocalizedString": "\u68ee\u306e\u5909\u308f\u308a\u8005"
+        }
+    },
+    "BOSS_NAME_GrassPanda_Electric": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_GrassPanda_Electric_TextData",
+            "SourceString": "\u96f7\u3092\u53d7\u3051\u305f\u5909\u308f\u308a\u8005",
+            "LocalizedString": "\u96f7\u3092\u53d7\u3051\u305f\u5909\u308f\u308a\u8005"
+        }
+    },
+    "BOSS_NAME_GrassRabbitMan": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_GrassRabbitMan_TextData",
+            "SourceString": "\u68ee\u3092\u99c6\u3051\u308b\u75be\u98a8",
+            "LocalizedString": "\u68ee\u3092\u99c6\u3051\u308b\u75be\u98a8"
+        }
+    },
+    "BOSS_NAME_GuardianDog": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_GuardianDog_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_HadesBird": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_HadesBird_TextData",
+            "SourceString": "\u51a5\u5e9c\u306e\u7ffc",
+            "LocalizedString": "\u51a5\u5e9c\u306e\u7ffc"
+        }
+    },
+    "BOSS_NAME_HawkBird": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_HawkBird_TextData",
+            "SourceString": "\u5927\u7a7a\u3092\u821e\u3046\u7ffc",
+            "LocalizedString": "\u5927\u7a7a\u3092\u821e\u3046\u7ffc"
+        }
+    },
+    "BOSS_NAME_Hedgehog": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Hedgehog_TextData",
+            "SourceString": "\u89e6\u308b\u3068\u30ad\u30b1\u30f3\uff01",
+            "LocalizedString": "\u89e6\u308b\u3068\u30ad\u30b1\u30f3\uff01"
+        }
+    },
+    "BOSS_NAME_Hedgehog_Ice": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Hedgehog_Ice_TextData",
+            "SourceString": "\u8e0f\u3080\u3068\u30ad\u30b1\u30f3\uff01",
+            "LocalizedString": "\u8e0f\u3080\u3068\u30ad\u30b1\u30f3\uff01"
+        }
+    },
+    "BOSS_NAME_HerculesBeetle": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_HerculesBeetle_TextData",
+            "SourceString": "\u91cd\u93a7\u306e\u95d8\u58eb",
+            "LocalizedString": "\u91cd\u93a7\u306e\u95d8\u58eb"
+        }
+    },
+    "BOSS_NAME_Horus": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Horus_TextData",
+            "SourceString": "\u708e\u7a7a\u306e\u8987\u8005",
+            "LocalizedString": "\u708e\u7a7a\u306e\u8987\u8005"
+        }
+    },
+    "BOSS_NAME_IceDeer": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_IceDeer_TextData",
+            "SourceString": "\u6c37\u96ea\u306e\u89d2\u7363",
+            "LocalizedString": "\u6c37\u96ea\u306e\u89d2\u7363"
+        }
+    },
+    "BOSS_NAME_IceFox": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_IceFox_TextData",
+            "SourceString": "\u51cd\u3066\u3064\u304f\u6c37\u72d0",
+            "LocalizedString": "\u51cd\u3066\u3064\u304f\u6c37\u72d0"
+        }
+    },
+    "BOSS_NAME_IceHorse": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_IceHorse_TextData",
+            "SourceString": "\u4f1d\u8aac\u306e\u6c37\u5929\u99ac",
+            "LocalizedString": "\u4f1d\u8aac\u306e\u6c37\u5929\u99ac"
+        }
+    },
+    "BOSS_NAME_IceHorse_Dark": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_IceHorse_Dark_TextData",
+            "SourceString": "\u4f1d\u8aac\u306e\u95c7\u5929\u99ac",
+            "LocalizedString": "\u4f1d\u8aac\u306e\u95c7\u5929\u99ac"
+        }
+    },
+    "BOSS_NAME_JetDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_JetDragon_TextData",
+            "SourceString": "\u4f1d\u8aac\u306e\u6d41\u661f\u9f8d",
+            "LocalizedString": "\u4f1d\u8aac\u306e\u6d41\u661f\u9f8d"
+        }
+    },
+    "BOSS_NAME_Kelpie": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Kelpie_TextData",
+            "SourceString": "\u6df1\u6d77\u306e\u843d\u3068\u3057\u5b50",
+            "LocalizedString": "\u6df1\u6d77\u306e\u843d\u3068\u3057\u5b50"
+        }
+    },
+    "BOSS_NAME_Kelpie_Fire": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Kelpie_Fire_TextData",
+            "SourceString": "\u6eb6\u5ca9\u306e\u843d\u3068\u3057\u5b50",
+            "LocalizedString": "\u6eb6\u5ca9\u306e\u843d\u3068\u3057\u5b50"
+        }
+    },
+    "BOSS_NAME_KingAlpaca": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_KingAlpaca_TextData",
+            "SourceString": "\u30e2\u30d5\u30e2\u30d5\u306e\u8987\u8005",
+            "LocalizedString": "\u30e2\u30d5\u30e2\u30d5\u306e\u8987\u8005"
+        }
+    },
+    "BOSS_NAME_KingAlpaca_Ice": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_KingAlpaca_Ice_TextData",
+            "SourceString": "\u9752\u30e2\u30d5\u306e\u8987\u8005",
+            "LocalizedString": "\u9752\u30e2\u30d5\u306e\u8987\u8005"
+        }
+    },
+    "BOSS_NAME_KingBahamut": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_KingBahamut_TextData",
+            "SourceString": "\u7149\u7344\u306e\u66b4\u541b",
+            "LocalizedString": "\u7149\u7344\u306e\u66b4\u541b"
+        }
+    },
+    "BOSS_NAME_Kirin": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Kirin_TextData",
+            "SourceString": "\u75be\u98a8\u8fc5\u96f7",
+            "LocalizedString": "\u75be\u98a8\u8fc5\u96f7"
+        }
+    },
+    "BOSS_NAME_Kitsunebi": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Kitsunebi_TextData",
+            "SourceString": "\u65c5\u8def\u3092\u7167\u3089\u3059\u706f",
+            "LocalizedString": "\u65c5\u8def\u3092\u7167\u3089\u3059\u706f"
+        }
+    },
+    "BOSS_NAME_LazyDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_LazyDragon_TextData",
+            "SourceString": "\u66b4\u98df\u7adc",
+            "LocalizedString": "\u66b4\u98df\u7adc"
+        }
+    },
+    "BOSS_NAME_LazyDragon_Electric": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_LazyDragon_Electric_TextData",
+            "SourceString": "\u96f7\u9cf4\u306e\u66b4\u98df\u7adc",
+            "LocalizedString": "\u96f7\u9cf4\u306e\u66b4\u98df\u7adc"
+        }
+    },
+    "BOSS_NAME_LilyQueen": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_LilyQueen_TextData",
+            "SourceString": "\u767e\u5408\u306e\u5973\u5e1d",
+            "LocalizedString": "\u767e\u5408\u306e\u5973\u5e1d"
+        }
+    },
+    "BOSS_NAME_LilyQueen_Dark": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_LilyQueen_Dark_TextData",
+            "SourceString": "\u6df1\u6df5\u306e\u5973\u5e1d",
+            "LocalizedString": "\u6df1\u6df5\u306e\u5973\u5e1d"
+        }
+    },
+    "BOSS_NAME_LittleBriarRose": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_LittleBriarRose_TextData",
+            "SourceString": "\u834a\u68d8\u306e\u83ef",
+            "LocalizedString": "\u834a\u68d8\u306e\u83ef"
+        }
+    },
+    "BOSS_NAME_LizardMan": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_LizardMan_TextData",
+            "SourceString": "\u81ea\u79f0\u5929\u624d\u306e",
+            "LocalizedString": "\u81ea\u79f0\u5929\u624d\u306e"
+        }
+    },
+    "BOSS_NAME_LizardMan_Fire": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_LizardMan_Fire_TextData",
+            "SourceString": "\u81ea\u79f0\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u30ea\u30fc\u30c0\u30fc\u306e",
+            "LocalizedString": "\u81ea\u79f0\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u30ea\u30fc\u30c0\u30fc\u306e"
+        }
+    },
+    "BOSS_NAME_Manticore": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Manticore_TextData",
+            "SourceString": "\u767e\u7114\u306e\u738b",
+            "LocalizedString": "\u767e\u7114\u306e\u738b"
+        }
+    },
+    "BOSS_NAME_Manticore_Dark": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Manticore_Dark_TextData",
+            "SourceString": "\u6697\u7114\u306e\u738b",
+            "LocalizedString": "\u6697\u7114\u306e\u738b"
+        }
+    },
+    "BOSS_NAME_Monkey": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Monkey_TextData",
+            "SourceString": "\u5668\u7528\u306a\u6307\u5148",
+            "LocalizedString": "\u5668\u7528\u306a\u6307\u5148"
+        }
+    },
+    "BOSS_NAME_MopBaby": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_MopBaby_TextData",
+            "SourceString": "\u8b0e\u306e\u30e2\u30d5\u30e2\u30d5",
+            "LocalizedString": "\u8b0e\u306e\u30e2\u30d5\u30e2\u30d5"
+        }
+    },
+    "BOSS_NAME_MopKing": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_MopKing_TextData",
+            "SourceString": "\u8b0e\u306e\u30e2\u30d5\u30e2\u30d5\u738b",
+            "LocalizedString": "\u8b0e\u306e\u30e2\u30d5\u30e2\u30d5\u738b"
+        }
+    },
+    "BOSS_NAME_Mutant": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Mutant_TextData",
+            "SourceString": "\u5b87\u5b99\u304b\u3089\u6765\u305f",
+            "LocalizedString": "\u5b87\u5b99\u304b\u3089\u6765\u305f"
+        }
+    },
+    "BOSS_NAME_NaughtyCat": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_NaughtyCat_TextData",
+            "SourceString": "\u30de\u30b7\u30e5\u30de\u30ed\u4f53\u578b\u306e",
+            "LocalizedString": "\u30de\u30b7\u30e5\u30de\u30ed\u4f53\u578b\u306e"
+        }
+    },
+    "BOSS_NAME_NegativeKoala": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_NegativeKoala_TextData",
+            "SourceString": "\u4e09\u5fb9\u660e\u3051\u306e",
+            "LocalizedString": "\u4e09\u5fb9\u660e\u3051\u306e"
+        }
+    },
+    "BOSS_NAME_NegativeOctopus": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_NegativeOctopus_TextData",
+            "SourceString": "\u4f55\u306e\u611f\u60c5\u3082\u6301\u305f\u306a\u3044",
+            "LocalizedString": "\u4f55\u306e\u611f\u60c5\u3082\u6301\u305f\u306a\u3044"
+        }
+    },
+    "BOSS_NAME_NightFox": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_NightFox_TextData",
+            "SourceString": "\u591c\u306e\u8cb4\u516c\u5b50",
+            "LocalizedString": "\u591c\u306e\u8cb4\u516c\u5b50"
+        }
+    },
+    "BOSS_NAME_Penguin": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Penguin_TextData",
+            "SourceString": "\u98df\u3079\u904e\u304e\u305f",
+            "LocalizedString": "\u98df\u3079\u904e\u304e\u305f"
+        }
+    },
+    "BOSS_NAME_PinkCat": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_PinkCat_TextData",
+            "SourceString": "\u3081\u3063\u3061\u3083\u30a4\u30ad\u3063\u3066\u308b",
+            "LocalizedString": "\u3081\u3063\u3061\u3083\u30a4\u30ad\u3063\u3066\u308b"
+        }
+    },
+    "BOSS_NAME_PinkKangaroo": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_PinkKangaroo_TextData",
+            "SourceString": "\u8349\u539f\u306e\u652f\u914d\u8005",
+            "LocalizedString": "\u8349\u539f\u306e\u652f\u914d\u8005"
+        }
+    },
+    "BOSS_NAME_PinkLizard": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_PinkLizard_TextData",
+            "SourceString": "\u611b\u3092\u8caa\u308b\u30d1\u30eb",
+            "LocalizedString": "\u611b\u3092\u8caa\u308b\u30d1\u30eb"
+        }
+    },
+    "BOSS_NAME_PinkRabbit": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_PinkRabbit_TextData",
+            "SourceString": "\u30ad\u30e9\u30ad\u30e9\u30b9\u30de\u30a4\u30eb",
+            "LocalizedString": "\u30ad\u30e9\u30ad\u30e9\u30b9\u30de\u30a4\u30eb"
+        }
+    },
+    "BOSS_NAME_PlantSlime": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_PlantSlime_TextData",
+            "SourceString": "\u7a81\u7136\u5909\u7570\u3057\u305f",
+            "LocalizedString": "\u7a81\u7136\u5909\u7570\u3057\u305f"
+        }
+    },
+    "BOSS_NAME_QueenBee": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_QueenBee_TextData",
+            "SourceString": "\u5927\u8ecd\u306e\u5973\u738b",
+            "LocalizedString": "\u5927\u8ecd\u306e\u5973\u738b"
+        }
+    },
+    "BOSS_NAME_RaijinDaughter": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_RaijinDaughter_TextData",
+            "SourceString": "\u96f7\u96f2\u306e\u672b\u88d4",
+            "LocalizedString": "\u96f7\u96f2\u306e\u672b\u88d4"
+        }
+    },
+    "BOSS_NAME_RedArmorBird": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_RedArmorBird_TextData",
+            "SourceString": "\u8c6a\u708e\u306e\u7ffc",
+            "LocalizedString": "\u8c6a\u708e\u306e\u7ffc"
+        }
+    },
+    "BOSS_NAME_RobinHood": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_RobinHood_TextData",
+            "SourceString": "\u68ee\u6797\u306e\u5f13\u4f7f\u3044",
+            "LocalizedString": "\u68ee\u6797\u306e\u5f13\u4f7f\u3044"
+        }
+    },
+    "BOSS_NAME_RobinHood_Ground": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_RobinHood_Ground_TextData",
+            "SourceString": "\u7802\u6f20\u306e\u5f13\u4f7f\u3044",
+            "LocalizedString": "\u7802\u6f20\u306e\u5f13\u4f7f\u3044"
+        }
+    },
+    "BOSS_NAME_Ronin": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Ronin_TextData",
+            "SourceString": "\u6d41\u6d6a\u306e\u4f8d",
+            "LocalizedString": "\u6d41\u6d6a\u306e\u4f8d"
+        }
+    },
+    "BOSS_NAME_SaintCentaur": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_SaintCentaur_TextData",
+            "SourceString": "\u4f1d\u8aac\u306e\u8056\u9a0e\u58eb",
+            "LocalizedString": "\u4f1d\u8aac\u306e\u8056\u9a0e\u58eb"
+        }
+    },
+    "BOSS_NAME_SakuraSaurus": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_SakuraSaurus_TextData",
+            "SourceString": "\u6625\u3092\u544a\u3052\u308b\u98a8",
+            "LocalizedString": "\u6625\u3092\u544a\u3052\u308b\u98a8"
+        }
+    },
+    "BOSS_NAME_SakuraSaurus_Water": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_SakuraSaurus_Water_TextData",
+            "SourceString": "\u590f\u3092\u544a\u3052\u308b\u6ce2",
+            "LocalizedString": "\u590f\u3092\u544a\u3052\u308b\u6ce2"
+        }
+    },
+    "BOSS_NAME_ScorpionMan": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_ScorpionMan_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_Serpent": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Serpent_TextData",
+            "SourceString": "\u6f6e\u9a12\u306e\u5316\u8eab",
+            "LocalizedString": "\u6f6e\u9a12\u306e\u5316\u8eab"
+        }
+    },
+    "BOSS_NAME_Serpent_Ground": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Serpent_Ground_TextData",
+            "SourceString": "\u7802\u5875\u306e\u5316\u8eab",
+            "LocalizedString": "\u7802\u5875\u306e\u5316\u8eab"
+        }
+    },
+    "BOSS_NAME_SkyDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_SkyDragon_TextData",
+            "SourceString": "\u7d14\u767d\u306e\u98db\u7fd4\u8005",
+            "LocalizedString": "\u7d14\u767d\u306e\u98db\u7fd4\u8005"
+        }
+    },
+    "BOSS_NAME_SharkKid": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_SharkKid_TextData",
+            "SourceString": "\u6d77\u306e\u66b4\u308c\u3093\u574a",
+            "LocalizedString": "\u6d77\u306e\u66b4\u308c\u3093\u574a"
+        }
+    },
+    "BOSS_NAME_SharkKid_Fire": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_SharkKid_Fire_TextData",
+            "SourceString": "\u706b\u5c71\u306e\u66b4\u308c\u3093\u574a",
+            "LocalizedString": "\u706b\u5c71\u306e\u66b4\u308c\u3093\u574a"
+        }
+    },
+    "BOSS_NAME_SheepBall": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_SheepBall_TextData",
+            "SourceString": "\u3067\u3063\u304b\u3044\u3082\u3053\u3082\u3053",
+            "LocalizedString": "\u3067\u3063\u304b\u3044\u3082\u3053\u3082\u3053"
+        }
+    },
+    "BOSS_NAME_SifuDog": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_SifuDog_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_SoldierBee": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_SoldierBee_TextData",
+            "SourceString": "\u5b88\u885b\u968a\u9577",
+            "LocalizedString": "\u5b88\u885b\u968a\u9577"
+        }
+    },
+    "BOSS_NAME_Suzaku": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Suzaku_TextData",
+            "SourceString": "\u5929\u7a7a\u306e\u738b\u8005",
+            "LocalizedString": "\u5929\u7a7a\u306e\u738b\u8005"
+        }
+    },
+    "BOSS_NAME_Suzaku_Water": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Suzaku_Water_TextData",
+            "SourceString": "\u5929\u7a7a\u306e\u84bc\u738b",
+            "LocalizedString": "\u5929\u7a7a\u306e\u84bc\u738b"
+        }
+    },
+    "BOSS_NAME_SweetsSheep": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_SweetsSheep_TextData",
+            "SourceString": "\u7279\u5927\u308f\u305f\u3042\u3081",
+            "LocalizedString": "\u7279\u5927\u308f\u305f\u3042\u3081"
+        }
+    },
+    "BOSS_NAME_TentacleTurtle": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_TentacleTurtle_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_ThunderBird": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_ThunderBird_TextData",
+            "SourceString": "\u96f7\u9706\u306e\u7ffc",
+            "LocalizedString": "\u96f7\u9706\u306e\u7ffc"
+        }
+    },
+    "BOSS_NAME_ThunderDog": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_ThunderDog_TextData",
+            "SourceString": "\u96f7\u8fc5\u306e\u8d70\u8005",
+            "LocalizedString": "\u96f7\u8fc5\u306e\u8d70\u8005"
+        }
+    },
+    "BOSS_NAME_ThunderDragonMan": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_ThunderDragonMan_TextData",
+            "SourceString": "\u75be\u8d70\u3059\u308b\u8f5f\u96f7",
+            "LocalizedString": "\u75be\u8d70\u3059\u308b\u8f5f\u96f7"
+        }
+    },
+    "BOSS_NAME_Umihebi": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Umihebi_TextData",
+            "SourceString": "\u6d77\u4e0a\u306e\u8987\u8005",
+            "LocalizedString": "\u6d77\u4e0a\u306e\u8987\u8005"
+        }
+    },
+    "BOSS_NAME_Umihebi_Fire": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Umihebi_Fire_TextData",
+            "SourceString": "\u706b\u5c71\u306e\u8987\u8005",
+            "LocalizedString": "\u706b\u5c71\u306e\u8987\u8005"
+        }
+    },
+    "BOSS_NAME_VioletFairy": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_VioletFairy_TextData",
+            "SourceString": "\u7d2b\u7d3a\u306e\u5e7b\u8349",
+            "LocalizedString": "\u7d2b\u7d3a\u306e\u5e7b\u8349"
+        }
+    },
+    "BOSS_NAME_VolcanicMonster": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_VolcanicMonster_TextData",
+            "SourceString": "\u6eb6\u5ca9\u3092\u8caa\u308b\u7363",
+            "LocalizedString": "\u6eb6\u5ca9\u3092\u8caa\u308b\u7363"
+        }
+    },
+    "BOSS_NAME_VolcanicMonster_Ice": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_VolcanicMonster_Ice_TextData",
+            "SourceString": "\u7815\u6c37\u3092\u8caa\u308b\u7363",
+            "LocalizedString": "\u7815\u6c37\u3092\u8caa\u308b\u7363"
+        }
+    },
+    "BOSS_NAME_WaterLizard": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_WaterLizard_TextData",
+            "SourceString": "\u8349\u539f\u306e\u652f\u914d\u8005",
+            "LocalizedString": "\u8349\u539f\u306e\u652f\u914d\u8005"
+        }
+    },
+    "BOSS_NAME_WeaselDragon": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_WeaselDragon_TextData",
+            "SourceString": "\u8349\u539f\u306e\u8e0a\u308a\u5b50",
+            "LocalizedString": "\u8349\u539f\u306e\u8e0a\u308a\u5b50"
+        }
+    },
+    "BOSS_NAME_Werewolf": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Werewolf_TextData",
+            "SourceString": "\u6708\u5149\u306b\u63fa\u3089\u3050",
+            "LocalizedString": "\u6708\u5149\u306b\u63fa\u3089\u3050"
+        }
+    },
+    "BOSS_NAME_WhiteMoth": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_WhiteMoth_TextData",
+            "SourceString": "\u7d14\u767d\u306e\u8cb4\u5a66\u4eba",
+            "LocalizedString": "\u7d14\u767d\u306e\u8cb4\u5a66\u4eba"
+        }
+    },
+    "BOSS_NAME_WhiteTiger": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_WhiteTiger_TextData",
+            "SourceString": "\u96ea\u5c71\u306e\u6355\u98df\u8005",
+            "LocalizedString": "\u96ea\u5c71\u306e\u6355\u98df\u8005"
+        }
+    },
+    "BOSS_NAME_WindChimes": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_WindChimes_TextData",
+            "SourceString": "\u5e78\u904b\u306e\u904b\u3073\u624b",
+            "LocalizedString": "\u5e78\u904b\u306e\u904b\u3073\u624b"
+        }
+    },
+    "BOSS_NAME_WindChimes_Ice": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_WindChimes_Ice_TextData",
+            "SourceString": "\u6c37\u6cb3\u306e\u904b\u3073\u624b",
+            "LocalizedString": "\u6c37\u6cb3\u306e\u904b\u3073\u624b"
+        }
+    },
+    "BOSS_NAME_WingGolem": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_WingGolem_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "BOSS_NAME_WizardOwl": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_WizardOwl_TextData",
+            "SourceString": "\u53e1\u667a\u306e\u4f1d\u9053\u8005",
+            "LocalizedString": "\u53e1\u667a\u306e\u4f1d\u9053\u8005"
+        }
+    },
+    "BOSS_NAME_Yeti": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Yeti_TextData",
+            "SourceString": "\u96ea\u539f\u306e\u5de8\u4eba",
+            "LocalizedString": "\u96ea\u539f\u306e\u5de8\u4eba"
+        }
+    },
+    "BOSS_NAME_Yeti_Grass": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_Yeti_Grass_TextData",
+            "SourceString": "\u5357\u56fd\u306e\u5de8\u4eba",
+            "LocalizedString": "\u5357\u56fd\u306e\u5de8\u4eba"
+        }
+    },
+    "BOSS_NAME_WoolFox": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_WoolFox_TextData",
+            "SourceString": "\u611b\u3059\u3079\u304d\u3075\u308f\u30e2\u30d5",
+            "LocalizedString": "\u611b\u3059\u3079\u304d\u3075\u308f\u30e2\u30d5"
+        }
+    },
+    "BOSS_NAME_LazyCatfish": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_LazyCatfish_TextData",
+            "SourceString": "\u660e\u65e5\u304b\u3089\u672c\u6c17\u51fa\u3059",
+            "LocalizedString": "\u660e\u65e5\u304b\u3089\u672c\u6c17\u51fa\u3059"
+        }
+    },
+    "GYM_NAME_Meadow": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "GYM_NAME_Meadow_TextData",
+            "SourceString": "\u30ec\u30a4\u30f3\u5bc6\u731f\u56e3\u306e\u5e79\u90e8",
+            "LocalizedString": "\u30ec\u30a4\u30f3\u5bc6\u731f\u56e3\u306e\u5e79\u90e8"
+        }
+    },
+    "GYM_NAME_Forest": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "GYM_NAME_Forest_TextData",
+            "SourceString": "\u30d1\u30eb\u611b\u8b77\u56e3\u4f53 \u5275\u59cb\u8005",
+            "LocalizedString": "\u30d1\u30eb\u611b\u8b77\u56e3\u4f53 \u5275\u59cb\u8005"
+        }
+    },
+    "GYM_NAME_Desert": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "GYM_NAME_Desert_TextData",
+            "SourceString": "\u30d1\u30eb\u30d1\u30b4\u30b9\u5cf6\u81ea\u8b66\u56e3\u306e\u5e79\u90e8",
+            "LocalizedString": "\u30d1\u30eb\u30d1\u30b4\u30b9\u5cf6\u81ea\u8b66\u56e3\u306e\u5e79\u90e8"
+        }
+    },
+    "GYM_NAME_Volcano": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "GYM_NAME_Volcano_TextData",
+            "SourceString": "\u6c38\u708e\u306e\u540c\u5fd7 \u30bd\u30a6\u30eb\u30ea\u30fc\u30c0\u30fc",
+            "LocalizedString": "\u6c38\u708e\u306e\u540c\u5fd7 \u30bd\u30a6\u30eb\u30ea\u30fc\u30c0\u30fc"
+        }
+    },
+    "GYM_NAME_Snow": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "GYM_NAME_Snow_TextData",
+            "SourceString": "\u30d1\u30eb\u907a\u4f1d\u5b50\u7814\u7a76\u90e8\u968a \u968a\u9577",
+            "LocalizedString": "\u30d1\u30eb\u907a\u4f1d\u5b50\u7814\u7a76\u90e8\u968a \u968a\u9577"
+        }
+    },
+    "BOSS_NAME_LavaGirl": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_LavaGirl_TextData",
+            "SourceString": "\u6eb6\u5ca9\u5a18",
+            "LocalizedString": "\u6eb6\u5ca9\u5a18"
+        }
+    },
+    "BOSS_NAME_FlameBambi": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_FlameBambi_TextData",
+            "SourceString": "\u7fa4\u308c\u306e\u89aa\u7389",
+            "LocalizedString": "\u7fa4\u308c\u306e\u89aa\u7389"
+        }
+    }
+}

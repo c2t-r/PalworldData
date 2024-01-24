@@ -1,0 +1,470 @@
+{
+    "Test000": {
+        "UniqueNPCID": "Unique002",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "NoCombat,IsLive",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "OneTalk",
+        "IncidentArgs2": "TestAssassin"
+    },
+    "Test001": {
+        "UniqueNPCID": "Johnson",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Johnson"
+    },
+    "Test002": {
+        "UniqueNPCID": "None",
+        "CharacterID": "SalesPerson",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "SalesPerson"
+    },
+    "Test003": {
+        "UniqueNPCID": "None",
+        "CharacterID": "Police_HandGun",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "HasItems (\"Egg\",\"Stone\") 2",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "Police_HandGun"
+    },
+    "Test004": {
+        "UniqueNPCID": "None",
+        "CharacterID": "PalDealer",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "PalDealer"
+    },
+    "Test005": {
+        "UniqueNPCID": "NOVICEPALTIMER",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "NOVICEPALTIMER"
+    },
+    "Test006": {
+        "UniqueNPCID": "SKILLED_PALTAMIER",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "SKILLED_PALTAMIER"
+    },
+    "Test007": {
+        "UniqueNPCID": "Vigilante_lackey",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Vigilante_lackey"
+    },
+    "Test007_0": {
+        "UniqueNPCID": "Head_of_Village",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Head_of_Village"
+    },
+    "Test007_1": {
+        "UniqueNPCID": "Police_dependable",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Police_dependable"
+    },
+    "Test007_2": {
+        "UniqueNPCID": "Shabby-looking_merchant",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Shabby-looking_merchant"
+    },
+    "Test007_3": {
+        "UniqueNPCID": "InnkeeperA",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "InnkeeperA"
+    },
+    "Test007_4": {
+        "UniqueNPCID": "Rumor-loving_villagers",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Rumor-loving_villagers"
+    },
+    "Test007_5": {
+        "UniqueNPCID": "Research-oriented_scholar",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Research-oriented_scholar"
+    },
+    "Test007_6": {
+        "UniqueNPCID": "People_cant_leave",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "People_cant_leave"
+    },
+    "Test007_7": {
+        "UniqueNPCID": "Sweaty_paltimer",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Sweaty_paltimer"
+    },
+    "TtestVisitorHunter": {
+        "UniqueNPCID": "None",
+        "CharacterID": "Visitor_Hunter_Rifle",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "OneTalk",
+        "IncidentArgs2": "Visitor_Hunter_Rifle"
+    },
+    "TestVisitorPresent": {
+        "UniqueNPCID": "None",
+        "CharacterID": "Visitor_Present",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "OneTalk",
+        "IncidentArgs2": "Visitor_Present"
+    },
+    "Unique003_Gift": {
+        "UniqueNPCID": "Unique003_Gift",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Unique003_Gift"
+    },
+    "Talk_Bobby": {
+        "UniqueNPCID": "Bobby",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Bobby"
+    },
+    "Talk_VillageLeader01": {
+        "UniqueNPCID": "VillageLeader01",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "VillageLeader01"
+    },
+    "Talk_Shabby_looking_merchant": {
+        "UniqueNPCID": "Shabby_looking_merchant",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Shabby_looking_merchant"
+    },
+    "Talk_DarkTrader": {
+        "UniqueNPCID": "DarkTrader",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "DarkTrader"
+    },
+    "DesertVillage001": {
+        "UniqueNPCID": "DesertVillage001",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "DesertVillage001"
+    },
+    "DesertVillage002": {
+        "UniqueNPCID": "DesertVillage002",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "DesertVillage002"
+    },
+    "DesertVillage003": {
+        "UniqueNPCID": "DesertVillage003",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "DesertVillage003"
+    },
+    "DesertPolice001": {
+        "UniqueNPCID": "DesertPolice001",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "DesertPolice001"
+    },
+    "DesertPolice002": {
+        "UniqueNPCID": "DesertPolice002",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "DesertPolice002"
+    },
+    "DesertPolice003": {
+        "UniqueNPCID": "DesertPolice003",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "DesertPolice003"
+    },
+    "Police001": {
+        "UniqueNPCID": "Police001",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "Police001"
+    },
+    "SalesPerson_Desert": {
+        "UniqueNPCID": "None",
+        "CharacterID": "SalesPerson_Desert",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "SalesPerson"
+    },
+    "PalDealer_Desert": {
+        "UniqueNPCID": "None",
+        "CharacterID": "PalDealer_Desert",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "PalDealer"
+    },
+    "VolcanoVillage001": {
+        "UniqueNPCID": "VolcanoVillage001",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "VolcanoVillage001"
+    },
+    "VolcanoVillage002": {
+        "UniqueNPCID": "VolcanoVillage002",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "VolcanoVillage002"
+    },
+    "VolcanoVillage003": {
+        "UniqueNPCID": "VolcanoVillage003",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "VolcanoVillage003"
+    },
+    "VolcanoVillage004": {
+        "UniqueNPCID": "VolcanoVillage004",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "VolcanoVillage004"
+    },
+    "VolcanoPolice001": {
+        "UniqueNPCID": "VolcanoPolice001",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "VolcanoPolice001"
+    },
+    "VolcanoPolice002": {
+        "UniqueNPCID": "VolcanoPolice002",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "VolcanoPolice002"
+    },
+    "SalesPerson_Volcano": {
+        "UniqueNPCID": "None",
+        "CharacterID": "SalesPerson_Volcano",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "SalesPerson"
+    },
+    "PalDealer_Volcano": {
+        "UniqueNPCID": "None",
+        "CharacterID": "PalDealer_Volcano",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "PalDealer"
+    },
+    "SalesPerson_Wander": {
+        "UniqueNPCID": "None",
+        "CharacterID": "SalesPerson_Wander",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "SalesPerson"
+    },
+    "RandomBattle_PalTamer": {
+        "UniqueNPCID": "RandomBattle_PalTamer",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "RandomBattle_PalTamer"
+    },
+    "RandomBattle_Police": {
+        "UniqueNPCID": "RandomBattle_Police",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "RandomBattle_Police"
+    },
+    "PalDealer_RandomEvent": {
+        "UniqueNPCID": "None",
+        "CharacterID": "RandomEventShop",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "RandomEventShop"
+    },
+    "PvPVillage001": {
+        "UniqueNPCID": "PvPVillage001",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "PvPVillage001"
+    },
+    "PvPVillage002": {
+        "UniqueNPCID": "PvPVillage002",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "PvPVillage002"
+    },
+    "PvPVillage003": {
+        "UniqueNPCID": "PvPVillage003",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "PvPVillage003"
+    },
+    "PvPVillage004": {
+        "UniqueNPCID": "PvPVillage004",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "PvPVillage004"
+    },
+    "PvPVillage005": {
+        "UniqueNPCID": "PvPVillage005",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "PvPVillage005"
+    },
+    "PvPVillage006": {
+        "UniqueNPCID": "PvPVillage006",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "PvPVillage006"
+    },
+    "SalesPerson_Desert_2": {
+        "UniqueNPCID": "None",
+        "CharacterID": "SalesPerson_Desert2",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "SalesPerson"
+    },
+    "SalesPerson_Volcano_2": {
+        "UniqueNPCID": "None",
+        "CharacterID": "SalesPerson_Volcano2",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "CharacterTalk",
+        "IncidentArgs2": "SalesPerson"
+    }
+}

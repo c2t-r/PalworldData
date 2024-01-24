@@ -1,0 +1,301 @@
+{
+    "ITEM1": {
+        "MsgId": "TUTORIAL_ITEM_1",
+        "Type": "EPalTutorialTriggerType::AddItem",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::GetItem",
+        "ConditionObjectIds": [
+            "Wood"
+        ],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "ITEM2": {
+        "MsgId": "TUTORIAL_ITEM_2",
+        "Type": "EPalTutorialTriggerType::AddItem",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::GetItem",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "SPWeaponCaptureBall",
+        "ConditionValue": 0.0
+    },
+    "ITEM3": {
+        "MsgId": "TUTORIAL_ITEM_3",
+        "Type": "EPalTutorialTriggerType::AddItem",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::MeetBuildRequirement",
+        "ConditionObjectIds": [
+            "PalBoxV2"
+        ],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "ITEM4": {
+        "MsgId": "TUTORIAL_ITEM_4",
+        "Type": "EPalTutorialTriggerType::AddItem",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::GetItem",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "ConsumeWazaMachine",
+        "ConditionValue": 0.0
+    },
+    "ITEM5": {
+        "MsgId": "TUTORIAL_ITEM_5",
+        "Type": "EPalTutorialTriggerType::AddItem",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::GetItem",
+        "ConditionObjectIds": [
+            "Relic"
+        ],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "ITEM6": {
+        "MsgId": "TUTORIAL_ITEM_6",
+        "Type": "EPalTutorialTriggerType::AddItem",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::GetItem",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "Glider",
+        "ConditionValue": 0.0
+    },
+    "ITEM7": {
+        "MsgId": "TUTORIAL_ITEM_7",
+        "Type": "EPalTutorialTriggerType::AddItem",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::GetItem",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "MaterialPalEgg",
+        "ConditionValue": 0.0
+    },
+    "INDI1": {
+        "MsgId": "TUTORIAL_INDIVIDUAL_1",
+        "Type": "EPalTutorialTriggerType::IndividualParam",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::LevelUp",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "INDI2": {
+        "MsgId": "TUTORIAL_INDIVIDUAL_2",
+        "Type": "EPalTutorialTriggerType::IndividualParam",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::LevelUp",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "INDI3": {
+        "MsgId": "TUTORIAL_INDIVIDUAL_3",
+        "Type": "EPalTutorialTriggerType::IndividualParam",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::Hunger",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "INDI4": {
+        "MsgId": "TUTORIAL_INDIVIDUAL_4",
+        "Type": "EPalTutorialTriggerType::IndividualParam",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::PalHunger",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "INDI5": {
+        "MsgId": "TUTORIAL_INDIVIDUAL_5",
+        "Type": "EPalTutorialTriggerType::IndividualParam",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::SAN",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "INDI6": {
+        "MsgId": "TUTORIAL_INDIVIDUAL_6",
+        "Type": "EPalTutorialTriggerType::IndividualParam",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::Sick",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "INDI7": {
+        "MsgId": "TUTORIAL_INDIVIDUAL_7",
+        "Type": "EPalTutorialTriggerType::IndividualParam",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::SkipWork",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "RESPAWN1": {
+        "MsgId": "TUTORIAL_RESPAWN_1",
+        "Type": "EPalTutorialTriggerType::PlayerDeath",
+        "MultiTrigger": true,
+        "ConditionType": "EPalTutorialTriggerConditionType::None",
+        "ConditionObjectIds": [
+            "PointBaseCamp"
+        ],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "RESPAWN2": {
+        "MsgId": "TUTORIAL_RESPAWN_2",
+        "Type": "EPalTutorialTriggerType::PlayerDeath",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::None",
+        "ConditionObjectIds": [
+            "DroppedCharacter",
+            "DroppedChest"
+        ],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "CAPTURE1": {
+        "MsgId": "TUTORIAL_CAPTURE_1",
+        "Type": "EPalTutorialTriggerType::Capture",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::CaptureFail",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "CAPTURE2": {
+        "MsgId": "TUTORIAL_CAPTURE_2",
+        "Type": "EPalTutorialTriggerType::Capture",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::None",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "CAPTURE3": {
+        "MsgId": "TUTORIAL_CAPTURE_3",
+        "Type": "EPalTutorialTriggerType::Capture",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::NewPal",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 3.0
+    },
+    "CAPTURE4": {
+        "MsgId": "TUTORIAL_CAPTURE_4",
+        "Type": "EPalTutorialTriggerType::Capture",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::SamePal",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 3.0
+    },
+    "CAPTURE5": {
+        "MsgId": "TUTORIAL_CAPTURE_5",
+        "Type": "EPalTutorialTriggerType::Capture",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::PalCount",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 4.0
+    },
+    "CAPTURE6": {
+        "MsgId": "TUTORIAL_CAPTURE_6",
+        "Type": "EPalTutorialTriggerType::Capture",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::RarePal",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "CAPTURE7": {
+        "MsgId": "TUTORIAL_CAPTURE_7",
+        "Type": "EPalTutorialTriggerType::Capture",
+        "MultiTrigger": true,
+        "ConditionType": "EPalTutorialTriggerConditionType::PalCount",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 5.0
+    },
+    "CAPTURE8": {
+        "MsgId": "TUTORIAL_CAPTURE_8",
+        "Type": "EPalTutorialTriggerType::Capture",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::HighLevel",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "COMMON1": {
+        "MsgId": "TUTORIAL_COMMON_1",
+        "Type": "EPalTutorialTriggerType::Common",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::OverWeight",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "COMMON2": {
+        "MsgId": "TUTORIAL_COMMON_2",
+        "Type": "EPalTutorialTriggerType::Common",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::Night",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "COMMON3": {
+        "MsgId": "TUTORIAL_COMMON_3",
+        "Type": "EPalTutorialTriggerType::Common",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::PalDeath",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "COMMON4": {
+        "MsgId": "TUTORIAL_COMMON_4",
+        "Type": "EPalTutorialTriggerType::Common",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::SummonCampPal",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "COMMON5": {
+        "MsgId": "TUTORIAL_COMMON_5",
+        "Type": "EPalTutorialTriggerType::Common",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::BuildAppointment",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "COMMON6": {
+        "MsgId": "TUTORIAL_COMMON_6",
+        "Type": "EPalTutorialTriggerType::Common",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::LearnSkill",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "COMMON7": {
+        "MsgId": "TUTORIAL_COMMON_7",
+        "Type": "EPalTutorialTriggerType::Common",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::AttackNoWeapon",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    },
+    "COMMON8": {
+        "MsgId": "TUTORIAL_COMMON_8",
+        "Type": "EPalTutorialTriggerType::Common",
+        "MultiTrigger": false,
+        "ConditionType": "EPalTutorialTriggerConditionType::ObtainNote",
+        "ConditionObjectIds": [],
+        "ConditionCategoryName": "None",
+        "ConditionValue": 0.0
+    }
+}

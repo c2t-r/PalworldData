@@ -1,0 +1,78 @@
+{
+    "TestTable_1": {
+        "lotteryDataArray": [
+            {
+                "ShopGroupName": "Vagrant_Trader_1_1",
+                "Weight": 100
+            },
+            {
+                "ShopGroupName": "Vagrant_Trader_1_2",
+                "Weight": 50
+            },
+            {
+                "ShopGroupName": "Vagrant_Trader_1_3",
+                "Weight": 50
+            }
+        ]
+    },
+    "TestTable_2": {
+        "lotteryDataArray": [
+            {
+                "ShopGroupName": "Village_Shop_1",
+                "Weight": 100
+            }
+        ]
+    },
+    "TestTable_3": {
+        "lotteryDataArray": [
+            {
+                "ShopGroupName": "TestShop_2",
+                "Weight": 25
+            },
+            {
+                "ShopGroupName": "TestShop_3",
+                "Weight": 50
+            }
+        ]
+    },
+    "DesertShopTable": {
+        "lotteryDataArray": [
+            {
+                "ShopGroupName": "Desert_Shop_1",
+                "Weight": 100
+            }
+        ]
+    },
+    "VolcanoShopTable": {
+        "lotteryDataArray": [
+            {
+                "ShopGroupName": "Volcano_Shop_1",
+                "Weight": 100
+            }
+        ]
+    },
+    "WanderShopTable": {
+        "lotteryDataArray": [
+            {
+                "ShopGroupName": "Wander_Shop_1",
+                "Weight": 100
+            }
+        ]
+    },
+    "DesertShopTable2": {
+        "lotteryDataArray": [
+            {
+                "ShopGroupName": "Desert_Shop_2",
+                "Weight": 100
+            }
+        ]
+    },
+    "VolcanoShopTable2": {
+        "lotteryDataArray": [
+            {
+                "ShopGroupName": "Volcano_Shop_2",
+                "Weight": 100
+            }
+        ]
+    }
+}

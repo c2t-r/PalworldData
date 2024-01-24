@@ -1,0 +1,87 @@
+{
+    "PresetType": "EPalFoliagePresetType::NormalTree_L",
+    "Mesh": {
+        "ObjectName": "StaticMesh'Spruce_Norway_Desktop_3_Forest_001'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Mesh/Snow/Spruce_Norway_Desktop_3_Forest_001.2"
+    },
+    "ComponentClass": {
+        "ObjectName": "Class'PalFoliageISMComponentBase'",
+        "ObjectPath": "/Script/Pal"
+    },
+    "UpdateGuid": "C9541B53-403BC728-EA458BA8-D3FF9361",
+    "ScaleX": {
+        "Min": 0.85,
+        "Max": 1.2
+    },
+    "ZOffset": {
+        "Min": -80.0
+    },
+    "AlignToNormal": false,
+    "AverageNormalSingleComponent": false,
+    "GroundSlopeAngle": {
+        "Max": 77.0
+    },
+    "MeshBounds": {
+        "Origin": {
+            "X": 6.136612,
+            "Y": 9.594063,
+            "Z": 692.6909
+        },
+        "BoxExtent": {
+            "X": 248.93842,
+            "Y": 254.49521,
+            "Z": 735.3949
+        },
+        "SphereRadius": 735.9772277052425
+    },
+    "LowBoundOriginRadius": {
+        "X": 4.2548885,
+        "Y": -8.868397,
+        "Z": 50.637142
+    },
+    "bAffectDistanceFieldLighting": true,
+    "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics",
+        "CollisionProfileName": "Background",
+        "CollisionResponses": {
+            "ResponseArray": [
+                {
+                    "Channel": "Attack",
+                    "Response": "ECollisionResponse::ECR_Block"
+                },
+                {
+                    "Channel": "SystemVolume",
+                    "Response": "ECollisionResponse::ECR_Ignore"
+                },
+                {
+                    "Channel": "LiftedupPawn",
+                    "Response": "ECollisionResponse::ECR_Block"
+                },
+                {
+                    "Channel": "AISightRayCast",
+                    "Response": "ECollisionResponse::ECR_Block"
+                },
+                {
+                    "Channel": "vsGroundRayCast",
+                    "Response": "ECollisionResponse::ECR_Block"
+                },
+                {
+                    "Channel": "ClimbRayCast",
+                    "Response": "ECollisionResponse::ECR_Block"
+                },
+                {
+                    "Channel": "RollingRayCast",
+                    "Response": "ECollisionResponse::ECR_Block"
+                }
+            ]
+        }
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

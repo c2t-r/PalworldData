@@ -1,0 +1,4058 @@
+{
+    "PASSIVE_TestSkill1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestSkill1_TextData",
+            "SourceString": "\u6700\u5927HP\u30a2\u30c3\u30d7\u5c0fTest",
+            "LocalizedString": "\u6700\u5927HP\u30a2\u30c3\u30d7\u5c0fTest"
+        }
+    },
+    "PASSIVE_TestSkill2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestSkill2_TextData",
+            "SourceString": "\u683c\u95d8\u30a2\u30c3\u30d7\u5c0fTest",
+            "LocalizedString": "\u683c\u95d8\u30a2\u30c3\u30d7\u5c0fTest"
+        }
+    },
+    "PASSIVE_TestSkill3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestSkill3_TextData",
+            "SourceString": "\u5c04\u6483\u30a2\u30c3\u30d7\u5c0fTest",
+            "LocalizedString": "\u5c04\u6483\u30a2\u30c3\u30d7\u5c0fTest"
+        }
+    },
+    "PASSIVE_TestSkill4": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestSkill4_TextData",
+            "SourceString": "\u9632\u5fa1\u30a2\u30c3\u30d7\u5c0fTest",
+            "LocalizedString": "\u9632\u5fa1\u30a2\u30c3\u30d7\u5c0fTest"
+        }
+    },
+    "PASSIVE_TestSkill5": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestSkill5_TextData",
+            "SourceString": "\u652f\u63f4\u30a2\u30c3\u30d7\u5c0fTest",
+            "LocalizedString": "\u652f\u63f4\u30a2\u30c3\u30d7\u5c0fTest"
+        }
+    },
+    "PASSIVE_TestSkill6": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestSkill6_TextData",
+            "SourceString": "\u4f5c\u696d\u901f\u5ea6\u30a2\u30c3\u30d7\u5c0fTest",
+            "LocalizedString": "\u4f5c\u696d\u901f\u5ea6\u30a2\u30c3\u30d7\u5c0fTest"
+        }
+    },
+    "PASSIVE_TestSkill7": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestSkill7_TextData",
+            "SourceString": "\u9632\u5fa1\u91cd\u8996Test",
+            "LocalizedString": "\u9632\u5fa1\u91cd\u8996Test"
+        }
+    },
+    "PASSIVE_TestSkill8": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestSkill8_TextData",
+            "SourceString": "\u653b\u6483\u91cd\u8996Test",
+            "LocalizedString": "\u653b\u6483\u91cd\u8996Test"
+        }
+    },
+    "PASSIVE_TestHoming_L": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestHoming_L_TextData",
+            "SourceString": "\u5f31\u30db\u30fc\u30df\u30f3\u30b0\u5f3eTest",
+            "LocalizedString": "\u5f31\u30db\u30fc\u30df\u30f3\u30b0\u5f3eTest"
+        }
+    },
+    "PASSIVE_TestHoming_H": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestHoming_H_TextData",
+            "SourceString": "\u5f37\u30db\u30fc\u30df\u30f3\u30b0\u5f3eTest",
+            "LocalizedString": "\u5f37\u30db\u30fc\u30df\u30f3\u30b0\u5f3eTest"
+        }
+    },
+    "PASSIVE_TestExplosive_L": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestExplosive_L_TextData",
+            "SourceString": "\u5f31\u7206\u767a\u5f3eTest",
+            "LocalizedString": "\u5f31\u7206\u767a\u5f3eTest"
+        }
+    },
+    "PASSIVE_TestExplosive_H": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TestExplosive_H_TextData",
+            "SourceString": "\u5f37\u7206\u767a\u5f3eTest",
+            "LocalizedString": "\u5f37\u7206\u767a\u5f3eTest"
+        }
+    },
+    "PASSIVE_BulletSpeed_L": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_BulletSpeed_L_TextData",
+            "SourceString": "\u5f3e\u901f\u5f37\u5316\u5f31Test",
+            "LocalizedString": "\u5f3e\u901f\u5f37\u5316\u5f31Test"
+        }
+    },
+    "PASSIVE_BulletSpeed_H": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_BulletSpeed_H_TextData",
+            "SourceString": "\u5f3e\u901f\u5f37\u5316\u5f37Test",
+            "LocalizedString": "\u5f3e\u901f\u5f37\u5316\u5f37Test"
+        }
+    },
+    "PASSIVE_RecoilIncrease": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_RecoilIncrease_TextData",
+            "SourceString": "\u30ea\u30b3\u30a4\u30eb\u5897\u52a0Test",
+            "LocalizedString": "\u30ea\u30b3\u30a4\u30eb\u5897\u52a0Test"
+        }
+    },
+    "PASSIVE_RecoilDecrease": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_RecoilDecrease_TextData",
+            "SourceString": "\u30ea\u30b3\u30a4\u30eb\u6e1b\u5c11Test",
+            "LocalizedString": "\u30ea\u30b3\u30a4\u30eb\u6e1b\u5c11Test"
+        }
+    },
+    "PASSIVE_AccuracyIncrease": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_AccuracyIncrease_TextData",
+            "SourceString": "\u7cbe\u5ea6\u4e0a\u6607Test",
+            "LocalizedString": "\u7cbe\u5ea6\u4e0a\u6607Test"
+        }
+    },
+    "PASSIVE_AccuracyDecrease": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_AccuracyDecrease_TextData",
+            "SourceString": "\u7cbe\u5ea6\u6e1b\u5c11Test",
+            "LocalizedString": "\u7cbe\u5ea6\u6e1b\u5c11Test"
+        }
+    },
+    "PASSIVE_AccuracySuperDecrease": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_AccuracySuperDecrease_TextData",
+            "SourceString": "\u7cbe\u5ea6\u8d85\u6e1b\u5c11Test",
+            "LocalizedString": "\u7cbe\u5ea6\u8d85\u6e1b\u5c11Test"
+        }
+    },
+    "PASSIVE_MeleeAttack_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MeleeAttack_up1_TextData",
+            "SourceString": "\u525b\u529b",
+            "LocalizedString": "\u525b\u529b"
+        }
+    },
+    "PASSIVE_MeleeAttack_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MeleeAttack_up2_TextData",
+            "SourceString": "\u8da3\u5473\u304c\u7b4b\u30c8\u30ec",
+            "LocalizedString": "\u8da3\u5473\u304c\u7b4b\u30c8\u30ec"
+        }
+    },
+    "PASSIVE_MeleeAttack_down1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MeleeAttack_down1_TextData",
+            "SourceString": "\u904b\u52d5\u4e0d\u8db3",
+            "LocalizedString": "\u904b\u52d5\u4e0d\u8db3"
+        }
+    },
+    "PASSIVE_MeleeAttack_down2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MeleeAttack_down2_TextData",
+            "SourceString": "\u3082\u3084\u3057\u3063\u5b50",
+            "LocalizedString": "\u3082\u3084\u3057\u3063\u5b50"
+        }
+    },
+    "PASSIVE_ShotAttack_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ShotAttack_up1_TextData",
+            "SourceString": "\u529b\u6301\u3061",
+            "LocalizedString": "\u529b\u6301\u3061"
+        }
+    },
+    "PASSIVE_ShotAttack_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ShotAttack_up2_TextData",
+            "SourceString": "\u8da3\u5473\u304c\u7b4b\u30c8\u30ec",
+            "LocalizedString": "\u8da3\u5473\u304c\u7b4b\u30c8\u30ec"
+        }
+    },
+    "PASSIVE_ShotAttack_down1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ShotAttack_down1_TextData",
+            "SourceString": "\u904b\u52d5\u4e0d\u8db3",
+            "LocalizedString": "\u904b\u52d5\u4e0d\u8db3"
+        }
+    },
+    "PASSIVE_ShotAttack_down2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ShotAttack_down2_TextData",
+            "SourceString": "\u3082\u3084\u3057\u3063\u5b50",
+            "LocalizedString": "\u3082\u3084\u3057\u3063\u5b50"
+        }
+    },
+    "PASSIVE_CraftSpeed_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CraftSpeed_up1_TextData",
+            "SourceString": "\u307e\u3058\u3081",
+            "LocalizedString": "\u307e\u3058\u3081"
+        }
+    },
+    "PASSIVE_CraftSpeed_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CraftSpeed_up2_TextData",
+            "SourceString": "\u8077\u4eba\u6c17\u8cea",
+            "LocalizedString": "\u8077\u4eba\u6c17\u8cea"
+        }
+    },
+    "PASSIVE_CraftSpeed_down1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CraftSpeed_down1_TextData",
+            "SourceString": "\u4e0d\u5668\u7528",
+            "LocalizedString": "\u4e0d\u5668\u7528"
+        }
+    },
+    "PASSIVE_CraftSpeed_down2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CraftSpeed_down2_TextData",
+            "SourceString": "\u30b5\u30dc\u308a\u7656",
+            "LocalizedString": "\u30b5\u30dc\u308a\u7656"
+        }
+    },
+    "PASSIVE_Deffence_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Deffence_up1_TextData",
+            "SourceString": "\u786c\u3044\u76ae\u819a",
+            "LocalizedString": "\u786c\u3044\u76ae\u819a"
+        }
+    },
+    "PASSIVE_Deffence_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Deffence_up2_TextData",
+            "SourceString": "\u5c48\u5f37\u306a\u8089\u4f53",
+            "LocalizedString": "\u5c48\u5f37\u306a\u8089\u4f53"
+        }
+    },
+    "PASSIVE_Deffence_down1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Deffence_down1_TextData",
+            "SourceString": "\u3046\u305f\u308c\u5f31\u3044",
+            "LocalizedString": "\u3046\u305f\u308c\u5f31\u3044"
+        }
+    },
+    "PASSIVE_Deffence_down2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Deffence_down2_TextData",
+            "SourceString": "\u3059\u3050\u9aa8\u6298\u3059\u308b",
+            "LocalizedString": "\u3059\u3050\u9aa8\u6298\u3059\u308b"
+        }
+    },
+    "PASSIVE_PAL_FullStomach_Up_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_FullStomach_Up_1_TextData",
+            "SourceString": "\u98df\u3044\u3057\u3093\u307c",
+            "LocalizedString": "\u98df\u3044\u3057\u3093\u307c"
+        }
+    },
+    "PASSIVE_PAL_FullStomach_Up_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_FullStomach_Up_2_TextData",
+            "SourceString": "\u7121\u9650\u306e\u80c3\u888b",
+            "LocalizedString": "\u7121\u9650\u306e\u80c3\u888b"
+        }
+    },
+    "PASSIVE_PAL_FullStomach_Down_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_FullStomach_Down_1_TextData",
+            "SourceString": "\u5c0f\u98df",
+            "LocalizedString": "\u5c0f\u98df"
+        }
+    },
+    "PASSIVE_PAL_FullStomach_Down_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_FullStomach_Down_2_TextData",
+            "SourceString": "\u30c0\u30a4\u30a8\u30c3\u30c8\u30de\u30b9\u30bf\u30fc",
+            "LocalizedString": "\u30c0\u30a4\u30a8\u30c3\u30c8\u30de\u30b9\u30bf\u30fc"
+        }
+    },
+    "PASSIVE_PAL_Sanity_Up_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_Sanity_Up_1_TextData",
+            "SourceString": "\u7cbe\u795e\u304c\u4e0d\u5b89\u5b9a",
+            "LocalizedString": "\u7cbe\u795e\u304c\u4e0d\u5b89\u5b9a"
+        }
+    },
+    "PASSIVE_PAL_Sanity_Up_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_Sanity_Up_2_TextData",
+            "SourceString": "\u7834\u6ec5\u9858\u671b",
+            "LocalizedString": "\u7834\u6ec5\u9858\u671b"
+        }
+    },
+    "PASSIVE_PAL_Sanity_Down_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_Sanity_Down_1_TextData",
+            "SourceString": "\u30dd\u30b8\u30c6\u30a3\u30d6\u601d\u8003",
+            "LocalizedString": "\u30dd\u30b8\u30c6\u30a3\u30d6\u601d\u8003"
+        }
+    },
+    "PASSIVE_PAL_Sanity_Down_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_Sanity_Down_2_TextData",
+            "SourceString": "\u30ef\u30fc\u30ab\u30fc\u30db\u30ea\u30c3\u30af",
+            "LocalizedString": "\u30ef\u30fc\u30ab\u30fc\u30db\u30ea\u30c3\u30af"
+        }
+    },
+    "PASSIVE_PAL_ALLAttack_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_ALLAttack_up2_TextData",
+            "SourceString": "\u7370\u731b",
+            "LocalizedString": "\u7370\u731b"
+        }
+    },
+    "PASSIVE_PAL_ALLAttack_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_ALLAttack_up1_TextData",
+            "SourceString": "\u52c7\u6562",
+            "LocalizedString": "\u52c7\u6562"
+        }
+    },
+    "PASSIVE_PAL_ALLAttack_down1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_ALLAttack_down1_TextData",
+            "SourceString": "\u30d3\u30d3\u308a",
+            "LocalizedString": "\u30d3\u30d3\u308a"
+        }
+    },
+    "PASSIVE_PAL_ALLAttack_down2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_ALLAttack_down2_TextData",
+            "SourceString": "\u3053\u3068\u306a\u304b\u308c\u4e3b\u7fa9",
+            "LocalizedString": "\u3053\u3068\u306a\u304b\u308c\u4e3b\u7fa9"
+        }
+    },
+    "PASSIVE_PAL_rude": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_rude_TextData",
+            "SourceString": "\u7c97\u66b4",
+            "LocalizedString": "\u7c97\u66b4"
+        }
+    },
+    "PASSIVE_PAL_SpiritualInst": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_SpiritualInst_TextData",
+            "SourceString": "\u7cbe\u795e\u304c\u4e0d\u5b89\u5b9a",
+            "LocalizedString": "\u7cbe\u795e\u304c\u4e0d\u5b89\u5b9a"
+        }
+    },
+    "PASSIVE_PAL_sadist": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_sadist_TextData",
+            "SourceString": "\u30b5\u30c7\u30a3\u30b9\u30c8",
+            "LocalizedString": "\u30b5\u30c7\u30a3\u30b9\u30c8"
+        }
+    },
+    "PASSIVE_PAL_masochist": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_masochist_TextData",
+            "SourceString": "\u30de\u30be\u30d2\u30b9\u30c8",
+            "LocalizedString": "\u30de\u30be\u30d2\u30b9\u30c8"
+        }
+    },
+    "PASSIVE_PAL_CorporateSlave": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_CorporateSlave_TextData",
+            "SourceString": "\u793e\u755c",
+            "LocalizedString": "\u793e\u755c"
+        }
+    },
+    "PASSIVE_PAL_conceited": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_conceited_TextData",
+            "SourceString": "\u3046\u306c\u307c\u308c\u5c4b",
+            "LocalizedString": "\u3046\u306c\u307c\u308c\u5c4b"
+        }
+    },
+    "PASSIVE_PAL_oraora": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_oraora_TextData",
+            "SourceString": "\u30aa\u30e9\u30aa\u30e9\u7cfb",
+            "LocalizedString": "\u30aa\u30e9\u30aa\u30e9\u7cfb"
+        }
+    },
+    "PASSIVE_MoveSpeed_up_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MoveSpeed_up_1_TextData",
+            "SourceString": "\u3059\u3070\u3057\u3053\u3044",
+            "LocalizedString": "\u3059\u3070\u3057\u3053\u3044"
+        }
+    },
+    "PASSIVE_MoveSpeed_up_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MoveSpeed_up_2_TextData",
+            "SourceString": "\u8d70\u308b\u306e\u304c\u5f97\u610f",
+            "LocalizedString": "\u8d70\u308b\u306e\u304c\u5f97\u610f"
+        }
+    },
+    "PASSIVE_MoveSpeed_up_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MoveSpeed_up_3_TextData",
+            "SourceString": "\u795e\u901f",
+            "LocalizedString": "\u795e\u901f"
+        }
+    },
+    "PASSIVE_Noukin": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Noukin_TextData",
+            "SourceString": "\u8133\u7b4b",
+            "LocalizedString": "\u8133\u7b4b"
+        }
+    },
+    "PASSIVE_Support_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Support_up1_TextData",
+            "SourceString": "\u6ec5\u79c1\u306e\u7cbe\u795e",
+            "LocalizedString": "\u6ec5\u79c1\u306e\u7cbe\u795e"
+        }
+    },
+    "PASSIVE_Support_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Support_up2_TextData",
+            "SourceString": "\u3084\u3055\u3057\u3044",
+            "LocalizedString": "\u3084\u3055\u3057\u3044"
+        }
+    },
+    "PASSIVE_Support_down1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Support_down1_TextData",
+            "SourceString": "\u6c17\u304c\u5229\u304b\u306a\u3044",
+            "LocalizedString": "\u6c17\u304c\u5229\u304b\u306a\u3044"
+        }
+    },
+    "PASSIVE_Support_down2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Support_down2_TextData",
+            "SourceString": "\u30b3\u30df\u30e5\u969c",
+            "LocalizedString": "\u30b3\u30df\u30e5\u969c"
+        }
+    },
+    "PASSIVE_GiveAFire": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_GiveAFire_TextData",
+            "SourceString": "\u708e\u306e\u3061\u304b\u3089",
+            "LocalizedString": "\u708e\u306e\u3061\u304b\u3089"
+        }
+    },
+    "PASSIVE_GiveAWater": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_GiveAWater_TextData",
+            "SourceString": "\u6c34\u306e\u3061\u304b\u3089",
+            "LocalizedString": "\u6c34\u306e\u3061\u304b\u3089"
+        }
+    },
+    "PASSIVE_GiveALeaf": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_GiveALeaf_TextData",
+            "SourceString": "\u8349\u306e\u3061\u304b\u3089",
+            "LocalizedString": "\u8349\u306e\u3061\u304b\u3089"
+        }
+    },
+    "PASSIVE_GiveAElectricity": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_GiveAElectricity_TextData",
+            "SourceString": "\u96f7\u306e\u3061\u304b\u3089",
+            "LocalizedString": "\u96f7\u306e\u3061\u304b\u3089"
+        }
+    },
+    "PASSIVE_GiveAIce": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_GiveAIce_TextData",
+            "SourceString": "\u6c37\u306e\u3061\u304b\u3089",
+            "LocalizedString": "\u6c37\u306e\u3061\u304b\u3089"
+        }
+    },
+    "PASSIVE_GiveAEarth": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_GiveAEarth_TextData",
+            "SourceString": "\u5730\u306e\u3061\u304b\u3089",
+            "LocalizedString": "\u5730\u306e\u3061\u304b\u3089"
+        }
+    },
+    "PASSIVE_GiveADark": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_GiveADark_TextData",
+            "SourceString": "\u95c7\u306e\u3061\u304b\u3089",
+            "LocalizedString": "\u95c7\u306e\u3061\u304b\u3089"
+        }
+    },
+    "PASSIVE_GiveADragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_GiveADragon_TextData",
+            "SourceString": "\u9f8d\u306e\u3061\u304b\u3089",
+            "LocalizedString": "\u9f8d\u306e\u3061\u304b\u3089"
+        }
+    },
+    "PASSIVE_CollectItem": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CollectItem_TextData",
+            "SourceString": "\u30c8\u30ec\u30b8\u30e3\u30fc\u30cf\u30f3\u30c8",
+            "LocalizedString": "\u30c8\u30ec\u30b8\u30e3\u30fc\u30cf\u30f3\u30c8"
+        }
+    },
+    "PASSIVE_CollectItem_Egg": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CollectItem_Egg_TextData",
+            "SourceString": "\u30bf\u30de\u30b4\u7523\u51fa",
+            "LocalizedString": "\u30bf\u30de\u30b4\u7523\u51fa"
+        }
+    },
+    "PASSIVE_CollectItem_Milk": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CollectItem_Milk_TextData",
+            "SourceString": "\u30df\u30eb\u30af\u7523\u51fa",
+            "LocalizedString": "\u30df\u30eb\u30af\u7523\u51fa"
+        }
+    },
+    "PASSIVE_CollectItem_Berries": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CollectItem_Berries_TextData",
+            "SourceString": "\u30d9\u30ea\u30fc\u6458\u307f",
+            "LocalizedString": "\u30d9\u30ea\u30fc\u6458\u307f"
+        }
+    },
+    "PASSIVE_CollectItem_Sweets": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CollectItem_Sweets_TextData",
+            "SourceString": "\u304a\u83d3\u5b50\u751f\u7523",
+            "LocalizedString": "\u304a\u83d3\u5b50\u751f\u7523"
+        }
+    },
+    "PASSIVE_CollectItem_Money": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CollectItem_Money_TextData",
+            "SourceString": "\u732b\u306b\u5c0f\u5224",
+            "LocalizedString": "\u732b\u306b\u5c0f\u5224"
+        }
+    },
+    "PASSIVE_CollectItem_Wool_Alpaca": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CollectItem_Wool_Alpaca_TextData",
+            "SourceString": "\u7f8a\u6bdb\u7523\u51fa",
+            "LocalizedString": "\u7f8a\u6bdb\u7523\u51fa"
+        }
+    },
+    "PASSIVE_CollectItem_Wool_SheepBall": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CollectItem_Wool_SheepBall_TextData",
+            "SourceString": "\u7f8a\u6bdb\u7523\u51fa",
+            "LocalizedString": "\u7f8a\u6bdb\u7523\u51fa"
+        }
+    },
+    "PASSIVE_CollectItem_Wool_WhiteMoth": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CollectItem_Wool_WhiteMoth_TextData",
+            "SourceString": "\u30b7\u30eb\u30af\u7e54\u308a",
+            "LocalizedString": "\u30b7\u30eb\u30af\u7e54\u308a"
+        }
+    },
+    "PASSIVE_CollectItem_CuteFox": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CollectItem_CuteFox_TextData",
+            "SourceString": "\u3053\u3053\u6398\u308c\u30b3\u30f3\u30b3\u30f3",
+            "LocalizedString": "\u3053\u3053\u6398\u308c\u30b3\u30f3\u30b3\u30f3"
+        }
+    },
+    "PASSIVE_Logging_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Logging_up1_TextData",
+            "SourceString": "\u4f10\u63a1\u7279\u653b(1)",
+            "LocalizedString": "\u4f10\u63a1\u7279\u653b(1)"
+        }
+    },
+    "PASSIVE_Logging_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Logging_up2_TextData",
+            "SourceString": "\u4f10\u63a1\u7279\u653b(2)",
+            "LocalizedString": "\u4f10\u63a1\u7279\u653b(2)"
+        }
+    },
+    "PASSIVE_Logging_up3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Logging_up3_TextData",
+            "SourceString": "\u4f10\u63a1\u7279\u653b(3)",
+            "LocalizedString": "\u4f10\u63a1\u7279\u653b(3)"
+        }
+    },
+    "PASSIVE_Logging_up4": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Logging_up4_TextData",
+            "SourceString": "\u4f10\u63a1\u7279\u653b(4)",
+            "LocalizedString": "\u4f10\u63a1\u7279\u653b(4)"
+        }
+    },
+    "PASSIVE_Logging_up5": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Logging_up5_TextData",
+            "SourceString": "\u4f10\u63a1\u7279\u653b(5)",
+            "LocalizedString": "\u4f10\u63a1\u7279\u653b(5)"
+        }
+    },
+    "PASSIVE_Logging_up1_Otomo_only": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Logging_up1_Otomo_only_TextData",
+            "SourceString": "\u4f10\u63a1\u7279\u653bP(1)",
+            "LocalizedString": "\u4f10\u63a1\u7279\u653bP(1)"
+        }
+    },
+    "PASSIVE_Logging_up2_Otomo_only": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Logging_up2_Otomo_only_TextData",
+            "SourceString": "\u4f10\u63a1\u7279\u653bP(2)",
+            "LocalizedString": "\u4f10\u63a1\u7279\u653bP(2)"
+        }
+    },
+    "PASSIVE_Mining_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mining_up1_TextData",
+            "SourceString": "\u63a1\u6398\u7279\u653b(1)",
+            "LocalizedString": "\u63a1\u6398\u7279\u653b(1)"
+        }
+    },
+    "PASSIVE_Mining_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mining_up2_TextData",
+            "SourceString": "\u63a1\u6398\u7279\u653b(2)",
+            "LocalizedString": "\u63a1\u6398\u7279\u653b(2)"
+        }
+    },
+    "PASSIVE_Mining_up3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mining_up3_TextData",
+            "SourceString": "\u63a1\u6398\u7279\u653b(3)",
+            "LocalizedString": "\u63a1\u6398\u7279\u653b(3)"
+        }
+    },
+    "PASSIVE_Mining_up4": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mining_up4_TextData",
+            "SourceString": "\u63a1\u6398\u7279\u653b(4)",
+            "LocalizedString": "\u63a1\u6398\u7279\u653b(4)"
+        }
+    },
+    "PASSIVE_Mining_up5": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mining_up5_TextData",
+            "SourceString": "\u63a1\u6398\u7279\u653b(5)",
+            "LocalizedString": "\u63a1\u6398\u7279\u653b(5)"
+        }
+    },
+    "PASSIVE_Mining_up1_Otomo_only": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mining_up1_Otomo_only_TextData",
+            "SourceString": "\u63a1\u6398\u7279\u653bP(1)",
+            "LocalizedString": "\u63a1\u6398\u7279\u653bP(1)"
+        }
+    },
+    "PASSIVE_Mining_up2_Otomo_only": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mining_up2_Otomo_only_TextData",
+            "SourceString": "\u63a1\u6398\u7279\u653bP(2)",
+            "LocalizedString": "\u63a1\u6398\u7279\u653bP(2)"
+        }
+    },
+    "PASSIVE_StealExpert_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_StealExpert_1_TextData",
+            "SourceString": "\u5265\u304e\u53d6\u308a\u4e0a\u624b(1)",
+            "LocalizedString": "\u5265\u304e\u53d6\u308a\u4e0a\u624b(1)"
+        }
+    },
+    "PASSIVE_StealExpert_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_StealExpert_2_TextData",
+            "SourceString": "\u5265\u304e\u53d6\u308a\u4e0a\u624b(1)",
+            "LocalizedString": "\u5265\u304e\u53d6\u308a\u4e0a\u624b(1)"
+        }
+    },
+    "PASSIVE_StealExpert_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_StealExpert_3_TextData",
+            "SourceString": "\u5265\u304e\u53d6\u308a\u4e0a\u624b(1)",
+            "LocalizedString": "\u5265\u304e\u53d6\u308a\u4e0a\u624b(1)"
+        }
+    },
+    "PASSIVE_StealExpert_4": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_StealExpert_4_TextData",
+            "SourceString": "\u5265\u304e\u53d6\u308a\u4e0a\u624b(1)",
+            "LocalizedString": "\u5265\u304e\u53d6\u308a\u4e0a\u624b(1)"
+        }
+    },
+    "PASSIVE_Mute_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mute_1_TextData",
+            "SourceString": "\u6d88\u97f3(1)",
+            "LocalizedString": "\u6d88\u97f3(1)"
+        }
+    },
+    "PASSIVE_Mute_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mute_2_TextData",
+            "SourceString": "\u6d88\u97f3(2)",
+            "LocalizedString": "\u6d88\u97f3(2)"
+        }
+    },
+    "PASSIVE_Mute_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mute_3_TextData",
+            "SourceString": "\u6d88\u97f3(3)",
+            "LocalizedString": "\u6d88\u97f3(3)"
+        }
+    },
+    "PASSIVE_Mute_4": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mute_4_TextData",
+            "SourceString": "\u6d88\u97f3(4)",
+            "LocalizedString": "\u6d88\u97f3(4)"
+        }
+    },
+    "PASSIVE_Mute_5": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Mute_5_TextData",
+            "SourceString": "\u6d88\u97f3(5)",
+            "LocalizedString": "\u6d88\u97f3(5)"
+        }
+    },
+    "PASSIVE_CraftSpeed*3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CraftSpeed*3_TextData",
+            "SourceString": "\u3010\u958b\u767a\u7528\u3011\u4f5c\u696d\u529b3\u500d",
+            "LocalizedString": "\u3010\u958b\u767a\u7528\u3011\u4f5c\u696d\u529b3\u500d"
+        }
+    },
+    "PASSIVE_CraftSpeed*5": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_CraftSpeed*5_TextData",
+            "SourceString": "\u3010\u958b\u767a\u7528\u3011\u4f5c\u696d\u529b5\u500d",
+            "LocalizedString": "\u3010\u958b\u767a\u7528\u3011\u4f5c\u696d\u529b5\u500d"
+        }
+    },
+    "PASSIVE_TemperatureResist_Heat1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TemperatureResist_Heat1_TextData",
+            "SourceString": "\u8010\u6691Lv1",
+            "LocalizedString": "\u8010\u6691Lv1"
+        }
+    },
+    "PASSIVE_TemperatureResist_Heat2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TemperatureResist_Heat2_TextData",
+            "SourceString": "\u8010\u6691Lv2",
+            "LocalizedString": "\u8010\u6691Lv2"
+        }
+    },
+    "PASSIVE_TemperatureResist_Heat3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TemperatureResist_Heat3_TextData",
+            "SourceString": "\u8010\u6691Lv3",
+            "LocalizedString": "\u8010\u6691Lv3"
+        }
+    },
+    "PASSIVE_TemperatureResist_Cold1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TemperatureResist_Cold1_TextData",
+            "SourceString": "\u8010\u5bd2Lv1",
+            "LocalizedString": "\u8010\u5bd2Lv1"
+        }
+    },
+    "PASSIVE_TemperatureResist_Cold2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TemperatureResist_Cold2_TextData",
+            "SourceString": "\u8010\u5bd2Lv2",
+            "LocalizedString": "\u8010\u5bd2Lv2"
+        }
+    },
+    "PASSIVE_TemperatureResist_Cold3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TemperatureResist_Cold3_TextData",
+            "SourceString": "\u8010\u5bd2Lv3",
+            "LocalizedString": "\u8010\u5bd2Lv3"
+        }
+    },
+    "PASSIVE_Rare": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Rare_TextData",
+            "SourceString": "\u5e0c\u5c11",
+            "LocalizedString": "\u5e0c\u5c11"
+        }
+    },
+    "PASSIVE_Legend": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Legend_TextData",
+            "SourceString": "\u4f1d\u8aac",
+            "LocalizedString": "\u4f1d\u8aac"
+        }
+    },
+    "PASSIVE_MaxInventoryWeight_up": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MaxInventoryWeight_up_TextData",
+            "SourceString": "\u6700\u5927\u6240\u6301\u91cd\u91cf\u5897\u52a0Lv1",
+            "LocalizedString": "\u6700\u5927\u6240\u6301\u91cd\u91cf\u5897\u52a0Lv1"
+        }
+    },
+    "PASSIVE_MaxInventoryWeight_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MaxInventoryWeight_up2_TextData",
+            "SourceString": "\u6700\u5927\u6240\u6301\u91cd\u91cf\u5897\u52a0Lv2",
+            "LocalizedString": "\u6700\u5927\u6240\u6301\u91cd\u91cf\u5897\u52a0Lv2"
+        }
+    },
+    "PASSIVE_MaxInventoryWeight_up3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MaxInventoryWeight_up3_TextData",
+            "SourceString": "\u6700\u5927\u6240\u6301\u91cd\u91cf\u5897\u52a0Lv3",
+            "LocalizedString": "\u6700\u5927\u6240\u6301\u91cd\u91cf\u5897\u52a0Lv3"
+        }
+    },
+    "PASSIVE_ElementResist_Normal_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Normal_1_TextData",
+            "SourceString": "\u7121\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1",
+            "LocalizedString": "\u7121\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1"
+        }
+    },
+    "PASSIVE_ElementResist_Fire_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Fire_1_TextData",
+            "SourceString": "\u708e\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1",
+            "LocalizedString": "\u708e\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1"
+        }
+    },
+    "PASSIVE_ElementResist_Aqua_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Aqua_1_TextData",
+            "SourceString": "\u6c34\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1",
+            "LocalizedString": "\u6c34\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1"
+        }
+    },
+    "PASSIVE_ElementResist_Thunder_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Thunder_1_TextData",
+            "SourceString": "\u96f7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1",
+            "LocalizedString": "\u96f7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1"
+        }
+    },
+    "PASSIVE_ElementResist_Leaf_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Leaf_1_TextData",
+            "SourceString": "\u8349\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1",
+            "LocalizedString": "\u8349\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1"
+        }
+    },
+    "PASSIVE_ElementResist_Ice_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Ice_1_TextData",
+            "SourceString": "\u6c37\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1",
+            "LocalizedString": "\u6c37\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1"
+        }
+    },
+    "PASSIVE_ElementResist_Earth_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Earth_1_TextData",
+            "SourceString": "\u5730\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1",
+            "LocalizedString": "\u5730\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1"
+        }
+    },
+    "PASSIVE_ElementResist_Dark_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Dark_1_TextData",
+            "SourceString": "\u95c7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1",
+            "LocalizedString": "\u95c7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1"
+        }
+    },
+    "PASSIVE_ElementResist_Dragon_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Dragon_1_TextData",
+            "SourceString": "\u9f8d\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1",
+            "LocalizedString": "\u9f8d\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv1"
+        }
+    },
+    "PASSIVE_ElementResist_Normal_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Normal_2_TextData",
+            "SourceString": "\u7121\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2",
+            "LocalizedString": "\u7121\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2"
+        }
+    },
+    "PASSIVE_ElementResist_Fire_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Fire_2_TextData",
+            "SourceString": "\u708e\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2",
+            "LocalizedString": "\u708e\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2"
+        }
+    },
+    "PASSIVE_ElementResist_Aqua_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Aqua_2_TextData",
+            "SourceString": "\u6c34\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2",
+            "LocalizedString": "\u6c34\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2"
+        }
+    },
+    "PASSIVE_ElementResist_Thunder_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Thunder_2_TextData",
+            "SourceString": "\u96f7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2",
+            "LocalizedString": "\u96f7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2"
+        }
+    },
+    "PASSIVE_ElementResist_Leaf_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Leaf_2_TextData",
+            "SourceString": "\u8349\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2",
+            "LocalizedString": "\u8349\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2"
+        }
+    },
+    "PASSIVE_ElementResist_Ice_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Ice_2_TextData",
+            "SourceString": "\u6c37\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2",
+            "LocalizedString": "\u6c37\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2"
+        }
+    },
+    "PASSIVE_ElementResist_Earth_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Earth_2_TextData",
+            "SourceString": "\u5730\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2",
+            "LocalizedString": "\u5730\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2"
+        }
+    },
+    "PASSIVE_ElementResist_Dark_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Dark_2_TextData",
+            "SourceString": "\u95c7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2",
+            "LocalizedString": "\u95c7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2"
+        }
+    },
+    "PASSIVE_ElementResist_Dragon_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Dragon_2_TextData",
+            "SourceString": "\u9f8d\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2",
+            "LocalizedString": "\u9f8d\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv2"
+        }
+    },
+    "PASSIVE_ElementResist_Normal_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Normal_3_TextData",
+            "SourceString": "\u7121\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3",
+            "LocalizedString": "\u7121\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3"
+        }
+    },
+    "PASSIVE_ElementResist_Fire_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Fire_3_TextData",
+            "SourceString": "\u708e\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3",
+            "LocalizedString": "\u708e\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3"
+        }
+    },
+    "PASSIVE_ElementResist_Aqua_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Aqua_3_TextData",
+            "SourceString": "\u6c34\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3",
+            "LocalizedString": "\u6c34\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3"
+        }
+    },
+    "PASSIVE_ElementResist_Thunder_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Thunder_3_TextData",
+            "SourceString": "\u96f7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3",
+            "LocalizedString": "\u96f7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3"
+        }
+    },
+    "PASSIVE_ElementResist_Leaf_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Leaf_3_TextData",
+            "SourceString": "\u8349\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3",
+            "LocalizedString": "\u8349\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3"
+        }
+    },
+    "PASSIVE_ElementResist_Ice_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Ice_3_TextData",
+            "SourceString": "\u6c37\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3",
+            "LocalizedString": "\u6c37\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3"
+        }
+    },
+    "PASSIVE_ElementResist_Earth_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Earth_3_TextData",
+            "SourceString": "\u5730\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3",
+            "LocalizedString": "\u5730\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3"
+        }
+    },
+    "PASSIVE_ElementResist_Dark_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Dark_3_TextData",
+            "SourceString": "\u95c7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3",
+            "LocalizedString": "\u95c7\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3"
+        }
+    },
+    "PASSIVE_ElementResist_Dragon_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Dragon_3_TextData",
+            "SourceString": "\u9f8d\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3",
+            "LocalizedString": "\u9f8d\u5c5e\u6027\u30c0\u30e1\u30fc\u30b8\u8efd\u6e1bLv3"
+        }
+    },
+    "COOP_RIDE": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_RIDE_TextData",
+            "SourceString": "\u30e9\u30a4\u30c9",
+            "LocalizedString": "\u30e9\u30a4\u30c9"
+        }
+    },
+    "COOP_SHIELD": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_SHIELD_TextData",
+            "SourceString": "\u5b88\u308c\uff01",
+            "LocalizedString": "\u5b88\u308c\uff01"
+        }
+    },
+    "COOP_SHOULDER_RIDE": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_SHOULDER_RIDE_TextData",
+            "SourceString": "\u80a9\u306b\u4e57\u308c\uff01",
+            "LocalizedString": "\u80a9\u306b\u4e57\u308c\uff01"
+        }
+    },
+    "COOP_HEAD_RIDE": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_HEAD_RIDE_TextData",
+            "SourceString": "\u982d\u306b\u4e57\u308c\uff01",
+            "LocalizedString": "\u982d\u306b\u4e57\u308c\uff01"
+        }
+    },
+    "COOP_THROW": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_THROW_TextData",
+            "SourceString": "\u3076\u3093\u6295\u3052\u308b",
+            "LocalizedString": "\u3076\u3093\u6295\u3052\u308b"
+        }
+    },
+    "COOP_ROCKET": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_ROCKET_TextData",
+            "SourceString": "\u5c04\u51fa\u7528\u610f\uff01",
+            "LocalizedString": "\u5c04\u51fa\u7528\u610f\uff01"
+        }
+    },
+    "COOP_FLAMETHROWER": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_FLAMETHROWER_TextData",
+            "SourceString": "\u713c\u304d\u6255\u3048\uff01",
+            "LocalizedString": "\u713c\u304d\u6255\u3048\uff01"
+        }
+    },
+    "COOP_SEARCH_MINE": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_SEARCH_MINE_TextData",
+            "SourceString": "\u9271\u77f3\u3092\u63a2\u305b\uff01",
+            "LocalizedString": "\u9271\u77f3\u3092\u63a2\u305b\uff01"
+        }
+    },
+    "COOP_SEARCH_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_SEARCH_PAL_TextData",
+            "SourceString": "\u30d1\u30eb\u3092\u63a2\u305b\uff01",
+            "LocalizedString": "\u30d1\u30eb\u3092\u63a2\u305b\uff01"
+        }
+    },
+    "COOP_SEARCH_DUNGEON": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_SEARCH_DUNGEON_TextData",
+            "SourceString": "\u30c0\u30f3\u30b8\u30e7\u30f3\u3092\u63a2\u305b\uff01",
+            "LocalizedString": "\u30c0\u30f3\u30b8\u30e7\u30f3\u3092\u63a2\u305b\uff01"
+        }
+    },
+    "COOP_TOBOGGAN": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_TOBOGGAN_TextData",
+            "SourceString": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30bf\u30c3\u30af\u30eb\uff01",
+            "LocalizedString": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0\u30bf\u30c3\u30af\u30eb\uff01"
+        }
+    },
+    "COOP_CATPUNCH": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_CATPUNCH_TextData",
+            "SourceString": "<activeSkillName id=|Unique_PinkCat_CatPunch|/>\uff01",
+            "LocalizedString": "<activeSkillName id=|Unique_PinkCat_CatPunch|/>\uff01"
+        }
+    },
+    "COOP_HEAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_HEAL_TextData",
+            "SourceString": "\u7652\u3057\u306e\u96e8\uff01",
+            "LocalizedString": "\u7652\u3057\u306e\u96e8\uff01"
+        }
+    },
+    "COOP_BERSERK": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_BERSERK_TextData",
+            "SourceString": "\u30d0\u30fc\u30b5\u30fc\u30af\u30e2\u30fc\u30c9\uff01",
+            "LocalizedString": "\u30d0\u30fc\u30b5\u30fc\u30af\u30e2\u30fc\u30c9\uff01"
+        }
+    },
+    "COOP_NIGHTRUNNER": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_NIGHTRUNNER_TextData",
+            "SourceString": "\u30ab\u30d5\u30a7\u30a4\u30f3\u6ce8\u5165\uff01",
+            "LocalizedString": "\u30ab\u30d5\u30a7\u30a4\u30f3\u6ce8\u5165\uff01"
+        }
+    },
+    "COOP_ASSAULTRIFLE": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "COOP_ASSAULTRIFLE_TextData",
+            "SourceString": "\u30a2\u30b5\u30eb\u30c8\u30e9\u30a4\u30d5\u30eb\u30e2\u30fc\u30c9\uff01",
+            "LocalizedString": "\u30a2\u30b5\u30eb\u30c8\u30e9\u30a4\u30d5\u30eb\u30e2\u30fc\u30c9\uff01"
+        }
+    },
+    "ACTION_SKILL_Human_Punch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Human_Punch_TextData",
+            "SourceString": "\u30d1\u30f3\u30c1",
+            "LocalizedString": "\u30d1\u30f3\u30c1"
+        }
+    },
+    "ACTION_SKILL_Throw": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Throw_TextData",
+            "SourceString": "\u6295\u3052",
+            "LocalizedString": "\u6295\u3052"
+        }
+    },
+    "ACTION_SKILL_Scratch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Scratch_TextData",
+            "SourceString": "\u5f15\u3063\u63bb\u304d",
+            "LocalizedString": "\u5f15\u3063\u63bb\u304d"
+        }
+    },
+    "ACTION_SKILL_EnergyShot": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_EnergyShot_TextData",
+            "SourceString": "\u30a2\u30a4\u30b9\u30df\u30b5\u30a4\u30eb",
+            "LocalizedString": "\u30a2\u30a4\u30b9\u30df\u30b5\u30a4\u30eb"
+        }
+    },
+    "ACTION_SKILL_Unique_Anubis_LowRoundKick": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Anubis_LowRoundKick_TextData",
+            "SourceString": "\u30b9\u30d4\u30f3\u30ec\u30c3\u30b0\u30b9\u30e9\u30c3\u30b7\u30e5",
+            "LocalizedString": "\u30b9\u30d4\u30f3\u30ec\u30c3\u30b0\u30b9\u30e9\u30c3\u30b7\u30e5"
+        }
+    },
+    "ACTION_SKILL_Unique_Anubis_GroundPunch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Anubis_GroundPunch_TextData",
+            "SourceString": "\u30b0\u30e9\u30a6\u30f3\u30c9\u30b9\u30de\u30c3\u30b7\u30e3\u30fc",
+            "LocalizedString": "\u30b0\u30e9\u30a6\u30f3\u30c9\u30b9\u30de\u30c3\u30b7\u30e3\u30fc"
+        }
+    },
+    "ACTION_SKILL_Unique_Anubis_Tackle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Anubis_Tackle_TextData",
+            "SourceString": "\u30d5\u30a9\u30fc\u30b9\u30c9\u30e9\u30a4\u30d6",
+            "LocalizedString": "\u30d5\u30a9\u30fc\u30b9\u30c9\u30e9\u30a4\u30d6"
+        }
+    },
+    "ACTION_SKILL_Unique_Deer_PushupHorn": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Deer_PushupHorn_TextData",
+            "SourceString": "\u30db\u30fc\u30f3\u30a2\u30c3\u30d1\u30fc",
+            "LocalizedString": "\u30db\u30fc\u30f3\u30a2\u30c3\u30d1\u30fc"
+        }
+    },
+    "ACTION_SKILL_Unique_Garm_Bite": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Garm_Bite_TextData",
+            "SourceString": "\u30ef\u30a4\u30eb\u30c9\u30d5\u30a1\u30f3\u30b0",
+            "LocalizedString": "\u30ef\u30a4\u30eb\u30c9\u30d5\u30a1\u30f3\u30b0"
+        }
+    },
+    "ACTION_SKILL_Unique_Boar_Tackle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Boar_Tackle_TextData",
+            "SourceString": "\u732a\u7a81\u731b\u9032",
+            "LocalizedString": "\u732a\u7a81\u731b\u9032"
+        }
+    },
+    "ACTION_SKILL_Unique_PinkCat_CatPunch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_PinkCat_CatPunch_TextData",
+            "SourceString": "\u30c4\u30c3\u30d1\u30f3\u30c1",
+            "LocalizedString": "\u30c4\u30c3\u30d1\u30f3\u30c1"
+        }
+    },
+    "ACTION_SKILL_Unique_FlowerDinosaur_Whip": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_FlowerDinosaur_Whip_TextData",
+            "SourceString": "\u30dc\u30bf\u30cb\u30ab\u30eb\u30b9\u30de\u30c3\u30b7\u30e5",
+            "LocalizedString": "\u30dc\u30bf\u30cb\u30ab\u30eb\u30b9\u30de\u30c3\u30b7\u30e5"
+        }
+    },
+    "ACTION_SKILL_Unique_SheepBall_Roll": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_SheepBall_Roll_TextData",
+            "SourceString": "\u30b3\u30ed\u30b3\u30ed\u30e2\u30b3\u30ed\u30f3",
+            "LocalizedString": "\u30b3\u30ed\u30b3\u30ed\u30e2\u30b3\u30ed\u30f3"
+        }
+    },
+    "ACTION_SKILL_Unique_ChickenPal_ChickenPeck": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_ChickenPal_ChickenPeck_TextData",
+            "SourceString": "\u30c1\u30ad\u30f3\u30bf\u30c3\u30af\u30eb",
+            "LocalizedString": "\u30c1\u30ad\u30f3\u30bf\u30c3\u30af\u30eb"
+        }
+    },
+    "ACTION_SKILL_Unique_Horus_FlareBird": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Horus_FlareBird_TextData",
+            "SourceString": "\u9cf3\u51f0\u7fd4\u6ce2",
+            "LocalizedString": "\u9cf3\u51f0\u7fd4\u6ce2"
+        }
+    },
+    "ACTION_SKILL_Unique_ElecPanda_ElecScratch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_ElecPanda_ElecScratch_TextData",
+            "SourceString": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30af\u30ed\u30fc",
+            "LocalizedString": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30af\u30ed\u30fc"
+        }
+    },
+    "ACTION_SKILL_Unique_FairyDragon_FairyTornado": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_FairyDragon_FairyTornado_TextData",
+            "SourceString": "\u30df\u30b9\u30c6\u30a3\u30c3\u30af\u30cf\u30ea\u30b1\u30fc\u30f3",
+            "LocalizedString": "\u30df\u30b9\u30c6\u30a3\u30c3\u30af\u30cf\u30ea\u30b1\u30fc\u30f3"
+        }
+    },
+    "ACTION_SKILL_Unique_Gorilla_GroundPunch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Gorilla_GroundPunch_TextData",
+            "SourceString": "\u30b4\u30ea\u30e9\u30a6\u30f3\u30c9\u30b3\u30f3\u30dc",
+            "LocalizedString": "\u30b4\u30ea\u30e9\u30a6\u30f3\u30c9\u30b3\u30f3\u30dc"
+        }
+    },
+    "ACTION_SKILL_Unique_Grassmammoth_Earthquake": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Grassmammoth_Earthquake_TextData",
+            "SourceString": "\u30a2\u30fc\u30b9\u30a4\u30f3\u30d1\u30af\u30c8",
+            "LocalizedString": "\u30a2\u30fc\u30b9\u30a4\u30f3\u30d1\u30af\u30c8"
+        }
+    },
+    "ACTION_SKILL_Unique_GrassPanda_MusclePunch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_GrassPanda_MusclePunch_TextData",
+            "SourceString": "\u30de\u30c3\u30b9\u30eb\u30d1\u30f3\u30c1",
+            "LocalizedString": "\u30de\u30c3\u30b9\u30eb\u30d1\u30f3\u30c1"
+        }
+    },
+    "ACTION_SKILL_Unique_GrassPanda_Electric_ElectricPunch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_GrassPanda_Electric_ElectricPunch_TextData",
+            "SourceString": "\u30d6\u30e9\u30b9\u30c8\u30d1\u30f3\u30c1",
+            "LocalizedString": "\u30d6\u30e9\u30b9\u30c8\u30d1\u30f3\u30c1"
+        }
+    },
+    "ACTION_SKILL_Unique_Alpaca_Tackle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Alpaca_Tackle_TextData",
+            "SourceString": "\u3075\u3093\u308f\u308a\u30bf\u30c3\u30af\u30eb",
+            "LocalizedString": "\u3075\u3093\u308f\u308a\u30bf\u30c3\u30af\u30eb"
+        }
+    },
+    "ACTION_SKILL_Unique_AmaterasuWolf_FireCharge": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_AmaterasuWolf_FireCharge_TextData",
+            "SourceString": "\u98a8\u6797\u706b\u5c71",
+            "LocalizedString": "\u98a8\u6797\u706b\u5c71"
+        }
+    },
+    "ACTION_SKILL_Unique_Baphomet_SwallowKite": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Baphomet_SwallowKite_TextData",
+            "SourceString": "\u30d8\u30eb\u30d5\u30a1\u30a4\u30a2\u30af\u30ed\u30fc",
+            "LocalizedString": "\u30d8\u30eb\u30d5\u30a1\u30a4\u30a2\u30af\u30ed\u30fc"
+        }
+    },
+    "ACTION_SKILL_Unique_Baphomet_Dark_SwallowKite": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Baphomet_Dark_SwallowKite_TextData",
+            "SourceString": "\u30ca\u30a4\u30c8\u30e1\u30a2\u30af\u30ed\u30fc",
+            "LocalizedString": "\u30ca\u30a4\u30c8\u30e1\u30a2\u30af\u30ed\u30fc"
+        }
+    },
+    "ACTION_SKILL_Unique_BirdDragon_FireBreath": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_BirdDragon_FireBreath_TextData",
+            "SourceString": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30d6\u30ec\u30b9",
+            "LocalizedString": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30d6\u30ec\u30b9"
+        }
+    },
+    "ACTION_SKILL_Unique_BirdDragon_Ice_IceBreath": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_BirdDragon_Ice_IceBreath_TextData",
+            "SourceString": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30d6\u30ea\u30b6\u30fc\u30c9",
+            "LocalizedString": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30d6\u30ea\u30b6\u30fc\u30c9"
+        }
+    },
+    "ACTION_SKILL_Unique_BlackCentaur_TwoSpearRushes": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_BlackCentaur_TwoSpearRushes_TextData",
+            "SourceString": "\u53cc\u69cd\u4e00\u9583",
+            "LocalizedString": "\u53cc\u69cd\u4e00\u9583"
+        }
+    },
+    "ACTION_SKILL_Unique_BlackFurDragon_RotationalSlash": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_BlackFurDragon_RotationalSlash_TextData",
+            "SourceString": "\u9f8d\u5263\u306e\u56de\u8ee2\uff12\u9023\u65ac\u308a",
+            "LocalizedString": "\u9f8d\u5263\u306e\u56de\u8ee2\uff12\u9023\u65ac\u308a"
+        }
+    },
+    "ACTION_SKILL_Unique_BlackGriffon_TackleLaser": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_BlackGriffon_TackleLaser_TextData",
+            "SourceString": "\u30c7\u30a3\u30b6\u30b9\u30bf\u30fc\u30c7\u30a3\u30d0\u30a4\u30f3",
+            "LocalizedString": "\u30c7\u30a3\u30b6\u30b9\u30bf\u30fc\u30c7\u30a3\u30d0\u30a4\u30f3"
+        }
+    },
+    "ACTION_SKILL_Unique_BlackMetalDragon_FirePunch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_BlackMetalDragon_FirePunch_TextData",
+            "SourceString": "\u30d1\u30f3\u30c1\u30d6\u30ec\u30b9",
+            "LocalizedString": "\u30d1\u30f3\u30c1\u30d6\u30ec\u30b9"
+        }
+    },
+    "ACTION_SKILL_Unique_CaptainPenguin_BodySlide": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_CaptainPenguin_BodySlide_TextData",
+            "SourceString": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0",
+            "LocalizedString": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0"
+        }
+    },
+    "ACTION_SKILL_Unique_DarkCrow_TelePoke": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_DarkCrow_TelePoke_TextData",
+            "SourceString": "\u30d5\u30a1\u30f3\u30c8\u30e0\u30a2\u30b5\u30eb\u30c8",
+            "LocalizedString": "\u30d5\u30a1\u30f3\u30c8\u30e0\u30a2\u30b5\u30eb\u30c8"
+        }
+    },
+    "ACTION_SKILL_Unique_DarkMutant_DarkTackle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_DarkMutant_DarkTackle_TextData",
+            "SourceString": "\u30a2\u30dd\u30ab\u30ea\u30d7\u30b9",
+            "LocalizedString": "\u30a2\u30dd\u30ab\u30ea\u30d7\u30b9"
+        }
+    },
+    "ACTION_SKILL_Unique_DarkScorpion_Pierce": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_DarkScorpion_Pierce_TextData",
+            "SourceString": "\u30b8\u30e3\u30f3\u30d4\u30f3\u30b0\u30b9\u30c6\u30a3\u30f3\u30ac\u30fc",
+            "LocalizedString": "\u30b8\u30e3\u30f3\u30d4\u30f3\u30b0\u30b9\u30c6\u30a3\u30f3\u30ac\u30fc"
+        }
+    },
+    "ACTION_SKILL_Unique_DrillGame_ShellAttack": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_DrillGame_ShellAttack_TextData",
+            "SourceString": "\u30b7\u30a7\u30eb\u30b9\u30d4\u30f3",
+            "LocalizedString": "\u30b7\u30a7\u30eb\u30b9\u30d4\u30f3"
+        }
+    },
+    "ACTION_SKILL_Unique_Eagle_GlidingNail": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Eagle_GlidingNail_TextData",
+            "SourceString": "\u30b0\u30e9\u30a4\u30c9\u30af\u30ed\u30fc",
+            "LocalizedString": "\u30b0\u30e9\u30a4\u30c9\u30af\u30ed\u30fc"
+        }
+    },
+    "ACTION_SKILL_Unique_FengyunDeeper_CloudTempest": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_FengyunDeeper_CloudTempest_TextData",
+            "SourceString": "\u30af\u30e9\u30a6\u30c9\u30c6\u30f3\u30da\u30b9\u30c8",
+            "LocalizedString": "\u30af\u30e9\u30a6\u30c9\u30c6\u30f3\u30da\u30b9\u30c8"
+        }
+    },
+    "ACTION_SKILL_Unique_FireKirin_Tackle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_FireKirin_Tackle_TextData",
+            "SourceString": "\u30d5\u30ec\u30a4\u30e0\u30c1\u30e3\u30fc\u30b8",
+            "LocalizedString": "\u30d5\u30ec\u30a4\u30e0\u30c1\u30e3\u30fc\u30b8"
+        }
+    },
+    "ACTION_SKILL_Unique_FireKirin_Dark_DarkTossin": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_FireKirin_Dark_DarkTossin_TextData",
+            "SourceString": "\u30c0\u30fc\u30af\u30c1\u30e3\u30fc\u30b8",
+            "LocalizedString": "\u30c0\u30fc\u30af\u30c1\u30e3\u30fc\u30b8"
+        }
+    },
+    "ACTION_SKILL_Unique_FlameBuffalo_FlameHorn": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_FlameBuffalo_FlameHorn_TextData",
+            "SourceString": "\u30d6\u30ec\u30a4\u30b8\u30f3\u30b0\u30db\u30fc\u30f3",
+            "LocalizedString": "\u30d6\u30ec\u30a4\u30b8\u30f3\u30b0\u30db\u30fc\u30f3"
+        }
+    },
+    "ACTION_SKILL_Unique_GhostBeast_Tossin": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_GhostBeast_Tossin_TextData",
+            "SourceString": "\u30b9\u30d4\u30ea\u30c3\u30c8\u30c0\u30c3\u30b7\u30e5",
+            "LocalizedString": "\u30b9\u30d4\u30ea\u30c3\u30c8\u30c0\u30c3\u30b7\u30e5"
+        }
+    },
+    "ACTION_SKILL_Unique_GrassRabbitMan_GrassRoundKick": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_GrassRabbitMan_GrassRoundKick_TextData",
+            "SourceString": "\u30b9\u30d4\u30f3\u30ec\u30c3\u30b0\u30e9\u30c3\u30b7\u30e5",
+            "LocalizedString": "\u30b9\u30d4\u30f3\u30ec\u30c3\u30b0\u30e9\u30c3\u30b7\u30e5"
+        }
+    },
+    "ACTION_SKILL_Unique_HawkBird_Storm": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_HawkBird_Storm_TextData",
+            "SourceString": "\u30c8\u30eb\u30cd\u30fc\u30c9\u30a2\u30bf\u30c3\u30af",
+            "LocalizedString": "\u30c8\u30eb\u30cd\u30fc\u30c9\u30a2\u30bf\u30c3\u30af"
+        }
+    },
+    "ACTION_SKILL_Unique_HerculesBeetle_BeetleTackle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_HerculesBeetle_BeetleTackle_TextData",
+            "SourceString": "\u30ae\u30ac\u30db\u30fc\u30f3",
+            "LocalizedString": "\u30ae\u30ac\u30db\u30fc\u30f3"
+        }
+    },
+    "ACTION_SKILL_Unique_IceDeer_IceHorn": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_IceDeer_IceHorn_TextData",
+            "SourceString": "\u30a2\u30a4\u30b9\u30db\u30fc\u30f3\u30e9\u30c3\u30b7\u30e5",
+            "LocalizedString": "\u30a2\u30a4\u30b9\u30db\u30fc\u30f3\u30e9\u30c3\u30b7\u30e5"
+        }
+    },
+    "ACTION_SKILL_Unique_IceHorse_IceBladeAttack": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_IceHorse_IceBladeAttack_TextData",
+            "SourceString": "\u30af\u30ea\u30b9\u30bf\u30eb\u30a6\u30a3\u30f3\u30b0",
+            "LocalizedString": "\u30af\u30ea\u30b9\u30bf\u30eb\u30a6\u30a3\u30f3\u30b0"
+        }
+    },
+    "ACTION_SKILL_Unique_IceHorse_Dark_IceBladeAttack": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_IceHorse_Dark_IceBladeAttack_TextData",
+            "SourceString": "\u30d6\u30ec\u30fc\u30c9\u30c0\u30fc\u30af\u30a6\u30a3\u30f3\u30b0",
+            "LocalizedString": "\u30d6\u30ec\u30fc\u30c9\u30c0\u30fc\u30af\u30a6\u30a3\u30f3\u30b0"
+        }
+    },
+    "ACTION_SKILL_Unique_JetDragon_JumpBeam": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_JetDragon_JumpBeam_TextData",
+            "SourceString": "\u30d3\u30fc\u30e0\u30b3\u30e1\u30c3\u30c8",
+            "LocalizedString": "\u30d3\u30fc\u30e0\u30b3\u30e1\u30c3\u30c8"
+        }
+    },
+    "ACTION_SKILL_Unique_KingAlpaca_BodyPress": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_KingAlpaca_BodyPress_TextData",
+            "SourceString": "\u30ad\u30f3\u30b0\u30d7\u30ec\u30b9",
+            "LocalizedString": "\u30ad\u30f3\u30b0\u30d7\u30ec\u30b9"
+        }
+    },
+    "ACTION_SKILL_Unique_KingBahamut_AirCrash": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_KingBahamut_AirCrash_TextData",
+            "SourceString": "\u30de\u30b0\u30ca\u30af\u30e9\u30c3\u30b7\u30e5",
+            "LocalizedString": "\u30de\u30b0\u30ca\u30af\u30e9\u30c3\u30b7\u30e5"
+        }
+    },
+    "ACTION_SKILL_Unique_Kirin_LightningTackle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Kirin_LightningTackle_TextData",
+            "SourceString": "\u75be\u98a8\u8fc5\u96f7",
+            "LocalizedString": "\u75be\u98a8\u8fc5\u96f7"
+        }
+    },
+    "ACTION_SKILL_Unique_Manticore_InfernoStrike": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Manticore_InfernoStrike_TextData",
+            "SourceString": "\u30dc\u30eb\u30ab\u30cb\u30c3\u30af\u30d5\u30a1\u30f3\u30b0",
+            "LocalizedString": "\u30dc\u30eb\u30ab\u30cb\u30c3\u30af\u30d5\u30a1\u30f3\u30b0"
+        }
+    },
+    "ACTION_SKILL_Unique_NaughtyCat_CatPress": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_NaughtyCat_CatPress_TextData",
+            "SourceString": "\u30ad\u30e3\u30c3\u30c8\u30d7\u30ec\u30b9",
+            "LocalizedString": "\u30ad\u30e3\u30c3\u30c8\u30d7\u30ec\u30b9"
+        }
+    },
+    "ACTION_SKILL_Unique_QueenBee_SpinLance": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_QueenBee_SpinLance_TextData",
+            "SourceString": "\u30b9\u30d4\u30cb\u30f3\u30b0\u30e9\u30f3\u30b9",
+            "LocalizedString": "\u30b9\u30d4\u30cb\u30f3\u30b0\u30e9\u30f3\u30b9"
+        }
+    },
+    "ACTION_SKILL_Unique_RedArmorBird_RotarySkipping": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_RedArmorBird_RotarySkipping_TextData",
+            "SourceString": "\u30e9\u30c3\u30b7\u30e5\u30d3\u30fc\u30af",
+            "LocalizedString": "\u30e9\u30c3\u30b7\u30e5\u30d3\u30fc\u30af"
+        }
+    },
+    "ACTION_SKILL_Unique_RobinHood_BowSnipe": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_RobinHood_BowSnipe_TextData",
+            "SourceString": "\u30b9\u30ca\u30a4\u30d7\u30b7\u30e7\u30c3\u30c8",
+            "LocalizedString": "\u30b9\u30ca\u30a4\u30d7\u30b7\u30e7\u30c3\u30c8"
+        }
+    },
+    "ACTION_SKILL_Unique_Ronin_Iai": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Ronin_Iai_TextData",
+            "SourceString": "\u5c45\u5408\u65ac\u308a",
+            "LocalizedString": "\u5c45\u5408\u65ac\u308a"
+        }
+    },
+    "ACTION_SKILL_Unique_SaintCentaur_OneSpearRushes": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_SaintCentaur_OneSpearRushes_TextData",
+            "SourceString": "\u4e00\u69cd\u4e00\u9583",
+            "LocalizedString": "\u4e00\u69cd\u4e00\u9583"
+        }
+    },
+    "ACTION_SKILL_Unique_SakuraSaurus_SideTackle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_SakuraSaurus_SideTackle_TextData",
+            "SourceString": "\u30dc\u30c7\u30a3\u30b9\u30de\u30c3\u30b7\u30e5",
+            "LocalizedString": "\u30dc\u30c7\u30a3\u30b9\u30de\u30c3\u30b7\u30e5"
+        }
+    },
+    "ACTION_SKILL_Unique_SoldierBee_NeedleLance": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_SoldierBee_NeedleLance_TextData",
+            "SourceString": "\u30cb\u30fc\u30c9\u30eb\u30b9\u30d4\u30a2",
+            "LocalizedString": "\u30cb\u30fc\u30c9\u30eb\u30b9\u30d4\u30a2"
+        }
+    },
+    "ACTION_SKILL_Unique_ThunderBird_ThunderStorm": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_ThunderBird_ThunderStorm_TextData",
+            "SourceString": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30c0\u30a4\u30d6",
+            "LocalizedString": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30c0\u30a4\u30d6"
+        }
+    },
+    "ACTION_SKILL_Unique_ThunderDog_InazumaShorai": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_ThunderDog_InazumaShorai_TextData",
+            "SourceString": "\u53ec\u96f7",
+            "LocalizedString": "\u53ec\u96f7"
+        }
+    },
+    "ACTION_SKILL_Unique_ThunderDragonMan_ThunderSwordAttack": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_ThunderDragonMan_ThunderSwordAttack_TextData",
+            "SourceString": "\u30b1\u30e9\u30a6\u30ce\u30b9",
+            "LocalizedString": "\u30b1\u30e9\u30a6\u30ce\u30b9"
+        }
+    },
+    "ACTION_SKILL_Unique_Umihebi_WindingTackle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Umihebi_WindingTackle_TextData",
+            "SourceString": "\u30aa\u30fc\u30b7\u30e3\u30f3\u30ba\u30b9\u30cd\u30a4\u30af",
+            "LocalizedString": "\u30aa\u30fc\u30b7\u30e3\u30f3\u30ba\u30b9\u30cd\u30a4\u30af"
+        }
+    },
+    "ACTION_SKILL_Unique_VolcanicMonster_MagmaAttack": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_VolcanicMonster_MagmaAttack_TextData",
+            "SourceString": "\u30dc\u30eb\u30ab\u30cb\u30c3\u30af\u30d0\u30fc\u30b9\u30c8",
+            "LocalizedString": "\u30dc\u30eb\u30ab\u30cb\u30c3\u30af\u30d0\u30fc\u30b9\u30c8"
+        }
+    },
+    "ACTION_SKILL_Unique_VolcanicMonster_Ice_IceAttack": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_VolcanicMonster_Ice_IceAttack_TextData",
+            "SourceString": "\u30d5\u30ed\u30b9\u30c8\u30d0\u30fc\u30b9\u30c8",
+            "LocalizedString": "\u30d5\u30ed\u30b9\u30c8\u30d0\u30fc\u30b9\u30c8"
+        }
+    },
+    "ACTION_SKILL_Unique_WeaselDragon_FlyingTackle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_WeaselDragon_FlyingTackle_TextData",
+            "SourceString": "\u30ed\u30b1\u30c3\u30c8\u30bf\u30c3\u30af\u30eb",
+            "LocalizedString": "\u30ed\u30b1\u30c3\u30c8\u30bf\u30c3\u30af\u30eb"
+        }
+    },
+    "ACTION_SKILL_Unique_Werewolf_Scratch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Werewolf_Scratch_TextData",
+            "SourceString": "\u30b8\u30e3\u30f3\u30d4\u30f3\u30b0\u30af\u30ed\u30fc",
+            "LocalizedString": "\u30b8\u30e3\u30f3\u30d4\u30f3\u30b0\u30af\u30ed\u30fc"
+        }
+    },
+    "ACTION_SKILL_Unique_WhiteTiger_IceScratch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_WhiteTiger_IceScratch_TextData",
+            "SourceString": "\u30d6\u30ea\u30b6\u30fc\u30c9\u30af\u30ed\u30fc",
+            "LocalizedString": "\u30d6\u30ea\u30b6\u30fc\u30c9\u30af\u30ed\u30fc"
+        }
+    },
+    "ACTION_SKILL_Unique_Yeti_SnowBall": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Yeti_SnowBall_TextData",
+            "SourceString": "\u30b9\u30ce\u30fc\u30dc\u30fc\u30ea\u30f3\u30b0",
+            "LocalizedString": "\u30b9\u30ce\u30fc\u30dc\u30fc\u30ea\u30f3\u30b0"
+        }
+    },
+    "ACTION_SKILL_Unique_Yeti_Grass": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_Yeti_Grass_TextData",
+            "SourceString": "\u30b0\u30e9\u30b9\u30dc\u30fc\u30ea\u30f3\u30b0",
+            "LocalizedString": "\u30b0\u30e9\u30b9\u30dc\u30fc\u30ea\u30f3\u30b0"
+        }
+    },
+    "ACTION_SKILL_PoisonFog": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_PoisonFog_TextData",
+            "SourceString": "\u30dd\u30a4\u30ba\u30f3\u30d5\u30a9\u30b0",
+            "LocalizedString": "\u30dd\u30a4\u30ba\u30f3\u30d5\u30a9\u30b0"
+        }
+    },
+    "ACTION_SKILL_HyperBeam": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_HyperBeam_TextData",
+            "SourceString": "\u30d1\u30eb\u30d6\u30e9\u30b9\u30c8",
+            "LocalizedString": "\u30d1\u30eb\u30d6\u30e9\u30b9\u30c8"
+        }
+    },
+    "ACTION_SKILL_PowerShot": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_PowerShot_TextData",
+            "SourceString": "\u30d1\u30ef\u30fc\u30b7\u30e7\u30c3\u30c8",
+            "LocalizedString": "\u30d1\u30ef\u30fc\u30b7\u30e7\u30c3\u30c8"
+        }
+    },
+    "ACTION_SKILL_PowerBall": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_PowerBall_TextData",
+            "SourceString": "\u30d1\u30ef\u30fc\u30dc\u30e0",
+            "LocalizedString": "\u30d1\u30ef\u30fc\u30dc\u30e0"
+        }
+    },
+    "ACTION_SKILL_SelfDestruct": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_SelfDestruct_TextData",
+            "SourceString": "\u81ea\u7206",
+            "LocalizedString": "\u81ea\u7206"
+        }
+    },
+    "ACTION_SKILL_SelfDestruct_Bee": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_SelfDestruct_Bee_TextData",
+            "SourceString": "\u30d3\u30fc\u30fb\u30af\u30ef\u30a4\u30a8\u30c3\u30c8",
+            "LocalizedString": "\u30d3\u30fc\u30fb\u30af\u30ef\u30a4\u30a8\u30c3\u30c8"
+        }
+    },
+    "ACTION_SKILL_SelfExplosion": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_SelfExplosion_TextData",
+            "SourceString": "\u30e1\u30ac\u30c8\u30f3\u81ea\u7206",
+            "LocalizedString": "\u30e1\u30ac\u30c8\u30f3\u81ea\u7206"
+        }
+    },
+    "ACTION_SKILL_Intimidate": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Intimidate_TextData",
+            "SourceString": "\u5a01\u5687",
+            "LocalizedString": "\u5a01\u5687"
+        }
+    },
+    "ACTION_SKILL_AirCanon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_AirCanon_TextData",
+            "SourceString": "\u30a8\u30a2\u30fc\u30ad\u30e3\u30ce\u30f3",
+            "LocalizedString": "\u30a8\u30a2\u30fc\u30ad\u30e3\u30ce\u30f3"
+        }
+    },
+    "ACTION_SKILL_StardustArrow": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_StardustArrow_TextData",
+            "SourceString": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30a2\u30ed\u30fc",
+            "LocalizedString": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30a2\u30ed\u30fc"
+        }
+    },
+    "ACTION_SKILL_FireBlast": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_FireBlast_TextData",
+            "SourceString": "\u30d5\u30a1\u30a4\u30a2\u30fc\u30b7\u30e7\u30c3\u30c8",
+            "LocalizedString": "\u30d5\u30a1\u30a4\u30a2\u30fc\u30b7\u30e7\u30c3\u30c8"
+        }
+    },
+    "ACTION_SKILL_Flamethrower": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Flamethrower_TextData",
+            "SourceString": "\u30d5\u30a1\u30a4\u30a2\u30fc\u30d6\u30ec\u30b9",
+            "LocalizedString": "\u30d5\u30a1\u30a4\u30a2\u30fc\u30d6\u30ec\u30b9"
+        }
+    },
+    "ACTION_SKILL_FireBall": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_FireBall_TextData",
+            "SourceString": "\u30d5\u30a1\u30a4\u30a2\u30fc\u30dc\u30fc\u30eb",
+            "LocalizedString": "\u30d5\u30a1\u30a4\u30a2\u30fc\u30dc\u30fc\u30eb"
+        }
+    },
+    "ACTION_SKILL_FlareArrow": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_FlareArrow_TextData",
+            "SourceString": "\u30d5\u30ec\u30a2\u30a2\u30ed\u30fc",
+            "LocalizedString": "\u30d5\u30ec\u30a2\u30a2\u30ed\u30fc"
+        }
+    },
+    "ACTION_SKILL_FireSeed": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_FireSeed_TextData",
+            "SourceString": "\u30b9\u30d7\u30ea\u30c3\u30c8\u30d5\u30a1\u30a4\u30a2\u30fc",
+            "LocalizedString": "\u30b9\u30d7\u30ea\u30c3\u30c8\u30d5\u30a1\u30a4\u30a2\u30fc"
+        }
+    },
+    "ACTION_SKILL_FlareTornado": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_FlareTornado_TextData",
+            "SourceString": "\u30d5\u30ec\u30a2\u30b9\u30c8\u30fc\u30e0",
+            "LocalizedString": "\u30d5\u30ec\u30a2\u30b9\u30c8\u30fc\u30e0"
+        }
+    },
+    "ACTION_SKILL_Inferno": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Inferno_TextData",
+            "SourceString": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
+            "LocalizedString": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce"
+        }
+    },
+    "ACTION_SKILL_WaterGun": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_WaterGun_TextData",
+            "SourceString": "\u30a2\u30af\u30a2\u30b7\u30e7\u30c3\u30c8",
+            "LocalizedString": "\u30a2\u30af\u30a2\u30b7\u30e7\u30c3\u30c8"
+        }
+    },
+    "ACTION_SKILL_WaterWave": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_WaterWave_TextData",
+            "SourceString": "\u9ad8\u5727\u6c34\u6483",
+            "LocalizedString": "\u9ad8\u5727\u6c34\u6483"
+        }
+    },
+    "ACTION_SKILL_HydroPump": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_HydroPump_TextData",
+            "SourceString": "\u30cf\u30a4\u30c9\u30ed\u30b9\u30c8\u30ea\u30fc\u30e0",
+            "LocalizedString": "\u30cf\u30a4\u30c9\u30ed\u30b9\u30c8\u30ea\u30fc\u30e0"
+        }
+    },
+    "ACTION_SKILL_WaterBall": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_WaterBall_TextData",
+            "SourceString": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30dc\u30e0",
+            "LocalizedString": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30dc\u30e0"
+        }
+    },
+    "ACTION_SKILL_TidalWave": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_TidalWave_TextData",
+            "SourceString": "\u30b3\u30fc\u30eb\u30a6\u30a7\u30fc\u30d6",
+            "LocalizedString": "\u30b3\u30fc\u30eb\u30a6\u30a7\u30fc\u30d6"
+        }
+    },
+    "ACTION_SKILL_AquaJet": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_AquaJet_TextData",
+            "SourceString": "\u30a6\u30a9\u30fc\u30bf\u30fc\u30b8\u30a7\u30c3\u30c8",
+            "LocalizedString": "\u30a6\u30a9\u30fc\u30bf\u30fc\u30b8\u30a7\u30c3\u30c8"
+        }
+    },
+    "ACTION_SKILL_BubbleShot": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_BubbleShot_TextData",
+            "SourceString": "\u30d0\u30d6\u30eb\u30b7\u30e7\u30c3\u30c8",
+            "LocalizedString": "\u30d0\u30d6\u30eb\u30b7\u30e7\u30c3\u30c8"
+        }
+    },
+    "ACTION_SKILL_AcidRain": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_AcidRain_TextData",
+            "SourceString": "\u30a2\u30b7\u30c3\u30c9\u30ec\u30a4\u30f3",
+            "LocalizedString": "\u30a2\u30b7\u30c3\u30c9\u30ec\u30a4\u30f3"
+        }
+    },
+    "ACTION_SKILL_WindCutter": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_WindCutter_TextData",
+            "SourceString": "\u30a6\u30a3\u30f3\u30c9\u30ab\u30c3\u30bf\u30fc",
+            "LocalizedString": "\u30a6\u30a3\u30f3\u30c9\u30ab\u30c3\u30bf\u30fc"
+        }
+    },
+    "ACTION_SKILL_GrassTornado": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_GrassTornado_TextData",
+            "SourceString": "\u30b0\u30e9\u30b9\u30c8\u30eb\u30cd\u30fc\u30c9",
+            "LocalizedString": "\u30b0\u30e9\u30b9\u30c8\u30eb\u30cd\u30fc\u30c9"
+        }
+    },
+    "ACTION_SKILL_SolarBeam": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_SolarBeam_TextData",
+            "SourceString": "\u30bd\u30fc\u30e9\u30fc\u30d6\u30e9\u30b9\u30c8",
+            "LocalizedString": "\u30bd\u30fc\u30e9\u30fc\u30d6\u30e9\u30b9\u30c8"
+        }
+    },
+    "ACTION_SKILL_SeedMachinegun": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_SeedMachinegun_TextData",
+            "SourceString": "\u30b7\u30fc\u30c9\u30de\u30b7\u30f3\u30ac\u30f3",
+            "LocalizedString": "\u30b7\u30fc\u30c9\u30de\u30b7\u30f3\u30ac\u30f3"
+        }
+    },
+    "ACTION_SKILL_SeedMine": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_SeedMine_TextData",
+            "SourceString": "\u30b7\u30fc\u30c9\u30de\u30a4\u30f3",
+            "LocalizedString": "\u30b7\u30fc\u30c9\u30de\u30a4\u30f3"
+        }
+    },
+    "ACTION_SKILL_RootAttack": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_RootAttack_TextData",
+            "SourceString": "\u30b9\u30d1\u30a4\u30f3\u30f4\u30a1\u30a4\u30f3",
+            "LocalizedString": "\u30b9\u30d1\u30a4\u30f3\u30f4\u30a1\u30a4\u30f3"
+        }
+    },
+    "ACTION_SKILL_SpecialCutter": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_SpecialCutter_TextData",
+            "SourceString": "\u30de\u30eb\u30c1\u30ab\u30c3\u30bf\u30fc",
+            "LocalizedString": "\u30de\u30eb\u30c1\u30ab\u30c3\u30bf\u30fc"
+        }
+    },
+    "ACTION_SKILL_ThunderRain": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_ThunderRain_TextData",
+            "SourceString": "\u30b5\u30f3\u30c0\u30fc\u30ec\u30a4\u30f3",
+            "LocalizedString": "\u30b5\u30f3\u30c0\u30fc\u30ec\u30a4\u30f3"
+        }
+    },
+    "ACTION_SKILL_ThunderBall": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_ThunderBall_TextData",
+            "SourceString": "\u30b5\u30f3\u30c0\u30fc\u30dc\u30fc\u30eb",
+            "LocalizedString": "\u30b5\u30f3\u30c0\u30fc\u30dc\u30fc\u30eb"
+        }
+    },
+    "ACTION_SKILL_LineThunder": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_LineThunder_TextData",
+            "SourceString": "\u30e9\u30a4\u30f3\u30b5\u30f3\u30c0\u30fc",
+            "LocalizedString": "\u30e9\u30a4\u30f3\u30b5\u30f3\u30c0\u30fc"
+        }
+    },
+    "ACTION_SKILL_CrossThunder": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_CrossThunder_TextData",
+            "SourceString": "\u30af\u30ed\u30b9\u30b5\u30f3\u30c0\u30fc",
+            "LocalizedString": "\u30af\u30ed\u30b9\u30b5\u30f3\u30c0\u30fc"
+        }
+    },
+    "ACTION_SKILL_ThreeThunder": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_ThreeThunder_TextData",
+            "SourceString": "\u30c8\u30e9\u30a4\u30b5\u30f3\u30c0\u30fc",
+            "LocalizedString": "\u30c8\u30e9\u30a4\u30b5\u30f3\u30c0\u30fc"
+        }
+    },
+    "ACTION_SKILL_ElecWave": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_ElecWave_TextData",
+            "SourceString": "\u30b7\u30e7\u30c3\u30af\u30a6\u30a7\u30fc\u30d6",
+            "LocalizedString": "\u30b7\u30e7\u30c3\u30af\u30a6\u30a7\u30fc\u30d6"
+        }
+    },
+    "ACTION_SKILL_Thunderbolt": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Thunderbolt_TextData",
+            "SourceString": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30dc\u30eb\u30c8",
+            "LocalizedString": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30dc\u30eb\u30c8"
+        }
+    },
+    "ACTION_SKILL_ThunderFunnel": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_ThunderFunnel_TextData",
+            "SourceString": "\u30d7\u30e9\u30ba\u30de\u30d5\u30a1\u30f3\u30cd\u30eb",
+            "LocalizedString": "\u30d7\u30e9\u30ba\u30de\u30d5\u30a1\u30f3\u30cd\u30eb"
+        }
+    },
+    "ACTION_SKILL_SpreadPulse": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_SpreadPulse_TextData",
+            "SourceString": "\u30b9\u30d1\u30fc\u30af\u30b7\u30e7\u30c3\u30c8",
+            "LocalizedString": "\u30b9\u30d1\u30fc\u30af\u30b7\u30e7\u30c3\u30c8"
+        }
+    },
+    "ACTION_SKILL_LockonLaser": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_LockonLaser_TextData",
+            "SourceString": "\u30ed\u30c3\u30af\u30aa\u30f3\u30ec\u30fc\u30b6\u30fc",
+            "LocalizedString": "\u30ed\u30c3\u30af\u30aa\u30f3\u30ec\u30fc\u30b6\u30fc"
+        }
+    },
+    "ACTION_SKILL_LightningStrike": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_LightningStrike_TextData",
+            "SourceString": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30b9\u30c8\u30e9\u30a4\u30af",
+            "LocalizedString": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30b9\u30c8\u30e9\u30a4\u30af"
+        }
+    },
+    "ACTION_SKILL_IceMissile": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_IceMissile_TextData",
+            "SourceString": "\u30a2\u30a4\u30b9\u30df\u30b5\u30a4\u30eb",
+            "LocalizedString": "\u30a2\u30a4\u30b9\u30df\u30b5\u30a4\u30eb"
+        }
+    },
+    "ACTION_SKILL_BlizzardLance": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_BlizzardLance_TextData",
+            "SourceString": "\u30a2\u30a4\u30b9\u30d0\u30fc\u30b0",
+            "LocalizedString": "\u30a2\u30a4\u30b9\u30d0\u30fc\u30b0"
+        }
+    },
+    "ACTION_SKILL_Snowstorm": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Snowstorm_TextData",
+            "SourceString": "\u30db\u30ef\u30a4\u30c8\u30a2\u30a6\u30c8",
+            "LocalizedString": "\u30db\u30ef\u30a4\u30c8\u30a2\u30a6\u30c8"
+        }
+    },
+    "ACTION_SKILL_IcicleThrow": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_IcicleThrow_TextData",
+            "SourceString": "\u30d6\u30ea\u30b6\u30fc\u30c9\u30b9\u30d1\u30a4\u30af",
+            "LocalizedString": "\u30d6\u30ea\u30b6\u30fc\u30c9\u30b9\u30d1\u30a4\u30af"
+        }
+    },
+    "ACTION_SKILL_IceBlade": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_IceBlade_TextData",
+            "SourceString": "\u30a2\u30a4\u30b9\u30ab\u30c3\u30bf\u30fc",
+            "LocalizedString": "\u30a2\u30a4\u30b9\u30ab\u30c3\u30bf\u30fc"
+        }
+    },
+    "ACTION_SKILL_FrostBreath": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_FrostBreath_TextData",
+            "SourceString": "\u30b3\u30fc\u30eb\u30c9\u30d6\u30ec\u30b9",
+            "LocalizedString": "\u30b3\u30fc\u30eb\u30c9\u30d6\u30ec\u30b9"
+        }
+    },
+    "ACTION_SKILL_DiamondFall": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DiamondFall_TextData",
+            "SourceString": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9\u30d5\u30a9\u30fc\u30eb",
+            "LocalizedString": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9\u30d5\u30a9\u30fc\u30eb"
+        }
+    },
+    "ACTION_SKILL_SandTornado": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_SandTornado_TextData",
+            "SourceString": "\u30b5\u30f3\u30c9\u30c8\u30eb\u30cd\u30fc\u30c9",
+            "LocalizedString": "\u30b5\u30f3\u30c9\u30c8\u30eb\u30cd\u30fc\u30c9"
+        }
+    },
+    "ACTION_SKILL_ThrowRock": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_ThrowRock_TextData",
+            "SourceString": "\u30b9\u30c8\u30fc\u30f3\u30ad\u30e3\u30ce\u30f3",
+            "LocalizedString": "\u30b9\u30c8\u30fc\u30f3\u30ad\u30e3\u30ce\u30f3"
+        }
+    },
+    "ACTION_SKILL_RockLance": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_RockLance_TextData",
+            "SourceString": "\u30ed\u30c3\u30af\u30e9\u30f3\u30b9",
+            "LocalizedString": "\u30ed\u30c3\u30af\u30e9\u30f3\u30b9"
+        }
+    },
+    "ACTION_SKILL_MudShot": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_MudShot_TextData",
+            "SourceString": "\u30de\u30c3\u30c9\u30b7\u30e5\u30fc\u30c8",
+            "LocalizedString": "\u30de\u30c3\u30c9\u30b7\u30e5\u30fc\u30c8"
+        }
+    },
+    "ACTION_SKILL_StoneShotgun": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_StoneShotgun_TextData",
+            "SourceString": "\u30b9\u30c8\u30fc\u30f3\u30d6\u30e9\u30b9\u30c8",
+            "LocalizedString": "\u30b9\u30c8\u30fc\u30f3\u30d6\u30e9\u30b9\u30c8"
+        }
+    },
+    "ACTION_SKILL_Tremor": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Tremor_TextData",
+            "SourceString": "\u30d0\u30fc\u30b9\u30c8\u30ed\u30c3\u30af",
+            "LocalizedString": "\u30d0\u30fc\u30b9\u30c8\u30ed\u30c3\u30af"
+        }
+    },
+    "ACTION_SKILL_DarkLaser": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DarkLaser_TextData",
+            "SourceString": "\u30c0\u30fc\u30af\u30ec\u30fc\u30b6\u30fc",
+            "LocalizedString": "\u30c0\u30fc\u30af\u30ec\u30fc\u30b6\u30fc"
+        }
+    },
+    "ACTION_SKILL_DarkWave": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DarkWave_TextData",
+            "SourceString": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9\u30c8",
+            "LocalizedString": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9\u30c8"
+        }
+    },
+    "ACTION_SKILL_Psychokinesis": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Psychokinesis_TextData",
+            "SourceString": "\u30b5\u30a4\u30b3\u30b0\u30e9\u30d3\u30c6\u30a3",
+            "LocalizedString": "\u30b5\u30a4\u30b3\u30b0\u30e9\u30d3\u30c6\u30a3"
+        }
+    },
+    "ACTION_SKILL_ShadowBall": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_ShadowBall_TextData",
+            "SourceString": "\u30ca\u30a4\u30c8\u30e1\u30a2\u30dc\u30fc\u30eb",
+            "LocalizedString": "\u30ca\u30a4\u30c8\u30e1\u30a2\u30dc\u30fc\u30eb"
+        }
+    },
+    "ACTION_SKILL_GhostFlame": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_GhostFlame_TextData",
+            "SourceString": "\u30b9\u30d4\u30ea\u30c3\u30c8\u30d5\u30ec\u30a4\u30e0",
+            "LocalizedString": "\u30b9\u30d4\u30ea\u30c3\u30c8\u30d5\u30ec\u30a4\u30e0"
+        }
+    },
+    "ACTION_SKILL_PoisonShot": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_PoisonShot_TextData",
+            "SourceString": "\u30dd\u30a4\u30ba\u30f3\u30b7\u30e5\u30fc\u30c8",
+            "LocalizedString": "\u30dd\u30a4\u30ba\u30f3\u30b7\u30e5\u30fc\u30c8"
+        }
+    },
+    "ACTION_SKILL_DarkBall": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DarkBall_TextData",
+            "SourceString": "\u30c0\u30fc\u30af\u30dc\u30fc\u30eb",
+            "LocalizedString": "\u30c0\u30fc\u30af\u30dc\u30fc\u30eb"
+        }
+    },
+    "ACTION_SKILL_DarkLegion": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DarkLegion_TextData",
+            "SourceString": "\u30c0\u30fc\u30af\u30a6\u30a3\u30b9\u30d7",
+            "LocalizedString": "\u30c0\u30fc\u30af\u30a6\u30a3\u30b9\u30d7"
+        }
+    },
+    "ACTION_SKILL_DarkFog": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DarkFog_TextData",
+            "SourceString": "\u30c0\u30fc\u30af\u30d5\u30a9\u30b0",
+            "LocalizedString": "\u30c0\u30fc\u30af\u30d5\u30a9\u30b0"
+        }
+    },
+    "ACTION_SKILL_DragonMeteor": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DragonMeteor_TextData",
+            "SourceString": "\u30c9\u30e9\u30b4\u30f3\u30e1\u30c6\u30aa",
+            "LocalizedString": "\u30c9\u30e9\u30b4\u30f3\u30e1\u30c6\u30aa"
+        }
+    },
+    "ACTION_SKILL_DragonBreath": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DragonBreath_TextData",
+            "SourceString": "\u30c9\u30e9\u30b4\u30f3\u30d6\u30ec\u30b9",
+            "LocalizedString": "\u30c9\u30e9\u30b4\u30f3\u30d6\u30ec\u30b9"
+        }
+    },
+    "ACTION_SKILL_DragonWave": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DragonWave_TextData",
+            "SourceString": "\u30c9\u30e9\u30b4\u30f3\u30d0\u30fc\u30b9\u30c8",
+            "LocalizedString": "\u30c9\u30e9\u30b4\u30f3\u30d0\u30fc\u30b9\u30c8"
+        }
+    },
+    "ACTION_SKILL_DragonCanon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DragonCanon_TextData",
+            "SourceString": "\u30c9\u30e9\u30b4\u30f3\u30ad\u30e3\u30ce\u30f3",
+            "LocalizedString": "\u30c9\u30e9\u30b4\u30f3\u30ad\u30e3\u30ce\u30f3"
+        }
+    },
+    "ACTION_SKILL_BeamSlicer": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_BeamSlicer_TextData",
+            "SourceString": "\u30d3\u30fc\u30e0\u30b9\u30e9\u30a4\u30b5\u30fc",
+            "LocalizedString": "\u30d3\u30fc\u30e0\u30b9\u30e9\u30a4\u30b5\u30fc"
+        }
+    },
+    "ACTION_SKILL_Commet": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Commet_TextData",
+            "SourceString": "\u30b3\u30e1\u30c3\u30c8",
+            "LocalizedString": "\u30b3\u30e1\u30c3\u30c8"
+        }
+    },
+    "PASSIVE_Attack_ACC_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Attack_ACC_up1_TextData",
+            "SourceString": "\u653b\u6483\u5897\u52a0Lv1",
+            "LocalizedString": "\u653b\u6483\u5897\u52a0Lv1"
+        }
+    },
+    "PASSIVE_Attack_ACC_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Attack_ACC_up2_TextData",
+            "SourceString": "\u653b\u6483\u5897\u52a0Lv2",
+            "LocalizedString": "\u653b\u6483\u5897\u52a0Lv2"
+        }
+    },
+    "PASSIVE_Attack_ACC_up3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Attack_ACC_up3_TextData",
+            "SourceString": "\u653b\u6483\u5897\u52a0Lv3",
+            "LocalizedString": "\u653b\u6483\u5897\u52a0Lv3"
+        }
+    },
+    "PASSIVE_HP_ACC_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_HP_ACC_up1_TextData",
+            "SourceString": "\u4f53\u529b\u5897\u52a0Lv1",
+            "LocalizedString": "\u4f53\u529b\u5897\u52a0Lv1"
+        }
+    },
+    "PASSIVE_HP_ACC_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_HP_ACC_up2_TextData",
+            "SourceString": "\u4f53\u529b\u5897\u52a0Lv2",
+            "LocalizedString": "\u4f53\u529b\u5897\u52a0Lv2"
+        }
+    },
+    "PASSIVE_HP_ACC_up3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_HP_ACC_up3_TextData",
+            "SourceString": "\u4f53\u529b\u5897\u52a0Lv3",
+            "LocalizedString": "\u4f53\u529b\u5897\u52a0Lv3"
+        }
+    },
+    "PASSIVE_defense_ACC_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_defense_ACC_up1_TextData",
+            "SourceString": "\u9632\u5fa1\u5897\u52a0Lv1",
+            "LocalizedString": "\u9632\u5fa1\u5897\u52a0Lv1"
+        }
+    },
+    "PASSIVE_defense_ACC_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_defense_ACC_up2_TextData",
+            "SourceString": "\u9632\u5fa1\u5897\u52a0Lv2",
+            "LocalizedString": "\u9632\u5fa1\u5897\u52a0Lv2"
+        }
+    },
+    "PASSIVE_defense_ACC_up3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_defense_ACC_up3_TextData",
+            "SourceString": "\u9632\u5fa1\u5897\u52a0Lv3",
+            "LocalizedString": "\u9632\u5fa1\u5897\u52a0Lv3"
+        }
+    },
+    "PASSIVE_WorkSpeed_ACC_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_WorkSpeed_ACC_up1_TextData",
+            "SourceString": "\u9ad8\u901f\u4f5c\u696dLv1",
+            "LocalizedString": "\u9ad8\u901f\u4f5c\u696dLv1"
+        }
+    },
+    "PASSIVE_WorkSpeed_ACC_up2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_WorkSpeed_ACC_up2_TextData",
+            "SourceString": "\u9ad8\u901f\u4f5c\u696dLv2",
+            "LocalizedString": "\u9ad8\u901f\u4f5c\u696dLv2"
+        }
+    },
+    "PASSIVE_WorkSpeed_ACC_up3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_WorkSpeed_ACC_up3_TextData",
+            "SourceString": "\u9ad8\u901f\u4f5c\u696dLv3",
+            "LocalizedString": "\u9ad8\u901f\u4f5c\u696dLv3"
+        }
+    },
+    "PASSIVE_MoveSpeed_ACC_up_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MoveSpeed_ACC_up_1_TextData",
+            "SourceString": "\u79fb\u52d5\u901f\u5ea6\u5897\u52a0Lv1",
+            "LocalizedString": "\u79fb\u52d5\u901f\u5ea6\u5897\u52a0Lv1"
+        }
+    },
+    "PASSIVE_MoveSpeed_ACC_up_2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MoveSpeed_ACC_up_2_TextData",
+            "SourceString": "\u79fb\u52d5\u901f\u5ea6\u5897\u52a0Lv2",
+            "LocalizedString": "\u79fb\u52d5\u901f\u5ea6\u5897\u52a0Lv2"
+        }
+    },
+    "PASSIVE_MoveSpeed_ACC_up_3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_MoveSpeed_ACC_up_3_TextData",
+            "SourceString": "\u79fb\u52d5\u901f\u5ea6\u5897\u52a0Lv3",
+            "LocalizedString": "\u79fb\u52d5\u901f\u5ea6\u5897\u52a0Lv3"
+        }
+    },
+    "PASSIVE_PAL_ElementPassive_Test": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_ElementPassive_Test_TextData",
+            "SourceString": "\u30d1\u30fc\u30c8\u30ca\u30fc\u30b9\u30ad\u30eb\uff1a\u5c5e\u6027\u30d1\u30c3\u30b7\u30d6",
+            "LocalizedString": "\u30d1\u30fc\u30c8\u30ca\u30fc\u30b9\u30ad\u30eb\uff1a\u5c5e\u6027\u30d1\u30c3\u30b7\u30d6"
+        }
+    },
+    "PASSIVE_PAL_TribePassive_Test": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_PAL_TribePassive_Test_TextData",
+            "SourceString": "\u30d1\u30fc\u30c8\u30ca\u30fc\u30b9\u30ad\u30eb\uff1a\u7a2e\u65cf\u30d1\u30c3\u30b7\u30d6",
+            "LocalizedString": "\u30d1\u30fc\u30c8\u30ca\u30fc\u30b9\u30ad\u30eb\uff1a\u7a2e\u65cf\u30d1\u30c3\u30b7\u30d6"
+        }
+    },
+    "ACTION_SKILL_Unique_BluePlatypus_Toboggan": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_BluePlatypus_Toboggan_TextData",
+            "SourceString": "\u30b5\u30fc\u30d5\u30a3\u30f3\u30bf\u30c3\u30af\u30eb",
+            "LocalizedString": "\u30b5\u30fc\u30d5\u30a3\u30f3\u30bf\u30c3\u30af\u30eb"
+        }
+    },
+    "ACTION_SKILL_Partner_Ganesha_HealWater": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Partner_Ganesha_HealWater_TextData",
+            "SourceString": "\u7652\u3057\u306e\u30b7\u30e3\u30ef\u30fc",
+            "LocalizedString": "\u7652\u3057\u306e\u30b7\u30e3\u30ef\u30fc"
+        }
+    },
+    "PARTNERSKILL_Alpaca": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Alpaca_TextData",
+            "SourceString": "\u30d1\u30ab\u30d1\u30ab\u30a6\u30fc\u30eb",
+            "LocalizedString": "\u30d1\u30ab\u30d1\u30ab\u30a6\u30fc\u30eb"
+        }
+    },
+    "PARTNERSKILL_AmaterasuWolf": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_AmaterasuWolf_TextData",
+            "SourceString": "\u5fc3\u982d\u6ec5\u5374",
+            "LocalizedString": "\u5fc3\u982d\u6ec5\u5374"
+        }
+    },
+    "PARTNERSKILL_Anubis": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Anubis_TextData",
+            "SourceString": "\u7802\u6f20\u306e\u5b88\u8b77\u795e",
+            "LocalizedString": "\u7802\u6f20\u306e\u5b88\u8b77\u795e"
+        }
+    },
+    "PARTNERSKILL_Baphomet": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Baphomet_TextData",
+            "SourceString": "\u708e\u722a\u306e\u72e9\u4eba",
+            "LocalizedString": "\u708e\u722a\u306e\u72e9\u4eba"
+        }
+    },
+    "PARTNERSKILL_Baphomet_Dark": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Baphomet_Dark_TextData",
+            "SourceString": "\u9ed2\u722a\u306e\u72e9\u4eba",
+            "LocalizedString": "\u9ed2\u722a\u306e\u72e9\u4eba"
+        }
+    },
+    "PARTNERSKILL_Bastet": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Bastet_TextData",
+            "SourceString": "\u732b\u306b\u5c0f\u5224",
+            "LocalizedString": "\u732b\u306b\u5c0f\u5224"
+        }
+    },
+    "PARTNERSKILL_Bastet_Ice": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Bastet_Ice_TextData",
+            "SourceString": "\u732b\u306b\u5c0f\u5224",
+            "LocalizedString": "\u732b\u306b\u5c0f\u5224"
+        }
+    },
+    "PARTNERSKILL_BeardedDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BeardedDragon_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_BerryGoat": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BerryGoat_TextData",
+            "SourceString": "\u30d9\u30ea\u30fc\u6458\u307f",
+            "LocalizedString": "\u30d9\u30ea\u30fc\u6458\u307f"
+        }
+    },
+    "PARTNERSKILL_BirdDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BirdDragon_TextData",
+            "SourceString": "\u7a7a\u304b\u3089\u306e\u8972\u6483\u8005",
+            "LocalizedString": "\u7a7a\u304b\u3089\u306e\u8972\u6483\u8005"
+        }
+    },
+    "PARTNERSKILL_BirdDragon_Ice": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BirdDragon_Ice_TextData",
+            "SourceString": "\u7a7a\u304b\u3089\u306e\u8972\u6483\u8005",
+            "LocalizedString": "\u7a7a\u304b\u3089\u306e\u8972\u6483\u8005"
+        }
+    },
+    "PARTNERSKILL_BlackCentaur": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BlackCentaur_TextData",
+            "SourceString": "\u6df1\u6df5\u306e\u9ed2\u9a0e\u58eb",
+            "LocalizedString": "\u6df1\u6df5\u306e\u9ed2\u9a0e\u58eb"
+        }
+    },
+    "PARTNERSKILL_BlackFurDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BlackFurDragon_TextData",
+            "SourceString": "\u9ed2\u7ffc\u306e\u5c04\u6483\u8005",
+            "LocalizedString": "\u9ed2\u7ffc\u306e\u5c04\u6483\u8005"
+        }
+    },
+    "PARTNERSKILL_BlackGriffon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BlackGriffon_TextData",
+            "SourceString": "\u6539\u9020\u907a\u4f1d\u5b50",
+            "LocalizedString": "\u6539\u9020\u907a\u4f1d\u5b50"
+        }
+    },
+    "PARTNERSKILL_BlackMetalDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BlackMetalDragon_TextData",
+            "SourceString": "\u9ed2\u93a7\u7adc",
+            "LocalizedString": "\u9ed2\u93a7\u7adc"
+        }
+    },
+    "PARTNERSKILL_BlueDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BlueDragon_TextData",
+            "SourceString": "\u6c34\u7fd4\u306e\u821e",
+            "LocalizedString": "\u6c34\u7fd4\u306e\u821e"
+        }
+    },
+    "PARTNERSKILL_BluePlatypus": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BluePlatypus_TextData",
+            "SourceString": "\u30b5\u30fc\u30d5\u30a3\u30f3\u30bf\u30c3\u30af\u30eb",
+            "LocalizedString": "\u30b5\u30fc\u30d5\u30a3\u30f3\u30bf\u30c3\u30af\u30eb"
+        }
+    },
+    "PARTNERSKILL_Boar": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Boar_TextData",
+            "SourceString": "\u77f3\u982d",
+            "LocalizedString": "\u77f3\u982d"
+        }
+    },
+    "PARTNERSKILL_Carbunclo": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Carbunclo_TextData",
+            "SourceString": "\u30af\u30eb\u30ea\u30b9\u30fb\u30ea\u30b3\u30a4\u30eb",
+            "LocalizedString": "\u30af\u30eb\u30ea\u30b9\u30fb\u30ea\u30b3\u30a4\u30eb"
+        }
+    },
+    "PARTNERSKILL_CatBat": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_CatBat_TextData",
+            "SourceString": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc",
+            "LocalizedString": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc"
+        }
+    },
+    "PARTNERSKILL_CatMage": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_CatMage_TextData",
+            "SourceString": "\u9b54\u5c0e\u66f8\u30b3\u30ec\u30af\u30bf\u30fc",
+            "LocalizedString": "\u9b54\u5c0e\u66f8\u30b3\u30ec\u30af\u30bf\u30fc"
+        }
+    },
+    "PARTNERSKILL_CatVampire": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_CatVampire_TextData",
+            "SourceString": "\u30e9\u30a4\u30d5\u30b9\u30c6\u30a3\u30fc\u30eb",
+            "LocalizedString": "\u30e9\u30a4\u30d5\u30b9\u30c6\u30a3\u30fc\u30eb"
+        }
+    },
+    "PARTNERSKILL_CaptainPenguin": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_CaptainPenguin_TextData",
+            "SourceString": "\u52c7\u6562\u306a\u308b\u6d77\u306e\u6226\u58eb",
+            "LocalizedString": "\u52c7\u6562\u306a\u308b\u6d77\u306e\u6226\u58eb"
+        }
+    },
+    "PARTNERSKILL_ChickenPal": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_ChickenPal_TextData",
+            "SourceString": "\u30bf\u30de\u30b4\u7523\u51fa",
+            "LocalizedString": "\u30bf\u30de\u30b4\u7523\u51fa"
+        }
+    },
+    "PARTNERSKILL_ColorfulBird": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_ColorfulBird_TextData",
+            "SourceString": "\u30a8\u30c3\u30b0\u30dc\u30e0\u30e9\u30f3\u30c1\u30e3\u30fc",
+            "LocalizedString": "\u30a8\u30c3\u30b0\u30dc\u30e0\u30e9\u30f3\u30c1\u30e3\u30fc"
+        }
+    },
+    "PARTNERSKILL_CowPal": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_CowPal_TextData",
+            "SourceString": "\u30df\u30eb\u30af\u7523\u51fa",
+            "LocalizedString": "\u30df\u30eb\u30af\u7523\u51fa"
+        }
+    },
+    "PARTNERSKILL_CuteButterfly": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_CuteButterfly_TextData",
+            "SourceString": "\u306a\u305e\u306e\u9c57\u7c89",
+            "LocalizedString": "\u306a\u305e\u306e\u9c57\u7c89"
+        }
+    },
+    "PARTNERSKILL_CuteFox": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_CuteFox_TextData",
+            "SourceString": "\u3053\u3053\u6398\u308c\u30b3\u30f3\u30b3\u30f3",
+            "LocalizedString": "\u3053\u3053\u6398\u308c\u30b3\u30f3\u30b3\u30f3"
+        }
+    },
+    "PARTNERSKILL_CuteMole": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_CuteMole_TextData",
+            "SourceString": "\u9271\u77f3\u63a2\u77e5",
+            "LocalizedString": "\u9271\u77f3\u63a2\u77e5"
+        }
+    },
+    "PARTNERSKILL_DarkCrow": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_DarkCrow_TextData",
+            "SourceString": "\u30c6\u30ec\u30c4\u30c4\u30ad",
+            "LocalizedString": "\u30c6\u30ec\u30c4\u30c4\u30ad"
+        }
+    },
+    "PARTNERSKILL_DarkMutant": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_DarkMutant_TextData",
+            "SourceString": "\u30c6\u30ec\u30ad\u30a8\u30af\u30b9\u30d7\u30ed\u30fc\u30b8\u30e7\u30f3",
+            "LocalizedString": "\u30c6\u30ec\u30ad\u30a8\u30af\u30b9\u30d7\u30ed\u30fc\u30b8\u30e7\u30f3"
+        }
+    },
+    "PARTNERSKILL_DarkScorpion": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_DarkScorpion_TextData",
+            "SourceString": "\u30b9\u30c6\u30a3\u30fc\u30eb\u30b9\u30b3\u30fc\u30d4\u30aa\u30f3",
+            "LocalizedString": "\u30b9\u30c6\u30a3\u30fc\u30eb\u30b9\u30b3\u30fc\u30d4\u30aa\u30f3"
+        }
+    },
+    "PARTNERSKILL_Deer": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Deer_TextData",
+            "SourceString": "\u68ee\u306e\u5b88\u8b77\u8005",
+            "LocalizedString": "\u68ee\u306e\u5b88\u8b77\u8005"
+        }
+    },
+    "PARTNERSKILL_Deer_Ground": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Deer_Ground_TextData",
+            "SourceString": "\u91d1\u8272\u306e\u68ee\u306e\u5b88\u8b77\u8005",
+            "LocalizedString": "\u91d1\u8272\u306e\u68ee\u306e\u5b88\u8b77\u8005"
+        }
+    },
+    "PARTNERSKILL_DreamDemon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_DreamDemon_TextData",
+            "SourceString": "\u5922\u8272\u30c1\u30a7\u30a4\u30b5\u30fc",
+            "LocalizedString": "\u5922\u8272\u30c1\u30a7\u30a4\u30b5\u30fc"
+        }
+    },
+    "PARTNERSKILL_DrillGame": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_DrillGame_TextData",
+            "SourceString": "\u30c9\u30ea\u30eb\u30af\u30e9\u30c3\u30b7\u30e3\u30fc",
+            "LocalizedString": "\u30c9\u30ea\u30eb\u30af\u30e9\u30c3\u30b7\u30e3\u30fc"
+        }
+    },
+    "PARTNERSKILL_Eagle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Eagle_TextData",
+            "SourceString": "\u30a8\u30a2\u30e0\u30eb\u30b0\u30e9\u30a4\u30c9",
+            "LocalizedString": "\u30a8\u30a2\u30e0\u30eb\u30b0\u30e9\u30a4\u30c9"
+        }
+    },
+    "PARTNERSKILL_ElecCat": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_ElecCat_TextData",
+            "SourceString": "\u9759\u96fb\u6c17",
+            "LocalizedString": "\u9759\u96fb\u6c17"
+        }
+    },
+    "PARTNERSKILL_ElecLion": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_ElecLion_TextData",
+            "SourceString": "\u30e9\u30a4\u30c9",
+            "LocalizedString": "\u30e9\u30a4\u30c9"
+        }
+    },
+    "PARTNERSKILL_ElecPanda": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_ElecPanda_TextData",
+            "SourceString": "\u9ec4\u8272\u3044\u91cd\u6226\u8eca",
+            "LocalizedString": "\u9ec4\u8272\u3044\u91cd\u6226\u8eca"
+        }
+    },
+    "PARTNERSKILL_FairyDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FairyDragon_TextData",
+            "SourceString": "\u5fc3\u3084\u3055\u3057\u3044\u8056\u7adc",
+            "LocalizedString": "\u5fc3\u3084\u3055\u3057\u3044\u8056\u7adc"
+        }
+    },
+    "PARTNERSKILL_FairyDragon_Water": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FairyDragon_Water_TextData",
+            "SourceString": "\u5fc3\u3084\u3055\u3057\u3044\u6c34\u7adc",
+            "LocalizedString": "\u5fc3\u3084\u3055\u3057\u3044\u6c34\u7adc"
+        }
+    },
+    "PARTNERSKILL_FengyunDeeper": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FengyunDeeper_TextData",
+            "SourceString": "\u98a8\u96f2",
+            "LocalizedString": "\u98a8\u96f2"
+        }
+    },
+    "PARTNERSKILL_FireKirin": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FireKirin_TextData",
+            "SourceString": "\u8d64\u514e\u99ac",
+            "LocalizedString": "\u8d64\u514e\u99ac"
+        }
+    },
+    "PARTNERSKILL_FireKirin_Dark": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FireKirin_Dark_TextData",
+            "SourceString": "\u9ed2\u514e\u99ac",
+            "LocalizedString": "\u9ed2\u514e\u99ac"
+        }
+    },
+    "PARTNERSKILL_FlameBuffalo": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FlameBuffalo_TextData",
+            "SourceString": "\u307d\u304b\u307d\u304b\u30dc\u30c7\u30a3",
+            "LocalizedString": "\u307d\u304b\u307d\u304b\u30dc\u30c7\u30a3"
+        }
+    },
+    "PARTNERSKILL_FlowerDinosaur": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FlowerDinosaur_TextData",
+            "SourceString": "\u82b1\u85ab\u308b\u7adc",
+            "LocalizedString": "\u82b1\u85ab\u308b\u7adc"
+        }
+    },
+    "PARTNERSKILL_FlowerDinosaur_Electric": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FlowerDinosaur_Electric_TextData",
+            "SourceString": "\u96f7\u83ef\u306e\u7adc",
+            "LocalizedString": "\u96f7\u83ef\u306e\u7adc"
+        }
+    },
+    "PARTNERSKILL_FlowerDoll": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FlowerDoll_TextData",
+            "SourceString": "\u82b1\u7cbe\u970a\u306e\u795d\u798f",
+            "LocalizedString": "\u82b1\u7cbe\u970a\u306e\u795d\u798f"
+        }
+    },
+    "PARTNERSKILL_FlowerRabbit": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FlowerRabbit_TextData",
+            "SourceString": "\u304a\u624b\u4f1d\u3044\u3046\u3055\u304e",
+            "LocalizedString": "\u304a\u624b\u4f1d\u3044\u3046\u3055\u304e"
+        }
+    },
+    "PARTNERSKILL_FlyingManta": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FlyingManta_TextData",
+            "SourceString": "\u305d\u3088\u98a8\u30b0\u30e9\u30a4\u30c0\u30fc",
+            "LocalizedString": "\u305d\u3088\u98a8\u30b0\u30e9\u30a4\u30c0\u30fc"
+        }
+    },
+    "PARTNERSKILL_FoxMage": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FoxMage_TextData",
+            "SourceString": "\u304a\u304d\u3064\u306d\u3055\u307e",
+            "LocalizedString": "\u304a\u304d\u3064\u306d\u3055\u307e"
+        }
+    },
+    "PARTNERSKILL_Ganesha": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Ganesha_TextData",
+            "SourceString": "\u7652\u3057\u306e\u30b7\u30e3\u30ef\u30fc",
+            "LocalizedString": "\u7652\u3057\u306e\u30b7\u30e3\u30ef\u30fc"
+        }
+    },
+    "PARTNERSKILL_Garm": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Garm_TextData",
+            "SourceString": "\u30ac\u30a6\u30e9\u30a4\u30c9",
+            "LocalizedString": "\u30ac\u30a6\u30e9\u30a4\u30c9"
+        }
+    },
+    "PARTNERSKILL_GhostBeast": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_GhostBeast_TextData",
+            "SourceString": "\u51a5\u754c\u306e\u4f7f\u8005",
+            "LocalizedString": "\u51a5\u754c\u306e\u4f7f\u8005"
+        }
+    },
+    "PARTNERSKILL_Gorilla": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Gorilla_TextData",
+            "SourceString": "\u30d5\u30eb\u30d1\u30ef\u30fc\u30b4\u30ea\u30e9\u30e2\u30fc\u30c9",
+            "LocalizedString": "\u30d5\u30eb\u30d1\u30ef\u30fc\u30b4\u30ea\u30e9\u30e2\u30fc\u30c9"
+        }
+    },
+    "PARTNERSKILL_GrassDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_GrassDragon_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_GrassMammoth": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_GrassMammoth_TextData",
+            "SourceString": "\u30ac\u30a4\u30a2\u30af\u30e9\u30c3\u30b7\u30e3\u30fc",
+            "LocalizedString": "\u30ac\u30a4\u30a2\u30af\u30e9\u30c3\u30b7\u30e3\u30fc"
+        }
+    },
+    "PARTNERSKILL_GrassMammoth_Ice": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_GrassMammoth_Ice_TextData",
+            "SourceString": "\u30a2\u30a4\u30b9\u30af\u30e9\u30c3\u30b7\u30e3\u30fc",
+            "LocalizedString": "\u30a2\u30a4\u30b9\u30af\u30e9\u30c3\u30b7\u30e3\u30fc"
+        }
+    },
+    "PARTNERSKILL_GrassPanda": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_GrassPanda_TextData",
+            "SourceString": "\u30b0\u30ec\u30d1\u30f3\u30c0",
+            "LocalizedString": "\u30b0\u30ec\u30d1\u30f3\u30c0"
+        }
+    },
+    "PARTNERSKILL_GrassPanda_Electric": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_GrassPanda_Electric_TextData",
+            "SourceString": "\u30b0\u30ec\u30d1\u30f3\u30c0",
+            "LocalizedString": "\u30b0\u30ec\u30d1\u30f3\u30c0"
+        }
+    },
+    "PARTNERSKILL_GrassRabbitMan": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_GrassRabbitMan_TextData",
+            "SourceString": "\u8349\u539f\u306e\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc",
+            "LocalizedString": "\u8349\u539f\u306e\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc"
+        }
+    },
+    "PARTNERSKILL_GuardianDog": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_GuardianDog_TextData",
+            "SourceString": "\u30e9\u30a4\u30c9",
+            "LocalizedString": "\u30e9\u30a4\u30c9"
+        }
+    },
+    "PARTNERSKILL_HadesBird": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_HadesBird_TextData",
+            "SourceString": "\u51a5\u5e9c\u306e\u7ffc",
+            "LocalizedString": "\u51a5\u5e9c\u306e\u7ffc"
+        }
+    },
+    "PARTNERSKILL_HawkBird": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_HawkBird_TextData",
+            "SourceString": "\u65c5\u306e\u304a\u4f9b",
+            "LocalizedString": "\u65c5\u306e\u304a\u4f9b"
+        }
+    },
+    "PARTNERSKILL_Hedgehog": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Hedgehog_TextData",
+            "SourceString": "\u30d3\u30ea\u30d3\u30ea\u30dc\u30e0",
+            "LocalizedString": "\u30d3\u30ea\u30d3\u30ea\u30dc\u30e0"
+        }
+    },
+    "PARTNERSKILL_Hedgehog_Ice": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Hedgehog_Ice_TextData",
+            "SourceString": "\u30ab\u30c1\u30b3\u30c1\u30dc\u30e0",
+            "LocalizedString": "\u30ab\u30c1\u30b3\u30c1\u30dc\u30e0"
+        }
+    },
+    "PARTNERSKILL_Horus": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Horus_TextData",
+            "SourceString": "\u707c\u71b1\u306e\u6355\u98df\u8005",
+            "LocalizedString": "\u707c\u71b1\u306e\u6355\u98df\u8005"
+        }
+    },
+    "PARTNERSKILL_IceDeer": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_IceDeer_TextData",
+            "SourceString": "\u3072\u3093\u3084\u308a\u30dc\u30c7\u30a3",
+            "LocalizedString": "\u3072\u3093\u3084\u308a\u30dc\u30c7\u30a3"
+        }
+    },
+    "PARTNERSKILL_IceFox": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_IceFox_TextData",
+            "SourceString": "\u30aa\u30fc\u30ed\u30e9\u306e\u5c0e\u304d",
+            "LocalizedString": "\u30aa\u30fc\u30ed\u30e9\u306e\u5c0e\u304d"
+        }
+    },
+    "PARTNERSKILL_IceHorse": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_IceHorse_TextData",
+            "SourceString": "\u6c37\u5929\u99ac",
+            "LocalizedString": "\u6c37\u5929\u99ac"
+        }
+    },
+    "PARTNERSKILL_IceHorse_Dark": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_IceHorse_Dark_TextData",
+            "SourceString": "\u9ed2\u5929\u99ac",
+            "LocalizedString": "\u9ed2\u5929\u99ac"
+        }
+    },
+    "PARTNERSKILL_JetDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_JetDragon_TextData",
+            "SourceString": "\u30a8\u30a2\u30ea\u30a2\u30eb\u30df\u30b5\u30a4\u30eb",
+            "LocalizedString": "\u30a8\u30a2\u30ea\u30a2\u30eb\u30df\u30b5\u30a4\u30eb"
+        }
+    },
+    "PARTNERSKILL_Kelpie": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Kelpie_TextData",
+            "SourceString": "\u6253\u3061\u6c34",
+            "LocalizedString": "\u6253\u3061\u6c34"
+        }
+    },
+    "PARTNERSKILL_Kelpie_Fire": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Kelpie_Fire_TextData",
+            "SourceString": "\u6253\u3061\u6eb6\u5ca9",
+            "LocalizedString": "\u6253\u3061\u6eb6\u5ca9"
+        }
+    },
+    "PARTNERSKILL_KingAlpaca": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_KingAlpaca_TextData",
+            "SourceString": "\u529b\u6301\u3061\u30ad\u30f3\u30b0",
+            "LocalizedString": "\u529b\u6301\u3061\u30ad\u30f3\u30b0"
+        }
+    },
+    "PARTNERSKILL_KingAlpaca_Ice": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_KingAlpaca_Ice_TextData",
+            "SourceString": "\u529b\u6301\u3061\u30ad\u30f3\u30b0",
+            "LocalizedString": "\u529b\u6301\u3061\u30ad\u30f3\u30b0"
+        }
+    },
+    "PARTNERSKILL_KingBahamut": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_KingBahamut_TextData",
+            "SourceString": "\u30de\u30b0\u30de\u30ab\u30a4\u30b6\u30fc",
+            "LocalizedString": "\u30de\u30b0\u30de\u30ab\u30a4\u30b6\u30fc"
+        }
+    },
+    "PARTNERSKILL_Kirin": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Kirin_TextData",
+            "SourceString": "\u75be\u98a8\u8fc5\u96f7",
+            "LocalizedString": "\u75be\u98a8\u8fc5\u96f7"
+        }
+    },
+    "PARTNERSKILL_Kitsunebi": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Kitsunebi_TextData",
+            "SourceString": "\u3060\u3063\u3053\u30d5\u30a1\u30a4\u30e4\u30fc",
+            "LocalizedString": "\u3060\u3063\u3053\u30d5\u30a1\u30a4\u30e4\u30fc"
+        }
+    },
+    "PARTNERSKILL_LazyDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_LazyDragon_TextData",
+            "SourceString": "\u30da\u30b3\u30da\u30b3\u30df\u30b5\u30a4\u30eb",
+            "LocalizedString": "\u30da\u30b3\u30da\u30b3\u30df\u30b5\u30a4\u30eb"
+        }
+    },
+    "PARTNERSKILL_LazyDragon_Electric": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_LazyDragon_Electric_TextData",
+            "SourceString": "\u30df\u30b5\u30a4\u30eb\u30d1\u30fc\u30ea\u30a3",
+            "LocalizedString": "\u30df\u30b5\u30a4\u30eb\u30d1\u30fc\u30ea\u30a3"
+        }
+    },
+    "PARTNERSKILL_LilyQueen": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_LilyQueen_TextData",
+            "SourceString": "\u8c4a\u7a63\u306e\u5973\u795e",
+            "LocalizedString": "\u8c4a\u7a63\u306e\u5973\u795e"
+        }
+    },
+    "PARTNERSKILL_LilyQueen_Dark": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_LilyQueen_Dark_TextData",
+            "SourceString": "\u5e7d\u5149\u306e\u5973\u795e",
+            "LocalizedString": "\u5e7d\u5149\u306e\u5973\u795e"
+        }
+    },
+    "PARTNERSKILL_LittleBriarRose": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_LittleBriarRose_TextData",
+            "SourceString": "\u59eb\u69d8\u306e\u8996\u7dda",
+            "LocalizedString": "\u59eb\u69d8\u306e\u8996\u7dda"
+        }
+    },
+    "PARTNERSKILL_LizardMan": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_LizardMan_TextData",
+            "SourceString": "\u7b2c\u516d\u611f",
+            "LocalizedString": "\u7b2c\u516d\u611f"
+        }
+    },
+    "PARTNERSKILL_LizardMan_Fire": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_LizardMan_Fire_TextData",
+            "SourceString": "\u7b2c\u516d\u611f",
+            "LocalizedString": "\u7b2c\u516d\u611f"
+        }
+    },
+    "PARTNERSKILL_Manticore": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Manticore_TextData",
+            "SourceString": "\u7344\u708e\u7345\u5b50",
+            "LocalizedString": "\u7344\u708e\u7345\u5b50"
+        }
+    },
+    "PARTNERSKILL_Manticore_Dark": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Manticore_Dark_TextData",
+            "SourceString": "\u9ed2\u708e\u7345\u5b50",
+            "LocalizedString": "\u9ed2\u708e\u7345\u5b50"
+        }
+    },
+    "PARTNERSKILL_Monkey": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Monkey_TextData",
+            "SourceString": "\u30a6\u30ad\u30a6\u30ad\u30e9\u30a4\u30d5\u30eb",
+            "LocalizedString": "\u30a6\u30ad\u30a6\u30ad\u30e9\u30a4\u30d5\u30eb"
+        }
+    },
+    "PARTNERSKILL_MopBaby": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_MopBaby_TextData",
+            "SourceString": "\u3082\u3075\u3082\u3075\u3082\u3075\u3082\u3075",
+            "LocalizedString": "\u3082\u3075\u3082\u3075\u3082\u3075\u3082\u3075"
+        }
+    },
+    "PARTNERSKILL_MopKing": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_MopKing_TextData",
+            "SourceString": "\u3082\u3075\u3082\u3075\u306e\u738b",
+            "LocalizedString": "\u3082\u3075\u3082\u3075\u306e\u738b"
+        }
+    },
+    "PARTNERSKILL_Mutant": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Mutant_TextData",
+            "SourceString": "\u30a2\u30f3\u30c1\u30b0\u30e9\u30d3\u30c6\u30a3",
+            "LocalizedString": "\u30a2\u30f3\u30c1\u30b0\u30e9\u30d3\u30c6\u30a3"
+        }
+    },
+    "PARTNERSKILL_NaughtyCat": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_NaughtyCat_TextData",
+            "SourceString": "\u3075\u304f\u3088\u304b\u30dc\u30c7\u30a3",
+            "LocalizedString": "\u3075\u304f\u3088\u304b\u30dc\u30c7\u30a3"
+        }
+    },
+    "PARTNERSKILL_NegativeKoala": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_NegativeKoala_TextData",
+            "SourceString": "\u30ab\u30d5\u30a7\u30a4\u30f3\u6442\u53d6",
+            "LocalizedString": "\u30ab\u30d5\u30a7\u30a4\u30f3\u6442\u53d6"
+        }
+    },
+    "PARTNERSKILL_NegativeOctopus": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_NegativeOctopus_TextData",
+            "SourceString": "\u30a4\u30ab\u63da\u3052",
+            "LocalizedString": "\u30a4\u30ab\u63da\u3052"
+        }
+    },
+    "PARTNERSKILL_NightFox": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_NightFox_TextData",
+            "SourceString": "\u30af\u30fc\u30c7\u30ec",
+            "LocalizedString": "\u30af\u30fc\u30c7\u30ec"
+        }
+    },
+    "PARTNERSKILL_Penguin": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Penguin_TextData",
+            "SourceString": "\u30da\u30f3\u30bf\u30de\u30e9\u30f3\u30c1\u30e3\u30fc",
+            "LocalizedString": "\u30da\u30f3\u30bf\u30de\u30e9\u30f3\u30c1\u30e3\u30fc"
+        }
+    },
+    "PARTNERSKILL_PinkCat": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_PinkCat_TextData",
+            "SourceString": "\u732b\u306e\u624b\u3082\u501f\u308a\u305f\u3044",
+            "LocalizedString": "\u732b\u306e\u624b\u3082\u501f\u308a\u305f\u3044"
+        }
+    },
+    "PARTNERSKILL_PinkKangaroo": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_PinkKangaroo_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_PinkLizard": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_PinkLizard_TextData",
+            "SourceString": "\u30cf\u30fc\u30c8\u30c9\u30ec\u30a4\u30f3",
+            "LocalizedString": "\u30cf\u30fc\u30c8\u30c9\u30ec\u30a4\u30f3"
+        }
+    },
+    "PARTNERSKILL_PinkRabbit": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_PinkRabbit_TextData",
+            "SourceString": "\u5668\u7528\u306a\u624b\u5148",
+            "LocalizedString": "\u5668\u7528\u306a\u624b\u5148"
+        }
+    },
+    "PARTNERSKILL_PlantSlime": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_PlantSlime_TextData",
+            "SourceString": "\u6728\u3053\u308a\u5fdc\u63f4",
+            "LocalizedString": "\u6728\u3053\u308a\u5fdc\u63f4"
+        }
+    },
+    "PARTNERSKILL_QueenBee": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_QueenBee_TextData",
+            "SourceString": "\u5973\u738b\u8702\u306e\u7d71\u7387",
+            "LocalizedString": "\u5973\u738b\u8702\u306e\u7d71\u7387"
+        }
+    },
+    "PARTNERSKILL_Ronin": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Ronin_TextData",
+            "SourceString": "\u7d2b\u96fb\u4e00\u9583",
+            "LocalizedString": "\u7d2b\u96fb\u4e00\u9583"
+        }
+    },
+    "PARTNERSKILL_RaijinDaughter": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_RaijinDaughter_TextData",
+            "SourceString": "\u30ab\u30df\u30ca\u30ea\u5a18",
+            "LocalizedString": "\u30ab\u30df\u30ca\u30ea\u5a18"
+        }
+    },
+    "PARTNERSKILL_RedArmorBird": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_RedArmorBird_TextData",
+            "SourceString": "\u30d5\u30ec\u30a4\u30e0\u30a6\u30a3\u30f3\u30b0",
+            "LocalizedString": "\u30d5\u30ec\u30a4\u30e0\u30a6\u30a3\u30f3\u30b0"
+        }
+    },
+    "PARTNERSKILL_RobinHood": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_RobinHood_TextData",
+            "SourceString": "\u9df9\u306e\u773c",
+            "LocalizedString": "\u9df9\u306e\u773c"
+        }
+    },
+    "PARTNERSKILL_RobinHood_Ground": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_RobinHood_Ground_TextData",
+            "SourceString": "\u9df9\u306e\u773c",
+            "LocalizedString": "\u9df9\u306e\u773c"
+        }
+    },
+    "PARTNERSKILL_SaintCentaur": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_SaintCentaur_TextData",
+            "SourceString": "\u5929\u7fd4\u306e\u8056\u9a0e\u58eb",
+            "LocalizedString": "\u5929\u7fd4\u306e\u8056\u9a0e\u58eb"
+        }
+    },
+    "PARTNERSKILL_SakuraSaurus": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_SakuraSaurus_TextData",
+            "SourceString": "\u611b\u60c5\u306f\u904e\u7a4d\u8f09",
+            "LocalizedString": "\u611b\u60c5\u306f\u904e\u7a4d\u8f09"
+        }
+    },
+    "PARTNERSKILL_SakuraSaurus_Water": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_SakuraSaurus_Water_TextData",
+            "SourceString": "\u611b\u60c5\u306f\u904e\u7a4d\u8f09",
+            "LocalizedString": "\u611b\u60c5\u306f\u904e\u7a4d\u8f09"
+        }
+    },
+    "PARTNERSKILL_Serpent": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Serpent_TextData",
+            "SourceString": "\u30b9\u30a4\u30b9\u30a4\u30b9\u30a4\u30de\u30fc",
+            "LocalizedString": "\u30b9\u30a4\u30b9\u30a4\u30b9\u30a4\u30de\u30fc"
+        }
+    },
+    "PARTNERSKILL_Serpent_Ground": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Serpent_Ground_TextData",
+            "SourceString": "\u30b9\u30ca\u30b9\u30ca\u30b9\u30a4\u30de\u30fc",
+            "LocalizedString": "\u30b9\u30ca\u30b9\u30ca\u30b9\u30a4\u30de\u30fc"
+        }
+    },
+    "PARTNERSKILL_SkyDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_SkyDragon_TextData",
+            "SourceString": "\u5929\u7a7a\u7adc\u306e\u6148\u611b",
+            "LocalizedString": "\u5929\u7a7a\u7adc\u306e\u6148\u611b"
+        }
+    },
+    "PARTNERSKILL_SharkKid": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_SharkKid_TextData",
+            "SourceString": "\u6012\u308a\u3093\u307c\u30b5\u30e1",
+            "LocalizedString": "\u6012\u308a\u3093\u307c\u30b5\u30e1"
+        }
+    },
+    "PARTNERSKILL_SharkKid_Fire": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_SharkKid_Fire_TextData",
+            "SourceString": "\u6012\u308a\u3093\u307c\u30b5\u30e1",
+            "LocalizedString": "\u6012\u308a\u3093\u307c\u30b5\u30e1"
+        }
+    },
+    "PARTNERSKILL_SheepBall": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_SheepBall_TextData",
+            "SourceString": "\u30e2\u30b3\u30e2\u30b3\u306e\u76fe",
+            "LocalizedString": "\u30e2\u30b3\u30e2\u30b3\u306e\u76fe"
+        }
+    },
+    "PARTNERSKILL_SoldierBee": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_SoldierBee_TextData",
+            "SourceString": "\u50cd\u304d\u30d0\u30c1",
+            "LocalizedString": "\u50cd\u304d\u30d0\u30c1"
+        }
+    },
+    "PARTNERSKILL_Suzaku": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Suzaku_TextData",
+            "SourceString": "\u708e\u306e\u7ffc",
+            "LocalizedString": "\u708e\u306e\u7ffc"
+        }
+    },
+    "PARTNERSKILL_Suzaku_Water": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Suzaku_Water_TextData",
+            "SourceString": "\u6c34\u306e\u7ffc",
+            "LocalizedString": "\u6c34\u306e\u7ffc"
+        }
+    },
+    "PARTNERSKILL_SweetsSheep": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_SweetsSheep_TextData",
+            "SourceString": "\u30ad\u30e3\u30f3\u30c7\u30a3\u30fc\u30dd\u30c3\u30d7",
+            "LocalizedString": "\u30ad\u30e3\u30f3\u30c7\u30a3\u30fc\u30dd\u30c3\u30d7"
+        }
+    },
+    "PARTNERSKILL_ThunderDog": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_ThunderDog_TextData",
+            "SourceString": "\u8df3\u8e8d\u529b",
+            "LocalizedString": "\u8df3\u8e8d\u529b"
+        }
+    },
+    "PARTNERSKILL_ThunderDragonMan": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_ThunderDragonMan_TextData",
+            "SourceString": "\u7370\u731b\u306a\u8fc5\u96f7\u7adc",
+            "LocalizedString": "\u7370\u731b\u306a\u8fc5\u96f7\u7adc"
+        }
+    },
+    "PARTNERSKILL_Umihebi": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Umihebi_TextData",
+            "SourceString": "\u5d50\u3092\u547c\u3076\u6d77\u7adc",
+            "LocalizedString": "\u5d50\u3092\u547c\u3076\u6d77\u7adc"
+        }
+    },
+    "PARTNERSKILL_Umihebi_Fire": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Umihebi_Fire_TextData",
+            "SourceString": "\u5d50\u3092\u547c\u3076\u6eb6\u5ca9\u7adc",
+            "LocalizedString": "\u5d50\u3092\u547c\u3076\u6eb6\u5ca9\u7adc"
+        }
+    },
+    "PARTNERSKILL_VioletFairy": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_VioletFairy_TextData",
+            "SourceString": "\u5927\u5730\u306e\u6d44\u5316",
+            "LocalizedString": "\u5927\u5730\u306e\u6d44\u5316"
+        }
+    },
+    "PARTNERSKILL_VolcanicMonster": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_VolcanicMonster_TextData",
+            "SourceString": "\u9271\u77f3\u3092\u8caa\u308b\u7363",
+            "LocalizedString": "\u9271\u77f3\u3092\u8caa\u308b\u7363"
+        }
+    },
+    "PARTNERSKILL_VolcanicMonster_Ice": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_VolcanicMonster_Ice_TextData",
+            "SourceString": "\u6c37\u584a\u3092\u8caa\u308b\u7363",
+            "LocalizedString": "\u6c37\u584a\u3092\u8caa\u308b\u7363"
+        }
+    },
+    "PARTNERSKILL_WaterLizard": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_WaterLizard_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_Werewolf": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Werewolf_TextData",
+            "SourceString": "\u95c7\u306b\u714c\u3081\u304f\u92ed\u722a",
+            "LocalizedString": "\u95c7\u306b\u714c\u3081\u304f\u92ed\u722a"
+        }
+    },
+    "PARTNERSKILL_WeaselDragon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_WeaselDragon_TextData",
+            "SourceString": "\u306b\u3087\u308d\u306b\u3087\u308d\u30a4\u30bf\u30c1",
+            "LocalizedString": "\u306b\u3087\u308d\u306b\u3087\u308d\u30a4\u30bf\u30c1"
+        }
+    },
+    "PARTNERSKILL_WhiteMoth": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_WhiteMoth_TextData",
+            "SourceString": "\u30b7\u30eb\u30af\u30e1\u30fc\u30ab\u30fc",
+            "LocalizedString": "\u30b7\u30eb\u30af\u30e1\u30fc\u30ab\u30fc"
+        }
+    },
+    "PARTNERSKILL_WhiteTiger": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_WhiteTiger_TextData",
+            "SourceString": "\u30c9\u30e9\u30b4\u30f3\u30cf\u30f3\u30bf\u30fc",
+            "LocalizedString": "\u30c9\u30e9\u30b4\u30f3\u30cf\u30f3\u30bf\u30fc"
+        }
+    },
+    "PARTNERSKILL_WindChimes": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_WindChimes_TextData",
+            "SourceString": "\u7a7a\u4e2d\u30d6\u30e9\u30f3\u30b3",
+            "LocalizedString": "\u7a7a\u4e2d\u30d6\u30e9\u30f3\u30b3"
+        }
+    },
+    "PARTNERSKILL_WindChimes_Ice": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_WindChimes_Ice_TextData",
+            "SourceString": "\u5bd2\u7a7a\u30d6\u30e9\u30f3\u30b3",
+            "LocalizedString": "\u5bd2\u7a7a\u30d6\u30e9\u30f3\u30b3"
+        }
+    },
+    "PARTNERSKILL_WizardOwl": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_WizardOwl_TextData",
+            "SourceString": "\u95c7\u306e\u53e1\u667a",
+            "LocalizedString": "\u95c7\u306e\u53e1\u667a"
+        }
+    },
+    "PARTNERSKILL_Yeti": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Yeti_TextData",
+            "SourceString": "\u96ea\u5c71\u306e\u5de8\u4eba",
+            "LocalizedString": "\u96ea\u5c71\u306e\u5de8\u4eba"
+        }
+    },
+    "PARTNERSKILL_Yeti_Grass": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_Yeti_Grass_TextData",
+            "SourceString": "\u5357\u56fd\u306e\u5de8\u4eba",
+            "LocalizedString": "\u5357\u56fd\u306e\u5de8\u4eba"
+        }
+    },
+    "PARTNERSKILL_ThunderBird": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_ThunderBird_TextData",
+            "SourceString": "\u5929\u96f7",
+            "LocalizedString": "\u5929\u96f7"
+        }
+    },
+    "PARTNERSKILL_HerculesBeetle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_HerculesBeetle_TextData",
+            "SourceString": "\u30cf\u30fc\u30c9\u30a2\u30fc\u30de\u30fc",
+            "LocalizedString": "\u30cf\u30fc\u30c9\u30a2\u30fc\u30de\u30fc"
+        }
+    },
+    "PARTNERSKILL_WoolFox": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_WoolFox_TextData",
+            "SourceString": "\u3075\u308f\u3075\u308f\u30a6\u30fc\u30eb",
+            "LocalizedString": "\u3075\u308f\u3075\u308f\u30a6\u30fc\u30eb"
+        }
+    },
+    "PARTNERSKILL_LazyCatfish": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_LazyCatfish_TextData",
+            "SourceString": "\u571f\u58cc\u6539\u5584",
+            "LocalizedString": "\u571f\u58cc\u6539\u5584"
+        }
+    },
+    "PARTNERSKILL_LavaGirl": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_LavaGirl_TextData",
+            "SourceString": "\u30de\u30b0\u30de\u306e\u30ca\u30df\u30c0",
+            "LocalizedString": "\u30de\u30b0\u30de\u306e\u30ca\u30df\u30c0"
+        }
+    },
+    "PARTNERSKILL_FlameBambi": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FlameBambi_TextData",
+            "SourceString": "\u5c0f\u3055\u306a\u7a2e\u706b",
+            "LocalizedString": "\u5c0f\u3055\u306a\u7a2e\u706b"
+        }
+    },
+    "PARTNERSKILL_SifuDog": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_SifuDog_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_TentacleTurtle": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_TentacleTurtle_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_GoldenHorse": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_GoldenHorse_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_BadCatgirl": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BadCatgirl_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_BrownRabbit": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BrownRabbit_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_FeatherOstrich": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_FeatherOstrich_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_WingGolem": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_WingGolem_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_ScorpionMan": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_ScorpionMan_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PARTNERSKILL_BlueberryFairy": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_BlueberryFairy_TextData",
+            "SourceString": "\u4eee\u30c6\u30ad\u30b9\u30c8",
+            "LocalizedString": "\u4eee\u30c6\u30ad\u30b9\u30c8"
+        }
+    },
+    "PASSIVE_TrainerATK_UP_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TrainerATK_UP_1_TextData",
+            "SourceString": "\u7a81\u6483\u6307\u63ee\u8005",
+            "LocalizedString": "\u7a81\u6483\u6307\u63ee\u8005"
+        }
+    },
+    "PASSIVE_TrainerDEF_UP_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TrainerDEF_UP_1_TextData",
+            "SourceString": "\u5805\u57ce\u306e\u8ecd\u5e2b",
+            "LocalizedString": "\u5805\u57ce\u306e\u8ecd\u5e2b"
+        }
+    },
+    "PASSIVE_TrainerWorkSpeed_UP_1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TrainerWorkSpeed_UP_1_TextData",
+            "SourceString": "\u30e2\u30c1\u30d9\u30fc\u30bf\u30fc",
+            "LocalizedString": "\u30e2\u30c1\u30d9\u30fc\u30bf\u30fc"
+        }
+    },
+    "PASSIVE_TrainerMining_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TrainerMining_up1_TextData",
+            "SourceString": "\u9271\u5c71\u306e\u30c1\u30fc\u30d5",
+            "LocalizedString": "\u9271\u5c71\u306e\u30c1\u30fc\u30d5"
+        }
+    },
+    "PASSIVE_TrainerLogging_up1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TrainerLogging_up1_TextData",
+            "SourceString": "\u4f10\u63a1\u30ea\u30fc\u30c0\u30fc",
+            "LocalizedString": "\u4f10\u63a1\u30ea\u30fc\u30c0\u30fc"
+        }
+    },
+    "PASSIVE_ElementResist_Normal_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Normal_1_PAL_TextData",
+            "SourceString": "\u30a2\u30d6\u30ce\u30fc\u30de\u30eb",
+            "LocalizedString": "\u30a2\u30d6\u30ce\u30fc\u30de\u30eb"
+        }
+    },
+    "PASSIVE_ElementResist_Fire_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Fire_1_PAL_TextData",
+            "SourceString": "\u65e5\u713c\u3051\u597d\u304d",
+            "LocalizedString": "\u65e5\u713c\u3051\u597d\u304d"
+        }
+    },
+    "PASSIVE_ElementResist_Aqua_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Aqua_1_PAL_TextData",
+            "SourceString": "\u9632\u6c34\u52a0\u5de5",
+            "LocalizedString": "\u9632\u6c34\u52a0\u5de5"
+        }
+    },
+    "PASSIVE_ElementResist_Thunder_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Thunder_1_PAL_TextData",
+            "SourceString": "\u7d76\u7e01\u4f53",
+            "LocalizedString": "\u7d76\u7e01\u4f53"
+        }
+    },
+    "PASSIVE_ElementResist_Leaf_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Leaf_1_PAL_TextData",
+            "SourceString": "\u9632\u8349\u52b9\u679c",
+            "LocalizedString": "\u9632\u8349\u52b9\u679c"
+        }
+    },
+    "PASSIVE_ElementResist_Ice_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Ice_1_PAL_TextData",
+            "SourceString": "\u9ad8\u6e29\u4f53\u8cea",
+            "LocalizedString": "\u9ad8\u6e29\u4f53\u8cea"
+        }
+    },
+    "PASSIVE_ElementResist_Earth_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Earth_1_PAL_TextData",
+            "SourceString": "\u8010\u9707\u69cb\u9020",
+            "LocalizedString": "\u8010\u9707\u69cb\u9020"
+        }
+    },
+    "PASSIVE_ElementResist_Dark_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Dark_1_PAL_TextData",
+            "SourceString": "\u967d\u30ad\u30e3\u30e9",
+            "LocalizedString": "\u967d\u30ad\u30e3\u30e9"
+        }
+    },
+    "PASSIVE_ElementResist_Dragon_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementResist_Dragon_1_PAL_TextData",
+            "SourceString": "\u30c9\u30e9\u30b4\u30f3\u30ad\u30e9\u30fc",
+            "LocalizedString": "\u30c9\u30e9\u30b4\u30f3\u30ad\u30e9\u30fc"
+        }
+    },
+    "PASSIVE_ElementBoost_Normal_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Normal_1_PAL_TextData",
+            "SourceString": "\u7121\u306e\u5883\u5730",
+            "LocalizedString": "\u7121\u306e\u5883\u5730"
+        }
+    },
+    "PASSIVE_ElementBoost_Fire_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Fire_1_PAL_TextData",
+            "SourceString": "\u706b\u904a\u3073\u597d\u304d",
+            "LocalizedString": "\u706b\u904a\u3073\u597d\u304d"
+        }
+    },
+    "PASSIVE_ElementBoost_Aqua_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Aqua_1_PAL_TextData",
+            "SourceString": "\u6c34\u904a\u3073\u597d\u304d",
+            "LocalizedString": "\u6c34\u904a\u3073\u597d\u304d"
+        }
+    },
+    "PASSIVE_ElementBoost_Thunder_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Thunder_1_PAL_TextData",
+            "SourceString": "\u30b3\u30f3\u30c7\u30f3\u30b5",
+            "LocalizedString": "\u30b3\u30f3\u30c7\u30f3\u30b5"
+        }
+    },
+    "PASSIVE_ElementBoost_Leaf_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Leaf_1_PAL_TextData",
+            "SourceString": "\u8349\u6728\u306e\u9999\u308a",
+            "LocalizedString": "\u8349\u6728\u306e\u9999\u308a"
+        }
+    },
+    "PASSIVE_ElementBoost_Ice_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Ice_1_PAL_TextData",
+            "SourceString": "\u51b7\u8840",
+            "LocalizedString": "\u51b7\u8840"
+        }
+    },
+    "PASSIVE_ElementBoost_Earth_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Earth_1_PAL_TextData",
+            "SourceString": "\u5927\u5730\u306e\u529b",
+            "LocalizedString": "\u5927\u5730\u306e\u529b"
+        }
+    },
+    "PASSIVE_ElementBoost_Dark_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Dark_1_PAL_TextData",
+            "SourceString": "\u591c\u306e\u5e33",
+            "LocalizedString": "\u591c\u306e\u5e33"
+        }
+    },
+    "PASSIVE_ElementBoost_Dragon_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Dragon_1_PAL_TextData",
+            "SourceString": "\u7adc\u306e\u8840\u65cf",
+            "LocalizedString": "\u7adc\u306e\u8840\u65cf"
+        }
+    },
+    "PASSIVE_ElementBoost_Normal_2_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Normal_2_PAL_TextData",
+            "SourceString": "\u8056\u5929",
+            "LocalizedString": "\u8056\u5929"
+        }
+    },
+    "PASSIVE_ElementBoost_Fire_2_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Fire_2_PAL_TextData",
+            "SourceString": "\u708e\u5e1d",
+            "LocalizedString": "\u708e\u5e1d"
+        }
+    },
+    "PASSIVE_ElementBoost_Aqua_2_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Aqua_2_PAL_TextData",
+            "SourceString": "\u6d77\u7687",
+            "LocalizedString": "\u6d77\u7687"
+        }
+    },
+    "PASSIVE_ElementBoost_Thunder_2_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Thunder_2_PAL_TextData",
+            "SourceString": "\u96f7\u5e1d",
+            "LocalizedString": "\u96f7\u5e1d"
+        }
+    },
+    "PASSIVE_ElementBoost_Leaf_2_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Leaf_2_PAL_TextData",
+            "SourceString": "\u7cbe\u970a\u738b",
+            "LocalizedString": "\u7cbe\u970a\u738b"
+        }
+    },
+    "PASSIVE_ElementBoost_Ice_2_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Ice_2_PAL_TextData",
+            "SourceString": "\u6c37\u5e1d",
+            "LocalizedString": "\u6c37\u5e1d"
+        }
+    },
+    "PASSIVE_ElementBoost_Earth_2_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Earth_2_PAL_TextData",
+            "SourceString": "\u5730\u5e1d",
+            "LocalizedString": "\u5730\u5e1d"
+        }
+    },
+    "PASSIVE_ElementBoost_Dark_2_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Dark_2_PAL_TextData",
+            "SourceString": "\u51a5\u738b",
+            "LocalizedString": "\u51a5\u738b"
+        }
+    },
+    "PASSIVE_ElementBoost_Dragon_2_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_ElementBoost_Dragon_2_PAL_TextData",
+            "SourceString": "\u795e\u9f8d",
+            "LocalizedString": "\u795e\u9f8d"
+        }
+    }
+}

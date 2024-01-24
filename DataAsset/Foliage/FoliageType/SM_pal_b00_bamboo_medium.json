@@ -1,0 +1,42 @@
+{
+    "PresetType": "EPalFoliagePresetType::LowTree",
+    "Mesh": {
+        "ObjectName": "StaticMesh'SM_Plant_Bush_Bamboo_01'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/tree/b00/SM_Plant_Bush_Bamboo_01.2"
+    },
+    "UpdateGuid": "A91CA00E-40228C5B-41CAFDBE-84F41F81",
+    "Density": 3.0,
+    "Radius": 10.0,
+    "ScaleX": {
+        "Max": 2.5
+    },
+    "MeshBounds": {
+        "Origin": {
+            "X": -7.0979176,
+            "Y": -2.6880302,
+            "Z": 41.012386
+        },
+        "BoxExtent": {
+            "X": 69.857414,
+            "Y": 67.78256,
+            "Z": 41.37949
+        },
+        "SphereRadius": 84.05774419835878
+    },
+    "LowBoundOriginRadius": {
+        "X": -10.894878,
+        "Y": -2.739418,
+        "Z": 94.10787
+    },
+    "CullDistance": {
+        "Max": 4000
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

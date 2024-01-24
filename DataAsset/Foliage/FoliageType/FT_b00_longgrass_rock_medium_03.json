@@ -1,0 +1,77 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'SM_Rock_Large_2_CliffMI_top_longgrass'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/b00/Field_Asset_CustomLargeCliff/Mesh/top_long_grass/SM_Rock_Large_2_CliffMI_top_longgrass.2"
+    },
+    "UpdateGuid": "3561B111-49EF5B15-93D4FAA8-A39F0B2E",
+    "Density": 10.0,
+    "ScaleX": {
+        "Min": 0.3,
+        "Max": 0.6
+    },
+    "MeshBounds": {
+        "Origin": {
+            "X": -8.6154785,
+            "Y": 14.710007,
+            "Z": 5.238903
+        },
+        "BoxExtent": {
+            "X": 141.45364,
+            "Y": 146.3194,
+            "Z": 81.455505
+        },
+        "SphereRadius": 169.5630170607042
+    },
+    "LowBoundOriginRadius": {
+        "X": -10.336353,
+        "Y": 16.878357,
+        "Z": 172.83354
+    },
+    "CullDistance": {
+        "Max": 5000
+    },
+    "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics",
+        "CollisionProfileName": "Background",
+        "CollisionResponses": {
+            "ResponseArray": [
+                {
+                    "Channel": "Attack",
+                    "Response": "ECollisionResponse::ECR_Block"
+                },
+                {
+                    "Channel": "SystemVolume",
+                    "Response": "ECollisionResponse::ECR_Ignore"
+                },
+                {
+                    "Channel": "LiftedupPawn",
+                    "Response": "ECollisionResponse::ECR_Block"
+                },
+                {
+                    "Channel": "AISightRayCast",
+                    "Response": "ECollisionResponse::ECR_Block"
+                },
+                {
+                    "Channel": "vsGroundRayCast",
+                    "Response": "ECollisionResponse::ECR_Block"
+                },
+                {
+                    "Channel": "ClimbRayCast",
+                    "Response": "ECollisionResponse::ECR_Block"
+                },
+                {
+                    "Channel": "RollingRayCast",
+                    "Response": "ECollisionResponse::ECR_Block"
+                }
+            ]
+        }
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

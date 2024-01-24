@@ -1,0 +1,140 @@
+{
+    "Default": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Outfit/SK_Player_Female_Outfit_Hunter001/SK_Player_Female_Outfit_Hunter001.SK_Player_Female_Outfit_Hunter001",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/PalIcon/Normal/T_dummy_icon.T_dummy_icon",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "TypeA": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Outfit/SK_Player_Female_Outfit_OldCloth001/SK_Player_Female_Outfit_OldCloth001.SK_Player_Female_Outfit_OldCloth001",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/PalIcon/Normal/T_dummy_icon.T_dummy_icon",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 1.0,
+            "G": 0.178982,
+            "B": 0.0,
+            "A": 0.8,
+            "Hex": "CCFF7500"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "TypeB": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_OldCloth001/SK_Player_Male_Outfit_OldCloth001.SK_Player_Male_Outfit_OldCloth001",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/PalIcon/Normal/T_dummy_icon.T_dummy_icon",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 1.0,
+            "G": 0.178982,
+            "B": 0.0,
+            "A": 2.0,
+            "Hex": "FFFF7500"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    }
+}

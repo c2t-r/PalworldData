@@ -1,0 +1,52 @@
+{
+    "1": {
+        "Rank": 1,
+        "RequiredRelicNum": 1,
+        "ResetRequiredMoney": 10
+    },
+    "2": {
+        "Rank": 2,
+        "RequiredRelicNum": 4,
+        "ResetRequiredMoney": 20
+    },
+    "3": {
+        "Rank": 3,
+        "RequiredRelicNum": 7,
+        "ResetRequiredMoney": 30
+    },
+    "4": {
+        "Rank": 4,
+        "RequiredRelicNum": 11,
+        "ResetRequiredMoney": 40
+    },
+    "5": {
+        "Rank": 5,
+        "RequiredRelicNum": 15,
+        "ResetRequiredMoney": 50
+    },
+    "6": {
+        "Rank": 6,
+        "RequiredRelicNum": 19,
+        "ResetRequiredMoney": 60
+    },
+    "7": {
+        "Rank": 7,
+        "RequiredRelicNum": 23,
+        "ResetRequiredMoney": 70
+    },
+    "8": {
+        "Rank": 8,
+        "RequiredRelicNum": 27,
+        "ResetRequiredMoney": 80
+    },
+    "9": {
+        "Rank": 9,
+        "RequiredRelicNum": 31,
+        "ResetRequiredMoney": 90
+    },
+    "10": {
+        "Rank": 10,
+        "RequiredRelicNum": 35,
+        "ResetRequiredMoney": 100
+    }
+}

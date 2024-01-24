@@ -1,0 +1,194 @@
+{
+    "NAME_TEST_NPC": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_TEST_NPC_TextData",
+            "SourceString": "\u30c6\u30b9\u30c8\u7528NPC",
+            "LocalizedString": "\u30c6\u30b9\u30c8\u7528NPC"
+        }
+    },
+    "NAME_CITIZEN": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_CITIZEN_TextData",
+            "SourceString": "\u5cf6\u6c11",
+            "LocalizedString": "\u5cf6\u6c11"
+        }
+    },
+    "NAME_VILLAGER": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_VILLAGER_TextData",
+            "SourceString": "\u6751\u4eba",
+            "LocalizedString": "\u6751\u4eba"
+        }
+    },
+    "NAME_QUESTMAN": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_QUESTMAN_TextData",
+            "SourceString": "\u30af\u30a8\u30b9\u30c8\u30de\u30f3",
+            "LocalizedString": "\u30af\u30a8\u30b9\u30c8\u30de\u30f3"
+        }
+    },
+    "NAME_SELESPERSON": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_SELESPERSON_TextData",
+            "SourceString": "\u653e\u6d6a\u5546\u4eba",
+            "LocalizedString": "\u653e\u6d6a\u5546\u4eba"
+        }
+    },
+    "NAME_VISITING": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_VISITING_TextData",
+            "SourceString": "\u6765\u8a2a\u8005",
+            "LocalizedString": "\u6765\u8a2a\u8005"
+        }
+    },
+    "NAME_WEAPON_DEALER": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_WEAPON_DEALER_TextData",
+            "SourceString": "\u6b66\u5668\u5546\u4eba",
+            "LocalizedString": "\u6b66\u5668\u5546\u4eba"
+        }
+    },
+    "NAME_PAL_DEALER": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_PAL_DEALER_TextData",
+            "SourceString": "\u30d1\u30eb\u5546\u4eba",
+            "LocalizedString": "\u30d1\u30eb\u5546\u4eba"
+        }
+    },
+    "NAME_GUARD": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_GUARD_TextData",
+            "SourceString": "\u885b\u5175",
+            "LocalizedString": "\u885b\u5175"
+        }
+    },
+    "NAME_SecurityDrone": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_SecurityDrone_TextData",
+            "SourceString": "\u76e3\u8996\u30c9\u30ed\u30fc\u30f3",
+            "LocalizedString": "\u76e3\u8996\u30c9\u30ed\u30fc\u30f3"
+        }
+    },
+    "NAME_Believer": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_Believer_TextData",
+            "SourceString": "\u30d1\u30eb\u611b\u8b77\u56e3\u4f53 \u4fe1\u8005",
+            "LocalizedString": "\u30d1\u30eb\u611b\u8b77\u56e3\u4f53 \u4fe1\u8005"
+        }
+    },
+    "NAME_FireCult": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_FireCult_TextData",
+            "SourceString": "\u6c38\u708e\u306e\u540c\u5fd7 \u6b89\u6559\u8005",
+            "LocalizedString": "\u6c38\u708e\u306e\u540c\u5fd7 \u6b89\u6559\u8005"
+        }
+    },
+    "NAME_Labmen": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_Labmen_TextData",
+            "SourceString": "\u907a\u4f1d\u5b50\u7814\u7a76\u90e8\u968a \u5b9f\u884c\u73ed",
+            "LocalizedString": "\u907a\u4f1d\u5b50\u7814\u7a76\u90e8\u968a \u5b9f\u884c\u73ed"
+        }
+    },
+    "NAME_POLICE": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_POLICE_TextData",
+            "SourceString": "\u81ea\u8b66\u56e3 \u30ac\u30fc\u30c9",
+            "LocalizedString": "\u81ea\u8b66\u56e3 \u30ac\u30fc\u30c9"
+        }
+    },
+    "NAME_POLICE_1": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_POLICE_1_TextData",
+            "SourceString": "\u81ea\u8b66\u56e3 \u30d1\u30c8\u30ed\u30fc\u30e9\u30fc",
+            "LocalizedString": "\u81ea\u8b66\u56e3 \u30d1\u30c8\u30ed\u30fc\u30e9\u30fc"
+        }
+    },
+    "NAME_POLICE_2": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_POLICE_2_TextData",
+            "SourceString": "\u81ea\u8b66\u56e3 \u30e9\u30a4\u30d5\u30eb\u30de\u30f3",
+            "LocalizedString": "\u81ea\u8b66\u56e3 \u30e9\u30a4\u30d5\u30eb\u30de\u30f3"
+        }
+    },
+    "NAME_POLICE_3": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_POLICE_3_TextData",
+            "SourceString": "\u81ea\u8b66\u56e3 \u30a8\u30ea\u30fc\u30c8",
+            "LocalizedString": "\u81ea\u8b66\u56e3 \u30a8\u30ea\u30fc\u30c8"
+        }
+    },
+    "NAME_HUNTER": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_HUNTER_TextData",
+            "SourceString": "\u5bc6\u731f\u56e3 \u30eb\u30fc\u30ad\u30fc",
+            "LocalizedString": "\u5bc6\u731f\u56e3 \u30eb\u30fc\u30ad\u30fc"
+        }
+    },
+    "NAME_HUNTER_2": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_HUNTER_2_TextData",
+            "SourceString": "\u5bc6\u731f\u56e3 \u30ac\u30f3\u30ca\u30fc",
+            "LocalizedString": "\u5bc6\u731f\u56e3 \u30ac\u30f3\u30ca\u30fc"
+        }
+    },
+    "NAME_HUNTER_3": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_HUNTER_3_TextData",
+            "SourceString": "\u5bc6\u731f\u56e3 \u30cf\u30f3\u30bf\u30fc",
+            "LocalizedString": "\u5bc6\u731f\u56e3 \u30cf\u30f3\u30bf\u30fc"
+        }
+    },
+    "NAME_HUNTER_4": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_HUNTER_4_TextData",
+            "SourceString": "\u5bc6\u731f\u56e3 \u30b0\u30ec\u30cd\u30fc\u30c0\u30fc",
+            "LocalizedString": "\u5bc6\u731f\u56e3 \u30b0\u30ec\u30cd\u30fc\u30c0\u30fc"
+        }
+    },
+    "NAME_HUNTER_5": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_HUNTER_5_TextData",
+            "SourceString": "\u5bc6\u731f\u56e3 \u30af\u30ea\u30fc\u30ca\u30fc",
+            "LocalizedString": "\u5bc6\u731f\u56e3 \u30af\u30ea\u30fc\u30ca\u30fc"
+        }
+    },
+    "NAME_HUNTER_6": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_HUNTER_6_TextData",
+            "SourceString": "\u5bc6\u731f\u56e3 \u30a8\u30ea\u30fc\u30c8",
+            "LocalizedString": "\u5bc6\u731f\u56e3 \u30a8\u30ea\u30fc\u30c8"
+        }
+    },
+    "NAME_HUNTER_BOSS": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_HUNTER_BOSS_TextData",
+            "SourceString": "\u5bc6\u731f\u56e3 \u30af\u30e9\u30c3\u30b7\u30e3\u30fc",
+            "LocalizedString": "\u5bc6\u731f\u56e3 \u30af\u30e9\u30c3\u30b7\u30e3\u30fc"
+        }
+    }
+}

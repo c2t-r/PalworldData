@@ -1,0 +1,189 @@
+{
+    "Type001": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye001/MI_Player_Eye001.MI_Player_Eye001",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_000.T_icon_characre_eyes_000",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    },
+    "Type011": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye011/MI_Player_Eye011.MI_Player_Eye011",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_010.T_icon_characre_eyes_010",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    },
+    "Type002": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye002/MI_Player_Eye002.MI_Player_Eye002",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_001.T_icon_characre_eyes_001",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    },
+    "Type003": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye003/MI_Player_Eye003.MI_Player_Eye003",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_002.T_icon_characre_eyes_002",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    },
+    "Type004": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye004/MI_Player_Eye004.MI_Player_Eye004",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_003.T_icon_characre_eyes_003",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    },
+    "Type005": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye005/MI_Player_Eye005.MI_Player_Eye005",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_004.T_icon_characre_eyes_004",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    },
+    "Type006": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye006/MI_Player_Eye006.MI_Player_Eye006",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_005.T_icon_characre_eyes_005",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    },
+    "Type007": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye007/MI_Player_Eye007.MI_Player_Eye007",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_006.T_icon_characre_eyes_006",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    },
+    "Type008": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye008/MI_Player_Eye008.MI_Player_Eye008",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_007.T_icon_characre_eyes_007",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    },
+    "Type009": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye009/MI_Player_Eye009.MI_Player_Eye009",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_008.T_icon_characre_eyes_008",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    },
+    "Type010": {
+        "EyeMaterialInstance": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Eye/Eye010/MI_Player_Eye010.MI_Player_Eye010",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Eyes/T_icon_characre_eyes_009.T_icon_characre_eyes_009",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        }
+    }
+}

@@ -1,0 +1,1290 @@
+{
+    "Default": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair001/SK_Player_Hair001.SK_Player_Hair001",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_000.T_icon_characre_hair_000",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair001_Implementation.ABP_Player_Hair001_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type1": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair001/SK_Player_Hair001.SK_Player_Hair001",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_000.T_icon_characre_hair_000",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair001_Implementation.ABP_Player_Hair001_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FFFF0000"
+        }
+    },
+    "Type2": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair002/SK_Player_Hair002.SK_Player_Hair002",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_001.T_icon_characre_hair_001",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair002_Implementation.ABP_Player_Hair002_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type3": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair003/SK_Player_Hair003.SK_Player_Hair003",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_002.T_icon_characre_hair_002",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair003_Implementation.ABP_Player_Hair003_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type4": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair004/SK_Player_Hair004.SK_Player_Hair004",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_003.T_icon_characre_hair_003",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair004_Implementation.ABP_Player_Hair004_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type8": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair008/SK_Player_Hair008.SK_Player_Hair008",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_007.T_icon_characre_hair_007",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair008_Implementation.ABP_Player_Hair008_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type9": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair009/SK_Player_Hair009.SK_Player_Hair009",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_008.T_icon_characre_hair_008",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair008_Implementation.ABP_Player_Hair008_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type21": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair021/SK_Player_Hair021.SK_Player_Hair021",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_020.T_icon_characre_hair_020",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type22": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair022/SK_Player_Hair022.SK_Player_Hair022",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_021.T_icon_characre_hair_021",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type23": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair023/SK_Player_Hair023.SK_Player_Hair023",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_022.T_icon_characre_hair_022",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type5": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair005/SK_Player_Hair005.SK_Player_Hair005",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_004.T_icon_characre_hair_004",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair005_Implementation.ABP_Player_Hair005_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type6": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair006/SK_Player_Hair006.SK_Player_Hair006",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_005.T_icon_characre_hair_005",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair006_Implementation.ABP_Player_Hair006_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type25": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair025/SK_Player_Hair025.SK_Player_Hair025",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_024.T_icon_characre_hair_024",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair025_Implementation.ABP_Player_Hair025_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type24": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair024/SK_Player_Hair024.SK_Player_Hair024",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_023.T_icon_characre_hair_023",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair024_Implementation.ABP_Player_Hair024_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type7": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair007/SK_Player_Hair007.SK_Player_Hair007",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_006.T_icon_characre_hair_006",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair007_Implementation.ABP_Player_Hair007_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type10": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair010/SK_Player_Hair010.SK_Player_Hair010",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_009.T_icon_characre_hair_009",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair010_Implementation.ABP_Player_Hair010_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type11": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair011/SK_Player_Hair011.SK_Player_Hair011",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_010.T_icon_characre_hair_010",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair011_Implementation.ABP_Player_Hair011_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type27": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair027/SK_Player_Hair027.SK_Player_Hair027",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_026.T_icon_characre_hair_026",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type12": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair012/SK_Player_Hair012.SK_Player_Hair012",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_011.T_icon_characre_hair_011",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair012_Implementation.ABP_Player_Hair012_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type13": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair013/SK_Player_Hair013.SK_Player_Hair013",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_012.T_icon_characre_hair_012",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair013_Implementation.ABP_Player_Hair013_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type14": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair014/SK_Player_Hair014.SK_Player_Hair014",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_013.T_icon_characre_hair_013",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair014_Implementation.ABP_Player_Hair014_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type15": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair015/SK_Player_Hair015.SK_Player_Hair015",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_014.T_icon_characre_hair_014",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair015_Implementation.ABP_Player_Hair015_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type16": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair016/SK_Player_Hair016.SK_Player_Hair016",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_015.T_icon_characre_hair_015",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair016_Implementation.ABP_Player_Hair016_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type17": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair017/SK_Player_Hair017.SK_Player_Hair017",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_016.T_icon_characre_hair_016",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair017_Implementation.ABP_Player_Hair017_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type18": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair018/SK_Player_Hair018.SK_Player_Hair018",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_017.T_icon_characre_hair_017",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair018_Implementation.ABP_Player_Hair018_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type19": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair019/SK_Player_Hair019.SK_Player_Hair019",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_018.T_icon_characre_hair_018",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair019_Implementation.ABP_Player_Hair019_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type20": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair020/SK_Player_Hair020.SK_Player_Hair020",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_019.T_icon_characre_hair_019",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair020_Implementation.ABP_Player_Hair020_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    },
+    "Type26": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Hair/Hair026/SK_Player_Hair026.SK_Player_Hair026",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/icon_hair/T_icon_characre_hair_025.T_icon_characre_hair_025",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Player/Imp_Hair/ABP_Player_Hair026_Implementation.ABP_Player_Hair026_Implementation_C",
+            "SubPathString": ""
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+        }
+    }
+}

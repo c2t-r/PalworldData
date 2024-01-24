@@ -1,0 +1,662 @@
+{
+    "Umihebi": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Bastet": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 15,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "Deer": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Hedgehog": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 2,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Manticore": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Ganesha": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 4,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Kitsunebi": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 2,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "LittleBriarRose": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 94,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Carbunclo": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 3,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Eagle": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 8,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "Kelpie": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 92,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Boar": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "CowPal": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 15,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "ChickenPal": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 15,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "Snowwolf": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Kirin": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Suzaku": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BlueDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "DrillGame": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Monkey": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 3,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Penguin": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 2,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Garm": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "ElecPanda": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Sheepball": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 5,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Werewolf": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "DarkCrow": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Gorilla": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 6,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Anubis": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 87,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Serpent": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Alpaca": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "WindChimes": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 8,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "WhiteTiger": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 14,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "Baphomet": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "SweetsSheep": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 14,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "FairyDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "WizardOwl": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 95,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "FengyunDeeper": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "ColorfulBird": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 2,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "PinkKangaroo": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "SharkKid": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Mutant": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 10,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "RaijinDaughter": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 11,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "VolcanicMonster": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "GhostBeast": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "RobinHood": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 10,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "RoyalBird": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "LazyDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BirdDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BeardedDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "CentaurNight": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "AmaterasuWolf": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "FireKirin": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "DreamDemon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 11,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "BlackFurDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "LizardMan": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 7,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "PinkCat": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 10,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "NegativeKoala": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 6,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BluePlatypus": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "KingWhale": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "FlowerDinosaur": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "ElecCat": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 93,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "IceHorse": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "GrassMammoth": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "CatVampire": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 10,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "SakuraSaurus": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Horus": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "KingBahamut": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BerryGoat": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 15,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "IceDeer": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BlackGriffon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "WhiteMoth": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "CuteFox": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 15,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "FoxMage": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 81,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "PinkLizard": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 10,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "WaterLizard": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "ElecLion": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "GuardianDog": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "GrassDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BlackMetalDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "SkyDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "CuteMole": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 7,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "ThunderDog": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "FlameBuffalo": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "GrassPanda": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "LilyQueen": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 4,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "QueenBee": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 10,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "SoldierBee": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 15,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "NegativeOctopus": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 8,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "CatBat": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 7,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "VioletFairy": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 14,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "Yeti": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "HawkBird": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "FlowerRabbit": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 11,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "GrassRabbitMan": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 84,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "IceFox": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 98,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "JetDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "CatMage": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 14,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "HadesBird": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "KingAlpaca": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "SaintCentaur": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "HerculesBeetle": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 10,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "DarkMutant": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "ThunderBird": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "RedArmorBird": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Ronin": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "SifuDog": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "CaptainPenguin": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 14,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "FlyingManta": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 8,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "PlantSlime": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 10,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "BlackCentaur": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "MopBaby": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 10,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "MopKing": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "TentacleTurtle": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 5,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "GoldenHorse": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BadCatgirl": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 3,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "NightFox": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 85,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "WeaselDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BrownRabbit": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 6,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "FlowerDoll": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 4,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "PinkRabbit": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 16,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "NaughtyCat": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "FeatherOstrich": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "WingGolem": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "CuteButterfly": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "DarkScorpion": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 14,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "ScorpionMan": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BlueberryFairy": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 14,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "ThunderDragonMan": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 14,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "WoolFox": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 90,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "LazyCatfish": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 97,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "NightLady": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "VolcanoDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "DarkAlien": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "DarkMechaDragon": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "LeafPrincess": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "GhostRabbit": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "NightBlueHorse": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "LavaGirl": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 15,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "FlameBambi": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 91,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "VolcanicMonster_Ice": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "FlowerDinosaur_Electric": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "GrassMammoth_Ice": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "SakuraSaurus_Water": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "FairyDragon_Water": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "WindChimes_Ice": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 8,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "LazyDragon_Electric": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "BirdDragon_Ice": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "GrassPanda_Electric": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "KingAlpaca_Ice": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "FireKirin_Dark": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "RobinHood_Ground": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 10,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "LizardMan_Fire": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 7,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "LilyQueen_Dark": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 4,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Manticore_Dark": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Baphomet_Dark": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Hedgehog_Ice": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 2,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "SharkKid_Fire": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "IceHorse_Dark": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Umihebi_Fire": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Serpent_Ground": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Bastet_Ice": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 15,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": true
+    },
+    "Suzaku_Water": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 18,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Kelpie_Fire": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 91,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Deer_Ground": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "Yeti_Grass": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    }
+}

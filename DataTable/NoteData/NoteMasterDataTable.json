@@ -1,0 +1,119 @@
+{
+    "Day-xx": {
+        "TextId_Description": "Day-xx"
+    },
+    "Day0": {
+        "TextId_Description": "Day0"
+    },
+    "Day1-1": {
+        "TextId_Description": "Day1-1"
+    },
+    "Day1-2": {
+        "TextId_Description": "Day1-2"
+    },
+    "Day2": {
+        "TextId_Description": "Day2"
+    },
+    "Day3": {
+        "TextId_Description": "Day3"
+    },
+    "Day5": {
+        "TextId_Description": "Day5"
+    },
+    "Day6": {
+        "TextId_Description": "Day6"
+    },
+    "Day8": {
+        "TextId_Description": "Day8"
+    },
+    "Day10": {
+        "TextId_Description": "Day10"
+    },
+    "Day11": {
+        "TextId_Description": "Day11"
+    },
+    "Day12-1": {
+        "TextId_Description": "Day12-1"
+    },
+    "Day12-2": {
+        "TextId_Description": "Day12-2"
+    },
+    "Day12-3": {
+        "TextId_Description": "Day12-3"
+    },
+    "Day13": {
+        "TextId_Description": "Day13"
+    },
+    "Day15": {
+        "TextId_Description": "Day15"
+    },
+    "Day18": {
+        "TextId_Description": "Day18"
+    },
+    "Day22": {
+        "TextId_Description": "Day22"
+    },
+    "Day25": {
+        "TextId_Description": "Day25"
+    },
+    "Day29": {
+        "TextId_Description": "Day29"
+    },
+    "Day30": {
+        "TextId_Description": "Day30"
+    },
+    "Day32": {
+        "TextId_Description": "Day32"
+    },
+    "Day38": {
+        "TextId_Description": "Day38"
+    },
+    "GrassBoss1": {
+        "TextId_Description": "GrassBoss1"
+    },
+    "GrassBoss2": {
+        "TextId_Description": "GrassBoss2"
+    },
+    "GrassBoss3": {
+        "TextId_Description": "GrassBoss3"
+    },
+    "GrassBoss4": {
+        "TextId_Description": "GrassBoss4"
+    },
+    "GrassBoss5": {
+        "TextId_Description": "GrassBoss5"
+    },
+    "ForestBoss1": {
+        "TextId_Description": "ForestBoss1"
+    },
+    "ForestBoss2": {
+        "TextId_Description": "ForestBoss2"
+    },
+    "ForestBoss3": {
+        "TextId_Description": "ForestBoss3"
+    },
+    "ForestBoss4": {
+        "TextId_Description": "ForestBoss4"
+    },
+    "DesertBoss1": {
+        "TextId_Description": "DesertBoss1"
+    },
+    "DesertBoss2": {
+        "TextId_Description": "DesertBoss2"
+    },
+    "DesertBoss3": {
+        "TextId_Description": "DesertBoss3"
+    },
+    "SnowBoss1": {
+        "TextId_Description": "SnowBoss1"
+    },
+    "SnowBoss2": {
+        "TextId_Description": "SnowBoss2"
+    },
+    "SnowBoss3": {
+        "TextId_Description": "SnowBoss3"
+    },
+    "VolcanoBoss1": {
+        "TextId_Description": "VolcanoBoss1"
+    }
+}

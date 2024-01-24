@@ -1,0 +1,43 @@
+{
+    "\u8349\u539f": {
+        "BiomeType_3_EFD8108847E039AF2D6BA0B9AAB38583": "EPalBiomeType::Meadow",
+        "Effect_6_8CEBD2B248D3A5ACFB29BD947CC5E3D0": null
+    },
+    "\u7802\u6f20": {
+        "BiomeType_3_EFD8108847E039AF2D6BA0B9AAB38583": "EPalBiomeType::Desert",
+        "Effect_6_8CEBD2B248D3A5ACFB29BD947CC5E3D0": {
+            "ObjectName": "NiagaraSystem'NS_BiomeDesert'",
+            "ObjectPath": "Pal/Content/Pal/Effect/Common/BiomeEffect/NS_BiomeDesert.21"
+        }
+    },
+    "\u6d5c\u8fba": {
+        "BiomeType_3_EFD8108847E039AF2D6BA0B9AAB38583": "EPalBiomeType::Coast",
+        "Effect_6_8CEBD2B248D3A5ACFB29BD947CC5E3D0": null
+    },
+    "\u6c37\u96ea": {
+        "BiomeType_3_EFD8108847E039AF2D6BA0B9AAB38583": "EPalBiomeType::IceSnow",
+        "Effect_6_8CEBD2B248D3A5ACFB29BD947CC5E3D0": {
+            "ObjectName": "NiagaraSystem'NS_BiomeSnow'",
+            "ObjectPath": "Pal/Content/Pal/Effect/Common/BiomeEffect/NS_BiomeSnow.41"
+        }
+    },
+    "\u706b\u5c71": {
+        "BiomeType_3_EFD8108847E039AF2D6BA0B9AAB38583": "EPalBiomeType::Volcano",
+        "Effect_6_8CEBD2B248D3A5ACFB29BD947CC5E3D0": {
+            "ObjectName": "NiagaraSystem'NS_BiomeLava'",
+            "ObjectPath": "Pal/Content/Pal/Effect/Common/BiomeEffect/NS_BiomeLava.40"
+        }
+    },
+    "\u4e2d\u592e\u90fd\u5e02": {
+        "BiomeType_3_EFD8108847E039AF2D6BA0B9AAB38583": "EPalBiomeType::CentralCity",
+        "Effect_6_8CEBD2B248D3A5ACFB29BD947CC5E3D0": null
+    },
+    "\u5929\u7a7a\u90fd\u5e02": {
+        "BiomeType_3_EFD8108847E039AF2D6BA0B9AAB38583": "EPalBiomeType::SkyCityCity",
+        "Effect_6_8CEBD2B248D3A5ACFB29BD947CC5E3D0": null
+    },
+    "\u4e16\u754c\u6a39": {
+        "BiomeType_3_EFD8108847E039AF2D6BA0B9AAB38583": "EPalBiomeType::WorldTree",
+        "Effect_6_8CEBD2B248D3A5ACFB29BD947CC5E3D0": null
+    }
+}

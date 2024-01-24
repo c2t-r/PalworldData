@@ -1,0 +1,40 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'pal_b00_grass_SM_Flower_1'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/grass_bush/b00/pal_b00_grass_SM_Flower_1.2"
+    },
+    "UpdateGuid": "6C46132B-4F6F6BAF-384BB7B4-AC5D82FE",
+    "Density": 150.0,
+    "ScaleX": {
+        "Max": 1.15
+    },
+    "MeshBounds": {
+        "Origin": {
+            "X": -2.2706947,
+            "Y": 0.8432808,
+            "Z": 29.508598
+        },
+        "BoxExtent": {
+            "X": 47.75884,
+            "Y": 46.11875,
+            "Z": 33.372707
+        },
+        "SphereRadius": 55.25962829589844
+    },
+    "LowBoundOriginRadius": {
+        "X": -0.29689598,
+        "Y": 0.41688347,
+        "Z": 51.411407
+    },
+    "CullDistance": {
+        "Max": 4000
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

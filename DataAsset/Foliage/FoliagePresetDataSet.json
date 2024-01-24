@@ -1,0 +1,60 @@
+{
+    "Presets": [
+        {
+            "EPalFoliagePresetType::LowTree": {
+                "FoliageMapObjectId": {
+                    "Key": "None"
+                },
+                "HP": 50,
+                "DamagedDropItems": [
+                    {
+                        "StaticItemId": {
+                            "Key": "Fiber"
+                        },
+                        "Num": 1
+                    }
+                ],
+                "DropItemId": {
+                    "Key": "Wood"
+                },
+                "DropItemNum": 3,
+                "DropEXP": 1,
+                "DestroyFXType": "EPalMapObjectDestroyFXType::LowTree",
+                "DistanceFromPlayerNotRespawn": 500.0,
+                "RespawnIntervalRealMinutes": 30,
+                "RetryRespawnIntervalRealMinutes": 1
+            }
+        },
+        {
+            "EPalFoliagePresetType::NormalTree_L": {
+                "FoliageMapObjectId": {
+                    "Key": "None"
+                },
+                "HP": 1000,
+                "DamagedDropItems": [
+                    {
+                        "StaticItemId": {
+                            "Key": "Wood"
+                        },
+                        "Num": 20
+                    },
+                    {
+                        "StaticItemId": {
+                            "Key": "Fiber"
+                        },
+                        "Num": 6
+                    }
+                ],
+                "DropItemId": {
+                    "Key": "Wood"
+                },
+                "DropItemNum": 2,
+                "DropEXP": 5,
+                "DestroyFXType": "EPalMapObjectDestroyFXType::FoliageTree",
+                "DistanceFromPlayerNotRespawn": 500.0,
+                "RespawnIntervalRealMinutes": 30,
+                "RetryRespawnIntervalRealMinutes": 1
+            }
+        }
+    ]
+}

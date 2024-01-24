@@ -1,0 +1,38 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'pal_b00_grass_snow_Fern_01'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/b03/grass_bush/Mesh/pal_b00_grass_snow_Fern_01.2"
+    },
+    "UpdateGuid": "E9DE9FC5-441FDE93-ED6D6B8B-BB372756",
+    "Density": 150.0,
+    "Radius": 50.0,
+    "MeshBounds": {
+        "Origin": {
+            "X": -2.6584015,
+            "Y": 1.0698204,
+            "Z": 51.318214
+        },
+        "BoxExtent": {
+            "X": 126.179276,
+            "Y": 128.06201,
+            "Z": 51.873108
+        },
+        "SphereRadius": 139.62213980661795
+    },
+    "LowBoundOriginRadius": {
+        "X": 4.0341644,
+        "Y": 42.61743,
+        "Z": 147.51888
+    },
+    "CullDistance": {
+        "Max": 4000
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

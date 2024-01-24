@@ -1,0 +1,65 @@
+{
+    "NewRow": {
+        "Category": "EPalPlayerDamageCameraShakeCategory::Waza_S",
+        "Scale_Min": 0.2,
+        "Scale_Default": 0.4,
+        "Scale_Max": 1.0,
+        "HPRate_Min": 5,
+        "HPRate_Default": 25,
+        "HPRate_Max": 50
+    },
+    "NewRow_0": {
+        "Category": "EPalPlayerDamageCameraShakeCategory::Waza_M",
+        "Scale_Min": 0.4,
+        "Scale_Default": 1.0,
+        "Scale_Max": 1.5,
+        "HPRate_Min": 5,
+        "HPRate_Default": 25,
+        "HPRate_Max": 50
+    },
+    "NewRow_1": {
+        "Category": "EPalPlayerDamageCameraShakeCategory::Waza_L",
+        "Scale_Min": 1.5,
+        "Scale_Default": 2.0,
+        "Scale_Max": 2.5,
+        "HPRate_Min": 5,
+        "HPRate_Default": 25,
+        "HPRate_Max": 50
+    },
+    "NewRow_2": {
+        "Category": "EPalPlayerDamageCameraShakeCategory::Gun_S",
+        "Scale_Min": 0.2,
+        "Scale_Default": 0.4,
+        "Scale_Max": 1.0,
+        "HPRate_Min": 5,
+        "HPRate_Default": 25,
+        "HPRate_Max": 50
+    },
+    "NewRow_3": {
+        "Category": "EPalPlayerDamageCameraShakeCategory::Gun_M",
+        "Scale_Min": 0.4,
+        "Scale_Default": 1.0,
+        "Scale_Max": 1.5,
+        "HPRate_Min": 5,
+        "HPRate_Default": 25,
+        "HPRate_Max": 50
+    },
+    "NewRow_4": {
+        "Category": "EPalPlayerDamageCameraShakeCategory::Gun_L",
+        "Scale_Min": 1.5,
+        "Scale_Default": 2.0,
+        "Scale_Max": 2.5,
+        "HPRate_Min": 5,
+        "HPRate_Default": 25,
+        "HPRate_Max": 50
+    },
+    "NewRow_5": {
+        "Category": "EPalPlayerDamageCameraShakeCategory::Melee",
+        "Scale_Min": 0.4,
+        "Scale_Default": 1.0,
+        "Scale_Max": 2.0,
+        "HPRate_Min": 5,
+        "HPRate_Default": 25,
+        "HPRate_Max": 50
+    }
+}

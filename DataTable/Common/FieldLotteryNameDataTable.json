@@ -1,0 +1,639 @@
+{
+    "DevTest01": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Grass01": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 100.0,
+        "ItemSlot3_ProbabilityPercent": 100.0,
+        "ItemSlot4_ProbabilityPercent": 100.0,
+        "ItemSlot5_ProbabilityPercent": 100.0
+    },
+    "Grass02": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 100.0,
+        "ItemSlot3_ProbabilityPercent": 100.0,
+        "ItemSlot4_ProbabilityPercent": 100.0,
+        "ItemSlot5_ProbabilityPercent": 100.0
+    },
+    "Grass03": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Grass04": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Grass05": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Grass06": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Forest01": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 100.0,
+        "ItemSlot3_ProbabilityPercent": 100.0,
+        "ItemSlot4_ProbabilityPercent": 100.0,
+        "ItemSlot5_ProbabilityPercent": 100.0
+    },
+    "Forest02": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 100.0,
+        "ItemSlot3_ProbabilityPercent": 100.0,
+        "ItemSlot4_ProbabilityPercent": 100.0,
+        "ItemSlot5_ProbabilityPercent": 100.0
+    },
+    "Desert01": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 100.0,
+        "ItemSlot3_ProbabilityPercent": 100.0,
+        "ItemSlot4_ProbabilityPercent": 100.0,
+        "ItemSlot5_ProbabilityPercent": 100.0
+    },
+    "Desert02": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 100.0,
+        "ItemSlot3_ProbabilityPercent": 100.0,
+        "ItemSlot4_ProbabilityPercent": 100.0,
+        "ItemSlot5_ProbabilityPercent": 100.0
+    },
+    "Volcano01": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 100.0,
+        "ItemSlot3_ProbabilityPercent": 100.0,
+        "ItemSlot4_ProbabilityPercent": 100.0,
+        "ItemSlot5_ProbabilityPercent": 100.0
+    },
+    "Volcano02": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 100.0,
+        "ItemSlot3_ProbabilityPercent": 100.0,
+        "ItemSlot4_ProbabilityPercent": 100.0,
+        "ItemSlot5_ProbabilityPercent": 100.0
+    },
+    "Snow01": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 100.0,
+        "ItemSlot3_ProbabilityPercent": 100.0,
+        "ItemSlot4_ProbabilityPercent": 100.0,
+        "ItemSlot5_ProbabilityPercent": 100.0
+    },
+    "Snow02": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 100.0,
+        "ItemSlot3_ProbabilityPercent": 100.0,
+        "ItemSlot4_ProbabilityPercent": 100.0,
+        "ItemSlot5_ProbabilityPercent": 100.0
+    },
+    "Wood": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CopperOre": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "AssaultRifle_Default1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "PalSphere": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "PalSphere_Mega": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "PalSphere_Giga": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "PalSphere_Master": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "PalSphere_Random": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Arrow": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Grass01_Drop": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Treasure_Forest_Grade_01": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Grass02_Drop": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Volcano_Drop": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Dessert_Drop": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Snow_Drop": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_CuteFoxRank1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_CuteFoxRank2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_CuteFoxRank3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_CuteFoxRank4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_CuteFoxRank5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Egg_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Egg_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Egg_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Egg_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Egg_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Milk_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Milk_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Milk_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Milk_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Milk_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Money_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Money_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Money_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Money_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Money_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Sweets_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Sweets_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Sweets_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Sweets_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Sweets_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Wool_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Wool_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Wool_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Wool_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Wool_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Berries_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Berries_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Berries_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Berries_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Berries_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Cloth2_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Cloth2_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Cloth2_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Cloth2_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Cloth2_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_SoldierBee_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_SoldierBee_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_SoldierBee_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_SoldierBee_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_SoldierBee_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_LavaGirl_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_LavaGirl_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_LavaGirl_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_LavaGirl_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_LavaGirl_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Fruits": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Alpaca_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Alpaca_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Alpaca_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Alpaca_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Alpaca_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Fruits_Grass_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Fruits_Forest_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Fruits_Desert_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Fruits_Volcano_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "Fruits_Snow_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    }
+}

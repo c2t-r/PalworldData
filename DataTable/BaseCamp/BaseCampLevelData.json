@@ -1,0 +1,102 @@
+{
+    "1": {
+        "Level": 1,
+        "WorkerMaxNum": 1,
+        "BaseCampMaxNumInGuild": 1
+    },
+    "2": {
+        "Level": 2,
+        "WorkerMaxNum": 2,
+        "BaseCampMaxNumInGuild": 1
+    },
+    "3": {
+        "Level": 3,
+        "WorkerMaxNum": 3,
+        "BaseCampMaxNumInGuild": 1
+    },
+    "4": {
+        "Level": 4,
+        "WorkerMaxNum": 4,
+        "BaseCampMaxNumInGuild": 1
+    },
+    "5": {
+        "Level": 5,
+        "WorkerMaxNum": 5,
+        "BaseCampMaxNumInGuild": 1
+    },
+    "6": {
+        "Level": 6,
+        "WorkerMaxNum": 6,
+        "BaseCampMaxNumInGuild": 1
+    },
+    "7": {
+        "Level": 7,
+        "WorkerMaxNum": 7,
+        "BaseCampMaxNumInGuild": 1
+    },
+    "8": {
+        "Level": 8,
+        "WorkerMaxNum": 8,
+        "BaseCampMaxNumInGuild": 1
+    },
+    "9": {
+        "Level": 9,
+        "WorkerMaxNum": 9,
+        "BaseCampMaxNumInGuild": 1
+    },
+    "10": {
+        "Level": 10,
+        "WorkerMaxNum": 10,
+        "BaseCampMaxNumInGuild": 2
+    },
+    "11": {
+        "Level": 11,
+        "WorkerMaxNum": 11,
+        "BaseCampMaxNumInGuild": 2
+    },
+    "12": {
+        "Level": 12,
+        "WorkerMaxNum": 12,
+        "BaseCampMaxNumInGuild": 2
+    },
+    "13": {
+        "Level": 13,
+        "WorkerMaxNum": 13,
+        "BaseCampMaxNumInGuild": 2
+    },
+    "14": {
+        "Level": 14,
+        "WorkerMaxNum": 14,
+        "BaseCampMaxNumInGuild": 2
+    },
+    "15": {
+        "Level": 15,
+        "WorkerMaxNum": 15,
+        "BaseCampMaxNumInGuild": 3
+    },
+    "16": {
+        "Level": 16,
+        "WorkerMaxNum": 16,
+        "BaseCampMaxNumInGuild": 3
+    },
+    "17": {
+        "Level": 17,
+        "WorkerMaxNum": 17,
+        "BaseCampMaxNumInGuild": 3
+    },
+    "18": {
+        "Level": 18,
+        "WorkerMaxNum": 18,
+        "BaseCampMaxNumInGuild": 3
+    },
+    "19": {
+        "Level": 19,
+        "WorkerMaxNum": 19,
+        "BaseCampMaxNumInGuild": 3
+    },
+    "20": {
+        "Level": 20,
+        "WorkerMaxNum": 20,
+        "BaseCampMaxNumInGuild": 3
+    }
+}

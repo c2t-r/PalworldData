@@ -1,0 +1,41 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'SM_pal_b03_grass_mwDuneDesertGrass_02'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/grass_bush/b03/SM_pal_b03_grass_mwDuneDesertGrass_02.2"
+    },
+    "UpdateGuid": "43119102-4A596E1E-D0F4D18C-0E9EE290",
+    "Density": 30.0,
+    "ScaleX": {
+        "Max": 1.5
+    },
+    "AlignToNormal": false,
+    "MeshBounds": {
+        "Origin": {
+            "X": 3.3067207,
+            "Y": 7.973274,
+            "Z": 58.218765
+        },
+        "BoxExtent": {
+            "X": 109.851974,
+            "Y": 111.29931,
+            "Z": 94.42323
+        },
+        "SphereRadius": 130.98049565266376
+    },
+    "LowBoundOriginRadius": {
+        "X": -2.4253197,
+        "Y": 37.806553,
+        "Z": 84.09602
+    },
+    "CullDistance": {
+        "Max": 4000
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

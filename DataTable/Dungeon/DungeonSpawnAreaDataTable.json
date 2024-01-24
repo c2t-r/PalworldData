@@ -1,0 +1,78 @@
+{
+    "Meadow01": {
+        "DungeonNameTextId": "NAME_Dungeon01",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Desert01": {
+        "DungeonNameTextId": "NAME_Dungeon02",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Coast01": {
+        "DungeonNameTextId": "NAME_Dungeon03",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "IceSnow01": {
+        "DungeonNameTextId": "NAME_Dungeon04",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Volcano01": {
+        "DungeonNameTextId": "NAME_Dungeon05",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "CentralCity01": {
+        "DungeonNameTextId": "NAME_Dungeon06",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "SkyCity01": {
+        "DungeonNameTextId": "NAME_Dungeon07",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "WorldTree01": {
+        "DungeonNameTextId": "NAME_Dungeon08",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "TestDebug01": {
+        "DungeonNameTextId": "TestDebug01",
+        "PostfixTextId": "TestDebug01"
+    },
+    "Grass001": {
+        "DungeonNameTextId": "NAME_RandomDungeon_grass01",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Grass002": {
+        "DungeonNameTextId": "NAME_RandomDungeon_grass02",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Forest001": {
+        "DungeonNameTextId": "NAME_RandomDungeon_forest01",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Forest002": {
+        "DungeonNameTextId": "NAME_RandomDungeon_forest01",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Dessert001": {
+        "DungeonNameTextId": "NAME_RandomDungeon_dessert01",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Volcano001": {
+        "DungeonNameTextId": "NAME_RandomDungeon_volcano01",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Snow001": {
+        "DungeonNameTextId": "NAME_RandomDungeon_snow01",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Island001": {
+        "DungeonNameTextId": "NAME_RandomDungeon_PvP",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Island002": {
+        "DungeonNameTextId": "NAME_RandomDungeon_PvP",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    },
+    "Island003": {
+        "DungeonNameTextId": "NAME_RandomDungeon_PvP",
+        "PostfixTextId": "DUNGEON_NAME_TYPE_01"
+    }
+}

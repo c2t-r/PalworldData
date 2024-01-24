@@ -1,0 +1,2690 @@
+{
+    "Lv5": {
+        "Level": 5,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "PinkCat"
+                },
+                "Level": 3,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "SheepBall"
+                },
+                "Level": 3,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "ChickenPal"
+                },
+                "Level": 3,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "PinkCat"
+                },
+                "Level": 3,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "SheepBall"
+                },
+                "Level": 3,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "Axe_Tier_00"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Pickaxe_Tier_00"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Bat"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Berries"
+                },
+                "itemNum": 30
+            },
+            {
+                "itemRowName": {
+                    "Key": "Stone"
+                },
+                "itemNum": 30
+            },
+            {
+                "itemRowName": {
+                    "Key": "Wood"
+                },
+                "itemNum": 30
+            },
+            {
+                "itemRowName": {
+                    "Key": "Pal_crystal_S"
+                },
+                "itemNum": 30
+            }
+        ]
+    },
+    "Lv10": {
+        "Level": 10,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "Deer"
+                },
+                "Level": 9,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Kitsunebi"
+                },
+                "Level": 7,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Boar"
+                },
+                "Level": 8,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "ChickenPal"
+                },
+                "Level": 3,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "SheepBall"
+                },
+                "Level": 3,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "PinkCat"
+                },
+                "Level": 3,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "Axe_Tier_00"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Pickaxe_Tier_00"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "WeakerBow"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Berries"
+                },
+                "itemNum": 30
+            },
+            {
+                "itemRowName": {
+                    "Key": "Arrow"
+                },
+                "itemNum": 99
+            },
+            {
+                "itemRowName": {
+                    "Key": "PalSphere"
+                },
+                "itemNum": 99
+            }
+        ]
+    },
+    "Grass_Boss": {
+        "Level": 10,
+        "HPLevel": 0,
+        "SPLevel": 2,
+        "AttackLevel": 2,
+        "WorkLevel": 0,
+        "WeightLevel": 5,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "Deer"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Kitsunebi"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "PlantSlime"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "NegativeKoala"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "Ganesha"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Deer"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Kitsunebi"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "PlantSlime"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "NegativeKoala"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Ganesha"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Monkey"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "PinkCat"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "Bow_Triple"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "FurHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "ClothArmor"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_01"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Old"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Bow_Triple"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Arrow"
+                },
+                "itemNum": 500
+            },
+            {
+                "itemRowName": {
+                    "Key": "Bow_Triple"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "GrilledMeat"
+                },
+                "itemNum": 5
+            }
+        ]
+    },
+    "Forest_Boss": {
+        "Level": 25,
+        "HPLevel": 9,
+        "SPLevel": 6,
+        "AttackLevel": 9,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "FlameBuffalo"
+                },
+                "Level": 25,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FlameBuffalo"
+                },
+                "Level": 25,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FlameBambi"
+                },
+                "Level": 25,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FlameBambi"
+                },
+                "Level": 25,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Ganesha"
+                },
+                "Level": 25,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "Ganesha"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Eagle"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Gorilla"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "MakeshiftHandgun"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "CopperHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "CopperArmorHeat"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_02"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Good"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "RoughBullet"
+                },
+                "itemNum": 400
+            }
+        ]
+    },
+    "Electric_Boss": {
+        "Level": 40,
+        "HPLevel": 8,
+        "SPLevel": 8,
+        "AttackLevel": 8,
+        "WorkLevel": 7,
+        "WeightLevel": 8,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "VolcanicMonster"
+                },
+                "Level": 40,
+                "Rank": 3,
+                "WazaList": [
+                    "EPalWazaID::Unique_VolcanicMonster_MagmaAttack",
+                    "EPalWazaID::Inferno",
+                    "EPalWazaID::ThrowRock"
+                ],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyCatfish"
+                },
+                "Level": 40,
+                "Rank": 3,
+                "WazaList": [
+                    "EPalWazaID::RockLance",
+                    "EPalWazaID::WaterBall",
+                    "EPalWazaID::StoneShotgun"
+                ],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "HerculesBeetle"
+                },
+                "Level": 40,
+                "Rank": 3,
+                "WazaList": [
+                    "EPalWazaID::RockLance",
+                    "EPalWazaID::ThrowRock",
+                    "EPalWazaID::Unique_HerculesBeetle_BeetleTackle"
+                ],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "DrillGame"
+                },
+                "Level": 40,
+                "Rank": 3,
+                "WazaList": [
+                    "EPalWazaID::Unique_DrillGame_ShellAttack",
+                    "EPalWazaID::StoneShotgun",
+                    "EPalWazaID::ThrowRock"
+                ],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "FlowerDoll"
+                },
+                "Level": 40,
+                "Rank": 3,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "DoubleBarrelShotgun"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "IronHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "IronArmorHeat"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_04"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Super"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_HP_2"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_defense_2"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "ShotgunBullet"
+                },
+                "itemNum": 200
+            }
+        ]
+    },
+    "Desert_Boss": {
+        "Level": 45,
+        "HPLevel": 9,
+        "SPLevel": 9,
+        "AttackLevel": 9,
+        "WorkLevel": 8,
+        "WeightLevel": 9,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "BOSS_Umihebi"
+                },
+                "Level": 45,
+                "Rank": 4,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Ganesha"
+                },
+                "Level": 45,
+                "Rank": 4,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "BOSS_BlueDragon"
+                },
+                "Level": 45,
+                "Rank": 4,
+                "WazaList": [
+                    "EPalWazaID::BubbleShot",
+                    "EPalWazaID::HydroPump",
+                    "EPalWazaID::DragonBreath"
+                ],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FairyDragon_Water"
+                },
+                "Level": 45,
+                "Rank": 4,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Kelpie"
+                },
+                "Level": 45,
+                "Rank": 4,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "AssaultRifle_Default1"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "StealHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "StealArmor"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_04"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Super"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "PumpActionShotgun"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_HP_2"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_defense_2"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "AssaultRifleBullet"
+                },
+                "itemNum": 999
+            },
+            {
+                "itemRowName": {
+                    "Key": "ShotgunBullet"
+                },
+                "itemNum": 200
+            }
+        ]
+    },
+    "Snow_Boss": {
+        "Level": 50,
+        "HPLevel": 10,
+        "SPLevel": 10,
+        "AttackLevel": 10,
+        "WorkLevel": 9,
+        "WeightLevel": 10,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "BOSS_WeaselDragon"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "BOSS_JetDragon"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "BOSS_BlackMetalDragon"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LilyQueen"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Bastet_Ice"
+                },
+                "Level": 45,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "Launcher_Default"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "StealHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "StealArmorCold"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_04"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Legendary"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "AssaultRifle_Default1"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_HP_2"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_defense_2"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "AssaultRifleBullet"
+                },
+                "itemNum": 999
+            },
+            {
+                "itemRowName": {
+                    "Key": "ExplosiveBullet"
+                },
+                "itemNum": 50
+            },
+            {
+                "itemRowName": {
+                    "Key": "PalSphere_Legend"
+                },
+                "itemNum": 20
+            }
+        ]
+    },
+    "Stone200Wood200PalCrystal100Berry30": {
+        "Level": 1,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [],
+        "CapturedPals": [],
+        "LoadoutItems": [],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Stone"
+                },
+                "itemNum": 200
+            },
+            {
+                "itemRowName": {
+                    "Key": "Wood"
+                },
+                "itemNum": 200
+            },
+            {
+                "itemRowName": {
+                    "Key": "Pal_crystal_S"
+                },
+                "itemNum": 100
+            },
+            {
+                "itemRowName": {
+                    "Key": "Berries"
+                },
+                "itemNum": 30
+            }
+        ]
+    },
+    "BuildingSet1": {
+        "Level": 1,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [],
+        "CapturedPals": [],
+        "LoadoutItems": [],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Stone"
+                },
+                "itemNum": 230
+            },
+            {
+                "itemRowName": {
+                    "Key": "Wood"
+                },
+                "itemNum": 350
+            },
+            {
+                "itemRowName": {
+                    "Key": "Pal_crystal_S"
+                },
+                "itemNum": 60
+            },
+            {
+                "itemRowName": {
+                    "Key": "BerrySeeds"
+                },
+                "itemNum": 3
+            },
+            {
+                "itemRowName": {
+                    "Key": "Wool"
+                },
+                "itemNum": 5
+            },
+            {
+                "itemRowName": {
+                    "Key": "Fiber"
+                },
+                "itemNum": 55
+            },
+            {
+                "itemRowName": {
+                    "Key": "PalFluid"
+                },
+                "itemNum": 10
+            },
+            {
+                "itemRowName": {
+                    "Key": "FireOrgan"
+                },
+                "itemNum": 3
+            },
+            {
+                "itemRowName": {
+                    "Key": "Cloth"
+                },
+                "itemNum": 10
+            }
+        ]
+    },
+    "BuildingSet2": {
+        "Level": 1,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [],
+        "CapturedPals": [],
+        "LoadoutItems": [],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Stone"
+                },
+                "itemNum": 550
+            },
+            {
+                "itemRowName": {
+                    "Key": "Wood"
+                },
+                "itemNum": 999
+            },
+            {
+                "itemRowName": {
+                    "Key": "Pal_crystal_S"
+                },
+                "itemNum": 130
+            },
+            {
+                "itemRowName": {
+                    "Key": "BerrySeeds"
+                },
+                "itemNum": 3
+            },
+            {
+                "itemRowName": {
+                    "Key": "Wool"
+                },
+                "itemNum": 5
+            },
+            {
+                "itemRowName": {
+                    "Key": "Fiber"
+                },
+                "itemNum": 140
+            },
+            {
+                "itemRowName": {
+                    "Key": "PalFluid"
+                },
+                "itemNum": 10
+            },
+            {
+                "itemRowName": {
+                    "Key": "FireOrgan"
+                },
+                "itemNum": 25
+            },
+            {
+                "itemRowName": {
+                    "Key": "Cloth"
+                },
+                "itemNum": 40
+            },
+            {
+                "itemRowName": {
+                    "Key": "CopperIngot"
+                },
+                "itemNum": 220
+            },
+            {
+                "itemRowName": {
+                    "Key": "MachineParts2"
+                },
+                "itemNum": 30
+            },
+            {
+                "itemRowName": {
+                    "Key": "MachineParts"
+                },
+                "itemNum": 80
+            },
+            {
+                "itemRowName": {
+                    "Key": "Cement"
+                },
+                "itemNum": 40
+            },
+            {
+                "itemRowName": {
+                    "Key": "IceOrgan"
+                },
+                "itemNum": 5
+            }
+        ]
+    },
+    "BuildingSet3": {
+        "Level": 1,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [],
+        "CapturedPals": [],
+        "LoadoutItems": [],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Stone"
+                },
+                "itemNum": 550
+            },
+            {
+                "itemRowName": {
+                    "Key": "Wood"
+                },
+                "itemNum": 999
+            },
+            {
+                "itemRowName": {
+                    "Key": "Pal_crystal_S"
+                },
+                "itemNum": 200
+            },
+            {
+                "itemRowName": {
+                    "Key": "BerrySeeds"
+                },
+                "itemNum": 3
+            },
+            {
+                "itemRowName": {
+                    "Key": "Wool"
+                },
+                "itemNum": 5
+            },
+            {
+                "itemRowName": {
+                    "Key": "Fiber"
+                },
+                "itemNum": 140
+            },
+            {
+                "itemRowName": {
+                    "Key": "PalFluid"
+                },
+                "itemNum": 10
+            },
+            {
+                "itemRowName": {
+                    "Key": "FireOrgan"
+                },
+                "itemNum": 30
+            },
+            {
+                "itemRowName": {
+                    "Key": "Cloth"
+                },
+                "itemNum": 40
+            },
+            {
+                "itemRowName": {
+                    "Key": "CopperIngot"
+                },
+                "itemNum": 220
+            },
+            {
+                "itemRowName": {
+                    "Key": "MachineParts2"
+                },
+                "itemNum": 30
+            },
+            {
+                "itemRowName": {
+                    "Key": "MachineParts"
+                },
+                "itemNum": 200
+            },
+            {
+                "itemRowName": {
+                    "Key": "Cement"
+                },
+                "itemNum": 40
+            },
+            {
+                "itemRowName": {
+                    "Key": "IceOrgan"
+                },
+                "itemNum": 20
+            },
+            {
+                "itemRowName": {
+                    "Key": "IronIngot"
+                },
+                "itemNum": 320
+            },
+            {
+                "itemRowName": {
+                    "Key": "MachineParts2"
+                },
+                "itemNum": 60
+            },
+            {
+                "itemRowName": {
+                    "Key": "Polymer"
+                },
+                "itemNum": 40
+            },
+            {
+                "itemRowName": {
+                    "Key": "Charcoal"
+                },
+                "itemNum": 20
+            },
+            {
+                "itemRowName": {
+                    "Key": "CarbonFiber"
+                },
+                "itemNum": 40
+            }
+        ]
+    },
+    "Saikyo": {
+        "Level": 50,
+        "HPLevel": 10,
+        "SPLevel": 10,
+        "AttackLevel": 10,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "JetDragon"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "MoveSpeed_up_3"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "ElecPanda"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "WorkSpeed_ACC_up3"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "VioletFairy"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "WorkSpeed_ACC_up3"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "KingBahamut"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "WorkSpeed_ACC_up3"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "CaptainPenguin"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "WorkSpeed_ACC_up3"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "Yeti"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "WorkSpeed_ACC_up3"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "VolcanicMonster"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "WorkSpeed_ACC_up3"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "ThunderDragonMan"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "WorkSpeed_ACC_up3"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "Yeti_Grass"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "WorkSpeed_ACC_up3"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "BlueDragon"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "WorkSpeed_ACC_up3"
+                    }
+                ]
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "StealHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "StealArmor_5"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_04"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Launcher_Default_5"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "AssaultRifle_Default5"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "PumpActionShotgun_5"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_AT_3"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_HP_3"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "GrapplingGun4"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Lantern"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "AutoMealPouch_Tier5"
+                },
+                "itemNum": 1
+            }
+        ]
+    },
+    "Lv15_PenguinBoss": {
+        "Level": 15,
+        "HPLevel": 4,
+        "SPLevel": 5,
+        "AttackLevel": 5,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "Deer"
+                },
+                "Level": 15,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Kitsunebi"
+                },
+                "Level": 15,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FlowerDinosaur"
+                },
+                "Level": 15,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "NegativeKoala"
+                },
+                "Level": 15,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "Hedgehog"
+                },
+                "Level": 15,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "BowGun_Fire"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "FurHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "FurArmor"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_01"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Old"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Arrow_Fire"
+                },
+                "itemNum": 500
+            },
+            {
+                "itemRowName": {
+                    "Key": "BowGun_Fire"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "GrilledMeat"
+                },
+                "itemNum": 5
+            }
+        ]
+    },
+    "MopParty": {
+        "Level": 10,
+        "HPLevel": 3,
+        "SPLevel": 3,
+        "AttackLevel": 3,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "MopKing"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "MopBaby"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "MopBaby"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "MopBaby"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "MopBaby"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "Bow_Triple"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "FurHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "ClothArmor"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_01"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Old"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Arrow"
+                },
+                "itemNum": 500
+            },
+            {
+                "itemRowName": {
+                    "Key": "Bow_Triple"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "GrilledMeat"
+                },
+                "itemNum": 5
+            }
+        ]
+    },
+    "KitsunebiParty": {
+        "Level": 10,
+        "HPLevel": 3,
+        "SPLevel": 3,
+        "AttackLevel": 3,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "Kitsunebi"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FlameBambi"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FlameBambi"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FlameBambi"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "FlameBambi"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "Bow_Triple"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "FurHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "ClothArmor"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_01"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Old"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Arrow"
+                },
+                "itemNum": 500
+            },
+            {
+                "itemRowName": {
+                    "Key": "Bow_Triple"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "GrilledMeat"
+                },
+                "itemNum": 5
+            }
+        ]
+    },
+    "FireEnchantParty": {
+        "Level": 25,
+        "HPLevel": 9,
+        "SPLevel": 6,
+        "AttackLevel": 9,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "FoxMage"
+                },
+                "Level": 25,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FoxMage"
+                },
+                "Level": 25,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FireKirin"
+                },
+                "Level": 25,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FireKirin"
+                },
+                "Level": 25,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "Ganesha"
+                },
+                "Level": 25,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "MakeshiftHandgun"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "CopperHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "CopperArmorHeat"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_02"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Good"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "RoughBullet"
+                },
+                "itemNum": 400
+            }
+        ]
+    },
+    "Lv35": {
+        "Level": 35,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "VolcanicMonster"
+                },
+                "Level": 35,
+                "Rank": 3,
+                "WazaList": [
+                    "EPalWazaID::Unique_VolcanicMonster_MagmaAttack",
+                    "EPalWazaID::Inferno",
+                    "EPalWazaID::ThrowRock"
+                ],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "VolcanicMonster"
+                },
+                "Level": 35,
+                "Rank": 3,
+                "WazaList": [
+                    "EPalWazaID::Unique_VolcanicMonster_MagmaAttack",
+                    "EPalWazaID::Inferno",
+                    "EPalWazaID::ThrowRock"
+                ],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "DrillGame"
+                },
+                "Level": 35,
+                "Rank": 3,
+                "WazaList": [
+                    "EPalWazaID::Unique_DrillGame_ShellAttack",
+                    "EPalWazaID::StoneShotgun",
+                    "EPalWazaID::ThrowRock"
+                ],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "DrillGame"
+                },
+                "Level": 35,
+                "Rank": 3,
+                "WazaList": [
+                    "EPalWazaID::Unique_DrillGame_ShellAttack",
+                    "EPalWazaID::StoneShotgun",
+                    "EPalWazaID::ThrowRock"
+                ],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "FlowerDoll"
+                },
+                "Level": 35,
+                "Rank": 3,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 35,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 35,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 35,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 35,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 35,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "DoubleBarrelShotgun"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "IronHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "IronArmorHeat"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_04"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Super"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "ShotgunBullet"
+                },
+                "itemNum": 200
+            }
+        ]
+    },
+    "BOSS_JetDragon": {
+        "Level": 40,
+        "HPLevel": 8,
+        "SPLevel": 8,
+        "AttackLevel": 8,
+        "WorkLevel": 7,
+        "WeightLevel": 8,
+        "CaptureLevel": 1,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "VolcanicMonster"
+                },
+                "Level": 40,
+                "Rank": 2,
+                "WazaList": [
+                    "EPalWazaID::Unique_VolcanicMonster_MagmaAttack",
+                    "EPalWazaID::Inferno",
+                    "EPalWazaID::ThrowRock"
+                ],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyCatfish"
+                },
+                "Level": 40,
+                "Rank": 2,
+                "WazaList": [
+                    "EPalWazaID::RockLance",
+                    "EPalWazaID::WaterBall",
+                    "EPalWazaID::StoneShotgun"
+                ],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "HerculesBeetle"
+                },
+                "Level": 40,
+                "Rank": 2,
+                "WazaList": [
+                    "EPalWazaID::RockLance",
+                    "EPalWazaID::ThrowRock",
+                    "EPalWazaID::Unique_HerculesBeetle_BeetleTackle"
+                ],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "DrillGame"
+                },
+                "Level": 40,
+                "Rank": 2,
+                "WazaList": [
+                    "EPalWazaID::Unique_DrillGame_ShellAttack",
+                    "EPalWazaID::StoneShotgun",
+                    "EPalWazaID::ThrowRock"
+                ],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "FlowerDoll"
+                },
+                "Level": 40,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "DoubleBarrelShotgun"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "IronHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "IronArmorHeat"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_04"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Glider_Super"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "AssaultRifle_Default3"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "ShotgunBullet"
+                },
+                "itemNum": 200
+            },
+            {
+                "itemRowName": {
+                    "Key": "AssaultRifleBullet"
+                },
+                "itemNum": 999
+            }
+        ]
+    },
+    "Invader_Grade1": {
+        "Level": 1,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "PinkCat"
+                },
+                "Level": 1,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "SheepBall"
+                },
+                "Level": 1,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "Bat"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "None"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": []
+    },
+    "Invader_Grade2": {
+        "Level": 7,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "PinkCat"
+                },
+                "Level": 7,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "Spear"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "ClothArmor"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": []
+    },
+    "Invader_Grade3": {
+        "Level": 17,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "Deer"
+                },
+                "Level": 17,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "HawkBird"
+                },
+                "Level": 17,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "PlantSlime"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "PinkCat"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "SheepBall"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Kitsunebi"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Penguin"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "WoolFox"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Hedgehog"
+                },
+                "Level": 10,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "BowGun"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Spear_2"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "FurArmorHeat"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "FurHelmet"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_02"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": []
+    },
+    "Invader_Grade4": {
+        "Level": 31,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 0,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "BirdDragon"
+                },
+                "Level": 31,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "Deer"
+                },
+                "Level": 31,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "DrillGame"
+                },
+                "Level": 31,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FlameBuffalo"
+                },
+                "Level": 31,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "FlameBuffalo"
+                },
+                "Level": 31,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "CapturedPals": [
+            {
+                "PalName": {
+                    "Key": "GrassPanda"
+                },
+                "Level": 31,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "BOSS_Ronin"
+                },
+                "Level": 31,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            }
+        ],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "HandGun_Default"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Shield_03"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "CopperArmorCold"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "CopperHelmet"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": []
+    }
+}

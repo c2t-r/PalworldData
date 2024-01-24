@@ -1,0 +1,1014 @@
+{
+    "Default": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head001/SK_Player_Head001.SK_Player_Head001",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_000.T_icon_characre_face_000",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.941177,
+            "Hex": "F0FFFFFF"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type1": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head001/SK_Player_Female_Head001.SK_Player_Female_Head001",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head001/SK_Player_Male_Head001.SK_Player_Male_Head001",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_000.T_icon_characre_face_000",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type11": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head011/SK_Player_Female_Head011.SK_Player_Female_Head011",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head011/SK_Player_Male_Head011.SK_Player_Male_Head011",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_010.T_icon_characre_face_010",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type7": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head007/SK_Player_Female_Head007.SK_Player_Female_Head007",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head007/SK_Player_Male_Head007.SK_Player_Male_Head007",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_006.T_icon_characre_face_006",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type3": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head003/SK_Player_Female_Head003.SK_Player_Female_Head003",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head003/SK_Player_Male_Head003.SK_Player_Male_Head003",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_002.T_icon_characre_face_002",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type5": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head005/SK_Player_Female_Head005.SK_Player_Female_Head005",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head005/SK_Player_Male_Head005.SK_Player_Male_Head005",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_004.T_icon_characre_face_004",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type16": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head016/SK_Player_Female_Head016.SK_Player_Female_Head016",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head016/SK_Player_Male_Head016.SK_Player_Male_Head016",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_018.T_icon_characre_face_018",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type19": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head019/SK_Player_Female_Head019.SK_Player_Female_Head019",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head019/SK_Player_Male_Head019.SK_Player_Male_Head019",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_019.T_icon_characre_face_019",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752942,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type20": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head020/SK_Player_Female_Head020.SK_Player_Female_Head020",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head020/SK_Player_Male_Head020.SK_Player_Male_Head020",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_020.T_icon_characre_face_020",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752942,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type18": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head018/SK_Player_Female_Head018.SK_Player_Female_Head018",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head018/SK_Player_Male_Head018.SK_Player_Male_Head018",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_021.T_icon_characre_face_021",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752942,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type21": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head021/SK_Player_Female_Head021.SK_Player_Female_Head021",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head021/SK_Player_Male_Head021.SK_Player_Male_Head021",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_022.T_icon_characre_face_022",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752942,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type14": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head014/SK_Player_Female_Head014.SK_Player_Female_Head014",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head014/SK_Player_Male_Head014.SK_Player_Male_Head014",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_013.T_icon_characre_face_013",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type4": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head004/SK_Player_Female_Head004.SK_Player_Female_Head004",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head004/SK_Player_Male_Head004.SK_Player_Male_Head004",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_003.T_icon_characre_face_003",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type17": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head017/SK_Player_Female_Head017.SK_Player_Female_Head017",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head017/SK_Player_Male_Head017.SK_Player_Male_Head017",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_016.T_icon_characre_face_016",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type2": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head002/SK_Player_Female_Head002.SK_Player_Female_Head002",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head002/SK_Player_Male_Head002.SK_Player_Male_Head002",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_001.T_icon_characre_face_001",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type12": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head012/SK_Player_Female_Head012.SK_Player_Female_Head012",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head012/SK_Player_Male_Head012.SK_Player_Male_Head012",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_011.T_icon_characre_face_011",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type15": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head015/SK_Player_Female_Head015.SK_Player_Female_Head015",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head015/SK_Player_Male_Head015.SK_Player_Male_Head015",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_014.T_icon_characre_face_014",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type8": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head008/SK_Player_Female_Head008.SK_Player_Female_Head008",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head008/SK_Player_Male_Head008.SK_Player_Male_Head008",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_007.T_icon_characre_face_007",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type9": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head009/SK_Player_Female_Head009.SK_Player_Female_Head009",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head009/SK_Player_Male_Head009.SK_Player_Male_Head009",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_008.T_icon_characre_face_008",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type13": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head013/SK_Player_Female_Head013.SK_Player_Female_Head013",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head013/SK_Player_Male_Head013.SK_Player_Male_Head013",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_012.T_icon_characre_face_012",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type6": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head006/SK_Player_Female_Head006.SK_Player_Female_Head006",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head006/SK_Player_Male_Head006.SK_Player_Male_Head006",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_005.T_icon_characre_face_005",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    },
+    "Type10": {
+        "SkeletalMesh": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head010/SK_Player_Female_Head010.SK_Player_Female_Head010",
+            "SubPathString": ""
+        },
+        "SkeletalMesh_MaleHead": {
+            "AssetPathName": "/Game/Pal/Model/Character/Player/Head/Head010/SK_Player_Male_Head010.SK_Player_Male_Head010",
+            "SubPathString": ""
+        },
+        "IconTexture": {
+            "AssetPathName": "/Game/Pal/Texture/UI/CharaCre/Icon_Face/T_icon_characre_face_009.T_icon_characre_face_009",
+            "SubPathString": ""
+        },
+        "ABPAsset": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "ShiftUIDisplayEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.752941,
+            "A": 0.941177,
+            "Hex": "F000FFE1"
+        },
+        "ShiftUIDisplayBodyColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayBrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        },
+        "ShiftUIDisplayHairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+        }
+    }
+}

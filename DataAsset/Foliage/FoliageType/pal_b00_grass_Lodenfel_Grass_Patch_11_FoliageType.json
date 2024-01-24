@@ -1,0 +1,48 @@
+{
+    "Mesh": {
+        "ObjectName": "StaticMesh'pal_b00_grass_SM_Grass_Patch_12'",
+        "ObjectPath": "Pal/Content/Pal/Model/Stage/grass_bush/b00/pal_b00_grass_SM_Grass_Patch_12.2"
+    },
+    "UpdateGuid": "EDC65908-4F019C3A-93C26DA1-EEF51799",
+    "Density": 200.0,
+    "Radius": 3.0,
+    "ScaleX": {
+        "Min": 0.6
+    },
+    "ZOffset": {
+        "Min": -20.0,
+        "Max": -10.0
+    },
+    "AlignToNormal": false,
+    "AverageNormalSingleComponent": false,
+    "RandomYaw": false,
+    "MeshBounds": {
+        "Origin": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 47.657066
+        },
+        "BoxExtent": {
+            "X": 56.275635,
+            "Y": 48.03351,
+            "Z": 51.5534
+        },
+        "SphereRadius": 74.57736373492865
+    },
+    "LowBoundOriginRadius": {
+        "X": -0.5654297,
+        "Y": -1.7664795,
+        "Z": 65.45886
+    },
+    "CullDistance": {
+        "Max": 4000
+    },
+    "ScaleCurve": {
+        "EditorCurveData": {}
+    },
+    "DensityFalloff": {
+        "FalloffCurve": {
+            "EditorCurveData": {}
+        }
+    }
+}

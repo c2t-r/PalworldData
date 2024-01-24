@@ -1,0 +1,10 @@
+{
+    "DataLayerType": "EDataLayerType::Runtime",
+    "DebugColor": {
+        "B": 171,
+        "G": 222,
+        "R": 138,
+        "A": 255,
+        "Hex": "FF8ADEAB"
+    }
+}

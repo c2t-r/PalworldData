@@ -1,0 +1,98 @@
+{
+    "FootStep_Run": {
+        "Description": "\u8db3\u97f3(\u6b69\u304d\uff06\u8d70\u308a)"
+    },
+    "ThrowWeapon_Throw": {
+        "Description": "\u6295\u64f2\u30a2\u30a4\u30c6\u30e0_\u6295\u3052"
+    },
+    "ThrowWeapon_HitGround": {
+        "Description": "\u6295\u64f2\u30a2\u30a4\u30c6\u30e0_\u5730\u9762\u306b\u30d2\u30c3\u30c8"
+    },
+    "ThrowWeapon_HitPal": {
+        "Description": "\u6295\u64f2\u30a2\u30a4\u30c6\u30e0_\u30d1\u30eb\u306b\u30d2\u30c3\u30c8_\u901a\u5e38"
+    },
+    "ThrowWeapon_PalSphere_Shake": {
+        "Description": "\u30b9\u30d5\u30a3\u30a2\u6355\u7372_\u6210\u5426\u5224\u5b9a\u4e2d_\u63fa\u308c"
+    },
+    "Weapon_Aim_Start": {
+        "Description": "\u6b66\u5668_\u30a8\u30a4\u30e0\u958b\u59cb"
+    },
+    "Weapon_Aim_End": {
+        "Description": "\u6b66\u5668_\u30a8\u30a4\u30e0\u7d42\u4e86"
+    },
+    "Weapon_Equip": {
+        "Description": "\u6b66\u5668_\u88c5\u5099\uff08\u6b66\u5668\u5207\u66ff\uff09"
+    },
+    "Weapon_Draw": {
+        "Description": "\u6b66\u5668_\u5f26\u3092\u5f15\u3044\u305f\u3068\u304d"
+    },
+    "Weapon_Fire": {
+        "Description": "\u6b66\u5668_\u767a\u5c04"
+    },
+    "FootStep_Walk": {
+        "Description": "\u8db3\u97f3\uff08\u6b69\u304d\uff09"
+    },
+    "Rolling_Front": {
+        "Description": "\u30ed\u30fc\u30ea\u30f3\u30b0_\u524d"
+    },
+    "Rolling_Side": {
+        "Description": "\u30ed\u30fc\u30ea\u30f3\u30b0_\u6a2a"
+    },
+    "Rolling_Back": {
+        "Description": "\u30ed\u30fc\u30ea\u30f3\u30b0_\u5f8c\u308d"
+    },
+    "Jump_Start": {
+        "Description": "\u30b8\u30e3\u30f3\u30d7\u958b\u59cb"
+    },
+    "Jump_Landing": {
+        "Description": "\u30b8\u30e3\u30f3\u30d7_\u7740\u5730"
+    },
+    "FootStep_RunStart": {
+        "Description": "\u8d70\u308a\u59cb\u3081"
+    },
+    "FootStep_WalkStart": {
+        "Description": "\u6b69\u304d\u59cb\u3081"
+    },
+    "Crouch_Start": {
+        "Description": "\u3057\u3083\u304c\u307f_\u958b\u59cb"
+    },
+    "Crouch_End": {
+        "Description": "\u3057\u3083\u304c\u307f_\u89e3\u9664"
+    },
+    "Weapon_Fire_End": {
+        "Description": "\u6b66\u5668_\u767a\u5c04\u7d42\u4e86(\u6b8b\u97ff\u97f3)"
+    },
+    "Glider_Start": {
+        "Description": "\u30b0\u30e9\u30a4\u30c0\u30fc(\u958b\u59cb)"
+    },
+    "Glider_Gliding": {
+        "Description": "\u30b0\u30e9\u30a4\u30c0\u30fc(\u6ed1\u7a7a\u4e2d)"
+    },
+    "Glider_End": {
+        "Description": "\u30b0\u30e9\u30a4\u30c0\u30fc(\u7d42\u4e86)"
+    },
+    "Sliding_Start": {
+        "Description": "\u30b9\u30e9\u30a4\u30c7\u30a3\u30f3\u30b0"
+    },
+    "ThrowWeapon_HitPal_test01": {
+        "Description": "\u30c6\u30b9\u30c8\u7528"
+    },
+    "ThrowWeapon_HitPal_test02": {
+        "Description": "\u30c6\u30b9\u30c8\u7528"
+    },
+    "Weapon_Reload": {
+        "Description": "\u30e9\u30f3\u30c1\u30e3\u30fc\u306e\u88c5\u586b\u7528"
+    },
+    "Weapon_Setup": {
+        "Description": "\u30e9\u30f3\u30c1\u30e3\u30fc\u88c5\u586b\u5f8c\u306e\u69cb\u3048"
+    },
+    "Weapon_Hit": {
+        "Description": "\u5f13\u306e\u7740\u5f3e\u97f3"
+    },
+    "Wing_Idle": {
+        "Description": "\u98db\u884c\u30d1\u30eb\u304c\u30a2\u30a4\u30c9\u30eb\u3057\u3066\u3044\u308b\u3068\u304d\u306e\u7fbd\u3070\u305f\u304d\u97f3"
+    },
+    "Wing_Move": {
+        "Description": "\u98db\u884c\u30d1\u30eb\u304c\u79fb\u52d5\u3057\u3066\u3044\u308b\u3068\u304d\u306e\u7fbd\u3070\u305f\u304d\u97f3"
+    }
+}

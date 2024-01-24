@@ -1,0 +1,1040 @@
+{
+    "Village_Shop_1": {
+        "productDataArray": [
+            {
+                "StaticItemId": "Blueprint_Head003_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head004_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head011_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head012_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head013_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head015_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head016_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "PalSphere",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Arrow",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Herbs",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Medicines",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "LuxuryMedicines",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "BerrySeeds",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "WheatSeeds",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Egg",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Milk",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Berries",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Wheat",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Wool",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Leather",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Bone",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Horn",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "ElectricOrgan",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Venom",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "FireOrgan",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Ruby",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Sapphire",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Eemerald",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Diamond",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_01",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_02",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_03",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_04",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_05",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            }
+        ]
+    },
+    "Vagrant_Trader_1_1": {
+        "productDataArray": [
+            {
+                "StaticItemId": "Wood",
+                "BuyRate": 0.5,
+                "SellRate": -1.0,
+                "Stock": 500
+            },
+            {
+                "StaticItemId": "Stone",
+                "BuyRate": 0.5,
+                "SellRate": -1.0,
+                "Stock": 500
+            },
+            {
+                "StaticItemId": "CopperOre",
+                "BuyRate": 0.5,
+                "SellRate": -1.0,
+                "Stock": 20
+            }
+        ]
+    },
+    "Vagrant_Trader_1_2": {
+        "productDataArray": [
+            {
+                "StaticItemId": "Pan",
+                "BuyRate": 0.5,
+                "SellRate": -1.0,
+                "Stock": 20
+            }
+        ]
+    },
+    "Vagrant_Trader_1_3": {
+        "productDataArray": [
+            {
+                "StaticItemId": "PalSphere",
+                "BuyRate": 0.5,
+                "SellRate": -1.0,
+                "Stock": 100
+            },
+            {
+                "StaticItemId": "PalSphere_Mega",
+                "BuyRate": 0.5,
+                "SellRate": -1.0,
+                "Stock": 20
+            },
+            {
+                "StaticItemId": "PalSphere_Giga",
+                "BuyRate": 0.5,
+                "SellRate": -1.0,
+                "Stock": 10
+            }
+        ]
+    },
+    "Desert_Shop_1": {
+        "productDataArray": [
+            {
+                "StaticItemId": "PalSphere_Mega",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "SkillCard_SandTornado",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "SkillCard_ThrowRock",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "SkillCard_SeedMine",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Herbs",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Medicines",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "LuxuryMedicines",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "MindControlDrug",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Tomato",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Lettuce",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Leather",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Bone",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Horn",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "IceOrgan",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "PalOil",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "TomatoSeeds",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "LettuceSeeds",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Ruby",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Sapphire",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Eemerald",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Diamond",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_01",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_02",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_03",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_04",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_05",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            }
+        ]
+    },
+    "Desert_Shop_2": {
+        "productDataArray": [
+            {
+                "StaticItemId": "Blueprint_Head005_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head007_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head008_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head009_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head014_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head017_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "FurArmorHeat",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "FurArmorCold",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Accessory_HeatResist_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Accessory_CoolResist_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Musket",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "RoughBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "HandgunBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "RifleBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "ShotgunBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "AssaultRifleBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Ruby",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Sapphire",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Eemerald",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Diamond",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_01",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_02",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_03",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_04",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_05",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            }
+        ]
+    },
+    "Volcano_Shop_1": {
+        "productDataArray": [
+            {
+                "StaticItemId": "PalSphere_Mega",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "SkillCard_Flamethrower",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "SkillCard_FlareTornado",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "SkillCard_WaterBall",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Herbs",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Medicines",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "LuxuryMedicines",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "MindControlDrug",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Tomato",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Lettuce",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Leather",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Bone",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Horn",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "FireOrgan",
+                "BuyRate": 0.5,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "PalOil",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "TomatoSeeds",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "LettuceSeeds",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Ruby",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Sapphire",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Eemerald",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Diamond",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_01",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_02",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_03",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_04",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_05",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            }
+        ]
+    },
+    "Volcano_Shop_2": {
+        "productDataArray": [
+            {
+                "StaticItemId": "Blueprint_Head001_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head002_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head006_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Blueprint_Head010_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "FurArmorHeat",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Accessory_HeatResist_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Accessory_FireResist_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "BowGun_Fire",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Arrow_Fire",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "MakeshiftHandgun",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "RoughBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "HandgunBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "RifleBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "ShotgunBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "AssaultRifleBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Ruby",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Sapphire",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Eemerald",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Diamond",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_01",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_02",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_03",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_04",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_05",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            }
+        ]
+    },
+    "Wander_Shop_1": {
+        "productDataArray": [
+            {
+                "StaticItemId": "Pal_crystal_S",
+                "BuyRate": 10.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "SkillCard_SelfDestruct",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "SkillCard_AcidRain",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "SkillCard_LockonLaser",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Egg",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Milk",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Berries",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Wheat",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Herbs",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Medicines",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "LuxuryMedicines",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "MindControlDrug",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Wool",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Leather",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Bone",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Horn",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Ruby",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Sapphire",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Eemerald",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "Diamond",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_01",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_02",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_03",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_04",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            },
+            {
+                "StaticItemId": "PalItem_ToSell_05",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": -1
+            }
+        ]
+    }
+}
