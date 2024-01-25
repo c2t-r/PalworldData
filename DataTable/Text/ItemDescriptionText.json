@@ -563,8 +563,8 @@
         "TextData": {
             "Namespace": "DT_ItemDescriptionText",
             "Key": "ITEM_DESC_MachineParts2_TextData",
-            "SourceString": "精密機器の製作に必要な<itemName id=|MachineParts2|/>。\r\n<mapObjectName id=|Factory_Hard_01|/>で作成できる。",
-            "LocalizedString": "精密機器の製作に必要な<itemName id=|MachineParts2|/>。\r\n<mapObjectName id=|Factory_Hard_01|/>で作成できる。"
+            "SourceString": "精密機器の製作に必要な<itemName id=|MachineParts2|/>。\r\n<mapObjectName id=|Factory_Hard_02|/>で作成できる。",
+            "LocalizedString": "精密機器の製作に必要な<itemName id=|MachineParts2|/>。\r\n<mapObjectName id=|Factory_Hard_02|/>で作成できる。"
         }
     },
     "ITEM_DESC_Meat": {
@@ -1115,8 +1115,8 @@
         "TextData": {
             "Namespace": "DT_ItemDescriptionText",
             "Key": "ITEM_DESC_Hop_TextData",
-            "SourceString": "さすがだぞ！\r\nこれが<itemName id=|Beer|/>の元になるって\r\nバッチリ　理解しているんだな！",
-            "LocalizedString": "さすがだぞ！\r\nこれが<itemName id=|Beer|/>の元になるって\r\nバッチリ　理解しているんだな！"
+            "SourceString": "hop",
+            "LocalizedString": "hop"
         }
     },
     "ITEM_DESC_Egg": {

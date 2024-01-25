@@ -651,8 +651,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyDescText",
             "Key": "DESC_RECIPE_SPHERE_LAUNCHER_ONCE_TextData",
-            "SourceString": "スフィアを発射するためのランチャー。\r\nより遠くにいるパルでも捕獲できる。\r\nクラフトするには｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣が必要。",
-            "LocalizedString": "スフィアを発射するためのランチャー。\r\nより遠くにいるパルでも捕獲できる。\r\nクラフトするには｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣が必要。"
+            "SourceString": "スフィアを発射するためのランチャー。\r\nより遠くにいるパルでも捕獲できる。\r\nクラフトするには｢<mapObjectName id=|WeaponFactory_Dirty_01|/>｣が必要。",
+            "LocalizedString": "スフィアを発射するためのランチャー。\r\nより遠くにいるパルでも捕獲できる。\r\nクラフトするには｢<mapObjectName id=|WeaponFactory_Dirty_01|/>｣が必要。"
         }
     },
     "DESC_RECIPE_HOMING_SPHERE_LAUNCHER": {
@@ -715,8 +715,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyDescText",
             "Key": "DESC_RECIPE_MachineParts2_TextData",
-            "SourceString": "精密機器の製作に必要な｢<itemName id=|MachineParts2|/>｣。\r\n｢<mapObjectName id=|Factory_Hard_01|/>｣で作成できる。",
-            "LocalizedString": "精密機器の製作に必要な｢<itemName id=|MachineParts2|/>｣。\r\n｢<mapObjectName id=|Factory_Hard_01|/>｣で作成できる。"
+            "SourceString": "精密機器の製作に必要な｢<itemName id=|MachineParts2|/>｣。\r\n｢<mapObjectName id=|Factory_Hard_02|/>｣で作成できる。",
+            "LocalizedString": "精密機器の製作に必要な｢<itemName id=|MachineParts2|/>｣。\r\n｢<mapObjectName id=|Factory_Hard_02|/>｣で作成できる。"
         }
     },
     "DESC_RECIPE_Computer": {
@@ -811,8 +811,8 @@
         "TextData": {
             "Namespace": "DT_TechnologyDescText",
             "Key": "DESC_RECIPE_COOKING_ELECTRIC_KITCHEN_TextData",
-            "SourceString": "電気を必要とするが、より高度で効率的な調理が可能になる。\r\n作業には｢<uiCommon id=|COMMON_WORK_SUITABILITY_GenerateElectricity|/>｣適性のあるパルが必要。",
-            "LocalizedString": "電気を必要とするが、より高度で効率的な調理が可能になる。\r\n作業には｢<uiCommon id=|COMMON_WORK_SUITABILITY_GenerateElectricity|/>｣適性のあるパルが必要。"
+            "SourceString": "電気を必要とするが、より高度で効率的な調理が可能になる。\r\n作業には｢<uiCommon id=|COMMON_WORK_SUITABILITY_EmitFlame|/>｣適性のあるパルが必要。",
+            "LocalizedString": "電気を必要とするが、より高度で効率的な調理が可能になる。\r\n作業には｢<uiCommon id=|COMMON_WORK_SUITABILITY_EmitFlame|/>｣適性のあるパルが必要。"
         }
     },
     "DESC_RECIPE_COOKING_HIGH_TECH_KITCHEN": {

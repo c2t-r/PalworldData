@@ -5411,8 +5411,8 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "MAPOBJECT_OPERATION_FailOverlap_TextData",
-            "SourceString": "他のオブジェクトと\r\n重なっています",
-            "LocalizedString": "他のオブジェクトと\r\n重なっています"
+            "SourceString": "他のオブジェクトもしくは\r\nキャラクターに被っているので\r\n建築できません",
+            "LocalizedString": "他のオブジェクトもしくは\r\nキャラクターに被っているので\r\n建築できません"
         }
     },
     "MAPOBJECT_OPERATION_FailNotAttachToWall": {
@@ -9307,8 +9307,8 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "SETTING_CONTROL_DASH_TextData",
-            "SourceString": "長押しダッシュ",
-            "LocalizedString": "長押しダッシュ"
+            "SourceString": "ダッシュ単押し",
+            "LocalizedString": "ダッシュ単押し"
         }
     },
     "SETTING_CONTROL_MOUSE_SENSI": {
@@ -10363,8 +10363,8 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "QUEST_TUTORIAL_MEAL_TextData",
-            "SourceString": "<keyGuideIcon id=|OpenCharacterMenu|/>でインベントリを開き\r\n<keyGuideIcon id=|ItemList_UseItem_Pad|/>で食べ物を使用して空腹を満たそう。",
-            "LocalizedString": "<keyGuideIcon id=|OpenCharacterMenu|/>でインベントリを開き\r\n<keyGuideIcon id=|ItemList_UseItem_Pad|/>で食べ物を使用して空腹を満たそう。"
+            "SourceString": "<keyGuideIcon id=|OpenCharacterMenu|/>でインベントリを開き\r\n<keyGuideIcon id=|ItemList_UseItem_ForDisplay|/>で食べ物を使用して空腹を満たそう。",
+            "LocalizedString": "<keyGuideIcon id=|OpenCharacterMenu|/>でインベントリを開き\r\n<keyGuideIcon id=|ItemList_UseItem_ForDisplay|/>で食べ物を使用して空腹を満たそう。"
         }
     },
     "QUEST_TUTORIAL_STATUS_POINT": {
@@ -11149,6 +11149,30 @@
             "Key": "TITLE_SERVERLOBBY_NOTICE_TextData",
             "SourceString": "専用サーバーは現在、<Yellow_20B>実験中</>の機能です。\r\nシングルプレイよりも細かいバグやラグに遭遇する可能性があります。\r\n特に<Yellow_20B>人数が多いサーバー</>では、より多くのラグが発生します。\r\nこのゲームを初めてプレイする方は、まずはシングルプレイや協力プレイをオススメします。",
             "LocalizedString": "専用サーバーは現在、<Yellow_20B>実験中</>の機能です。\r\nシングルプレイよりも細かいバグやラグに遭遇する可能性があります。\r\n特に<Yellow_20B>人数が多いサーバー</>では、より多くのラグが発生します。\r\nこのゲームを初めてプレイする方は、まずはシングルプレイや協力プレイをオススメします。"
+        }
+    },
+    "BOSS_TOWER_START_BATTLE_DIALOG": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "BOSS_TOWER_START_BATTLE_DIALOG_TextData",
+            "SourceString": "ボス戦を開始します。よろしいですか？\r\n参加メンバー",
+            "LocalizedString": "ボス戦を開始します。よろしいですか？\r\n参加メンバー"
+        }
+    },
+    "TITLE_SERVERLOBBY_INPUTPASSWORD": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "TITLE_SERVERLOBBY_INPUTPASSWORD_TextData",
+            "SourceString": "パスワードを入力する",
+            "LocalizedString": "パスワードを入力する"
+        }
+    },
+    "KEYGUIDE_THROW_CAMP_PAL": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "KEYGUIDE_THROW_CAMP_PAL_TextData",
+            "SourceString": "投げる",
+            "LocalizedString": "投げる"
         }
     }
 }

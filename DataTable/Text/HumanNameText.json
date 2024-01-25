@@ -190,5 +190,13 @@
             "SourceString": "密猟団 クラッシャー",
             "LocalizedString": "密猟団 クラッシャー"
         }
+    },
+    "NAME_DarkTrader": {
+        "TextData": {
+            "Namespace": "DT_HumanNameText",
+            "Key": "NAME_DarkTrader_TextData",
+            "SourceString": "闇商人",
+            "LocalizedString": "闇商人"
+        }
     }
 }
