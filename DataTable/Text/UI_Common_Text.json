@@ -5111,6 +5111,14 @@
             "LocalizedString": "ライド中は不可能"
         }
     },
+    "INTERACT_HOLD_TEXT": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "INTERACT_HOLD_TEXT_TextData",
+            "SourceString": "[長押し] ",
+            "LocalizedString": "[長押し] "
+        }
+    },
     "ITEMSHOP_PRODUCT_LIST": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
@@ -11173,6 +11181,22 @@
             "Key": "KEYGUIDE_THROW_CAMP_PAL_TextData",
             "SourceString": "投げる",
             "LocalizedString": "投げる"
+        }
+    },
+    "BUILDING＿WARNING_OUTSIDE_BASECAMP_TITLE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "BUILDING＿WARNING_OUTSIDE_BASECAMP_TITLE_TextData",
+            "SourceString": "拠点エリア外",
+            "LocalizedString": "拠点エリア外"
+        }
+    },
+    "BUILDING＿WARNING_OUTSIDE_BASECAMP": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "BUILDING＿WARNING_OUTSIDE_BASECAMP_TextData",
+            "SourceString": "拠点エリア外に建築すると建築物が劣化します\r\n誰かに建築物を解体される可能性があります\r\n拠点パルが作業できません",
+            "LocalizedString": "拠点エリア外に建築すると建築物が劣化します\r\n誰かに建築物を解体される可能性があります\r\n拠点パルが作業できません"
         }
     }
 }

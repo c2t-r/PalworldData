@@ -104,7 +104,7 @@
         "bAutoResetGuildNoOnlinePlayers": true,
         "AutoResetGuildTimeNoOnlinePlayers": 72.0,
         "GuildPlayerMaxNum": 20,
-        "PalEggDefaultHatchingTime": 72.0,
+        "PalEggDefaultHatchingTime": 4.0,
         "BaseCampWorkerMaxNum": 15
     }
 }

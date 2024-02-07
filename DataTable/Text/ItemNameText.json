@@ -6550,5 +6550,13 @@
             "SourceString": "トドドドンチャウダー",
             "LocalizedString": "トドドドンチャウダー"
         }
+    },
+    "ITEM_NAME_GatlingGun": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_GatlingGun_TextData",
+            "SourceString": "ガトリングガン",
+            "LocalizedString": "ガトリングガン"
+        }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "VeryLowPreset": {
+    "VeryLow": {
         "GraphicsLevel": "EPalOptionGraphicsLevel::VeryLow",
         "AntiAliasingType": "EAntiAliasingMethod::AAM_None",
         "CommonQuality": 0,
@@ -8,28 +8,28 @@
         "ShadowQuality": 0,
         "TextureQuality": 0
     },
-    "LowPreset": {
+    "Low": {
         "GraphicsLevel": "EPalOptionGraphicsLevel::Low",
         "AntiAliasingType": "EAntiAliasingMethod::AAM_TSR",
-        "CommonQuality": 1,
+        "CommonQuality": 0,
         "ViewDistanceQuality": 1,
         "FoliageQuality": 1,
         "ShadowQuality": 1,
         "TextureQuality": 1
     },
-    "MediumPreset": {
+    "Medium": {
         "GraphicsLevel": "EPalOptionGraphicsLevel::Medium",
         "AntiAliasingType": "EAntiAliasingMethod::AAM_TSR",
-        "CommonQuality": 2,
+        "CommonQuality": 1,
         "ViewDistanceQuality": 2,
         "FoliageQuality": 2,
         "ShadowQuality": 2,
         "TextureQuality": 2
     },
-    "HighPreset": {
+    "High": {
         "GraphicsLevel": "EPalOptionGraphicsLevel::High",
         "AntiAliasingType": "EAntiAliasingMethod::AAM_TSR",
-        "CommonQuality": 3,
+        "CommonQuality": 2,
         "ViewDistanceQuality": 3,
         "FoliageQuality": 3,
         "ShadowQuality": 3,

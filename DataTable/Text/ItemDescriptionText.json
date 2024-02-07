@@ -6510,5 +6510,13 @@
             "SourceString": "無属性のダメージをかなり軽減するアクセサリー。",
             "LocalizedString": "無属性のダメージをかなり軽減するアクセサリー。"
         }
+    },
+    "ITEM_DESC_GatlingGun": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_GatlingGun_TextData",
+            "SourceString": "ガトリングガン",
+            "LocalizedString": "ガトリングガン"
+        }
     }
 }

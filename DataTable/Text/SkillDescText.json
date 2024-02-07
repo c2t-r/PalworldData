@@ -579,8 +579,8 @@
         "TextData": {
             "Namespace": "DT_SkillDescText",
             "Key": "ACTION_SKILL_Unique_ThunderDragonMan_ThunderSwordAttack_TextData",
-            "SourceString": "<characterName id=|ThunderDragonMan|/>の専用スキル。\r\n飛び上がって雷剣を召喚し、\r\n敵に向かって投げつける。",
-            "LocalizedString": "<characterName id=|ThunderDragonMan|/>の専用スキル。\r\n飛び上がって雷剣を召喚し、\r\n敵に向かって投げつける。"
+            "SourceString": "<characterName id=|ThunderDragonMan|/>の専用スキル。\r\n飛び上がって雷槍を召喚し、\r\n敵に向かって投げつける。",
+            "LocalizedString": "<characterName id=|ThunderDragonMan|/>の専用スキル。\r\n飛び上がって雷槍を召喚し、\r\n敵に向かって投げつける。"
         }
     },
     "ACTION_SKILL_Unique_CaptainPenguin_BodySlide": {
