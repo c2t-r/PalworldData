@@ -4070,5 +4070,13 @@
             "SourceString": "<mapObjectName id=|BuildObject_Chair01_Pal|/>",
             "LocalizedString": "<mapObjectName id=|BuildObject_Chair01_Pal|/>"
         }
+    },
+    "NAME_RECIPE_Altar": {
+        "TextData": {
+            "Namespace": "DT_TechnologyNameText",
+            "Key": "NAME_RECIPE_Altar_TextData",
+            "SourceString": "<mapObjectName id=|Altar|/>",
+            "LocalizedString": "<mapObjectName id=|Altar|/>"
+        }
     }
 }

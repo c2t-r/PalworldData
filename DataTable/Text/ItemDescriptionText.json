@@ -3043,32 +3043,32 @@
         "TextData": {
             "Namespace": "DT_ItemDescriptionText",
             "Key": "ITEM_DESC_PalItem_ColorfulBird_TextData",
-            "SourceString": "<characterName id=|ColorfulBird|/>が落とした羽。\r\n美しく彩りが人気で、衣類の素材に使われる。",
-            "LocalizedString": "<characterName id=|ColorfulBird|/>が落とした羽。\r\n美しく彩りが人気で、衣類の素材に使われる。"
+            "SourceString": "<characterName id=|ColorfulBird|/>が落とした羽。\r\n美しく彩りが人気で、衣類の素材などに使われる。",
+            "LocalizedString": "<characterName id=|ColorfulBird|/>が落とした羽。\r\n美しく彩りが人気で、衣類の素材などに使われる。"
         }
     },
     "ITEM_DESC_PalItem_PlantSlime": {
         "TextData": {
             "Namespace": "DT_ItemDescriptionText",
             "Key": "ITEM_DESC_PalItem_PlantSlime_TextData",
-            "SourceString": "<characterName id=|PlantSlime|/>が落とした葉。\r\n衣類の材料に使われる。",
-            "LocalizedString": "<characterName id=|PlantSlime|/>が落とした葉。\r\n衣類の材料に使われる。"
+            "SourceString": "<characterName id=|PlantSlime|/>が落とした葉。\r\nみずみずしさがあり、衣類の材料などに使われる。",
+            "LocalizedString": "<characterName id=|PlantSlime|/>が落とした葉。\r\nみずみずしさがあり、衣類の材料などに使われる。"
         }
     },
     "ITEM_DESC_PalItem_CaptainPenguin": {
         "TextData": {
             "Namespace": "DT_ItemDescriptionText",
             "Key": "ITEM_DESC_PalItem_CaptainPenguin_TextData",
-            "SourceString": "<characterName id=|CaptainPenguin|/>が落とした羽飾り。\r\n衣類の材料に使われる。",
-            "LocalizedString": "<characterName id=|CaptainPenguin|/>が落とした羽飾り。\r\n衣類の材料に使われる。"
+            "SourceString": "<characterName id=|CaptainPenguin|/>が落とした羽飾り。\r\n鮮やかな色が特徴で、衣類の材料などに使われる。",
+            "LocalizedString": "<characterName id=|CaptainPenguin|/>が落とした羽飾り。\r\n鮮やかな色が特徴で、衣類の材料などに使われる。"
         }
     },
     "ITEM_DESC_PalItem_CatMage": {
         "TextData": {
             "Namespace": "DT_ItemDescriptionText",
             "Key": "ITEM_DESC_PalItem_CatMage_TextData",
-            "SourceString": "<characterName id=|CatMage|/>が落とした体毛。\r\n衣類の材料に使われる。",
-            "LocalizedString": "<characterName id=|CatMage|/>が落とした体毛。\r\n衣類の材料に使われる。"
+            "SourceString": "<characterName id=|CatMage|/>が落とした体毛。\r\nやわらかく、衣類の材料などに使われる。",
+            "LocalizedString": "<characterName id=|CatMage|/>が落とした体毛。\r\nやわらかく、衣類の材料などに使われる。"
         }
     },
     "ITEM_DESC_Mushroom": {
@@ -5639,6 +5639,102 @@
             "LocalizedString": "所持していると、「<itemName id=|Launcher_Default|/>\r\n（<uiCommon id=|RARITY_LEGENDARY|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_03|/>｣でクラフトできる。"
         }
     },
+    "ITEM_DESC_Blueprint_Musket_2": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_Musket_2_TextData",
+            "SourceString": "所持していると、「<itemName id=|Musket|/>\r\n（<uiCommon id=|RARITY_UNCOMMON|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_01|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|Musket|/>\r\n（<uiCommon id=|RARITY_UNCOMMON|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_01|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_Musket_3": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_Musket_3_TextData",
+            "SourceString": "所持していると、「<itemName id=|Musket|/>\r\n（<uiCommon id=|RARITY_RARE|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_01|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|Musket|/>\r\n（<uiCommon id=|RARITY_RARE|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_01|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_Musket_4": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_Musket_4_TextData",
+            "SourceString": "所持していると、「<itemName id=|Musket|/>\r\n（<uiCommon id=|RARITY_EPIC|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_01|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|Musket|/>\r\n（<uiCommon id=|RARITY_EPIC|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_01|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_Musket_5": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_Musket_5_TextData",
+            "SourceString": "所持していると、「<itemName id=|Musket|/>\r\n（<uiCommon id=|RARITY_LEGENDARY|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_01|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|Musket|/>\r\n（<uiCommon id=|RARITY_LEGENDARY|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_01|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_SingleShotRifle_2": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_SingleShotRifle_2_TextData",
+            "SourceString": "所持していると、「<itemName id=|SingleShotRifle|/>\r\n（<uiCommon id=|RARITY_UNCOMMON|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|SingleShotRifle|/>\r\n（<uiCommon id=|RARITY_UNCOMMON|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_SingleShotRifle_3": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_SingleShotRifle_3_TextData",
+            "SourceString": "所持していると、「<itemName id=|SingleShotRifle|/>\r\n（<uiCommon id=|RARITY_RARE|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|SingleShotRifle|/>\r\n（<uiCommon id=|RARITY_RARE|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_SingleShotRifle_4": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_SingleShotRifle_4_TextData",
+            "SourceString": "所持していると、「<itemName id=|SingleShotRifle|/>\r\n（<uiCommon id=|RARITY_EPIC|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|SingleShotRifle|/>\r\n（<uiCommon id=|RARITY_EPIC|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_SingleShotRifle_5": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_SingleShotRifle_5_TextData",
+            "SourceString": "所持していると、「<itemName id=|SingleShotRifle|/>\r\n（<uiCommon id=|RARITY_LEGENDARY|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|SingleShotRifle|/>\r\n（<uiCommon id=|RARITY_LEGENDARY|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_DoubleBarrelShotgun_2": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_DoubleBarrelShotgun_2_TextData",
+            "SourceString": "所持していると、「<itemName id=|DoubleBarrelShotgun|/>\r\n（<uiCommon id=|RARITY_UNCOMMON|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|DoubleBarrelShotgun|/>\r\n（<uiCommon id=|RARITY_UNCOMMON|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_DoubleBarrelShotgun_3": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_DoubleBarrelShotgun_3_TextData",
+            "SourceString": "所持していると、「<itemName id=|DoubleBarrelShotgun|/>\r\n（<uiCommon id=|RARITY_RARE|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|DoubleBarrelShotgun|/>\r\n（<uiCommon id=|RARITY_RARE|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_DoubleBarrelShotgun_4": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_DoubleBarrelShotgun_4_TextData",
+            "SourceString": "所持していると、「<itemName id=|DoubleBarrelShotgun|/>\r\n（<uiCommon id=|RARITY_EPIC|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|DoubleBarrelShotgun|/>\r\n（<uiCommon id=|RARITY_EPIC|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。"
+        }
+    },
+    "ITEM_DESC_Blueprint_DoubleBarrelShotgun_5": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Blueprint_DoubleBarrelShotgun_5_TextData",
+            "SourceString": "所持していると、「<itemName id=|DoubleBarrelShotgun|/>\r\n（<uiCommon id=|RARITY_LEGENDARY|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。",
+            "LocalizedString": "所持していると、「<itemName id=|DoubleBarrelShotgun|/>\r\n（<uiCommon id=|RARITY_LEGENDARY|/>）」のレシピが解放される。\r\n｢<mapObjectName id=|WeaponFactory_Dirty_02|/>｣でクラフトできる。"
+        }
+    },
     "ITEM_DESC_ClothArmor_2": {
         "TextData": {
             "Namespace": "DT_ItemDescriptionText",
@@ -6517,6 +6613,238 @@
             "Key": "ITEM_DESC_GatlingGun_TextData",
             "SourceString": "ガトリングガン",
             "LocalizedString": "ガトリングガン"
+        }
+    },
+    "ITEM_DESC_Accessory_Nonkilling": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Accessory_Nonkilling_TextData",
+            "SourceString": "平和主義者の指輪。\r\n装備者は攻撃対象のHealthを1未満にできない。",
+            "LocalizedString": "平和主義者の指輪。\r\n装備者は攻撃対象のHealthを1未満にできない。"
+        }
+    },
+    "ITEM_DESC_PalSummon": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalSummon_TextData",
+            "SourceString": "<characterName id=|NightLady|/>が描かれた石板。\r\n<mapObjectName id=|Altar|/>に捧げることで、\r\n強大なパルを召喚できる。",
+            "LocalizedString": "<characterName id=|NightLady|/>が描かれた石板。\r\n<mapObjectName id=|Altar|/>に捧げることで、\r\n強大なパルを召喚できる。"
+        }
+    },
+    "ITEM_DESC_Accessory_TalentChecker": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Accessory_TalentChecker_TextData",
+            "SourceString": "パルが秘めた才能を確認できるようになるメガネ。\r\nHP、攻撃、防御の才能値が100点満点で表示される。",
+            "LocalizedString": "パルが秘めた才能を確認できるようになるメガネ。\r\nHP、攻撃、防御の才能値が100点満点で表示される。"
+        }
+    },
+    "ITEM_DESC_Elixir_hp_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Elixir_hp_01_TextData",
+            "SourceString": "永久的に「HP」ステータスを少し上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。",
+            "LocalizedString": "永久的に「HP」ステータスを少し上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。"
+        }
+    },
+    "ITEM_DESC_Elixir_stamina_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Elixir_stamina_01_TextData",
+            "SourceString": "永久的に「スタミナ」ステータスを少し上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。",
+            "LocalizedString": "永久的に「スタミナ」ステータスを少し上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。"
+        }
+    },
+    "ITEM_DESC_Elixir_attack_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Elixir_attack_01_TextData",
+            "SourceString": "永久的に「攻撃」ステータスを少し上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。",
+            "LocalizedString": "永久的に「攻撃」ステータスを少し上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。"
+        }
+    },
+    "ITEM_DESC_Elixir_workspeed_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Elixir_workspeed_01_TextData",
+            "SourceString": "永久的に「作業速度」ステータスを少し上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。",
+            "LocalizedString": "永久的に「作業速度」ステータスを少し上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。"
+        }
+    },
+    "ITEM_DESC_Elixir_weight_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Elixir_weight_01_TextData",
+            "SourceString": "永久的に「所持重量」ステータスを少し上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。",
+            "LocalizedString": "永久的に「所持重量」ステータスを少し上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。"
+        }
+    },
+    "ITEM_DESC_Elixir_hp_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Elixir_hp_02_TextData",
+            "SourceString": "永久的に「HP」ステータスを上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。",
+            "LocalizedString": "永久的に「HP」ステータスを上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。"
+        }
+    },
+    "ITEM_DESC_Elixir_stamina_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Elixir_stamina_02_TextData",
+            "SourceString": "永久的に「スタミナ」ステータスを上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。",
+            "LocalizedString": "永久的に「スタミナ」ステータスを上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。"
+        }
+    },
+    "ITEM_DESC_Elixir_attack_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Elixir_attack_02_TextData",
+            "SourceString": "永久的に「攻撃」ステータスを上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。",
+            "LocalizedString": "永久的に「攻撃」ステータスを上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。"
+        }
+    },
+    "ITEM_DESC_Elixir_workspeed_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Elixir_workspeed_02_TextData",
+            "SourceString": "永久的に「作業速度」ステータスを上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。",
+            "LocalizedString": "永久的に「作業速度」ステータスを上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。"
+        }
+    },
+    "ITEM_DESC_Elixir_weight_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Elixir_weight_02_TextData",
+            "SourceString": "永久的に「所持重量」ステータスを上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。",
+            "LocalizedString": "永久的に「所持重量」ステータスを上昇させる極めて貴重な薬。\r\nパルが飲んでも意味はない。"
+        }
+    },
+    "ITEM_DESC_Lotus_hp_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Lotus_hp_01_TextData",
+            "SourceString": "滅多に入手できない希少な緑色の小さい花。\r\n生命の秘薬の原料になる。",
+            "LocalizedString": "滅多に入手できない希少な緑色の小さい花。\r\n生命の秘薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_Lotus_stamina_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Lotus_stamina_01_TextData",
+            "SourceString": "滅多に入手できない希少な黄色い小さい花。\r\n活力の秘薬の原料になる。",
+            "LocalizedString": "滅多に入手できない希少な黄色い小さい花。\r\n活力の秘薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_Lotus_attack_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Lotus_attack_01_TextData",
+            "SourceString": "滅多に入手できない希少な赤色の小さい花。\r\n剛力の秘薬の原料になる。",
+            "LocalizedString": "滅多に入手できない希少な赤色の小さい花。\r\n剛力の秘薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_Lotus_workspeed_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Lotus_workspeed_01_TextData",
+            "SourceString": "滅多に入手できない希少なオレンジ色の小さい花。\r\n勤労の秘薬の原料になる。",
+            "LocalizedString": "滅多に入手できない希少なオレンジ色の小さい花。\r\n勤労の秘薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_Lotus_weight_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Lotus_weight_01_TextData",
+            "SourceString": "滅多に入手できない希少な紫色の小さい花。\r\n運搬の秘薬の原料になる。",
+            "LocalizedString": "滅多に入手できない希少な紫色の小さい花。\r\n運搬の秘薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_PalItem_PinkRabbit": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalItem_PinkRabbit_TextData",
+            "SourceString": "<characterName id=|PinkRabbit|/>が落としたリボン。\r\n可愛い色合いとデザインで、衣類の素材などに使われる。",
+            "LocalizedString": "<characterName id=|PinkRabbit|/>が落としたリボン。\r\n可愛い色合いとデザインで、衣類の素材などに使われる。"
+        }
+    },
+    "ITEM_DESC_PalItem_MopBaby": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalItem_MopBaby_TextData",
+            "SourceString": "<characterName id=|MopBaby|/>が落とした綿毛。\r\nふわふわしていて、衣類の材料などに使われる。",
+            "LocalizedString": "<characterName id=|MopBaby|/>が落とした綿毛。\r\nふわふわしていて、衣類の材料などに使われる。"
+        }
+    },
+    "ITEM_DESC_PalItem_NegativeOctopus": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalItem_NegativeOctopus_TextData",
+            "SourceString": "<characterName id=|NegativeOctopus|/>が落とした触手。\r\n独特な感触で、衣類の材料などに使われる。",
+            "LocalizedString": "<characterName id=|NegativeOctopus|/>が落とした触手。\r\n独特な感触で、衣類の材料などに使われる。"
+        }
+    },
+    "ITEM_DESC_PalItem_RaijinDaughter": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalItem_RaijinDaughter_TextData",
+            "SourceString": "<characterName id=|RaijinDaughter|/>が落とした雲。\r\nもこもこしていて、衣類の材料などに使われる。",
+            "LocalizedString": "<characterName id=|RaijinDaughter|/>が落とした雲。\r\nもこもこしていて、衣類の材料などに使われる。"
+        }
+    },
+    "ITEM_DESC_PalItem_LizardMan": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalItem_LizardMan_TextData",
+            "SourceString": "<characterName id=|LizardMan|/>が落としたトサカ。\r\nトゲトゲしていて、衣類の材料などに使われる。",
+            "LocalizedString": "<characterName id=|LizardMan|/>が落としたトサカ。\r\nトゲトゲしていて、衣類の材料などに使われる。"
+        }
+    },
+    "ITEM_DESC_Flamethrower": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Flamethrower_TextData",
+            "SourceString": "火炎放射器",
+            "LocalizedString": "火炎放射器"
+        }
+    },
+    "ITEM_DESC_Lotus_hp_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Lotus_hp_02_TextData",
+            "SourceString": "滅多に入手できない希少な緑色の大きい花。\r\n生命の神薬の原料になる。",
+            "LocalizedString": "滅多に入手できない希少な緑色の大きい花。\r\n生命の神薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_Lotus_stamina_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Lotus_stamina_02_TextData",
+            "SourceString": "滅多に入手できない希少な黄色い大きい花。\r\n活力の神薬の原料になる。",
+            "LocalizedString": "滅多に入手できない希少な黄色い大きい花。\r\n活力の神薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_Lotus_attack_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Lotus_attack_02_TextData",
+            "SourceString": "滅多に入手できない希少な赤色の大きい花。\r\n剛力の神薬の原料になる。",
+            "LocalizedString": "滅多に入手できない希少な赤色の大きい花。\r\n剛力の神薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_Lotus_workspeed_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Lotus_workspeed_02_TextData",
+            "SourceString": "滅多に入手できない希少なオレンジ色の大きい花。\r\n勤労の神薬の原料になる。",
+            "LocalizedString": "滅多に入手できない希少なオレンジ色の大きい花。\r\n勤労の神薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_Lotus_weight_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Lotus_weight_02_TextData",
+            "SourceString": "滅多に入手できない希少な紫色の大きい花。\r\n運搬の神薬の原料になる。",
+            "LocalizedString": "滅多に入手できない希少な紫色の大きい花。\r\n運搬の神薬の原料になる。"
         }
     }
 }

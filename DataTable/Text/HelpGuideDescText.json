@@ -59,8 +59,8 @@
         "TextData": {
             "Namespace": "DT_HelpGuideDescText",
             "Key": "Help_8_TextData",
-            "SourceString": "建築\r\n\r\n<keyGuideIcon id=|OpenConstructionRadialMenu|/>で建築メニューが開き、建築が可能です。\r\n建築メニューから建築位置を決定し、そこで作業をすることで建築が完了します。\r\n手持ちや拠点のパルがいれば、建築を手伝ってくれます。",
-            "LocalizedString": "建築\r\n\r\n<keyGuideIcon id=|OpenConstructionRadialMenu|/>で建築メニューが開き、建築が可能です。\r\n建築メニューから建築位置を決定し、そこで作業をすることで建築が完了します。\r\n手持ちや拠点のパルがいれば、建築を手伝ってくれます。"
+            "SourceString": "建築\r\n\r\n<keyGuideIcon id=|OpenConstructionMenu|/>で建築メニューが開き、建築が可能です。\r\n建築メニューから建築位置を決定し、そこで作業をすることで建築が完了します。\r\n手持ちや拠点のパルがいれば、建築を手伝ってくれます。",
+            "LocalizedString": "建築\r\n\r\n<keyGuideIcon id=|OpenConstructionMenu|/>で建築メニューが開き、建築が可能です。\r\n建築メニューから建築位置を決定し、そこで作業をすることで建築が完了します。\r\n手持ちや拠点のパルがいれば、建築を手伝ってくれます。"
         }
     },
     "Help_9": {

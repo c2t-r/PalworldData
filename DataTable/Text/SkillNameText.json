@@ -4054,5 +4054,13 @@
             "SourceString": "神龍",
             "LocalizedString": "神龍"
         }
+    },
+    "PASSIVE_NonKilling": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_NonKilling_TextData",
+            "SourceString": "手加減",
+            "LocalizedString": "手加減"
+        }
     }
 }

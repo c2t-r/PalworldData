@@ -1387,5 +1387,13 @@
             "SourceString": "攻撃+{EffectValue1}%\r\n防御+{EffectValue2}%\r\n移動速度上昇{EffectValue3}%",
             "LocalizedString": "攻撃+{EffectValue1}%\r\n防御+{EffectValue2}%\r\n移動速度上昇{EffectValue3}%"
         }
+    },
+    "PASSIVE_NonKilling_DESC": {
+        "TextData": {
+            "Namespace": "DT_SkillDescText",
+            "Key": "PASSIVE_NonKilling_DESC_TextData",
+            "SourceString": "平和主義者。\r\n攻撃対象のHealthを1未満にできない。",
+            "LocalizedString": "平和主義者。\r\n攻撃対象のHealthを1未満にできない。"
+        }
     }
 }

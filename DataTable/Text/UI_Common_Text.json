@@ -2823,10 +2823,10 @@
             "LocalizedString": "プレイヤー位置に移動"
         }
     },
-    "INPUT_ACTION_OpenConstructionRadialMenu": {
+    "INPUT_ACTION_OpenConstructionMenu": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
-            "Key": "INPUT_ACTION_OpenConstructionRadialMenu_TextData",
+            "Key": "INPUT_ACTION_OpenConstructionMenu_TextData",
             "SourceString": "建築",
             "LocalizedString": "建築"
         }
@@ -4715,24 +4715,24 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "INTERACT_INDICATOR_Seeding_TextData",
-            "SourceString": "種まき",
-            "LocalizedString": "種まき"
+            "SourceString": "[長押し] 種まき",
+            "LocalizedString": "[長押し] 種まき"
         }
     },
     "INTERACT_INDICATOR_Watering": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "INTERACT_INDICATOR_Watering_TextData",
-            "SourceString": "水やり",
-            "LocalizedString": "水やり"
+            "SourceString": "[長押し] 水やり",
+            "LocalizedString": "[長押し] 水やり"
         }
     },
     "INTERACT_INDICATOR_Harvest": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "INTERACT_INDICATOR_Harvest_TextData",
-            "SourceString": "収穫",
-            "LocalizedString": "収穫"
+            "SourceString": "[長押し] 収穫",
+            "LocalizedString": "[長押し] 収穫"
         }
     },
     "INTERACT_INDICATOR_OpenPalMedicalBedMenu": {
@@ -5915,8 +5915,8 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "PLAYER_ACTION_EMOTE_7_TextData",
-            "SourceString": "ボタンを押す",
-            "LocalizedString": "ボタンを押す"
+            "SourceString": "寝る",
+            "LocalizedString": "寝る"
         }
     },
     "WORKER_RADIAL_SHOW_STATUS": {
@@ -10387,8 +10387,8 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "QUEST_TUTORIAL_BUILD_PHASE_01_TextData",
-            "SourceString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>で建築メニューを開き\r\n{BuildObjectName} を選んで\r\n建築予定地を決めよう。",
-            "LocalizedString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>で建築メニューを開き\r\n{BuildObjectName} を選んで\r\n建築予定地を決めよう。"
+            "SourceString": "<keyGuideIcon id=|OpenConstructionMenu| iconScale=|0.7|/>で建築メニューを開き\r\n{BuildObjectName} を選んで\r\n建築予定地を決めよう。",
+            "LocalizedString": "<keyGuideIcon id=|OpenConstructionMenu| iconScale=|0.7|/>で建築メニューを開き\r\n{BuildObjectName} を選んで\r\n建築予定地を決めよう。"
         }
     },
     "QUEST_TUTORIAL_BUILD_PHASE_02": {
@@ -10611,22 +10611,30 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "MONITORING_CAMPPAL_INFO_0_TextData",
-            "SourceString": "パルに<NumBlue_13>人道的な</>働き方を要求します",
-            "LocalizedString": "パルに<NumBlue_13>人道的な</>働き方を要求します"
+            "SourceString": "パルに<Green_13>おだやかな</>働き方を要求します",
+            "LocalizedString": "パルに<Green_13>おだやかな</>働き方を要求します"
         }
     },
     "MONITORING_CAMPPAL_INFO_1": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "MONITORING_CAMPPAL_INFO_1_TextData",
-            "SourceString": "パルに<NumRed_13>過酷な</>働き方を要求します",
-            "LocalizedString": "パルに<NumRed_13>過酷な</>働き方を要求します"
+            "SourceString": "パルに<NumBlue_13>人道的な</>働き方を要求します",
+            "LocalizedString": "パルに<NumBlue_13>人道的な</>働き方を要求します"
         }
     },
     "MONITORING_CAMPPAL_INFO_2": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "MONITORING_CAMPPAL_INFO_2_TextData",
+            "SourceString": "パルに<NumRed_13>過酷な</>働き方を要求します",
+            "LocalizedString": "パルに<NumRed_13>過酷な</>働き方を要求します"
+        }
+    },
+    "MONITORING_CAMPPAL_INFO_3": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "MONITORING_CAMPPAL_INFO_3_TextData",
             "SourceString": "パルに<Purple_13>鬼畜な</>働き方を要求します",
             "LocalizedString": "パルに<Purple_13>鬼畜な</>働き方を要求します"
         }
@@ -10635,22 +10643,30 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "MONITORING_WORKHARD_LEVEL_0_TextData",
-            "SourceString": "ノーマル",
-            "LocalizedString": "ノーマル"
+            "SourceString": "リラックス",
+            "LocalizedString": "リラックス"
         }
     },
     "MONITORING_WORKHARD_LEVEL_1": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "MONITORING_WORKHARD_LEVEL_1_TextData",
-            "SourceString": "ハードワーク",
-            "LocalizedString": "ハードワーク"
+            "SourceString": "ノーマル",
+            "LocalizedString": "ノーマル"
         }
     },
     "MONITORING_WORKHARD_LEVEL_2": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "MONITORING_WORKHARD_LEVEL_2_TextData",
+            "SourceString": "ハードワーク",
+            "LocalizedString": "ハードワーク"
+        }
+    },
+    "MONITORING_WORKHARD_LEVEL_3": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "MONITORING_WORKHARD_LEVEL_3_TextData",
             "SourceString": "超ハードワーク",
             "LocalizedString": "超ハードワーク"
         }
@@ -10685,6 +10701,14 @@
             "Key": "MONITORING_EFFECT_LEVEL_NORMAL_TextData",
             "SourceString": "通常",
             "LocalizedString": "通常"
+        }
+    },
+    "MONITORING_EFFECT_LEVEL_LOW": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "MONITORING_EFFECT_LEVEL_LOW_TextData",
+            "SourceString": "低",
+            "LocalizedString": "低"
         }
     },
     "MONITORING_EFFECT_WORKSPEED": {
@@ -11107,8 +11131,8 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "TITLE_JOINGAME_NEXTPAGE_TextData",
-            "SourceString": "次の200件を表示",
-            "LocalizedString": "次の200件を表示"
+            "SourceString": "次のページを表示",
+            "LocalizedString": "次のページを表示"
         }
     },
     "TITLE_WORLDSELECT_MULTIGUIDE": {
@@ -11197,6 +11221,454 @@
             "Key": "BUILDING＿WARNING_OUTSIDE_BASECAMP_TextData",
             "SourceString": "拠点エリア外に建築すると建築物が劣化します\r\n誰かに建築物を解体される可能性があります\r\n拠点パルが作業できません",
             "LocalizedString": "拠点エリア外に建築すると建築物が劣化します\r\n誰かに建築物を解体される可能性があります\r\n拠点パルが作業できません"
+        }
+    },
+    "SETTING_CONTROL_TOGGLE_INTERACT": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_CONTROL_TOGGLE_INTERACT_TextData",
+            "SourceString": "長押しインタラクト切り替え",
+            "LocalizedString": "長押しインタラクト切り替え"
+        }
+    },
+    "SETTING_KEY_TITLE_PLAYERACTION": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_TITLE_PLAYERACTION_TextData",
+            "SourceString": "プレイヤーアクション",
+            "LocalizedString": "プレイヤーアクション"
+        }
+    },
+    "SETTING_KEY_TITLE_UIACTION": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_TITLE_UIACTION_TextData",
+            "SourceString": "UIアクション",
+            "LocalizedString": "UIアクション"
+        }
+    },
+    "SETTING_KEY_UI_Interact_1": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_UI_Interact_1_TextData",
+            "SourceString": "インタラクト1",
+            "LocalizedString": "インタラクト1"
+        }
+    },
+    "SETTING_KEY_UI_Interact_2": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_UI_Interact_2_TextData",
+            "SourceString": "インタラクト2",
+            "LocalizedString": "インタラクト2"
+        }
+    },
+    "SETTING_KEY_UI_Interact_3": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_UI_Interact_3_TextData",
+            "SourceString": "インタラクト3",
+            "LocalizedString": "インタラクト3"
+        }
+    },
+    "SETTING_KEY_UI_Interact_4": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_UI_Interact_4_TextData",
+            "SourceString": "インタラクト4",
+            "LocalizedString": "インタラクト4"
+        }
+    },
+    "SETTING_KEY_UI_OpenWorldMap": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_UI_OpenWorldMap_TextData",
+            "SourceString": "ワールドマップ",
+            "LocalizedString": "ワールドマップ"
+        }
+    },
+    "SETTING_KEY_UI_OpenTechnologyMenu": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_UI_OpenTechnologyMenu_TextData",
+            "SourceString": "テクノロジーメニュー",
+            "LocalizedString": "テクノロジーメニュー"
+        }
+    },
+    "SETTING_KEY_UI_OpenPalStatus": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_UI_OpenPalStatus_TextData",
+            "SourceString": "パルステータス",
+            "LocalizedString": "パルステータス"
+        }
+    },
+    "SETTING_KEY_UI_OpenCharacterMenu": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_UI_OpenCharacterMenu_TextData",
+            "SourceString": "キャラクターメニュー",
+            "LocalizedString": "キャラクターメニュー"
+        }
+    },
+    "SETTING_KEY_UI_ChatOpen": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_UI_ChatOpen_TextData",
+            "SourceString": "チャット",
+            "LocalizedString": "チャット"
+        }
+    },
+    "SETTING_KEY_UI_CutsceneSkip": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_KEY_UI_CutsceneSkip_TextData",
+            "SourceString": "カットシーンスキップ",
+            "LocalizedString": "カットシーンスキップ"
+        }
+    },
+    "RANKUP_DIALOG_HIGHRANK": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "RANKUP_DIALOG_HIGHRANK_TextData",
+            "SourceString": "高ランクのパルがエキス素材として選択されています！\r\n本当によろしいですか？",
+            "LocalizedString": "高ランクのパルがエキス素材として選択されています！\r\n本当によろしいですか？"
+        }
+    },
+    "RANKUP_DIALOG_MAXRANK": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "RANKUP_DIALOG_MAXRANK_TextData",
+            "SourceString": "MAXランクのパルがエキス素材として選択されています！\r\n本当によろしいですか？",
+            "LocalizedString": "MAXランクのパルがエキス素材として選択されています！\r\n本当によろしいですか？"
+        }
+    },
+    "COMMON_WORK_TYPE_Defense": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "COMMON_WORK_TYPE_Defense_TextData",
+            "SourceString": "防衛",
+            "LocalizedString": "防衛"
+        }
+    },
+    "RIDINGSKILL_WARNING_STAMINA": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "RIDINGSKILL_WARNING_STAMINA_TextData",
+            "SourceString": "スタミナが足りない！",
+            "LocalizedString": "スタミナが足りない！"
+        }
+    },
+    "ESC_MENU_DEDICATE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ESC_MENU_DEDICATE_TextData",
+            "SourceString": "ギルドメンバーが一人もサーバーにログインしていない状態が{Hour}時間続くと、そのギルドに所属するアイテム、建物、拠点パルは削除されます。",
+            "LocalizedString": "ギルドメンバーが一人もサーバーにログインしていない状態が{Hour}時間続くと、そのギルドに所属するアイテム、建物、拠点パルは削除されます。"
+        }
+    },
+    "MAPOBJECT_OPERATION_FailedCannotDismantleNotAuthenticatedPasswordLock": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "MAPOBJECT_OPERATION_FailedCannotDismantleNotAuthenticatedPasswordLock_TextData",
+            "SourceString": "ロックされている施設のため解体できません",
+            "LocalizedString": "ロックされている施設のため解体できません"
+        }
+    },
+    "TITLE_WORLDSELECT_UNKNOWN_DATA": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "TITLE_WORLDSELECT_UNKNOWN_DATA_TextData",
+            "SourceString": "不明なワールドデータ",
+            "LocalizedString": "不明なワールドデータ"
+        }
+    },
+    "TITLE_WORLDSELECT_BACKUPSELECT": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "TITLE_WORLDSELECT_BACKUPSELECT_TextData",
+            "SourceString": "バックアップデータから復元",
+            "LocalizedString": "バックアップデータから復元"
+        }
+    },
+    "TITLE_BACKUPSELECT_TITLE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "TITLE_BACKUPSELECT_TITLE_TextData",
+            "SourceString": "BACKUP",
+            "LocalizedString": "BACKUP"
+        }
+    },
+    "TITLE_BACKUPSELECT_NOTHING_BACKUP": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "TITLE_BACKUPSELECT_NOTHING_BACKUP_TextData",
+            "SourceString": "バックアップデータがありません。",
+            "LocalizedString": "バックアップデータがありません。"
+        }
+    },
+    "TITLE_BACKUPSELECT_DIALOG": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "TITLE_BACKUPSELECT_DIALOG_TextData",
+            "SourceString": "{BackupName}のセーブデータを使って\r\nセーブデータを復元します。\r\n本当によろしいですか？\r\n\r\n<Yellow_12>現在のセーブデータは上書きされて、消去されます！</>",
+            "LocalizedString": "{BackupName}のセーブデータを使って\r\nセーブデータを復元します。\r\n本当によろしいですか？\r\n\r\n<Yellow_12>現在のセーブデータは上書きされて、消去されます！</>"
+        }
+    },
+    "TITLE_BACKUPSELECT_FAILED_RESTORE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "TITLE_BACKUPSELECT_FAILED_RESTORE_TextData",
+            "SourceString": "セーブデータの復元に失敗しました。\r\nバックアップデータが正しくセーブされていない可能性があります。",
+            "LocalizedString": "セーブデータの復元に失敗しました。\r\nバックアップデータが正しくセーブされていない可能性があります。"
+        }
+    },
+    "TITLE_BACKUPSELECT_SUCCESS_RESTORE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "TITLE_BACKUPSELECT_SUCCESS_RESTORE_TextData",
+            "SourceString": "セーブデータの復元に成功しました。\r\nデータ更新のため、一度タイトル画面に戻ります。",
+            "LocalizedString": "セーブデータの復元に成功しました。\r\nデータ更新のため、一度タイトル画面に戻ります。"
+        }
+    },
+    "TITLE_BACKUPSELECT_INFO": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "TITLE_BACKUPSELECT_INFO_TextData",
+            "SourceString": "バックアップデータを選択してください。",
+            "LocalizedString": "バックアップデータを選択してください。"
+        }
+    },
+    "INTERACT_INDICATOR_SummonRaidBoss": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "INTERACT_INDICATOR_SummonRaidBoss_TextData",
+            "SourceString": "[長押し] 強大なパルを召喚する",
+            "LocalizedString": "[長押し] 強大なパルを召喚する"
+        }
+    },
+    "INTERACT_INDICATOR_SummonRaidBoss_RequireMaterial": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "INTERACT_INDICATOR_SummonRaidBoss_RequireMaterial_TextData",
+            "SourceString": "[長押し] 強大なパルを召喚する（パルの石板が必要）",
+            "LocalizedString": "[長押し] 強大なパルを召喚する（パルの石板が必要）"
+        }
+    },
+    "BUILDING_MENU_GUIDE_CHANGE_MODE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "BUILDING_MENU_GUIDE_CHANGE_MODE_TextData",
+            "SourceString": "設置モード変更",
+            "LocalizedString": "設置モード変更"
+        }
+    },
+    "PAL_STATUS_POTENTIAL": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "PAL_STATUS_POTENTIAL_TextData",
+            "SourceString": "ポテンシャル",
+            "LocalizedString": "ポテンシャル"
+        }
+    },
+    "GUILD_REQUESTED_JOIN_CONFIRM_DIALOG_JoinLowBaseCampLevelGuild": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "GUILD_REQUESTED_JOIN_CONFIRM_DIALOG_JoinLowBaseCampLevelGuild_TextData",
+            "SourceString": "現在のギルドより拠点レベルの低いギルドへ加入しようとしています\r\n拠点レベルが下がりますがよろしいですか？",
+            "LocalizedString": "現在のギルドより拠点レベルの低いギルドへ加入しようとしています\r\n拠点レベルが下がりますがよろしいですか？"
+        }
+    },
+    "GUILD_JOIN_REQUEST_RESULT_Failed_NotEnoughSpaceStoreBackBaseCampWorkers_Respondent": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "GUILD_JOIN_REQUEST_RESULT_Failed_NotEnoughSpaceStoreBackBaseCampWorkers_Respondent_TextData",
+            "SourceString": "パルボックスがいっぱいのため、拠点にいるパルを戻せません\r\nギルド加入に失敗しました",
+            "LocalizedString": "パルボックスがいっぱいのため、拠点にいるパルを戻せません\r\nギルド加入に失敗しました"
+        }
+    },
+    "GUILD_JOIN_REQUEST_RESULT_Failed_NotEnoughSpaceStoreBackBaseCampWorkers_Applicant": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "GUILD_JOIN_REQUEST_RESULT_Failed_NotEnoughSpaceStoreBackBaseCampWorkers_Applicant_TextData",
+            "SourceString": "パルボックスがいっぱいのため、拠点にいるパルを戻せません\r\nギルド加入に失敗しました\r\nパルを売却するなどして空きを作ってください",
+            "LocalizedString": "パルボックスがいっぱいのため、拠点にいるパルを戻せません\r\nギルド加入に失敗しました\r\nパルを売却するなどして空きを作ってください"
+        }
+    },
+    "LOG_FullPalBox": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "LOG_FullPalBox_TextData",
+            "SourceString": "パルボックスに空きがありません。",
+            "LocalizedString": "パルボックスに空きがありません。"
+        }
+    },
+    "LOG_FireBaseCamp": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "LOG_FireBaseCamp_TextData",
+            "SourceString": "拠点で火事が発生中！\r\n水属性のパルを拠点に出して消火してもらおう！",
+            "LocalizedString": "拠点で火事が発生中！\r\n水属性のパルを拠点に出して消火してもらおう！"
+        }
+    },
+    "ITEM_FILTER_WEAPON": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_WEAPON_TextData",
+            "SourceString": "武器",
+            "LocalizedString": "武器"
+        }
+    },
+    "ITEM_FILTER_ARMOR": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_ARMOR_TextData",
+            "SourceString": "防具",
+            "LocalizedString": "防具"
+        }
+    },
+    "ITEM_FILTER_ACCESSORY": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_ACCESSORY_TextData",
+            "SourceString": "アクセサリ",
+            "LocalizedString": "アクセサリ"
+        }
+    },
+    "ITEM_FILTER_GLIDER": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_GLIDER_TextData",
+            "SourceString": "グライダー",
+            "LocalizedString": "グライダー"
+        }
+    },
+    "ITEM_FILTER_SPHERE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_SPHERE_TextData",
+            "SourceString": "スフィア",
+            "LocalizedString": "スフィア"
+        }
+    },
+    "ITEM_FILTER_AMMO": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_AMMO_TextData",
+            "SourceString": "弾薬",
+            "LocalizedString": "弾薬"
+        }
+    },
+    "ITEM_FILTER_FOOD": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_FOOD_TextData",
+            "SourceString": "食材",
+            "LocalizedString": "食材"
+        }
+    },
+    "ITEM_FILTER_MEAL": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_MEAL_TextData",
+            "SourceString": "料理",
+            "LocalizedString": "料理"
+        }
+    },
+    "ITEM_FILTER_ORE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_ORE_TextData",
+            "SourceString": "鉱石",
+            "LocalizedString": "鉱石"
+        }
+    },
+    "ITEM_FILTER_MATERIAL": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_MATERIAL_TextData",
+            "SourceString": "素材",
+            "LocalizedString": "素材"
+        }
+    },
+    "ITEM_FILTER_BLUEPRINT": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_BLUEPRINT_TextData",
+            "SourceString": "設計図",
+            "LocalizedString": "設計図"
+        }
+    },
+    "ITEM_FILTER_CONSUME": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_CONSUME_TextData",
+            "SourceString": "消費アイテム",
+            "LocalizedString": "消費アイテム"
+        }
+    },
+    "ITEM_FILTER_ESSENTIAL": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_ESSENTIAL_TextData",
+            "SourceString": "大事なもの",
+            "LocalizedString": "大事なもの"
+        }
+    },
+    "COMMON_CHECK_ALL": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "COMMON_CHECK_ALL_TextData",
+            "SourceString": "全てのチェックをつける",
+            "LocalizedString": "全てのチェックをつける"
+        }
+    },
+    "COMMON_UNCHECK_ALL": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "COMMON_UNCHECK_ALL_TextData",
+            "SourceString": "全てのチェックを外す",
+            "LocalizedString": "全てのチェックを外す"
+        }
+    },
+    "ITEM_FILTER_TITLE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_TITLE_TextData",
+            "SourceString": "設定",
+            "LocalizedString": "設定"
+        }
+    },
+    "ITEM_FILTER_DESCRIPTION": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_DESCRIPTION_TextData",
+            "SourceString": "プレイヤーとパルがチェストに入れられるアイテムの種別を指定できます",
+            "LocalizedString": "プレイヤーとパルがチェストに入れられるアイテムの種別を指定できます"
+        }
+    },
+    "INTERACT_INDICATOR_CharacterMake": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "INTERACT_INDICATOR_CharacterMake_TextData",
+            "SourceString": "キャラクターの見た目を変更する",
+            "LocalizedString": "キャラクターの見た目を変更する"
+        }
+    },
+    "CHARACTER_MAKE_INTERACT_CHECK_DIALOG": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "CHARACTER_MAKE_INTERACT_CHECK_DIALOG_TextData",
+            "SourceString": "キャラクター編集中は無防備になります。\r\nよろしいですか？",
+            "LocalizedString": "キャラクター編集中は無防備になります。\r\nよろしいですか？"
+        }
+    },
+    "MAPOBJECT_OPERATION_FailedExceedMaxNumInBaseCamp": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "MAPOBJECT_OPERATION_FailedExceedMaxNumInBaseCamp_TextData",
+            "SourceString": "拠点内の最大建築数を超えているため、これ以上建築できません",
+            "LocalizedString": "拠点内の最大建築数を超えているため、これ以上建築できません"
         }
     }
 }

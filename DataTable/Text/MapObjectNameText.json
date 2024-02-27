@@ -2526,5 +2526,13 @@
             "SourceString": "カエルチェア",
             "LocalizedString": "カエルチェア"
         }
+    },
+    "MAPOBJECT_NAME_Altar": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Altar_TextData",
+            "SourceString": "パル召喚台",
+            "LocalizedString": "パル召喚台"
+        }
     }
 }

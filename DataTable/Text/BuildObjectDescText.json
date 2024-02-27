@@ -2222,5 +2222,13 @@
             "SourceString": "装飾用のかわいらしいイス。",
             "LocalizedString": "装飾用のかわいらしいイス。"
         }
+    },
+    "BUILDOBJECT_DESC_Altar": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "BUILDOBJECT_DESC_Altar_TextData",
+            "SourceString": "パルの描かれた石板を捧げることで\r\n強大なパルを拠点に召喚できる。\r\n戦闘に備え、十分な用意が必要だ。",
+            "LocalizedString": "パルの描かれた石板を捧げることで\r\n強大なパルを拠点に召喚できる。\r\n戦闘に備え、十分な用意が必要だ。"
+        }
     }
 }

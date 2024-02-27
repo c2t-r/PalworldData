@@ -9639,5 +9639,36 @@
         },
         "RectLightIntensity": 600.0,
         "RectLightSize": 1000.0
+    },
+    "WindChimes_Ice": {
+        "LocationOffset": {
+            "X": 394.25128,
+            "Y": 1040.7869,
+            "Z": 313.4189
+        },
+        "Rotator": {
+            "Pitch": 351.53723,
+            "Yaw": 249.16452,
+            "Roll": 0.0
+        },
+        "PointLightOffset_1": {
+            "X": 100.0,
+            "Y": 200.0,
+            "Z": 100.0
+        },
+        "PointLightIntensity_1": 10.0,
+        "PointLightSize_1": 1000.0,
+        "RectLightOffset": {
+            "X": 0.0,
+            "Y": 300.0,
+            "Z": 100.0
+        },
+        "RectLightRotator": {
+            "Pitch": 0.0,
+            "Yaw": -90.0,
+            "Roll": 0.0
+        },
+        "RectLightIntensity": 500.0,
+        "RectLightSize": 1000.0
     }
 }

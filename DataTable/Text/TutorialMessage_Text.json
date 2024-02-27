@@ -11,8 +11,8 @@
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_ITEM_1_TextData",
-            "SourceString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>キーで建築メニューを開く",
-            "LocalizedString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>キーで建築メニューを開く"
+            "SourceString": "<keyGuideIcon id=|OpenConstructionMenu|/>キーで建築メニューを開く",
+            "LocalizedString": "<keyGuideIcon id=|OpenConstructionMenu|/>キーで建築メニューを開く"
         }
     },
     "TUTORIAL_ITEM_2": {
@@ -27,8 +27,8 @@
         "TextData": {
             "Namespace": "DT_TutorialMessage_Text",
             "Key": "TUTORIAL_ITEM_3_TextData",
-            "SourceString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>キーの建築メニューから\r\nパルボックスを建て、拠点を建築する",
-            "LocalizedString": "<keyGuideIcon id=|OpenConstructionRadialMenu|/>キーの建築メニューから\r\nパルボックスを建て、拠点を建築する"
+            "SourceString": "<keyGuideIcon id=|OpenConstructionMenu|/>キーの建築メニューから\r\nパルボックスを建て、拠点を建築する",
+            "LocalizedString": "<keyGuideIcon id=|OpenConstructionMenu|/>キーの建築メニューから\r\nパルボックスを建て、拠点を建築する"
         }
     },
     "TUTORIAL_ITEM_4": {

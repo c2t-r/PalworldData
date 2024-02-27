@@ -4935,10 +4935,10 @@
             "LocalizedString": "金の冠の設計図4"
         }
     },
-    "ITEM_NAME_45264": {
+    "ITEM_NAME_Blueprint_Head002_5": {
         "TextData": {
             "Namespace": "DT_ItemNameText",
-            "Key": "ITEM_NAME_45264_TextData",
+            "Key": "ITEM_NAME_Blueprint_Head002_5_TextData",
             "SourceString": "金の冠の設計図5",
             "LocalizedString": "金の冠の設計図5"
         }
@@ -5733,6 +5733,102 @@
             "Key": "ITEM_NAME_Blueprint_Launcher_Default_5_TextData",
             "SourceString": "ロケットランチャーの設計図4",
             "LocalizedString": "ロケットランチャーの設計図4"
+        }
+    },
+    "ITEM_NAME_Blueprint_Musket_2": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_Musket_2_TextData",
+            "SourceString": "マスケット銃の設計図1",
+            "LocalizedString": "マスケット銃の設計図1"
+        }
+    },
+    "ITEM_NAME_Blueprint_Musket_3": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_Musket_3_TextData",
+            "SourceString": "マスケット銃の設計図2",
+            "LocalizedString": "マスケット銃の設計図2"
+        }
+    },
+    "ITEM_NAME_Blueprint_Musket_4": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_Musket_4_TextData",
+            "SourceString": "マスケット銃の設計図3",
+            "LocalizedString": "マスケット銃の設計図3"
+        }
+    },
+    "ITEM_NAME_Blueprint_Musket_5": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_Musket_5_TextData",
+            "SourceString": "マスケット銃の設計図4",
+            "LocalizedString": "マスケット銃の設計図4"
+        }
+    },
+    "ITEM_NAME_Blueprint_SingleShotRifle_2": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_SingleShotRifle_2_TextData",
+            "SourceString": "シングルショットライフルの設計図1",
+            "LocalizedString": "シングルショットライフルの設計図1"
+        }
+    },
+    "ITEM_NAME_Blueprint_SingleShotRifle_3": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_SingleShotRifle_3_TextData",
+            "SourceString": "シングルショットライフルの設計図2",
+            "LocalizedString": "シングルショットライフルの設計図2"
+        }
+    },
+    "ITEM_NAME_Blueprint_SingleShotRifle_4": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_SingleShotRifle_4_TextData",
+            "SourceString": "シングルショットライフルの設計図3",
+            "LocalizedString": "シングルショットライフルの設計図3"
+        }
+    },
+    "ITEM_NAME_Blueprint_SingleShotRifle_5": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_SingleShotRifle_5_TextData",
+            "SourceString": "シングルショットライフルの設計図4",
+            "LocalizedString": "シングルショットライフルの設計図4"
+        }
+    },
+    "ITEM_NAME_Blueprint_DoubleBarrelShotgun_2": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_DoubleBarrelShotgun_2_TextData",
+            "SourceString": "ダブルバレルショットガンの設計図1",
+            "LocalizedString": "ダブルバレルショットガンの設計図1"
+        }
+    },
+    "ITEM_NAME_Blueprint_DoubleBarrelShotgun_3": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_DoubleBarrelShotgun_3_TextData",
+            "SourceString": "ダブルバレルショットガンの設計図2",
+            "LocalizedString": "ダブルバレルショットガンの設計図2"
+        }
+    },
+    "ITEM_NAME_Blueprint_DoubleBarrelShotgun_4": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_DoubleBarrelShotgun_4_TextData",
+            "SourceString": "ダブルバレルショットガンの設計図3",
+            "LocalizedString": "ダブルバレルショットガンの設計図3"
+        }
+    },
+    "ITEM_NAME_Blueprint_DoubleBarrelShotgun_5": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Blueprint_DoubleBarrelShotgun_5_TextData",
+            "SourceString": "ダブルバレルショットガンの設計図4",
+            "LocalizedString": "ダブルバレルショットガンの設計図4"
         }
     },
     "ITEM_NAME_ClothArmor_2": {
@@ -6557,6 +6653,238 @@
             "Key": "ITEM_NAME_GatlingGun_TextData",
             "SourceString": "ガトリングガン",
             "LocalizedString": "ガトリングガン"
+        }
+    },
+    "ITEM_NAME_Accessory_Nonkilling": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Accessory_Nonkilling_TextData",
+            "SourceString": "手加減の指輪",
+            "LocalizedString": "手加減の指輪"
+        }
+    },
+    "ITEM_NAME_PalSummon": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_PalSummon_TextData",
+            "SourceString": "テリファーナの石板",
+            "LocalizedString": "テリファーナの石板"
+        }
+    },
+    "ITEM_NAME_Accessory_TalentChecker": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Accessory_TalentChecker_TextData",
+            "SourceString": "才能メガネ",
+            "LocalizedString": "才能メガネ"
+        }
+    },
+    "ITEM_NAME_Elixir_hp_01": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Elixir_hp_01_TextData",
+            "SourceString": "生命の秘薬",
+            "LocalizedString": "生命の秘薬"
+        }
+    },
+    "ITEM_NAME_Elixir_stamina_01": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Elixir_stamina_01_TextData",
+            "SourceString": "活力の秘薬",
+            "LocalizedString": "活力の秘薬"
+        }
+    },
+    "ITEM_NAME_Elixir_attack_01": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Elixir_attack_01_TextData",
+            "SourceString": "剛力の秘薬",
+            "LocalizedString": "剛力の秘薬"
+        }
+    },
+    "ITEM_NAME_Elixir_workspeed_01": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Elixir_workspeed_01_TextData",
+            "SourceString": "勤労の秘薬",
+            "LocalizedString": "勤労の秘薬"
+        }
+    },
+    "ITEM_NAME_Elixir_weight_01": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Elixir_weight_01_TextData",
+            "SourceString": "運搬の秘薬",
+            "LocalizedString": "運搬の秘薬"
+        }
+    },
+    "ITEM_NAME_Elixir_hp_02": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Elixir_hp_02_TextData",
+            "SourceString": "生命の神薬",
+            "LocalizedString": "生命の神薬"
+        }
+    },
+    "ITEM_NAME_Elixir_stamina_02": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Elixir_stamina_02_TextData",
+            "SourceString": "活力の神薬",
+            "LocalizedString": "活力の神薬"
+        }
+    },
+    "ITEM_NAME_Elixir_attack_02": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Elixir_attack_02_TextData",
+            "SourceString": "剛力の神薬",
+            "LocalizedString": "剛力の神薬"
+        }
+    },
+    "ITEM_NAME_Elixir_workspeed_02": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Elixir_workspeed_02_TextData",
+            "SourceString": "勤労の神薬",
+            "LocalizedString": "勤労の神薬"
+        }
+    },
+    "ITEM_NAME_Elixir_weight_02": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Elixir_weight_02_TextData",
+            "SourceString": "運搬の神薬",
+            "LocalizedString": "運搬の神薬"
+        }
+    },
+    "ITEM_NAME_Lotus_hp_01": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Lotus_hp_01_TextData",
+            "SourceString": "ライフ・ロータス（小）",
+            "LocalizedString": "ライフ・ロータス（小）"
+        }
+    },
+    "ITEM_NAME_Lotus_stamina_01": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Lotus_stamina_01_TextData",
+            "SourceString": "スタミナ・ロータス（小）",
+            "LocalizedString": "スタミナ・ロータス（小）"
+        }
+    },
+    "ITEM_NAME_Lotus_attack_01": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Lotus_attack_01_TextData",
+            "SourceString": "パワー・ロータス（小）",
+            "LocalizedString": "パワー・ロータス（小）"
+        }
+    },
+    "ITEM_NAME_Lotus_workspeed_01": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Lotus_workspeed_01_TextData",
+            "SourceString": "スピード・ロータス（小）",
+            "LocalizedString": "スピード・ロータス（小）"
+        }
+    },
+    "ITEM_NAME_Lotus_weight_01": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Lotus_weight_01_TextData",
+            "SourceString": "キャリー・ロータス（小）",
+            "LocalizedString": "キャリー・ロータス（小）"
+        }
+    },
+    "ITEM_NAME_PalItem_PinkRabbit": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_PalItem_PinkRabbit_TextData",
+            "SourceString": "ヒメウサのリボン",
+            "LocalizedString": "ヒメウサのリボン"
+        }
+    },
+    "ITEM_NAME_PalItem_MopBaby": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_PalItem_MopBaby_TextData",
+            "SourceString": "コモップの綿毛",
+            "LocalizedString": "コモップの綿毛"
+        }
+    },
+    "ITEM_NAME_PalItem_NegativeOctopus": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_PalItem_NegativeOctopus_TextData",
+            "SourceString": "ヤミイカの触手",
+            "LocalizedString": "ヤミイカの触手"
+        }
+    },
+    "ITEM_NAME_PalItem_RaijinDaughter": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_PalItem_RaijinDaughter_TextData",
+            "SourceString": "カミナラシの雲",
+            "LocalizedString": "カミナラシの雲"
+        }
+    },
+    "ITEM_NAME_PalItem_LizardMan": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_PalItem_LizardMan_TextData",
+            "SourceString": "ダリザードのトサカ",
+            "LocalizedString": "ダリザードのトサカ"
+        }
+    },
+    "ITEM_NAME_Flamethrower": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Flamethrower_TextData",
+            "SourceString": "火炎放射器",
+            "LocalizedString": "火炎放射器"
+        }
+    },
+    "ITEM_NAME_Lotus_hp_02": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Lotus_hp_02_TextData",
+            "SourceString": "ライフ・ロータス（大）",
+            "LocalizedString": "ライフ・ロータス（大）"
+        }
+    },
+    "ITEM_NAME_Lotus_stamina_02": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Lotus_stamina_02_TextData",
+            "SourceString": "スタミナ・ロータス（大）",
+            "LocalizedString": "スタミナ・ロータス（大）"
+        }
+    },
+    "ITEM_NAME_Lotus_attack_02": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Lotus_attack_02_TextData",
+            "SourceString": "パワー・ロータス（大）",
+            "LocalizedString": "パワー・ロータス（大）"
+        }
+    },
+    "ITEM_NAME_Lotus_workspeed_02": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Lotus_workspeed_02_TextData",
+            "SourceString": "スピード・ロータス（大）",
+            "LocalizedString": "スピード・ロータス（大）"
+        }
+    },
+    "ITEM_NAME_Lotus_weight_02": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_Lotus_weight_02_TextData",
+            "SourceString": "キャリー・ロータス（大）",
+            "LocalizedString": "キャリー・ロータス（大）"
         }
     }
 }
